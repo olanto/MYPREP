@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--
+ JG-2012
+ author: Jacques Guyot
+-->
+<properties>   
+<!--
+ Les paramètres suivants sont les paramètres fixes de la configuration
+-->    
+  
+     
+  <entry key="FOLDER_SEGMENTED">/home/olanto/MYCAT/corpus/txt</entry>
+  <entry key="FOLDER_COMPARABLE_RESULT">/home/olanto/MYPREP/COMP</entry>
+  <entry key="LIST_OF_COMPARABLE_LANG">ENFR</entry>
+  <entry key="IDX_DONTINDEXTHIS">/home/olanto/MYCAT/config/dontindexthiswords.txt</entry> 
+  
+ 
+</properties>
+

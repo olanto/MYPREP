@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--
+ JG-2012
+ author: Jacques Guyot
+-->
+<properties>   
+<!--
+ Les param tres suivants sont les parametres fixes de la configuration
+-->    
+  
+     
+  <entry key="FOLDER_SEGMENTED">C:/MYCAT/corpus/txt</entry>
+  <entry key="FOLDER_TMX">C:/MYPREP/TMX</entry>
+  <entry key="LIST_OF_BITEXT_LANG">ENFR ENES ENAR</entry>
+  <entry key="IDX_DONTINDEXTHIS">C:/MYCAT/config/dontindexthiswords.txt</entry> 
+  
+ 
+</properties>
+

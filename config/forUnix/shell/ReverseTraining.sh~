@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cp -r -f /home/olanto/MYPREP/SMT/$1/* /home/olanto/MYPREP/SMT/$2/
+cd /home/olanto/MYPREP/SMT/$2/
+mv corpus.so corpus.sota
+
+
