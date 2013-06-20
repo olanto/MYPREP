@@ -1,0 +1,974 @@
+﻿WIPO
+PLT/CE/V/5
+ORIGINAL: English/French
+DATE: December 19, 1997
+WORLD INTELLECTUAL PROPERTY ORGANIZATION
+GENEVA
+COMMITTEE OF EXPERTS ON THE PATENT LAW TREATY
+Fifth Session
+Geneva, December 15 to 19, 1997
+REPORT
+adopted by the Committee of Experts
+I.  INTRODUCTION
+1 The Committee of Experts on the Patent Law Treaty (hereinafter referred to as “the Committee of Experts”) held its fifth session in Geneva from December 15 to 19, 1997.
+2 The following States members of WIPO and/or the Paris Union were represented at the session: Algeria, Argentina, Armenia, Australia, Austria, Belarus, Belgium, Brazil, Cameroon, Canada, China, Costa Rica, Croatia, Czech Republic, Denmark, Egypt, El Salvador, Estonia, Finland, France, Gabon, Germany, Guatemala, Guinea, Hungary, India, Indonesia, Jamaica, Japan, Kenya, Kyrgyzstan, Latvia, Lesotho, Lithuania, Madagascar, Malawi, Malaysia, Mali, Malta, Mexico, Morocco, Netherlands, Norway, Portugal, Republic of Korea, Republic of Moldova, Romania, Russian Federation, Senegal, Singapore, Slovakia, South Africa, Spain, Sri Lanka, Sudan, Swaziland, Sweden, Switzerland, Thailand, Trinidad and Tobago, Ukraine, United Kingdom, United States of America, Uruguay, Venezuela, Viet Nam, Zambia and Zimbabwe (68).
+3 Representatives of the World Trade Organization (WTO), the European Communities (EC), the European Patent Office (Epo), the African Regional Industrial Property Organization (ARIPO) and the Organization of African Unity (OAU) took part in the session in an observer capacity.
+4 Representatives of the following non-governmental organizations took part in the session in an observer capacity: American Bar Association (ABA), American Intellectual Property Law Association (AIPLA), Asian Patent Attorneys Association (APAA), Association of Spanish Attorneys before International Industrial and Intellectual Property Organizations (AGESORPI), Brazilian Association of Industrial Property (ABPI), Brazilian Association of Industrial Property Agents (ABAPI), Chartered Institute of Patent Agents (CIPA), Committee of National Institutes of Patent Agents (CNIPA), Confederation of Indian Industry (CII), European Federation of Agents of Industry in Industrial Property (FEMIPI), Federal Chamber of Patent Attorneys (FCPA), Federation of German Industry (BDI), Institute of Professional Representatives before the European Patent Office (EPI), International Association for the Protection of Industrial Property (AIPPI), International Federation of Industrial Property Attorneys (FICPI), International Intellectual Property Association (IIPA), International League of Competition Law (LIDC), Japan Intellectual Property Association (JIPA), Japan Patent Attorneys Association (JPAA), Korea Patent Attorneys Association (KPAA) and Union of Industrial and Employers’ Confederations of Europe (UNICE) (21).
+5 The list of participants is contained in the Annex to this report.
+6 On behalf of the Director General of WIPO, Mr. François Curchod, Deputy Director General, opened the session and welcomed the participants.
+7 The Committee of Experts unanimously elected Mr. Graham Jenkins (United Kingdom) as Chairman and Mr. Sohan Lal (India) and Mr. Eugen Stashkov (Republic of Moldova) as Vice‑Chairmen.
+Mr.  Ludwig Baeumer (WIPO) acted as Secretary to the Committee of Experts.
+8 Discussions were based on the following documents prepared by the International Bureau of WIPO: “Agenda” (document PLT/CE/V/1), “Draft Patent Law Treaty and Draft Regulations” (document PLT/CE/V/2) and “Notes” (document PLT/CE/V/3).
+In this report, references to “the draft Treaty,” as well as to any given “draft Article” or “Article,” “draft Rule” or “Rule” or “Note” are references to the draft Treaty, to the given draft Article or Rule or to the given Note as contained in documents PLT/CE/V/2 and PLT/CE/V/3.
+9 The Secretariat noted the interventions made and recorded them on tape.
+This report summarizes the discussions without reflecting all the observations made.
+II.  GENERAL DECLARATIONS
+10 The Delegation of the United States of America stated that, since the last session of the Committee of Experts, it had sought to obtain the views of the public in its country on the topics under discussion.
+The organizations and individuals that did respond acknowledged a value in the exercise and encouraged the Delegation to pursue an agreement.
+The Delegation declared that, as it had indicated in the previous session of the Committee of Experts, it continued to believe that this effort should not stray into substantive areas.
+Agreement on purely formal matters was more readily obtainable among all countries and avoided a number of disputes in the substantive areas that are not amenable to compromise.
+The Delegation said that, while an attempt has been made to embrace the Patent Cooperation Treaty (PCT) requirements in the Patent Law Treaty, further consideration might be given to a merger of the Patent Law Treaty with an effort to modernize the PCT, taking into account the rapid evolution of information technologies.
+11 The Delegation of Germany stated that, in its opinion, the proposal was now sufficiently advanced to call for a diplomatic conference in the near future.
+Expressing its regrets that the proposal was limited to matters of form only, the Delegation said that it still was in favor of harmonization of substantive patent law issues and that it saw the harmonization of formalities as a first step.
+It recalled that the aim of the ongoing exercise was harmonization of formal requirements of patent law in order to facilitate the use of the patent system.
+The Delegation expressed concern that the proposal contained a long list of requirements which Contracting Parties were allowed to impose on applicants.
+12 The Delegation of Japan stated that, with regard to the handling of applications in electronic form, in view of various meetings which were currently held, to promote computerization on the basis of the current progress in information technology, it was necessary to hold intensive discussions on the rules of electronic filing and to continue reviewing the provisions in respect of filing an application in electronic form.
+In this respect, the Delegation considered Article 5(1)(b) to be in conformity with the current situation.
+The Delegation expressed its willingness to make positive contributions to rule‑making in such fields.
+Noting that this draft Treaty contained a number of provisions aimed at user‑friendliness (such as items on the request form, extension of a time limit and restoration of rights), the Delegation supported the idea of improving procedures from the perspective of user‑friendliness.
+However, it noted that these matters were based on users’ sense of responsibility and that discussions should be held taking account of the need to balance clerical workload among applicants, third parties and the Offices.
+The Delegation stated that the basic concept of conformity with the PCT could be supported.
+Recognizing that this draft Treaty contained some amendments in line with the PCT Rules revised at the PCT General Assembly in September, the Delegation stressed that continuous close communication between the two forums was indispensable for maintaining consistency between the two Treaties.
+Lastly, the Delegation expressed its hope to contribute to the discussions in such a manner which would be significant and meaningful to the early conclusion of the Treaty.
+13 The Delegation of Switzerland said that the high quality of the documents provided afforded a promise of excellent results being achieved in the course of the session.
+It emphasized once again the importance of the international harmonization of patent law, and the need to achieve favorable results as quickly as possible.
+It felt that the draft Treaty under consideration showed that substantial progress had been made, which should allow the work to be completed in the near future.
+By way of example it mentioned provisions that were of real interest to users, including the establishment of cautious links, that did not go beyond what was acceptable, with the PCT, and also the provisions concerning the extension of time limits, further processing or the restoration of a priority claim.
+The Delegation expressed the wish that the work in progress might be merely the first stage in anticipation of the subsequent harmonization of substantive patent law.
+14 The Delegation of Slovakia said that it had studied the draft documents and followed discussions very carefully.
+The Delegation expressed its full support for the harmonization of national patent laws.
+The national patent law of its own country had been drafted taking account of the Paris Convention for the Protection of Industrial Property and the Patent Cooperation Treaty.
+The Delegation said that the most important articles in its national patent law were in conformity with the draft Patent Law Treaty, but that in some cases the law was more strict.
+The Delegation said that it considered the harmonization of national laws to be very important, because most national applications were used as priority applications for international applications filed under the PCT.
+As a way for ensuring similar conditions for the filing of national applications which were later used as priority documents in international applications, the Patent Law Treaty was very important for all applicants.
+The Delegation concluded in announcing that, based on the implementation of the European Association Agreement, the Industrial Property Office of its country was going to amend the national patent law in the coming year, thereby taking account of the draft Patent Law Treaty.
+15 The Delegation of the Republic of Korea welcomed the revised draft Treaty as a means to harmonize patent law requirements at the international level and hoped that the efforts by all the delegations to reach a mutual agreement would result in an excellent harmonization treaty.
+It pointed out, however, that the draft Treaty should take into account the benefits in the relationship between the three parties, namely, the user, the third party, and the Patent Office, in order to maintain an appropriate balance in the enforcement of the Patent Law Treaty.
+Too much emphasis on one party could be detrimental to the others.
+In this respect, the Delegation expressed its concern about some provisions such as Articles 4(3)(c) and (4)(a), 5(5)(b), 6(1)(a) and 14(1)(a), which might benefit users too much.
+The Delegation noted that, having fully discussed the issues raised at the previous session of the Committee of Experts, it had arrived at the final stage for the conclusion of this Treaty.
+In this connection, the Delegation expressed its hope to resolve the different views among the delegations by mutual agreement at this session of the Committee of Experts and announced that it would do its best to reach consensus and a conclusion of the Treaty.
+16 The Delegation of Ukraine noted the importance of finalization of the text of the draft Treaty for the diplomatic conference.
+It praised the International Bureau for the excellent quality of the texts and stressed the significance of the draft Treaty for Ukraine, which was involved in the process of revision of its industrial property legislation.
+17 The Delegation of Canada stated that it continued to believe that the international harmonization of patent laws and practices was an important objective and that harmonization would be of significant benefit to inventors and patent applicants around the world.
+It therefore supported the work of the Committee of Experts, although it emphasized that it would very much like to see progress made on substantive patent law harmonization issues.
+In the view of the Delegation, the Committee had made very good progress in developing a draft text for the Patent Law Treaty, and it felt that in most areas one was getting close to an acceptable final text.
+However, it had concerns about some of the details of the text, on which it would comment during the course of the meeting.
+The Delegation also noted that the implications of some portions of the draft would not be fully clarified until it had a clearer idea of the precise amendments that would be made to the PCT Regulations to ensure an appropriate inter-linkage between the Patent Law Treaty and the PCT.
+In this respect, the Delegation reiterated the comments which it had made at the last meeting that, although it supported the principle of aligning the formal requirements under the Patent Law Treaty and the PCT, it found the currently proposed link between the Patent Law Treaty and the PCT to be less than completely transparent.
+In the view of the Delegation, the proposed inter-linkage, and the PCT Regulations, in particular, were becoming too complicated.
+It believed that in this area, and in other areas of patent law harmonization, a special effort should be made to try to develop approaches that were simple, straightforward and easily understandable.
+18 The Delegation of the Netherlands stated that its country took great interest in concluding this Treaty because it thought that it was most important for applicants not to be surprised by different formal requirements in various countries.
+The Delegation believed that a stage had been reached where it should be possible to come to a conclusion, and it expressed its trust that, under the guidance of the Chairman, this aim could be achieved.
+19 The Delegation of France hoped that the desire of Member States to harmonize patent law might be reflected not only in their going faster, but also in their being able to go further.
+It did not want the prime reason for harmonization of patent law, namely the harmonization of matters of substance, to be overlooked.
+The Delegation had always supported the draft (PLT) Treaty in that it responded to the desires and needs of applicants, and pointed out that a certain number of provisions were very largely consistent with that response.
+That was true in particular of the provisions on the restoration of rights and, provided that certain points were or would eventually be clarified, those concerning priority claims.
+It favored the links established with the PCT, and especially welcomed the provisions of Article 5 of the draft Treaty.
+The Delegation said that certain clarifications would be necessary, notably in Article 2(3) on special features of certain types of application and patent, on the starting point of the time limit when an Office was unable to make contact with the applicant, on Article 5(5)(b) with respect to translations and on Articles 6(2), 13(1) and 14(5)(b).
+20 The Delegation of Australia stated that its country had long been a supporter of harmonization in the belief that the benefits which were flowing from the intellectual property system were enormous.
+Referring to the statement by the Delegation of Canada, it expressed its wish to proceed with some of the substantive issues in the not too distant future.
+The Delegation declared that, during the previous week, the administration of its country had announced a reduction of registration fees of 10 percent on average.
+It believed that this was a step in the right direction, and it hoped that the Patent Law Treaty considerations would allow countries to go further than that.
+21 The Delegation of Indonesia shared the Committee’s views that a patent application should be in line with the provisions of the PCT since it was a model which could be generally accepted.
+It therefore supported the draft Treaty, and its completion by the Committee in view of simple and flexible procedures, low processing costs, and greater clarity in comprehension for all parties.
+Furthermore, the Delegation hoped that this meeting could come up with a further concrete formulation so that the preparatory work for a diplomatic conference to adopt the draft Treaty could be completed next year.
+22 The Delegation of Trinidad and Tobago expressed its appreciation for the tremendous efforts which had been made by the Committee of Experts to arrive at the goal of patent law harmonization.
+Such harmonization was moving forward through treaties developed in other fora and aimed at facilitating international trade.
+In this context, Trinidad and Tobago had recently brought into force a new patent legislation that aligned itself more closely to the laws of many of the States represented at the meeting.
+The Delegation regretted that it had not been possible to discuss harmonization of substantive matters more fully in previous meetings.
+The advantages of the harmonization of formal matters, both to users and to offices, however, should not be undervalued.
+Like other members of the PCT, Trinidad and Tobago welcomed efforts to align the draft Patent Law Treaty with the PCT and continuing efforts at simplifying procedures under both Treaties.
+The Delegation expressed its view that such efforts should also reduce the costs of patenting internationally and allow all to benefit from the tremendous, creative effort that was currently discouraged by the existing cost levels and complexities of the international patent system.
+Therefore, the Delegation assured the Committee of Experts of its continued support and cooperation in this difficult task of bringing together the many different views represented.
+23 The Delegation of Uruguay expressed its support for the work being undertaken to bring about the harmonization of formalities in the patent law system.
+It considered continuing harmonization efforts to be of benefit to the users of the system.
+24 The Delegation of Venezuela expressed its support to continue the work for the conclusion of the patent law treaty.
+It was in favor of convening a diplomatic conference as soon as the discussions on the provisions were finished.
+It acknowledged the usefulness of the Treaty in the harmonization of the processing of applications in accordance with international standards and in facilitating international filing of applications from Venezuela.
+The Treaty would have a complementary role for provisions on patents in the decisions of the Andean Community, and it would favor their further development.
+It declared that Venezuela was working for the adoption of a law concerning the accession to the PCT and hoped that this effort would be completed at the end of 1998, or beginning of 1999, so that both Treaties would enter into force in Venezuela.
+25 The Delegation of China said that, in order to be more user‑friendly and to better protect the legitimate rights of the applicants and inventors, the requirements and procedures for applicants to file applications abroad needed to be as simple and uniform as possible.
+In the era where filing of applications in electronic form was already inevitable and had great advantages over the traditional practice, it considered that the conclusion of the Patent Law Treaty had great significance from the economic as well as practical point of view.
+The Delegation, therefore, supported, as it always did, the early conclusion and entering into force of the Treaty.
+It noted that some efforts should be made to simplify the present draft since it was already more complicated than expected.
+In respect of existing Chinese laws and practice, most of the provisions in the draft Treaty—since they were optional to Contracting Parties—did not pose a great problem, or only required minor changes.
+However, as there were some provisions in the draft Treaty whose implementation would require China to change its law and practice fundamentally, the Delegation would give its comments and suggestions, during the course of the meeting, on the principle of being user‑friendly and beneficial to the administration of the Office and to its efficient operation.
+26 The Delegation of the United Kingdom welcomed and supported the draft Patent Law Treaty as a means for harmonizing patent formalities and requirements worldwide in a deregulated and user‑friendly manner.
+However, it found a few aspects of the draft Treaty inconsistent with some user‑friendly aspects of United Kingdom practice.
+Therefore, it announced that it would comment on these aspects at the appropriate time during the discussions.
+27 The Delegation of India expressed its hope that the discussions, under the chairmanship of Mr. 
+Jenkins, would be very fruitful, and also thanked the delegations present for electing Mr. 
+Sohan Lal as one of the vice‑chairmen for this session.
+It announced that it would like to intervene when Articles 5 and 6 would be discussed.
+28 The Delegation of Sudan endorsed, in principle, the conclusion of the Treaty.
+The delegation referred to the provision on fees in Article 5(4), noting that the fees under the PCT were reduced by 75% for nationals of developing countries, and suggested that this Treaty should also provide for the same reduction.
+29 The Delegation of South Africa stated that the draft Treaty was particularly significant for South Africa, which was currently in the process of concluding its arrangements for its accession to the PCT.
+It supported the harmonization which would be achieved by this Treaty and would greatly facilitate users to file patent applications.
+Furthermore, it expressed its desire to see the harmonization of substantive issues which would go beyond the scope of the present Treaty.
+30 The Delegation of Kenya reaffirmed its support for the efforts of the Committee of Experts to achieve a Treaty on patent law harmonization, considering that the applicants, the representatives and those interested in patent protection had advantages in simplified formalities under this Treaty.
+However, the Delegation said that the relationship between certain Articles of the draft Treaty, particularly Articles 2, 13, 14 and 15, and the corresponding Articles of the PCT, had not been set forth with sufficient clarity.
+The Delegation expressed the hope that the Committee of Experts would discuss these Articles and similar ones further during the session.
+31 The Representative of the European Patent Office (EPO) said that, in comparing the present draft with the one which had been discussed during the first session of the Committee of Experts, considerable progress had been made.
+At the beginning of the work, it might have been felt that the proposed Treaty contained not enough substantive provisions in order to gain practical importance.
+However, in the light of the text which was now before the Committee, there was no doubt that this Treaty had the potential to considerably facilitate the life of inventors.
+The new draft Patent Law Treaty already now had become a text of reference for those responsible for adapting and reforming the patent law of their countries.
+As far as the European Patent Convention was concerned, among the possible points for revision which were considered by the Administrative Council, several provisions could be directly referred to the Patent Law Treaty.
+Although the Representative stated that various provisions of the draft needed to be carefully considered once more, he believed that the text could be finalized soon and hoped that the simplification of formalities by the Patent Law Treaty would be the first step to further substantive harmonization.
+32 The Representative of ARIPO said that, although ARIPO was attending the Committee of Experts on the Patent Law Treaty for the first time, the Organization had followed the deliberations of the Committee in all the previous sessions with interest, in particular, in the matters that had been included in the draft Treaty.
+The Representative also expressed its interest in provisions that enabled regional organizations to become members of the Treaty, as well as provisions to conform with the PCT, since ten member States of ARIPO were members of the PCT.
+Furthermore, the Representative announced that the provisions of this draft Treaty would be used as a point of reference to review ARIPO’s Harare Protocol on patents and industrial designs.
+The process had already begun when ARIPO’s Administrative Council, during its twenty‑first session in Maseru (Kingdom of Lesotho) three weeks ago, started to amend the Harare Protocol in order to provide for a Board of Appeal.
+The Secretariat of ARIPO was in the process of looking at other provisions of the Harare Protocol to see how it could be further harmonized.
+The Representative of ARIPO stated that, since harmonization was an objective of ARIPO which was enshrined in Article III(a) of the Lusaka Agreement on the Creation of ARIPO in 1976, it generally supported all efforts towards harmonization as evidenced by the draft Treaty.
+33 The Representative of the American Intellectual Property Law Association (AIPLA) stated that his organization fully supported the ongoing harmonization work and that this work should be concluded as rapidly as possible.
+However, he said that there was uncertainty as to the final form in which the draft Patent Law Treaty was going to be adopted, and he asked the International Bureau for clarification of this matter.
+34 In reply to the question of the Representative of the AIPLA, the International Bureau explained that the final form in which the draft Patent Law Treaty would be adopted had not been decided yet.
+It informed the Committee of Experts that informal discussions, convened by the Chairperson of the WIPO General Assembly, would be held in order to consider proposals for the Program and Budget for 1998–99 and—in this connection—to consider the most appropriate form of adoption for the contents of the draft Patent Law Treaty.
+The outcome of the informal discussions would form the basis for a relevant proposal in the draft Program and Budget for 1998–99 which would then be presented to the WIPO Governing Bodies for adoption in March 1998.
+35 The Representative of the American Bar Association (ABA) recalled that, with more than 14,000 members, this organization probably had the largest membership of any non‑governmental organization in the field of intellectual property.
+As regards the draft Patent Law Treaty, the Representative raised two points.
+First, together with the Delegation of the United States of America, ABA felt that harmonization of national patent laws should be limited to formal matters.
+Once agreement was achieved on formalities, perhaps substantive provisions could be dealt with.
+As a second point, the Representative dealt with the suggestion of merging the draft Patent Law Treaty with the PCT and stated that the ABA was opposed to such a solution.
+Referring to the acceptance speech of Dr. 
+Kamil Idris as Director General of WIPO, the Representative said that some thought should be given in order to find a way of reaching international harmonization without going through lengthy and burdensome international and national procedures.
+36 The Representative of the International Association for the Protection of Industrial Property (AIPPI) supported the harmonization efforts resulting from the draft Treaty, even if the extent of the harmonization was only limited.
+He mentioned that the main objective was for the draft to afford foreigners easier access to industrial property rights in other countries.
+Like the Delegates of Burkina Faso and Peru, he subscribed to paragraph 120 of the report of the fourth session of the Committee of Experts, according to which foreigners had to be able to rely on agents who were competent professionals.
+It seemed unreasonable, in his opinion, to encourage the formation of teams of qualified representatives in developing countries and at the same time to deny the States the right to reserve the filing of translations for such representatives, as it would probably be one of their more important tasks.
+He therefore asked for the prohibition formulated in Article 7(2)(i) to be reconsidered.
+37 The Representative of the Institute of Professional Representatives before the European Patent Office (EPI), the European Federation of Agents of Industry in Industrial Property (FEMIPI) and the Union of Industrial and Employers’ Confederation of Europe (UNICE) said that the three organizations represented by him fully supported the draft Patent Law Treaty and especially those provisions which were in favor of applicants.
+All three organizations regarded this Treaty as an important step, but were hoping that substantive matters could also be harmonized in the near future in order to facilitate the life of applicants.
+38 The Representative of the Japan Intellectual Property Association (JIPA) expressed general support for the draft Treaty, although it was felt that some draft Articles were either too strict for applicants or ill‑balanced.
+He said that, in Japan, applicants and the Japanese Patent Office had been exchanging information in the electronic form since 1990.
+As most of the applicants felt it far more convenient to use an electronic filing system, the Representative of JIPA hoped that this Treaty would facilitate in many Contracting Parties the introduction of such a system.
+He hoped that the Patent Law Treaty covering formalities would enter into force at an early stage, and that this Treaty would be a starting point for a discussion on substantive issues of patent law harmonization.
+39 The Representative of the Korean Patent Attorneys Association (KPAA) said that, although this was the first opportunity for his organization to express an opinion in the Committee of Experts, he had kept his eyes open and was well aware of the discussions that had taken place in the previous meetings.
+He agreed with the main purpose of harmonizing the laws under this Treaty, which was to simplify the procedures and to reduce the costs for the benefit of the users.
+He stressed the importance of the enforcement of intellectual property laws in the developing countries and pointed out that, without supporting the experts especially in such countries, it would be impossible to enforce the laws properly in those countries.
+He therefore hoped that, for the benefit of users, the same consideration would be given to raise and foster the experts in the developing countries.
+40 The Representative of the Federation of Industrial Property Attorneys (FICPI) recalled that his organization had followed for more than 10 years, with great interest, the efforts and endeavors of WIPO to reach consensus on patent law harmonization.
+He said that his organization would have liked a more comprehensive harmonization covering those areas of substance which no longer looked overly controversial.
+However, a treaty on formalities as a first step was certainly better than no step towards harmonization.
+The Representative said that his organization regarded certain items of the draft Patent Law Treaty with growing concern.
+First, FICPI welcomed the liberalism in regard of restoration of convention priority, but found it difficult to understand why Contracting Parties should be free to exclude restoration of rights in the case of relatively simple matters such as the payment of maintenance fees, the filing of a request for search and examination or the filing and translation of original patents.
+Second, FICPI welcomed the concept of allowing further processing in order to cure unintentional non‑compliances with time limits, but was concerned that the use of the further processing option might create intervening rights of third parties, which it believed difficult to accept.
+Third, FICPI was particularly concerned about what it saw as a permanently growing and unsystematic list of acts for which Contracting Parties would no longer be free to make professional representation mandatory.
+It seemed to be more honest to leave the decision to each Contracting Party whether it wanted to make representation mandatory in total or not.
+41 The Representative of the Confederation of Indian Industry (CII) said that, as India was a signatory to the multilateral trade regime, it was committed to its international obligations.
+She explained that the CII was performing an awareness campaign on various international treaties in the area of intellectual property.
+She also expressed the concern of the CII on the translation costs as part of the cost of patenting.
+42 The Representative of the Japan Patent Attorneys Association (JPAA) expressed support for maximum conformity with the PCT, which had an important function and was a model for a system which would enable users to prepare an application in single format.
+Concerning the provisions on electronic filing, the Representative said that, based on his experience, such filing was effective for communications between the patent office and patent attorneys, and that he hoped that such filing would become widely accepted in the light of technology development.
+He supported the new Articles providing for an extension of time limits, the restoration of rights and the restoration of priority claim.
+Noting that those provisions were minimum requirements, the Representative said that this flexible approach would be favorable to obtaining patent protection.
+With respect to representation, the Representative reiterated that, due to the barrier of language, professional knowledge of practice was considered to be essential in order to obtain sufficient patent protection.
+He expressed the view that a translation of an application was as important as an application first filed with the Office, since the scope of claims was defined by that translation.
+From this point of view, he said that Article 7(2)(a)(i) and (ii) were not acceptable.
+III.  PROVISIONS OF THE DRAFT TREATY AND OF
+THE DRAFT REGULATIONS UNDER THE DRAFT TREATY
+Draft Article 1: Abbreviated Expressions
+43 Items (i) to (iv).
+These items were approved as proposed.
+44 Item (v).  In a response to a suggestion by a delegation that the definition of “communication” should be limited to those communications which are either in writing or capable of being reduced to writing, the International Bureau explained that this would not have the effect of preventing Contracting Parties from accepting oral communications but rather the effect of leaving complete freedom with respect to oral communications.
+In conclusion, this item was approved as proposed.
+45 Item (vi).
+A suggestion that the terms “and including” be inserted after “the Office, relating to” in line 2 was accepted.
+Another suggestion to insert “by that Office” in line 4, after the first word “recorded,” was also accepted.
+Subject to these two amendments, this item was approved as proposed.
+46 Item (vii).
+This item was approved as proposed.
+47 Item (viii).
+It was suggested to examine whether this item could be broadened by including the term “other person submitting, or entitled to prosecute, the application.”
+It was agreed that such broadening would be acceptable only if it could be applicable throughout the whole text.
+Subject to this review, the item was approved as proposed.
+48 Item (ix).
+The Delegation of the United States of America suggested that the scope of the definition of the “owner” be expanded to include the “owner of the application or the patent.”
+In response, the International Bureau explained that a separate indication of the “applicant” was necessary, for example, to refer to the person applying for a patent at the time when the application was filed.
+Accordingly, it was agreed to review each case in the document where the term “owner” appears to see if the suggested change would address the perceived problem.
+Subject to this review, the item was approved as proposed.
+49 Item (x).  A representative of a non‑governmental organization indicated that the French terms “cabinet d’avocats” and “cabinet de conseils en propriété industrielle” were not as broad as the corresponding English terms “firm or partnership.”
+Subject to re‑examining the terms in the French text, this item was approved as proposed.
+50 Items (xi) and (xii).
+These items were approved as proposed.
+51 Item (xiii).
+This item remains reserved for a future review.
+52 The Delegation of the United States of America indicated that some definitions under the draft Patent Law Treaty and the Patent Cooperation Treaty (PCT) were not identical, and suggested that language should be used that would apply to certain terms used in both the draft Patent Law Treaty and the PCT.
+The International Bureau responded that certain terms used in the PCT carried specific meanings, for example, the term “request,” but that all the terms used in the two treaties would be reviewed.
+53 The Delegation of the United States of America also raised a question on Note 1.02, namely, whether the Treaty applied to conversion applications as well as to the applications for conversion.
+It was agreed that this matter would be studied by the International Bureau.
+Draft Rule 1: Abbreviated Expressions
+54 This Rule was approved as proposed.
+Draft Article 2: Applications and Patents to Which the Treaty Applies
+55 Paragraph (1)(a).
+In response to a request for clarification by a delegation, the International Bureau stated that a “Contracting Party” referred only to States or intergovernmental organizations.
+Following a question raised by the Delegation of the Russian Federation, the International Bureau explained that the Treaty would apply within a Contracting Party whatever the nationality of the applicant or owner.
+56 A suggestion by the Representative of the EPO to delete, in the last part of subparagraph (a), the phrase “and to patents granted with effect for a Contracting Party,” was not accepted.
+The International Bureau explained that the intended result—namely, that certain procedures of the regional offices, such as the opposition proceedings before the EPO, would not be governed by the Patent Law Treaty unless the regional offices themselves were parties to the Treaty—would be the same whether the phrase was included or excluded.
+Furthermore, one delegation, in support of the explanation given by the International Bureau, stated that the phrase was necessary for the case where a regional office was not a Contracting Party to the Patent Law Treaty.
+Subparagraph (a) was approved as proposed.
+57 The representative of a non‑governmental organization expressed a concern that Note 2.01 may not be complete in respect of the question raised by the Representative of the EPO and suggested that the Note include a statement to the effect that the Patent Law Treaty would apply to all patents effective in a country which was a Contracting Party to the Patent Law Treaty, whether those patents were granted by its national office or through the regional office, of which such country was a member.
+It was agreed that the International Bureau would review the Note.
+58 Paragraph (1)(b).
+One delegation requested a clarification as to whether “innovation patents” would fall under subparagraph (1)(a) or would be excluded under subparagraph (b).
+The International Bureau explained that patents, as referred to in Article 27(1) of the Agreement on Trade‑Related Aspects of Intellectual Property Rights (TRIPS Agreement), would be covered by the Patent Law Treaty.
+Additionally, in the context of the PCT, such questions were also resolved by determining whether the protection provided for such a “patent” was protection for an invention.
+This subparagraph was further discussed in conjunction with paragraph (3).
+59 Paragraph (2), item (i).
+The majority of the delegations expressed support for the inclusion of this provision in the Treaty and for the deletion of the square brackets, whereas two delegations suggested that the text be deleted.
+It was agreed to retain the text.
+60 Item (ii).
+The Delegation of Australia indicated that the definition of the terms “once processing has started” differed in various Offices and suggested a replacement by the wording “once the requirements of Article 22(1) or 39(1) of the Patent Cooperation Treaty have been met.”
+In response to an inquiry as to the applicability of the suggestion to a non‑PCT Contracting State, the International Bureau stated that the provision would not apply to such States.
+The Delegation of the United States of America reserved its position to this suggestion.
+Otherwise, this item was approved as proposed.
+61 Paragraph (3).
+The majority of the delegations expressed support for this paragraph, but suggested drafting changes.
+Several delegations suggested that the references to certain types of applications in paragraph (3) should be incorporated under subparagraph (1)(b) so that the draft Treaty would not apply to any application which could not be filed as an international application under the PCT or to any patent which resulted from such an application.
+Others suggested that, instead, the titles mentioned in subparagraph (1)(b) should be moved to paragraph (3) and that subparagraph (1)(b) should be deleted.
+It was agreed that the International Bureau should study those suggestions in detail.
+Draft Article 3: National Security
+62 This Article was approved as proposed.
+Draft Article 4: Filing Date
+63 Paragraph (1)(a), chapeau.
+In response to a proposal by one delegation that the filing date of an application should be no later than the date on which its Office has received the required elements, the International Bureau observed that this would be inconsistent with the principle that the requirements under paragraph (1) constituted an absolute standard.
+The representative of one non‑governmental organization observed that it was not stated expressly that the requirements under paragraph (1) constituted an absolute standard.
+64 In response to an observation by another delegation, it was agreed that the International Bureau should make it clear in the Notes that the date on which the Office received the required elements could be after the date of actual receipt where such receipt occurred after the hours the Office was open for the filing of applications or on a day on which the Office was closed.
+Subject to this observation, the chapeau was approved as proposed.
+65 Item (i).  In response to a suggestion by one delegation and the representative of a non‑governmental organization that, for conformity with PCT Article 11(1)(a), the words “express or implicit indication” be deleted, the International Bureau explained that it was intended that this item be more liberal than the PCT where the indication referred to in item (i) was contained in the PCT Request Form.
+Following this discussion, this item was approved as proposed.
+66 Item (ii).
+A proposal by one delegation that this item should be restricted to indications in respect of the applicant was opposed by two other delegations and a representative of one intergovernmental organization.
+Following this discussion, this item was approved as proposed.
+67 Item (iii).
+In response to an observation by one delegation that it might not be possible for the Office to determine whether text in a language not accepted by the Office constituted “a part which on the face of it appears to be a description,” the International Bureau observed that a filing date accorded to an application which contained no description would not be of any practical value and that therefore the situation would be self‑regulatory.
+The Delegation of the United States of America expressed a reservation on this item, since the item would not permit a Contracting Party to accord a filing date to an application containing a drawing without any description.
+The International Bureau indicated that it would study this issue.
+68 Following some discussion, during which the International Bureau observed that this item was identical to PCT Article 11(1)(iii)(d) and three delegations expressed their support for the item, this item was approved as proposed, subject to additional reservations by the Delegations of Uruguay and Venezuela.
+69 Item (iv).
+In response to a suggestion by one delegation, it was agreed that the International Bureau should clarify the relationship between the requirements under items (iii) and (iv).
+70 In response to a comment by one delegation and by the representative of one non‑governmental organization, the International Bureau explained that the wording “any one language accepted by the Office” was based on the suggestion made at the fourth session of the Committee of Experts, as reported in paragraph 83 of document PLT/CE/IV/4, that the corresponding wording in Article 5(3) be amended to “any one language admitted by its Office,” to take account of the requirements regarding the use of languages in certain States.
+It was agreed that the International Bureau would review this language.
+The representative of one non‑governmental organization queried whether such a requirement might contravene the “national treatment” and/or “most favored nation” provisions under Articles 3 and 4 of the TRIPS Agreement.
+71 New item.  Following an intervention by the representative of a non‑governmental organization noting with approval that paragraph (1)(a) contained no requirement that the application should contain a part which on the face of it appears to be a claim or claims, as required by PCT Article 11(1)(iii)(e), the Delegation of Spain proposed that such a requirement should, in fact, be included as a new item.
+This proposal was not supported by any delegation.
+72 Paragraph (1)(b).
+In response to a question raised by one delegation as to whether an error in the translation of a description in a language not accepted by the Office could be corrected, the International Bureau explained that this was a matter for national law under Article 12.
+In response to a further question by that delegation, the International Bureau also expressed the view that, since the disclosure of any subject‑matter contained in claims filed in a language not accepted by the Office would be taken into account, the claims as submitted on the filing date, even if they were not in a language accepted by the Office, would control.
+Subject to these explanations, the provision was approved as proposed.
+73 Paragraph (2)(a).
+This provision was approved as proposed.
+74 Paragraph (2)(b).
+In the course of observations by three delegations on the problems of identifying whether the application contained drawings which, in fact, were not included in the application, it was suggested that the words “the Office determines that” should be added after “Where” in line 1.
+Subject to this suggestion, this provision was approved as proposed.
+75 Paragraph (3)(a).
+The Delegation of the Russian Federation commented that the filing date was established differently in paragraph (3)(a) and (b).
+In addition, it noted that paragraph (3)(a), (b) and (c) were not mutually interconnected with respect to “subsequent fulfilment of the requirements.”
+The delegation also proposed that the word “subsequently” should be deleted in lines 4 and 7.
+76 The Delegation of China stated that it reserved its position on this provision since, under its law and the practice of its Office, an application which did not comply with the filing date requirements was unacceptable to the Office and the applicant had to re‑submit the application.
+77 Paragraph (3)(b).
+One delegation suggested that the time limit referred to in the last sentence of the provision should be harmonized in the Regulations to, for example, one month, instead of being fixed by the Office.
+The Delegation of the Russian Federation proposed that, in accordance with its comments on subparagraph (a), the contents of paragraph (3)(b) and (c) should be transferred to a paragraph separate from subparagraph (a); in addition, the word “subsequently” should be deleted in lines 7 and 12.
+78 The representative of an intergovernmental organization suggested that the applicant should be informed of the filing date which would be accorded under the first sentence.
+In response to a proposal by a non‑governmental organization that the provision of the third sentence should be made mandatory, the International Bureau explained that, as stated in Note 4.22, this was not possible because non‑examining Offices would not be able to determine whether or not the later furnished drawings contained new matter.
+79 Paragraph (3)(c).
+A proposal by one delegation that this provision be deleted was opposed by seven delegations and the representatives of two non‑governmental organizations.
+A suggestion by the representative of an intergovernmental organization that this provision related to the correction of an error and should be transferred to a rule under Article 12 was opposed by the representatives of two non‑governmental organizations.
+80 A proposal by one delegation that a time limit should be included was opposed by one other delegation and the representatives of two non‑governmental organizations on the grounds that the furnishing of the description or drawing concerned may take place during the course of substantive examination.
+81 Following some discussion, it was agreed that the International Bureau should review the wording of the provision having regard to the above discussions and to suggestions that “When” in line 1 should be amended to “Where,” that the term “where applicable” in line 2 should be clarified, for example, by replacing it by the words “unless otherwise indicated by the applicant,” that the words “having been” should be added before “contained” in line 2, that the Office should be permitted to require that a copy of the earlier application and a translation be furnished and that the provision should be limited to cases involving inadvertent error or unintentional omissions.
+The Delegation of France also expressed the view that the French text was not as precise as the English text.
+82 Paragraph (4).
+In response to a question by the International Bureau, six delegations and 10 non‑governmental organizations expressed support for the retention of this paragraph; four delegations were in favor of its deletion.
+One delegation expressed the view that no amendment of the application should be permissible before the copy of the earlier application had been furnished.
+83 Paragraph (4)(a), chapeau.
+In response to a question by one delegation, and a suggestion by another delegation that the provision be restricted to the “same claimed invention,” the International Bureau and the representative of one non‑governmental organization explained that the description and drawings in the earlier application must sufficiently disclose the invention claimed in the application containing the reference, that is, there need be common subject matter, but that the invention claimed need not be the same.
+In view of this, that representative suggested that the words “of the same invention” were not required.
+84 One delegation suggested that the provision be further modified to cover the case where there was at least one common applicant.
+In addition, the representative of a non‑governmental organization suggested that the provision could be restricted to cases in which the earlier application had been filed in a third country.
+85 Item (i).  Following some discussion, it was agreed that the International Bureau should review the wording of this item to take account of suggestions by one delegation that “or” in line 1 be amended to “and,” and by two delegations that an application need not be furnished if the Office had access to a copy of the earlier application.
+86 Item (ii).
+Two delegations suggested that a Contracting Party should be permitted to dispense with the requirement that the copy of the earlier application be certified.
+Another delegation suggested that a Contracting Party which required a certified copy should be permitted to require, in accordance with Article 5(5)(a), that such certified copy be accompanied by a certificate from the same Office showing the date of filing of the earlier application.
+87 Paragraph (4)(b).
+One delegation, supported by another delegation, proposed that the words “any Contracting Party may provide that” be added before “the application” in line 2, or that some other change be made in order to make this provision more flexible.
+88 Paragraph (5).
+Following an explanation by the International Bureau, it was agreed that this item should be retained in square brackets pending a decision on the inclusion in the PCT Regulations of a provision permitting a divisional application to be filed as an international application.
+Draft Article 5: Application
+89 Paragraph (1)(a).
+The Delegation of the United States of America stated that it was still unable to accept harmonization of provisions on unity of invention under the proposed Treaty and would seek accommodation in this respect, for example, by way of a reservation.
+90 The Delegation of Canada stated that, although it was in favor of this provision in principle, it could not reach a final position until the PCT Regulations had been finalized pursuant to the amendments proposed thereto.
+91 In response to a question by the Delegation of India, the International Bureau observed that, as explained in Note 5.02, the requirement allowed under Article 29.2 of the TRIPS Agreement and the requirements under the law of India in relation to the disclosure of search results in related applications and patents did not relate to the “form and contents of an application” under paragraph (1)(a).
+92 Subject to the above statements, the provision was approved as proposed.
+93 Paragraph (1)(b).
+The Delegation of the Russian Federation proposed that the second sentence of this provision be deleted and a new paragraph be added, as follows:
+“[Form of Filing] (a) Each Contracting Party shall allow the filing of applications in paper form.
+(b) Each Contracting Party may allow the filing of applications in electronic or other form.”
+94 Another delegation, supported by two other delegations, stated that it was necessary to identify the issues involved under this provision.
+In particular, the Regulations should not oblige any Contracting Party to accept the electronic filing of applications nor allow it to exclude the filing of applications in paper form with its Office.
+In addition, any provision which allowed any Contracting Party accepting the electronic filing of applications to exclude the filing of applications in paper form should require unanimous consent.
+However, another delegation suggested that, in the future, it might be possible for certain Offices to dispense with filings in paper form and that the Regulations should be sufficiently flexible to permit this.
+Another delegation suggested that it should be made clear whether or not an applicant who has commenced proceedings in one form, for example, in electronic form, should be permitted to switch to another form, for example, paper form.
+It was agreed that the International Bureau should review paragraph (1)(b) in the light of these observations.
+95 Paragraph (1)(c).
+One delegation commented that there was no antecedent in the Treaty for the term “request part of the application” and suggested that this term, together with other terms used in the PCT, should be defined to clarify whether or not they were being used in the same sense as under the PCT.
+96 The Delegation of the Russian Federation suggested that, in consequence of its proposal concerning paragraph (1)(b), the words “which has not excluded the filing of applications with its Office in paper form” should be deleted.
+Subject to consideration of this suggestion, the provision was approved as proposed.
+97 Paragraph (2).
+It was understood that if proposals for including provisions to this effect in the PCT Regulations were adopted, this paragraph would not be required.
+98 Paragraph (3).
+This paragraph was approved as proposed.
+99 Paragraph (4).
+The Delegation of Sudan proposed that, in line with a similar provision under the PCT, in order to minimize the difficulties of nationals of developing countries obtaining protection for their inventions outside their own country, the following text be added to this paragraph, and to provisions in respect of other fees mentioned elsewhere in the draft Treaty:
+“(i) in case of applications submitted by nationals of developing or least developed countries, the Contracting Parties shall not charge more than 25 percent of the prescribed fees;
+“(ii) for the purpose of this Article, developing or least developed countries shall be determined according to the standards set by the United Nations.”
+100 This proposal was supported by the Delegations of Algeria, Brazil, Egypt, Gabon, Guinea, Jamaica, Kenya, Lesotho, Senegal and South Africa and the Representative of ARIPO.
+The Delegation of Brazil explained that it provided 60 percent fee reductions for natural persons, micro‑enterprises and governmental research institutions.
+The Delegations of the United States of America, Germany and Japan, and the Representatives of the EPO, ABA and AIPLA expressed sympathy for the proposal, but voiced concern as to whether the Committee of Experts was the competent body to consider this matter and whether such a provision would be compatible with the “most‑favoured‑nation” provisions under Article 4 of the TRIPS Agreement.
+It was also noted that the United States Patent and Trademark Office (USPTO) already provided fee reductions for individuals, small enterprises and non‑profit organizations, including those from developing countries, and that the EPO provided such reductions for nationals of certain developing countries in respect of international search and preliminary examination fees.
+101 The International Bureau explained that the topics for inclusion in the draft Treaty had been defined by the Governing Bodies of WIPO and that it would be for the Governing Bodies to decide the mandate for future work.
+In response to a request by the Delegation of Egypt, the International Bureau stated that an unofficial translation of the proposal of the Delegation of Sudan into Arabic could be made available, in addition to issuing that proposal in a WIPO document (PLT/CE/IV/4) in English, French and Spanish.
+102 Paragraph (5)(a).
+One delegation proposed that the words “, by the applicant or other person submitting, or entitled to prosecute, the application,” should be deleted.
+That delegation, supported by two other delegations, also expressed the view that the expression “or is available to the Office by other means” was too broad in that it could be construed as imposing an obligation on the Office to obtain a copy of the earlier application wherever possible, even for a fee.
+One of the delegations proposed that the expression be amended to “or of which the copy has already been filed with the Office.”
+However, another delegation noted that it was necessary to take account of the policy, adopted in July 1997 by the Executive Committee of the Permanent Committee on Industrial Property Information (PCIPI), of establishing industrial property digital libraries which would provide for copies of documents to be made available to Offices through a network administered by WIPO.
+A representative of a non‑governmental organization expressed support for the existing provision and suggested that it might be modified to provide for the filing of one copy of the earlier application with WIPO, which would then forward copies to the Offices in which priority was claimed, along the lines of international applications under the PCT.
+103 Another delegation commented that if provision were made for the certificate referred to in the second sentence to be required under paragraph (5)(a), similar provision needed to be made under Article 4(4)(a)(ii).
+However, it was pointed out that a certified copy of an application typically contains the filing date.
+104 Paragraph (5)(b).
+The Delegation of Switzerland entered a reservation on this provision.
+105 Paragraph (5)(b), chapeau.
+This text was approved as proposed.
+106 Item (i).
+One delegation expressed concern that this item could place a burden on a third party to provide a translation of the earlier application.
+In addition, the International Bureau proposed that the word “, or” be deleted in line with the drafting practice elsewhere in the draft Treaty, which practice would be reviewed in due course to ensure consistency.
+Subject to this, the item was approved as proposed.
+107 Item (ii).
+This item was supported in principle by one delegation and the representatives of two non‑governmental organizations.
+However, one delegation and the representatives of three non‑governmental organizations suggested that the item be deleted to minimize the burden on applicants.
+In response to a question by one of the delegations which had expressed support in principle, the Representative of the EPO explained that, under its procedure, it was the applicant of the application which was potentially comprised in the state of the art who was required to furnish the translation, unless the application had been withdrawn or refused, in which case the Office provided the translation itself.
+In conclusion, it was agreed that the International Bureau should review item (ii) in the light of this explanation and the other comments referred to, taking into account the need for the obligation under that item to be equitable.
+108 Paragraph (6).
+This paragraph was approved as proposed.
+109 Paragraph (7).
+One delegation noted that, under its procedures, a full formalities examination was not carried out until a request for such examination, accompanied by the relevant fee, was received.
+In order that such procedure could be maintained, which was necessary since such requests were received on only 60 percent of the applications filed, the delegation proposed that the word “promptly” should be deleted in line 5.
+Subject to consideration of this proposal, this paragraph was approved as proposed.
+110 Paragraph (8)(a).
+The International Bureau indicated that “Article 4(4)(b)” in line 4 should be amended to “Article 4” to take account of the sanctions provided for under Article 4(3) and that the words “, or entitled to prosecute” should be added after “submitting” in line 6 to bring the text in that line into conformity with the existing text in the previous line.
+The Delegation of Switzerland observed that it should not be permissible for an application to be refused for failure to furnish a registration number or other indication under paragraph (2).
+Subject to those amendments and observations, the provision was approved as proposed.
+111 Paragraph (8)(b).
+The International Bureau indicated that the words “or (6)” be added after “paragraph (1)” in line 1 to take account of the requirements in respect of a priority claim under paragraph (6).
+Subject to this amendment, this provision was approved as proposed.
+112 Paragraph (8)(c).
+Subject to comments expressing concern about the effect of non‑compliance with the requirement under paragraph (5)(b)(ii), this provision was approved as proposed.
+Draft Rule 2: Details Concerning Filing Date Under Article 4
+113 Paragraph (1).
+This paragraph was approved as proposed.
+114 Paragraph (2).
+One delegation proposed that the word “title” should be deleted from item (ii).
+Subject to consideration of this proposal, the paragraph was approved as proposed.
+115 Paragraph (3).
+One delegation suggested that the words “containing the reference referred to in Article 4(4)” should be added after “application” in subparagraph (b) to avoid ambiguity as to which application was referred to.
+Subject to this amendment, the paragraph was approved as proposed.
+Draft Rule 3: Filing of Application Under Article 5(1)(b)
+116 After some discussion, it was agreed that this Rule should be reviewed in the light of the discussions on Article 5(1)(b).
+Draft Rule 4: Evidence Under Articles 5(6), 7(6), 8(4)(a), 9(4), 10(4), 11(4) and 12(3)
+117 This Rule was approved with the removal of the square brackets.
+Draft Rule 5: Time Limits Concerning the Application Under Article 5
+118 Paragraph (1).
+One delegation proposed that, for conformity with Rule 16(1), the words “but in any case not more than four months from the filing date of the application with the priority claimed” be added at the end of the provision.
+Subject to further consideration of this amendment, this paragraph was approved as proposed.
+119 Paragraphs (2) and (3).
+These paragraphs were approved as proposed.
+Draft Article 6: Validity of Patent; Revocation
+120 Paragraph (1)(a).
+One delegation questioned whether, among the authorities which may revoke or invalidate a patent, courts should be mentioned since the power of decision of a court should not be limited.
+It was explained that the Patent Law Treaty would not limit the power of courts but would address only the question of whether non‑compliance with formality requirements would be a ground for revocation or invalidation.
+121 In response to a question raised by one delegation, the International Bureau pointed out that non‑compliance with certain formality requirements, discovered subsequent to the grant of a patent, should not be a ground for revocation or invalidation, since such requirements were not essential for the effect of the patent granted although they would be needed for the processing of the application.
+The non‑payment of a filing fee was given as an example of such requirements.
+It was also explained that it should not be a ground for revocation, after grant of the patent, that the applicant had not complied with an invitation of the Office to correct formal requirements during prosecution of the application.
+122 In response to a question raised as to whether Article 5(6) should also be listed in this subparagraph, the International Bureau pointed out that Article 5(6) was not included because failure to furnish evidence was not in itself an instance of non‑compliance with a formal requirement, but could possibly result in non‑compliance with a formal requirement.
+123 The Representative of the EPI suggested that non-compliance with the requirement of unity of invention should be included in this subparagraph so that, once a patent had been granted, it may not be revoked or invalidated on the grounds of non‑compliance with the requirement of unity of invention unless an opportunity to divide such patent was given during the revocation procedure.
+124 Following this discussion, this provision was approved as proposed.
+125 Paragraph (1)(b).
+In response to a request for clarification, the International Bureau explained that the revocation of a patent on a ground of lack of entitlement of the owner of the patent was a matter of substance not covered by Article 6.
+126 The International Bureau pointed out that the cases referred to in this subparagraph were examples and that Contracting Parties were free to provide for invalidation or revocation in other cases.
+Two delegations proposed to move these examples to the Notes.
+Another delegation proposed that subparagraph (b) should be deleted, but that subparagraph (a) should contain an exceptional clause for the case of non‑compliance with a formal requirement brought about as a result of a fraudulent intention.
+Another delegation, supporting the removal of examples to the Notes and the addition of an exceptional clause for fraudulent intention to subparagraph (a), suggested that the words “without prejudice to this Treaty” be added at the beginning of this subparagraph and the words “according to the national law” be inserted after “matter of substance” in line 3.
+Another delegation was in favor of retaining the non‑compliance with a formal requirement brought about as a result of a fraudulent intention in subparagraph (b).
+Subject to these comments, this provision was approved as proposed.
+127 Paragraph (2).
+This paragraph was approved as proposed.
+Draft Article 7: Representation; Address for Service
+128 General.  The Delegation of the United States of America indicated that draft legislation was currently pending in its Congress which addressed certain problems experienced by inventors in their consultations with someone not registered to practice, and it reserved its position in this Article to the extent that a conflict may arise if that legislation was adopted.
+129 One delegation, supported by the representative of a non‑governmental organization, suggested that a requirement be inserted within this Article that, where a representative had been appointed, he should be contacted instead of the person to be represented except in specific cases as provided in this Treaty.
+The International Bureau explained that such a possibility was intentionally left for the Offices.
+130 Paragraph (1).
+In response to a question raised by one delegation, the International Bureau confirmed that items (i) and (ii) should be understood as cumulative.
+131 One delegation suggested that an address for correspondence be provided, if it differed from the address for service provided under item (ii).
+In response to the request of another delegation for clarification of the two addresses, the International Bureau explained that an address for service was the address where one would receive an official communication, whereas a correspondence address was simply an address where one could receive mail.
+132 The Representative of the EC noted that the requirements for an address for service on the territory of a Contracting State could be contrary to the provisions of the Treaty of Rome.
+133 The representative of a non‑governmental organization proposed that the wording “in respect of an application or a patent” be inserted after “the Office” in line 2.
+Subject to a review by the International Bureau of these two proposals, this paragraph was approved as proposed.
+134 Paragraph (2)(a).
+The delegations and the representatives could not reach a decision on this subparagraph, and, after a full discussion, it was agreed that the International Bureau would consider the comments and the positions of the delegations and representatives for future reference.
+135 The reasons for the support of this provision were, as expressed in particular by the Representative of the AIPLA, that the inventor should be allowed to decide whether or not to use a representative for simple procedures; inventors had the greatest concern regarding the quality of translations and other work on their applications and would, in their interest, engage a representative where needed; the requests from many developing countries for a fee reduction would be facilitated by this provision; and the primary purpose of the patent law was to encourage inventions and innovations.
+The following eight delegations, one intergovernmental organization and five non‑governmental organizations expressed strong support for this provision: Australia, Germany, Netherlands, Slovakia, Sweden, Switzerland, United Kingdom, United States of America, EPO, ABA, AIPLA, BDI, FEMIPI and UNICE.
+136 The Delegation of the United States of America, supported by the Delegation of Australia and the Representatives of the EPO and the AIPLA, suggested to include an additional item, “filing of an application,” to the items mentioned in this subparagraph.
+137 The concerns raised by those who were either in favor of deletion of paragraph (2), or who made reservations on that paragraph, were that the quality of translations could be ensured only through mandatory representation; promotion of this profession, in particular in developing countries, would be difficult if revenue for the profession was reduced; and this provision would go beyond the scope of the Patent Law Treaty.
+Six delegations and the representative of a non‑governmental organization expressed this view: Guinea, Mexico, China, Portugal, Spain, Venezuela and AGESORPI.
+The Delegation of Spain suggested using the term “terceros” instead of “un representante” in the Spanish text.
+138 Two delegations made reservations on some items and the representatives of five non‑governmental organizations suggested to delete certain items only.
+The Delegation of Belgium reserved its position on item (i), and the Delegation of Austria reserved its position on items (i) and (iv).
+The Representatives of ABAPI, ABPI and FICPI suggested to delete items (i), (ii) and (iv), and the Representatives of KPAA and JPAA suggested deletion of items (i) and (ii).
+139 Paragraph (2)(b).
+The Delegation of the Russian Federation suggested the addition of a new provision as follows:
+“any applicant or other person submitting, or entitled to prosecute, the application, owner or other interested person who has neither a domicile nor a real and effective industrial or commercial establishment on the territory of the Contracting Party can be represented by a representative.”
+140 Paragraph (3)(a).
+This provision was approved as proposed.
+141 Paragraph (3)(b).
+The Delegation of the United States of America expressed its interest in Offices being allowed to require multiple copies of the original “general power of attorney,” which was noted by the International Bureau.
+Otherwise, this provision was approved as proposed.
+142 Paragraph (3)(c).
+One delegation, supported by two other delegations, suggested that this subparagraph be deleted.
+No comments to the contrary were raised.
+143 Paragraph (3)(d) and (e).
+These provisions were approved as proposed.
+144 Paragraphs (4) to (6).
+Subject to a reservation expressed by the Delegation of Spain on paragraph (4), these paragraphs were approved as proposed.
+145 Paragraph (7).
+In response to a concern raised by one delegation, the International Bureau explained that standards of conduct were not intended to be included and would review whether the term “formal” should appear before “requirements” in line 2 of the text.
+Subject to this review, this paragraph was approved as proposed.
+146 Paragraph (8)(a).
+The International Bureau noted that the indication of “(2)(a)” would be deleted in line 3 of this subparagraph.
+Additionally, several delegations raised their concern that this subparagraph would require dual communications.
+Some delegations suggested that the word “and” should be replaced by “or” between items (i) and (ii), and other delegations suggested deletion of item (ii) and of the words “the person to be represented” in line 9.
+It was agreed that the International Bureau would study these suggestions.
+147 Paragraph (8)(b).
+The International Bureau noted that “(b)” would be deleted in line 4.
+Subject to this amendment, this provision was approved as proposed.
+148 Paragraph (9).
+In response to concern raised by several delegations, the International Bureau explained that the sanction provided for in this paragraph was a maximum one and, therefore, Offices may apply less stringent sanctions and that the terms “any procedure” in line 2 allowed Offices to decide to which procedures this provision applied.
+149 The suggestion by one delegation that any change adopted under subparagraph (8)(a) should also be reflected in this paragraph was accepted.
+Additionally, several delegations indicated that the sanction provided for in this paragraph, as well as in relation to Article 5(8), was too stringent for cases where application numbers were omitted.
+It was agreed that the International Bureau would examine this matter.
+150 Two delegations suggested drafting changes.
+One suggestion was to replace the words “that procedure may, subject to Article 4, be considered non‑existent,” starting in line 3, with “the Contracting Party may, subject to Article 4, apply such sanction as is provided for in its law.”
+Another suggestion was to replace the current text following the word “non‑existent” in line 4 with “provided that the notification provided for in paragraph (8) has been made, unless indications allowing the person concerned to be contacted by the Office have not been furnished.”
+It was decided that the International Bureau would study all the suggestions made on this paragraph.
+Draft Article 8: Signature
+151 Paragraphs (1) and (2).
+These paragraphs were approved as proposed.
+152 Paragraphs (3) and (4).
+The Delegation of the Republic of Korea proposed that the wording of paragraph (3) be amplified to permit a Contracting Party to require a certified copy of a seal impression.
+In response to a comment by the representative of a non‑governmental organization that the restriction of paragraphs (3) and (4)(b) to communications in paper form could result in Contracting Parties requiring unwarranted certification in respect of communications by electronic or other means, the International Bureau explained that the requirements in respect of such communications would be regulated by paragraph (2).
+Subject to consideration of the above proposal to amend paragraph (3), paragraphs (3) and (4) were approved as proposed.
+153 Paragraph (5).
+In response to a question by one delegation, the International Bureau confirmed that a notification under this paragraph would be sent to the relevant person under Article 7.
+Following this explanation, the paragraph was approved as proposed.
+154 Paragraph (6).
+In accordance with the amendments proposed to Article 7(9), one delegation suggested that the words “may consider the communication concerned as not having been received” be amended to “may apply such sanction as provided in its law.”
+Another delegation proposed that the phrase “treated as not entered, but retained in the file” should be used.
+Subject to consideration of these amendments, the paragraph was approved as proposed.
+Draft Rule 6: Receipt of Communications
+155 This Rule was approved as proposed.
+Draft Rule 7: Details Concerning Names and Addresses
+156 The International Bureau explained that this Rule had been placed in square brackets since, on further consideration, it did not seem necessary.
+Thus, as regards applications, the requirements relating to names and addresses applicable to international applications under the PCT could be applied, pursuant to Article 5(1)(a) of the draft Treaty.
+After some discussion, during which one delegation proposed that a Contracting Party should be permitted to require evidence that the name of the person was that in his passport or other form of identification, it was agreed that this Rule should be deleted.
+Draft Rule 8: Details Concerning Representation and Address for Service Under Article 7
+157 This Rule was approved as proposed.
+Draft Rule 9: Details Concerning the Signature Under Article 8
+158 The representative of a non‑governmental organization commented that the use of the word “langue” in the French text should read “langage,” if it were meant to refer to computer languages.
+Subject to consideration of this amendment of the text in the French language, this Rule was approved as proposed.
+Draft Article 9: Request for Recordal of Change in Name or Address
+159 Paragraph (1)(a) to (d).
+These provisions were approved as proposed.
+160 Paragraph (1)(e).
+The Delegation of Spain pointed out that the Spanish text of this provision required some clarification.
+Subject to this comment, the provision was approved as proposed.
+161 Paragraph (1)(f).
+Subject to the proposal made by the Delegation of Sudan regarding reduction of fees for developing countries, the provision was approved as proposed.
+162 Paragraph (1)(g).
+The Delegation of the United States of America stated that, where a request concerned several applications, multiple copies should be permitted to be required.
+Subject to this statement, this provision was approved as proposed.
+163 Paragraphs (2) to (4).
+These paragraphs were approved as proposed.
+164 Paragraph (5).
+The Delegation of China indicated that, under its law, where there was a change in name of an applicant or a representative, the Office required evidence of such change in order to prevent fraud.
+Subject to this indication, this paragraph was approved as proposed.
+165 Paragraphs (6) and (7).
+These paragraphs were approved as proposed.
+Draft Rule 10: Details Concerning Request for Recordal of Change in Name or Address Under Article 9
+166 In response to a question raised by one delegation, the International Bureau agreed to review the necessity of setting different time limits under paragraphs (3) and (4).
+This review should also apply to Rule 9.
+Subject to this review, the Rule was approved as proposed.
+Draft Article 10: Request for Recordal of Change in Ownership
+167 The Delegation of Spain reserved its position on this Article because, under its law, the transfer of rights had fiscal implications.
+168 Paragraph (1)(a) and (b).
+These provisions were approved as proposed.
+169 Paragraph (1)(c).
+One delegation stated that, in view of the development of automation within Offices, such as a computerized register system, the request for recordal should contain all the necessary information in order to facilitate the data entry and the maintenance of the system, since it was mostly used by the general public.
+Subject to this comment, this provision was approved as proposed.
+170 Paragraph (1)(d).
+One delegation, supported by several other delegations, suggested that this provision be extended to a request made by a previous applicant or owner, and that therefore the words “where the recordal is requested by the new applicant or the new owner, rather than by the applicant or the owner” in the second and third lines should be deleted.
+However, a number of delegations and the representatives of one intergovernmental organization and one non‑governmental organization supported the present draft, since this provision met with the aim of simplification and user‑friendliness.
+In this respect, one delegation pointed out that it was sufficient for the users if the documentary evidence was ensured regardless of the ways to obtain such evidence.
+The Representative of the EPO and the International Bureau explained that neither the European Patent Convention nor the PCT required evidence where the recordal was requested by the applicant.
+Another delegation stated that it was in favor of harmonization on this matter.
+171 The Delegation of Japan expressed its reservation on this provision and proposed that, in subparagraph (ii), the words “as far as the applicable law permits” be added since a representative admitted to practice before the Office in that State did not have any authority to certify the document.
+172 In response to a suggestion by one delegation that, in order to be consistent with Article 11(1)(b) of the Trademark Law Treaty, an uncertified transfer document drawn up and signed by both the owner and the new owner should be added under this subparagraph as a form of evidence permitted to be required by the Contracting Party, the International Bureau explained that, in addition to the possible harmonization with the Trademark Law Treaty, this Treaty also needed to take account of the required conformity with the PCT.
+173 Paragraph (1)(e).
+One representative of a non‑governmental organization suggested that the words “the competent authority” in the fourth line be replaced by the words “a competent authority” since there might be several competent authorities for several documents.
+Subject to this suggestion, the provision was approved as proposed.
+174 Paragraph (1)(f).
+This provision was approved as proposed.
+175 Paragraph (1)(g).
+The Delegation of Switzerland stated that, under its national law, only a publicly appointed officer and not a representative admitted to practice before the Office had authority to certify a document.
+Subject to this statement, the provision was approved as proposed.
+176 Paragraph (1)(h) to (j).
+These provisions were approved as proposed, subject to the statement by the Delegation of the United States of America on Article 9(1)(g).
+177 Paragraph (2).
+This paragraph was approved as proposed.
+178 Paragraph (3).
+One delegation and one representative of a non‑governmental organization noted that the reference to subparagraph (i) in the first line should be replaced by subparagraph (j).
+Subject to this amendment, the paragraph was approved as proposed.
+179 Paragraph (4).
+One delegation suggested that a reference to subparagraph (d) be added in order to allow a remedy where a request based on fraud had been made.
+Subject to this suggestion, the paragraph was approved as proposed.
+180 Paragraphs (5) to (7).
+These paragraphs were approved as proposed.
+181 Paragraph (8).
+The Delegation of the United States of America suggested replacing the words “the applicant or owner is the inventor” in line 2 with the words “a change involves inventorship” to limit the scope of this paragraph to correction of inventorship rather than to all cases where the applicant or owner was an inventor.
+One representative of a non‑governmental organization stated that this provision should appear as a reservation provision in the draft Treaty, rather than in this Article, so that its effect would be limited to Contracting Parties which require the exclusion at the time that they accede to the Treaty.
+Draft Rule 11: Details Concerning Request for Recordal of Change in Ownership Under Article 10
+182 Paragraph (1).
+This paragraph was approved as proposed.
+183 Paragraph (2)(a).
+It was noted that, in subparagraph (a), the words “of such requests” should be deleted.
+Subject to this change, this provision was approved as proposed.
+184 Paragraph (2)(b).
+This provision was approved as proposed.
+185 Paragraph (2)(c).
+In response to a question raised by one delegation, the International Bureau explained that the question of the language of the publication would be further reviewed.
+Subject to this review, this provision was approved as proposed.
+186 Paragraph (3).
+This paragraph was approved as proposed.
+187 Paragraph (4).
+In item (ii), it was agreed that the words “was received by the Office” should be inserted at the end of the sentence.
+Draft Article 11: Request for Recordal of a Licensing Agreement or Security Interest
+188 Paragraphs (1) to (7).
+The Delegation of Japan suggested that wording to the effect that any Contracting Party was free to decide what kind of license should be recorded should be included, as was indicated under Note 11.11 in respect of a recordal of a security interest.
+In response to a question raised by one delegation, the International Bureau explained that the recordal under this Article was mere recordal at the Patent Office without any other effect, for example, fiscal effect.
+189 In view of the importance of maintaining an accurate recordal, the Delegation of Denmark suggested that the International Bureau consider provisions regarding the cancellation of the recordal of a licensing agreement resulting from the termination of such an agreement.
+190 Paragraph (1)(a).
+One delegation suggested that the phrase “in respect of an application or a patent” be inserted after the words “licensing agreements” in the second line.
+Subject to this suggestion, the provision was approved as proposed.
+191 Paragraph (1)(b).
+This provision was approved as proposed.
+192 Paragraph (1)(c).
+The Delegation of Spain expressed a reservation on this provision.
+The International Bureau explained that this Article only governed the request for recordal to a registry in the Office of a Contracting Party.
+Subject to this reservation, the provision was approved as proposed.
+193 Paragraph (1)(d).
+The Delegation of the Russian Federation, supported by the Delegation of Japan, commented that the situation under Article 11 was the same as that under Article 10 and suggested that documents certifying the existence of a licensing agreement be permitted to be required where the recordal was requested by the licensor.
+It explained that its Office, when recording a license, established whether there existed any previously recorded exclusive license which would conflict with the recordal of the new license, even if the request for recordal was made by the patent owner.
+Subject to this suggestion, the provision was approved as proposed.
+194 Paragraph (1)(e).
+One delegation pointed out that, in addition to the cases where several parties to a licensing agreement were co‑applicants or co‑owners who had an equal status, there also exist cases where several parties did not have equal rights in respect of the patent, for example, a patentee, an exclusive licensee, and a non‑exclusive licensee.
+It was agreed that this should be reviewed by the International Bureau.
+Subject to this review, this provision was approved as proposed.
+195 Paragraph (1)(f) to (h).
+These provisions were approved as proposed, subject to the statement by the Delegation of the United States of America on Article 9(1)(g).
+196 Paragraphs (2) to (7).
+These paragraphs were approved as proposed.
+197 Paragraph (8).
+The Delegation of Spain expressed its reservation on this paragraph, in view of current requirements, in particular, in Articles 74 and 79 of its patent law, its law on mortgages and pledges, and corresponding regulations.
+Draft Rule 12: Details Concerning Request for Recordal of a Licensing Agreement or Security Interest Under Article 11
+198 This Rule was approved as proposed.
+Draft Article 12: Request for Correction of a Mistake
+199 Paragraph (1).
+One delegation suggested that the word “undue” in the second line of subparagraph (j) be replaced by “unintentional.”
+Subject to this suggestion and the statement by the Delegation of the United States of America on Article 9(1)(g), this paragraph was approved as proposed.
+200 Paragraphs (2) and (3).
+These paragraphs were approved as proposed.
+201 Paragraph (4).
+The Delegation of the United States of America stated that, in view of the re‑issue of a patent under its national law, the scope of this Article should be clearly restricted to formalities.
+Subject to this statement, the paragraph was approved as proposed.
+202 Paragraph (5).
+One delegation commented that this paragraph would apply to mistakes brought about by a transcription made by the Office.
+Subject to this comment, this paragraph was approved as proposed.
+203 Paragraphs (6) and (7).
+These paragraphs were approved as proposed.
+204 Paragraph (8).
+It was agreed that the International Bureau should review the text in light of the suggestion made under Article 10(8).
+Draft Rule 13: Details Concerning Request for Correction of Mistake Under Article 12
+205 This Rule was approved as proposed.
+Draft Article 13: Extension of a Time Limit Fixed by the Office
+206 Paragraph (1)(a).
+One delegation suggested that the words “, other than a request under paragraph (3) or Article 6(2),” be added after the words “communication to the Office” in line 2.
+Another delegation suggested that this provision should provide for exceptions, for example, in respect of appellate or other specialized proceedings outside of the normal processing.
+207 A suggestion by a further delegation, supported by the representatives of two non‑governmental organizations, that the second sentence of paragraph (1)(a) should be amended to ensure that the time limit should not be less than the minimum prescribed in the Regulations, was opposed by one delegation on the ground that the provisions of the law must prevail over administrative actions by the Office.
+In this context, a further delegation commented that, in its view, it was not clear what was meant by the term “established by law.”
+208 Paragraph (1)(b).
+It was noted that the term “State” should be replaced by “Party” in the first line.
+Subject to this amendment, this provision was approved as proposed.
+209 Paragraph (2).
+A proposal by the representative of a non‑governmental organization, supported by one delegation and the representative of another non‑governmental organization, that no fee should be charged for the first extension under paragraph (1)(a) was opposed by three delegations.
+Subject to consideration of this proposal, the paragraph was approved as proposed.
+210 Paragraph (3).
+One delegation suggested that the “reasonable time limit” referred to in line 4 should be defined in the Regulations.
+This paragraph was approved as proposed.
+Draft Rule 14: Details Concerning Extension Under Article 13(1)(a) of a Time Limit Fixed by the Office
+211 Proposals by one delegation that the time limit should be reduced to one month and by the representative of a non‑governmental organization that it should be increased to a minimum of six months received no support.
+After some discussion as regards difficulties which could arise where the relevant time limit expired on a non‑working day, a proposal by the representative of an intergovernmental organization, supported by two delegations, that the prescribed two‑month extension should be added to the relevant time limit rather than calculated from the date of expiration of that time limit, was approved.
+Subject to this amendment, the Rule was approved as proposed.
+Draft Article 14: Further Processing; Restoration of Rights
+212 General.  It was agreed that this Article should be reviewed, taking into account the following suggestions and comments.
+213 Paragraphs (1)(a) and (2)(a).
+After some discussion, during which the Representative of the EPO explained that it was intended to extend further processing under the European Patent Convention to non‑compliance with time limits established under that Convention, it was agreed that the International Bureau should revise paragraphs (1)(a) and (2)(a) along similar lines for further consideration.
+214 In addition, in response to a comment by the Delegation of the United States of America that it wished to retain its existing requirement that the failure to comply with the time limit in question has been unintentional, and to provide for withdrawal of abandonment where the applicant established that he had not received an official communication imposing that time limit or had in fact complied with the time limit, it was agreed that the International Bureau should explore this matter further with the USPTO.
+In this connection, a suggestion by the Delegation of the United States of America that, in view of its extensive revival practice, further processing be made optional was opposed by the Representative of the AIPLA and the representative of another non‑governmental organization.
+The possibility of providing for either further processing or extensive revival/restoration practice was also mentioned.
+215 Paragraph (1)(b).
+The Delegation of Belgium entered a reservation on the suggestion by the representative of a non‑governmental organization, supported by one delegation, that this provision should be deleted.
+216 Paragraph (2)(b), chapeau.
+One delegation suggested that the word “following” be amended to “in the event of.”
+217 Paragraph (2)(b), item (i).
+Two delegations suggested the deletion of this item.
+218 Item (ii).
+Four delegations suggested the deletion of this item.
+219 Item (iii).
+One delegation and the representative of an intergovernmental organization supported the retention of this item.
+Another delegation proposed that the reference to Article 13(1) should be deleted.
+A further delegation suggested that this item be deleted.
+220 Item (iv).
+Three delegations suggested the deletion of this item.
+221 Item (v).
+Two delegations and the representative of a non‑governmental organization suggested the deletion of this item.
+One further delegation made a reservation on the inclusion of this item while another delegation entered a reservation on its deletion.
+222 Paragraph (3).
+The Delegation of the Russian Federation suggested that the provision contained in former Article 13(4)(b) in document PLT/CE/IV/3, amended as suggested by that Delegation at the fourth session of the Committee of Experts (as reported in paragraph 194 of document PLT/CE/IV/4), should be re‑instated in this paragraph.
+223 Paragraph (4).
+One delegation commented that this provision could lead to an endless loop of requests under Article 13(1)(a).
+224 Paragraph (5)(a).
+The Delegation of Canada, supported by four other delegations, the representative of an intergovernmental organization and the representatives of three non‑governmental organizations, suggested that this paragraph be made optional, for example, by adding the words “Any Contracting Party may provide that.”
+225 One delegation, supported by one other delegation and the representatives of three non‑governmental organizations, also suggested that the period referred to in line 5 should not commence until three months after the expiration of the time limit for the action before the Office and that intervening rights should be restricted to the cases in which, during the period concerned, a third person had started to use or had started to make effective and serious preparations for using the invention in the territory in which the application or patent had effect.
+226 Another delegation suggested that it should be clarified in the Notes what was meant by “good faith,” and, in particular, that this did not cover the situation in which the person concerned was unaware of the loss of rights prior to further processing or restoration.
+The same delegation also suggested that no intervening rights should be available prior to the publication of the application.
+In addition, the representative of a non‑governmental organization proposed that intervening rights should be restricted to the case of restoration of rights.
+227 Paragraph (5)(b).
+The Delegation of China suggested that this provision be deleted.
+Draft Rule 15: Details Concerning Further Processing and Restoration of Rights Under Article 14
+228 Paragraphs (1) and (2).
+The representative of a non‑governmental organization suggested that, in accordance with the practice in the EPO, the time limit should run from the date on which the applicant was notified of the failure to comply with the time limit for the action before the Office.
+229 The representative of another non‑governmental organization suggested that the time limit under paragraph (2), item (ii) should be increased to not less than 12 months.
+Draft Article 15: Addition and Restoration of Priority Claim
+230 Paragraph (1)(a).
+This provision was approved as proposed.
+231 Paragraph (1)(b).
+In response to a question by one delegation, the International Bureau confirmed that the PCT contained no corresponding provision.
+After some discussion, during which one delegation supported the retention of this provision, a proposal by another delegation, supported by five delegations and the representatives of an intergovernmental organization and a non‑governmental organization, that this provision should be deleted was agreed.
+232 Paragraph (2)(a).
+Two delegations pointed out, regarding the explanation in Note 15.06, that this provision provided for the restoration of the priority right and not an extension of the priority period under Article 4C(1) of the Paris Convention for the Protection of Industrial Property.
+The International Bureau also explained that the interpretation of that Convention was a matter for the Member States and not the International Bureau.
+In response to a question by another delegation, the International Bureau confirmed that the restoration of priority right had not been discussed by the PCT Assembly.
+In the course of discussions, five delegations and the representatives of an intergovernmental organization and two non‑governmental organizations expressed the view that the provision was not contrary to the Paris Convention and supported its inclusion in the draft Treaty.
+The Delegation of the Netherlands entered reservation on paragraph (2)(a), and the Delegations of Spain and Belgium entered reservations on the whole of paragraph (2).
+233 A suggestion by one delegation, supported by one other delegation and the representative of a non‑governmental organization, that the period of two months for making the request under paragraph (2)(a) should be made a minimum, was opposed by two delegations, and also by the representative of a non‑governmental organization who suggested that the period should be the same for each Office.
+One delegation observed that, if the period of two months were maintained, it did not appear necessary also to include the requirement that the request should be made before any technical preparations for publication of the subsequent application had been completed.
+The representative of an intergovernmental organization suggested that the period in question should start from the filing date of the subsequent application.
+One delegation suggested the deletion of the words “and before any technical preparations for publication of the subsequent application have been completed.”
+One delegation, supported by another delegation, stated that the requirement that the subsequent application was not received within the priority period “in spite of all due care required by the circumstances” should be replaced by a requirement that the failure to furnish the subsequent application within the priority period was unintentional.
+234 Paragraph (2)(b).
+There was no agreement on whether this subparagraph should be retained or deleted.
+235 Paragraph (3).
+One delegation, supported by another delegation and the representative of one non‑governmental organization, suggested that a Contracting Party should be permitted to impose a time limit for furnishing the copy of the earlier application in order to avoid delays in processing the application claiming priority.
+Subject to the consideration of this suggestion, the provision was approved as proposed.
+236 Paragraph (4).
+One delegation commented that, as in the case of Article 14(4), this provision could lead to an endless loop of requests under Article 13(1)(a).
+237 Paragraph (5).
+Subject to the proposal by the Delegation of Sudan in respect of fees made in connection with Article 5(4), this provision was approved as proposed.
+238 New item.
+In response to questions by two delegations, the International Bureau explained that no provision on intervening rights had been included because it did not appear possible for such rights to arise during the short periods proposed for the addition and restoration of priority rights, particularly if the application were not published before such addition or restoration.
+Also, it did not seem reasonable for a third party acting in good faith to anticipate any loss or reduction in the scope of protection conferred by the patent which might result from the omission or cancellation of a priority claim.
+The Representative of the EPO confirmed that, under the European Patent Convention, there was no provision for intervening rights in such circumstances because the application was not published before the addition or restoration of the priority claim.
+However, the Delegation of Australia noted that its law, which allowed a period for the filing of the subsequent application which was longer than the two months proposed in paragraph (2)(a), did provide for such rights.
+Draft Rule 16: Details Concerning Addition and Restoration of Priority Claim Under Article 15
+239 This Rule was approved as proposed.
+Draft Rule 17: Manner of Identification of an Application Without Its Application Number
+240 Paragraphs (1) and (2).
+These paragraphs were approved as proposed.
+241 New item.
+It was agreed that the International Bureau should consider a suggestion by the Delegation of Brazil that a new paragraph be added permitting the use, with the agreement of the applicant, of the international application number under the PCT in the “national phase” of an application.
+Draft Article 16: Regulations
+242 Paragraph (1)(a).
+With regard to item (i), one delegation suggested that the wording in the draft Treaty be simplified by defining the term “prescribed” as meaning “prescribed in the Regulations.”
+243 Paragraph (1)(b).
+In response to a question by the representative of a non‑governmental organization, the International Bureau confirmed that Model Forms would be presented for consideration once sufficient consensus on the provisions of the draft Treaty has been achieved.
+244 Paragraph (2).
+This paragraph was approved as proposed.
+245 This report was unanimously adopted by the     Committee of Experts on December 19, 1997.
+[Annex follows]
+ANNEXE/ANNEX
+LISTE DES PARTICIPANTS/LIST OF PARTICIPANTS
+I.  ÉTATS MEMBRES/MEMBER STATES
+(dans l’ordre alphabétique des noms français des États)
+(in the alphabetical order of the names in French of the States)
+AFRIQUE DU SUD/SOUTH AFRICA
+Craig John BURTON-DURHAM, Acting Registrar of Patents, Trade Marks, Copyright and Designs, South African Patent Office, Department of Trade and Industry, Pretoria
+Bongiwe QWABE (Ms.), Second Secretary, Permanent Mission, Geneva
+ALGÉRIE/ALGERIA
+Amor BOUHNIK, directeur de la propriété industrielle, Institut algérien de normalisation et propriété industrielle (INAPI), Alger
+ALLEMAGNE/GERMANY
+Peter MÜHLENS, First Counsellor, Federal Ministry of Justice, Bonn
+Britta DIECK-BOGATZKE (Mrs.), Counsellor, Federal Ministry of Justice, Bonn
+Klaus MÜLLNER, Head, Patent Division, German Patent Office, Munich
+Heinz BARDEHLE, Patent Attorney, Munich
+ARGENTINE/ARGENTINA
+Luis María NOGUÉS, Comisario de la Administración Nacional de Patentes, Instituto Nacional de la Propiedad Industrial (INPI), Buenos Aires
+ARMÉNIE/ARMENIA
+Boris VARDANYAN, Chief, Inventions Examinations Department, Armenian Patent Office, Yerevan
+AUSTRALIE/AUSTRALIA
+Bruce Ian MURRAY, Commissioner of Patents, Australian Industrial Property Organisation, Woden
+AUTRICHE/AUSTRIA
+Ewald GLANTSCHNIG, Counsellor, Permanent Mission, Geneva
+Christoph ZEILER, Legal Officer, Austrian Patent Office, Vienna
+BÉLARUS/BELARUS
+Alexander CHENADO, Chief Specialist, Preliminary Examination Department, The Belarus Patent Office, Minsk
+BELGIQUE/BELGIUM
+Stefan DRISQUE, ingénieur, Division dépôt et délivrance, Ministère des affaires économiques, Bruxelles
+BRÉSIL/BRAZIL
+Luiz Cesar GASSER, Second Secretary, Permanent Mission, Geneva
+Maria Margarida MITTELBACH (Mrs.), Director of Patent Directorate, National Institute of Industrial Property, Rio de Janeiro
+CAMEROUN/CAMEROON
+Jean Paul YOPA, chef de Bureau de l’information au service de la propriété industrielle, Ministère du développement industriel et commercial, Yaoundé
+CANADA
+Pierre TRÉPANIER, Deputy Director, Patent Branch, Canadian Intellectual Property Office, Hull
+Alan TROICUK, Legal Counsel, Canadian Intellectual Property Office, Hull
+CHINE/CHINA
+WEN Xikai (Mrs.), Deputy Director General, Law and Treaty Department, Chinese Patent Office, Beijing
+COSTA RICA
+Joaquín ALVAREZ, Ministro Consejero, Misión Permanente, Ginebra
+Linnetthe Patricia FLORES ARIAS (Sra.), Asesora Jurídica, Dirección Multilateral, Ministerio de Relaciones Exteriores y Culto, San José
+CROATIE/CROATIA
+Ivan SUGJA, Assistant Director for Patents, State Intellectual Property Office of the Republic of Croatia, Zagreb
+Mirjana PUKARI (Ms.), Assistant Director, State Intellectual Property Office of the Republic of Croatia, Zagreb
+Tanja RAJI (Mrs.), Legal Advisor, State Intellectual Property Office of the Republic of Croatia, Zagreb
+DANEMARK/DENMARK
+Anne Rejnhold JØRGENSEN (Mrs.), Head, Legal Department, Danish Patent Office, Taastrup
+Ulla BJÖRNSSON (Ms.), Head of Section, Danish Patent Office, Taastrup
+ÉGYPTE/EGYPT
+Ibrahim SALAMA, Counsellor, Permanent Mission, Geneva
+Alaa YOUSSEF, Third Secretary, Permanent Mission, Geneva
+Afaf Aly Abd El Latif SHETAYA (Mrs.), Director General, Egyptian Patent Office, Cairo
+EL SALVADOR
+Lilian ALVARADO-OVERDIEK (Mme), conseiller, Mission permanente, Genève
+ESPAGNE/SPAIN
+Rubén AMENGUAL MATAS, Técnico Superior Examinador, Departamento de Patentes e Información Tecnológica, Oficina Española de Patentes y Marcas, Madrid
+ESTONIE/ESTONIA
+Raul KARTUS, Head, Patent Department, Estonian Patent Office, Tallinn
+ÉTATS-UNIS D’AMÉRIQUE/UNITED STATES OF AMERICA
+Lee SCHROEDER, Senior Counsellor, Office of Legislative and International Affairs, Patent and Trademark Office, Department of Commerce, Washington, D.C.
+Stephen G.  KUNIN, Deputy Assistant Commissioner for Patent Policy and Projects, Patent and Trademark Office, Department of Commerce, Washington, D.C.
+Lois BOLAND (Mrs.), Attorney‑Adviser, Office of Legislative and International Affairs, Patent and Trademark Office, Department of Commerce, Washington, D.C.
+Thaddeus BURNS, Attaché, Office of the United States Trade Representative, Geneva
+FÉDÉRATION DE RUSSIE/RUSSIAN FEDERATION
+Nikolay BOGDANOV, Deputy Director, International Cooperation Department, Russian Agency for Patents and Trademarks, Moscow
+FINLANDE/FINLAND
+Maarit LÖYTÖMÄKI (Mrs.), Deputy Director, National Board of Patents and Registration of Finland, Helsinki
+Marjo AALTO-SETÄLÄ (Ms.), Coordinator, International Affairs, National Board of Patents and Registration of Finland, Helsinki
+FRANCE
+Denis CROZE, chef du Service des affaires multilatérales, Institut national de la propriété industrielle (INPI), Paris
+Martine PLANCHE (Mme), chef du Département des brevets, Institut national de la propriété industrielle (INPI), Paris
+Jean-Luc GAL, chargé de mission aux affaires multilatérales, Institut national de la propriété industrielle (INPI), Paris
+GABON
+Malem TIDZANI, directeur général de l’industrie, Ministère du commerce, de l’industrie, des petites et moyennes entreprises, des petites et moyennes industries et de l’artisanat, Libreville
+GUATEMALA
+Beatriz MÉNDEZ (Sra.), Tercer Secretario, Misión Permanente, Ginebra
+GUINÉE/GUINEA
+Cécé KPOHOMOU, chef du Service de la propriété industrielle, Ministère de l’industrie et du commerce, Conakry
+HONGRIE/HUNGARY
+Gusztáv Vékás, Vice-President, Hungarian Patent Office, Budapest
+Magdolna ANGYAL (Mrs.), Head, Legal Section, Hungarian Patent Office, Budapest
+Judit HAJDÚ (Mrs.), Head, Patent Department for Mechanics and Electricity, Hungarian Patent Office, Budapest
+INDE/INDIA
+Sohan LAL, Director, Department of Industrial Development, Ministry of Industry, New Delhi
+INDONÉSIE/INDONESIA
+Emmawati JUNUS (Mrs.), Patent Director, Directorate General of Copyrights, Patents and Trademarks, Tangerang
+Henry SOELISTYO BUDI, Head, Intellectual Property Division, Cabinet Secretariat, Jakarta
+Bambang HIENDRASTO, First Secretary, Permanent Mission, Geneva
+JAMAÏQUE/JAMAICA
+Marie Elaine THOMPSON (Ms.), Deputy Chief Parliamentary Counsel, Office of the Parliamentary Counsel, Kingston
+JAPON/JAPAN
+Masaru SEKINE, Director, General Administration Division, Japanese Patent Office, Tokyo
+Ryokichi SUZUKI, Deputy Director, First Formality Examination Division, Japanese Patent Office, Tokyo
+Nobuyuki MONNA, Section Chief, International Affairs Division, Japanese Patent Office, Tokyo
+Satoshi MORIYASU, First Secretary, Permanent Mission, Geneva
+KENYA
+Jared Odera NYAGUA, Chief Examination Officer, Kenya Industrial Property Office, Nairobi
+KIRGHIZISTAN/KYRGYZSTAN
+Kanat SARGAZAKOV, Main Expert, Examination, Invention and Utility Model Division, State Agency of Intellectual Property of the Kyrgyz Republic, Bishkek
+LESOTHO
+Nyalleng Mabakuena PII (Mrs.), Registrar-General, Registrar-General’s Office, Maseru
+LETTONIE/LATVIA
+Guntis RAMANS, Head, Department of Examination of Inventions, Patent Office of the Republic of Latvia, Riga
+LITUANIE/LITHUANIA
+Rimvydas NAUJOKAS, Director, State Patent Bureau of the Republic of Lithuania, Vilnius
+MADAGASCAR
+Olgatte ABDOU (Mme), attaché, Mission permanente, Genève
+MALAISIE/MALAYSIA
+Kamal KORMIN, Chief Examiner of Patents (Acting), Intellectual Property Division, Ministry of Domestic Trade and Consumer Affairs, Kuala Lumpur
+MALAWI
+Vincent Jeremy MZUMARA, Deputy Registrar General, Department of the Registrar General, Ministry of Justice, Blantyre
+MALI
+Mariam BAGAYOGO (Mme), chef de la Section information industrielle, scientifique et technique, Direction nationale des industries, Bamako
+MALTE/MALTA
+Godwin WARR, Deputy Controller, Industrial Property Office, Valletta
+MAROC/MOROCCO
+Abdellah BEN MELLOUK, premier secrétaire, Mission permanente, Genève
+MEXIQUE/MEXICO
+José Germán CAVAZOS TREVIÑO, Patent Director, Mexican Institute of Industrial Property, México, D.F.
+NORVÈGE/NORWAY
+Inger NÆSGAARD (Mrs.), Head of Division, Norwegian Patent Office, Oslo
+Hildegun RAA GRETTE (Mrs.), Senior Executive Officer, Norwegian Patent Office, Oslo
+PAYS-BAS/NETHERLANDS
+Willem NEERVOORT, Vice President, Bureau for Industrial Property, Rijswijk
+Herman SPEYART, Industrial Property Advisor, Ministry of Economic Affairs, The Hague
+PORTUGAL
+José MOTA MAIA, président, Institut national de la propriété industrielle (INPI), Lisbonne
+Isabel AFONSO (Mme), directeur de Services de brevets, Institut national de la propriété industrielle (INPI), Lisbonne
+José Sérgio DE CALHEIROS DA GAMA, conseiller juridique, Mission permanente, Genève
+RÉPUBLIQUE DE CORÉE/REPUBLIC OF KOREA
+Joon-Kyu KIM, Counsellor, Permanent Mission, Geneva
+Jin Gyun SHIN, Senior Patent Examiner, Korean Industrial Property Office, Seoul
+RÉPUBLIQUE DE MOLDOVA/REPUBLIC OF MOLDOVA
+Eugen STASHKOV, Director General, State Agency on Industrial Property Protection of the Republic of Moldova (AGEPI), Kishinev
+Mihail Mrcuta, Camera-man, International Cooperation of State Company, Teleradio Moldova, Kishinev
+RÉPUBLIQUE TCHÈQUE/CZECH REPUBLIC
+Marcela HUJEROVÁ (Mrs.), Head, International Department, Industrial Property Office of the Czech Republic, Prague
+ROUMANIE/ROMANIA
+Liviu BULGÁR, chef du Service juridique et relations internationales, Office d’État pour les inventions et les marques, Bucarest
+Valeriu ERHAN, chef du Service de l’examen des inventions et topographies, Office d’État pour les inventions et les marques, Bucarest
+Viorel PORDEA, chef du Service de l’examen préliminaire, Office d’État pour les inventions et les marques, Bucarest
+ROYAUME-UNI/UNITED KINGDOM
+Graham JENKINS, Head, Intellectual Property Policy Directorate, The Patent Office, Newport
+Frank MILES, Senior Legal Adviser, The Patent Office, Newport
+Nicola CURTIS (Ms.), Policy Adviser, The Patent Office, Newport
+Richard FAWCETT, Consultant, The Patent Office, Newport
+SÉNÉGAL/SENEGAL
+Mamadou Syll KEBE, ingénieur chargé des opérations industrielles à la Direction de l’industrie, Ministère de l’énergie, des mines et de l’industrie, Dakar
+SINGAPOUR/SINGAPORE
+Hwee Lian TOH (Ms.), Assistant Registrar, Registry of Trade Marks and Patents, Ministry of Law, Singapore
+SLOVAQUIE/SLOVAKIA
+Eugen ZÁTURECKÝ, Director, Law and Legislation Department, Industrial Property Office of the Slovak Republic, Banská Bystrica
+Ldmila HLADKÁ (Mrs.), Deputy Director, International Department, Industrial Property Office of the Slovak Republic, Banská Bystrica
+SOUDAN/SUDAN
+Abd El Rahman Ahmed IBRAHIM, Commercial Registrar General, Ministry of Justice, Commercial Registrar General, Khartoum
+SRI LANKA
+Mahinda G.  HEWAGE, Director of Commerce, Department of Commerce, Ministry of Internal and International Commerce and Food, Colombo
+SUÈDE/SWEDEN
+Per HOLMSTRAND, Chief Legal Counsel, Swedish Patent and Registration Office, Stockholm
+Marie ERIKSSON (Ms.), Head of Legal Division, Patent Department, Swedish Patent and Registration Office, Stockholm
+SUISSE/SWITZERLAND
+Philippe BAECHTOLD, chef du Service juridique des brevets, Institut fédéral de la propriété intellectuelle, Berne
+Philip THOMAS, Service juridique des brevets, Institut fédéral de la propriété intellectuelle, Berne
+SWAZILAND
+Beatrice S.  SHONGWE (Mrs.), Acting Registrar-General, Registrar-General’s Office, Mbabane
+THAÏLANDE/THAILAND
+Suradet ATSAWINTARANGKUN, Deputy Director, Patent Examination Division, Department of Intellectual Property, Ministry of Commerce, Bangkok
+TRINITÉ-ET-TOBAGO/TRINIDAD AND TOBAGO
+Mary-Ann RICHARDS (Ms.), Deputy Permanent Representative, Permanent Mission, Geneva
+Mazina KADIR (Ms.), Controller (Acting), Intellectual Property Office, Ministry of Legal Affairs, Port of Spain
+UKRAINE
+Leonid NIKOLAYENKO, Deputy Chairman, State Patent Office of Ukraine, Kyiv
+Nellja MOVA (Mrs.), Director, Industrial Property Economics Department, State Patent Office of Ukraine, Kyiv
+Fedora GNATUSH (Mrs.), Deputy Head, External Relations and International Department, State Patent Office of Ukraine, Kyiv
+Gennady ANDROSCHUK, Chief Adviser, Secretariat of Science and Education Committee, Kyiv
+URUGUAY
+Carlos SGARBI, Ministro Consejero, Misión Permanente, Ginebra
+Graciela ROAD D’IMPERIO (Sra.), Directora de Asesoria Letrada, Dirección Nacional de la Propiedad Industrial, Montevideo
+VENEZUELA
+Carlos PACHECO HERNÁNDEZ, Jefe, Oficina de Patentes, Servicio Autónomo Registro de la Propiedad Industrial, Caracas
+David VIVAS, Attaché, Misión Permanente, Ginebra
+VIET NAM
+VU THI BICH DZUNG (Mrs.), Third Secretary, Permanent Mission, Geneva
+ZAMBIE/ZAMBIA
+Wilbrod Aggrey MULENGA, Assistant Registrar, Zambia Patent Office, Ministry of Commerce, Trade and Industry, Lusaka
+ZIMBABWE
+Edward MUNAIWA, Acting Controller of Patents and Trade Marks, Patents and Trade Marks Office, Harare
+II.  ORGANISATIONS INTERGOUVERNEMENTALES/
+INTERGOVERNMENTAL ORGANIZATIONS
+ORGANISATION MONDIALE DU COMMERCE (OMC)/WORLD TRADE ORGANIZATION (WTO)
+Nuno PIRES de Carvalho, counsellor, Intellectual Property and Investment Division, Geneva
+COMMUNAUTÉS EUROPÉENNES (CE)/EUROPEAN COMMUNITIES (EC)
+Dominique VANDERGHEYNST, administrateur, Bruxelles
+OFFICE EUROPÉEN DES BREVETS (OEB)/EUROPEAN PATENT OFFICE (EPO)
+Eugen STOHR, Lawyer, International Legal Affairs, Munich
+Robert CRAMER, Lawyer, Directorate Patent Law, Munich
+ORGANISATION DE L’UNITÉ AFRICAINE (OUA)/ORGANIZATION OF AFRICAN UNITY (OAU)
+Mustapha CHATTI, attaché, Genève
+Organisation régionale africaine de la propriété industrielle (ARIPO)/African Regional Industrial Property Organization (ARIPO)
+Mzondi Haviland CHIRAMBO, Director General, Harare
+III.  ORGANISATIONS NON GOUVERNEMENTALES/
+NON-GOVERNMENTAL ORGANIZATIONS
+American Bar Association (ABA): Michael N.
+MELLER (Intellectual Property Law Section, New York)
+American Intellectual Property Law Association (AIPLA): Michael K.
+KIRK (Executive Director, Arlington); Michael J.
+PANTULIANO (Chairman, Harmonization Committee, New York)
+Asociación de Agentes Españoles autorizados ante Organizaciones Internacionales de Propiedad Industrial e Intelectual (AGESORPI)/Association of Spanish Attorneys before International Industrial and Intellectual Property Organizations (AGESORPI): Enrique ARMIJO (Miembro de la Junta Rectora, Barcelona)
+Association asiatique d’experts juridiques en brevets (APAA)/Asian Patent Attorneys Association (APAA): Hideo TANAKA (Member of the Patent Committee, Tokyo)
+Association brésilienne de la propriété industrielle (ABPI)/Brazilian Association of Industrial Property (ABPI): Ivan AHLERT (Engineer and Patent Expert, Rio de Janeiro)
+Association brésilienne des agents de propriété industrielle (ABAPI)/Brazilian Association of Industrial Property Agents (ABAPI): Ivan AHLERT (Member, Rio de Janeiro)
+association internationale pour la protection de la propriété industrielle (AIPPI)/International Association for the Protection of Industrial Property (AIPPI): Michel DE BEAUMONT (Chairman of Question 89E, Grenoble)
+Chartered Institute of Patent Agents (CIPA): John David BROWN (Member of Patents Committee, London)
+Committee of National Institutes of Patent Agents (CNIPA): John David BROWN (Munich)
+Confederation of Indian Industry (CII): Rachna SINGH (Mrs.)
+(Executive Officer, Technology Group, New Delhi)
+Federal Chamber of Patent Attorneys (FCPA): Gert SCHMITT-NILSON (Member of the Committee for Patent Laws and Utility Model Laws, Munich)
+Fédération de l’industrie allemande (BDI)/Federation of German Industry (BDI): Hans‑Jürgen SCHULZE-STEINEN (former Deputy Head, Patent and License Department, Hoechst AG, Frankfurt)
+Fédération européenne des mandataires de l’industrie en propriété industrielle (FEMIPI)/European Federation of Agents of Industry in Industrial Property (FEMIPI): Félix A.
+JENNY (Honorary Board Member and Member of the Working Group European Patent/PCT/Community Patent, Basel)
+Fédération internationale des conseils en propriété industrielle (FICPI)/International Federation of Industrial Property Attorneys (FICPI): Gert SCHMITT-NILSON (Special Reporter, Group for International Matters, Munich)
+Institut des mandataires agréés près l’Office européen des brevets (EPI)/Institute of Professional Representatives before the European Patent Office (EPI): John David BROWN (Member of Harmonisation Committee, Munich); Félix A.
+JENNY (Board Member and Chairman of the Harmonisation Committee, Basel)
+International Intellectual Property Association (IIPA): Michael N.
+MELLER (USA AIPPI Group, New York)
+Japan Intellectual Property Association (JIPA): Hiroshi KATSUYAMA (Vice‑Chairman, International Committee, Tokyo)
+Japan Patent Attorneys Association (JPAA): Kazuaki TAKAMI (Chairman, Working Group on PLT, International Activities Committee, Tokyo); Masaki HIGUCHI (Member of the Patent Committee, Tokyo); Takaaki KIMURA (Working Group on PLT, International Activities Committee, Tokyo); Sadaaki KAMBARA (Member of the Patent Committee, Tokyo)
+Korea Patent Attorneys Association (KPAA): Jong Yoon KIM (Director, International Affairs, Seoul)
+Ligue internationale du droit de la concurrence (LIDC)/International League of Competition Law (LIDC): Jean-François LÉGER (membre du Groupe suisse, Genève)
+Union des Confédérations de l’industrie et des employeurs d’Europe (UNICE)/Union of Industrial and Employers’ Confederations of Europe (UNICE): Félix A.
+JENNY (c/o Patent Department, Novartis, Basel)
+IV.  BUREAU/OFFICERS
+Président/Chairman:  Graham JENKINS (Royaume-Uni/United Kingdom)
+Vice-présidents/Vice-Chairmen: Sohan LAL (Inde/India)
+Eugen STASHKOV (République de Moldova/Republic of    Moldova)
+Secrétaire/Secretary:  Ludwig BAEUMER (OMPI/WIPO)
+V.  BUREAU INTERNATIONAL DE L’ORGANISATION MONDIALE
+DE LA PROPRIÉTÉ INTELLECTUELLE (OMPI)/
+INTERNATIONAL BUREAU OF THE
+WORLD INTELLECTUAL PROPERTY ORGANIZATION (WIPO)
+François CURCHOD, vice-directeur général/Deputy Director General
+Département du droit de la propriété industrielle/Industrial Property Law Department: Ludwig BAEUMER (directeur/Director); Marcus HÖPPERGER (juriste principal, Section du droit des marques et des dessins et modèles industriels/Senior Legal Officer, Trademark and Industrial Design Law Section); Yolanda HUERTA (Ms.) (juriste adjointe/Assistant Legal Officer); Leslie LEWIS (Consultant); Karen LEE (Ms.)
+(Consultant); Tomoko MIYAMOTO (Mrs.)
+(Consultant)
+Albert TRAMPOSCH, directeur-conseiller/Director-Advisor
+Secteur du PCT (Traité de coopération en matière de brevets)/PCT (Patent Cooperation Treaty) Sector: Busso BARTELS (directeur/Director); Philip THOMAS (directeur de la Division juridique/Director, Legal Division)
+[Fin du document/
+End of document]

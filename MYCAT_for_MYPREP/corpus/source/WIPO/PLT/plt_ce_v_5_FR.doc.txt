@@ -1,0 +1,1207 @@
+﻿OMPI
+
+PLT/CE/V/5
+ORIGINAL : français/anglais
+DATE : 19 décembre 1997
+ORGANISATION  MONDIALE  DE  LA  PROPRIÉTÉ  INTELLECTUELLE
+GENÈVE
+
+COMITÉ D’EXPERTS CONCERNANT LE TRAITÉ
+SUR LE DROIT DES BREVETS
+Cinquième session
+Genève, 15 ‑ 19 décembre 1997
+rapport
+adopté par le comité d’experts
+
+I.  INTRODUCTION
+
+
+1	Le Comité d’experts concernant le Traité sur le droit des brevets (ci‑après dénommé “comité d’experts”) a tenu sa cinquième session, à Genève, du 15 au 19 décembre 1997.
+
+2	Les États ci‑après, membres de l’OMPI ou de l’Union de Paris, étaient représentés à la session : Afrique du Sud, Algérie, Allemagne, Argentine, Arménie, Australie, Autriche, Bélarus, Belgique, Brésil, Cameroun, Canada, Chine, Costa Rica, Croatie, Danemark, Égypte, El Salvador, Espagne, Estonie, États‑Unis d’Amérique, Fédération de Russie, Finlande, France, Gabon, Guatemala, Guinée, Hongrie, Inde, Indonésie, Jamaïque, Japon, Kenya, Kirghizistan, Lesotho, Lettonie, Lituanie, Madagascar, Malaisie, Malawi, Mali, Malte, Maroc, Mexique, Norvège, Pays‑Bas, Portugal, République de Corée, République de Moldova, République tchèque, Roumanie, Royaume‑Uni, Sénégal, Singapour, Slovaquie, Soudan, Sri Lanka, Suède, Suisse, Swaziland, Thaïlande, Trinité‑et‑Tobago, Ukraine, Uruguay, Venezuela, Viet Nam, Zambie et Zimbabwe (68).
+
+3	Des représentants de l’Organisation mondiale du commerce (OMC), des Communautés européennes (CE), de l’Office européen des brevets (OEB), de l’Organisation régionale africaine de la propriété industrielle (ARIPO) et de l’Organisation de l’Unité africaine (OUA) ont participé à la session en qualité d’observateurs.
+
+4	Des représentants des organisations non gouvernementales ci‑après ont participé à la session en qualité d’observateurs : Association américaine du droit de la propriété intellectuelle (AIPLA), Association asiatique d’experts juridiques en brevets (APAA), Association brésilienne de la  propriété industrielle (ABPI), Association brésilienne des agents de propriété industrielle (ABAPI), Association coréenne des conseils en brevets (KPAA), Association des avocats américains (ABA), Association des mandataires espagnols auprès des organisations internationales de propriété industrielle et intellectuelle (AGESORPI), Association internationale pour la protection de la propriété industrielle (AIPPI), Association japonaise des conseils en brevets (JPAA), Association japonaise pour la propriété intellectuelle (JIPA), Chambre fédérale des conseils en brevets (PAK), Chartered Institute of Patent Agents (CIPA), Comité des instituts nationaux d’agents de brevets (CNIPA), Confédération des industries indiennes (CII), Fédération de l’industrie allemande (BDI), Fédération européenne des mandataires de l’industrie en propriété industrielle (FEMIPI), Fédération internationale des conseils en propriété industrielle (FICPI), Institut des mandataires agréés près l’Office européen des brevets (EPI), International Intellectual Property Association (IIPA), Ligue internationale du droit de la concurrence (LIDC) et Union des confédérations de l’industrie et des employeurs d’Europe (UNICE) (21).
+
+5	La liste des participants figure dans l’annexe du présent rapport.
+
+6	Au nom du directeur général de l’OMPI, M. François Curchod, vice‑directeur général, a ouvert la session et souhaité la bienvenue aux participants.
+
+7	Le comité d’experts a élu à l’unanimité M. Graham Jenkins (Royaume‑Uni) président et MM. Sohan Lal (Inde) et Eugen Stashkov (République de Moldova) vice‑présidents.  M. Ludwig Bauemer (OMPI) a assuré le secrétariat du comité d’experts.
+
+8	Les délibérations ont eu lieu sur la base des documents ci‑après, établis par le Bureau international de l’OMPI : “Ordre du jour” (document PLT/CE/V/1), “Projet de traité sur le droit des brevets et projet de règlement d’exécution” (document PLT/CE/V/2) et “Notes” (document PLT/CE/V/3).  Dans le présent rapport, toute mention du “projet de traité”, d’un “projet d’article” ou d’un “article”, d’un “projet de règle” ou d’une “règle” ou encore d’une “note” renvoie au texte du projet de traité, ou aux projets d’article ou de règle ou note correspondants figurant dans les documents PLT/CE/V/2 et PLT/CE/V/3.
+
+9	Le secrétariat a pris note des interventions et les a enregistrées sur bande magnétique.  Le présent rapport résume les débats sans rendre compte de toutes les observations qui ont été faites.
+
+
+II.  DÉCLARATIONS GÉNÉRALES
+
+
+10	La délégation des États‑Unis a indiqué que, depuis la dernière session du comité d’experts, elle a cherché à connaître l’opinion du public dans son pays sur la question à l’étude.  Les organisations et les particuliers qui ont répondu ont admis que l’opération présentait un certain intérêt et ont encouragé la délégation à rechercher un accord.  Celle‑ci a dit, comme elle l’avait indiqué lors de la précédente session du comité d’experts, qu’elle continue à croire que cet effort ne doit pas dériver sur des questions de fond.  Il sera beaucoup plus facile d’aboutir à un accord entre tous les pays sur des questions de pure forme et d’éviter ainsi qu’un certain nombre de désaccords, préjudiciables à un compromis, ne surviennent sur des questions de fond.  Cette même délégation a dit que, alors qu’il y a eu une tentative visant à englober les exigences du Traité de coopération en matière de brevets (PCT) dans le traité sur le droit des brevets, on pourrait se pencher plus avant sur une solution consistant à mettre en commun la démarche du traité sur le droit des brevets avec les travaux visant à moderniser le PCT, en tenant compte de l’évolution rapide des techniques de l’information.
+
+11	La délégation de l’Allemagne a déclaré que, à son avis, la proposition est suffisamment élaborée pour permettre la convocation d’une conférence diplomatique dans un avenir proche.  Regrettant que la proposition se limite à des questions de pure forme, la délégation s’est dite toujours favorable à l’harmonisation des questions de fond en matière de droit des brevets et a indiqué qu’elle considère l’harmonisation des formalités comme un premier pas.  Elle a rappelé que l’objectif de l’opération en cours est d’harmoniser les prescriptions de forme en matière de droit des brevets afin de faciliter l’utilisation du système de brevets.  La délégation s’est déclarée préoccupée par le fait que la proposition contient une longue liste de conditions que les parties contractantes sont autorisées à imposer aux déposants.
+
+12	La délégation du Japon a déclaré tout d’abord que, concernant le traitement des demandes sous forme électronique, compte tenu des diverses réunions en cours qui ont pour objet de promouvoir l’informatisation dans le cadre de l’évolution actuelle des techniques de l’information, il est nécessaire d’organiser des discussions serrées sur les règles applicables au dépôt électronique et de continuer à examiner les dispositions relatives au dépôt électronique des demandes.  À cet égard, la délégation a estimé que l’article 5.1)b) s’inscrit dans le contexte actuel.  La délégation a exprimé sa volonté de contribuer à l’activité normative dans ce domaine.  Faisant observer que ce projet de traité comporte un certain nombre de dispositions destinées à améliorer la convivialité (c’est le cas notamment des points sur le formulaire de requête, la prorogation d’un délai et le rétablissement des droits), la délégation s’est déclarée favorable à l’idée d’améliorer les procédures dans cette perspective.  Cependant, elle a fait observer que ces questions font appel au sens des responsabilités des utilisateurs et que les discussions devraient tenir compte de la nécessité d’assurer un certain équilibre en termes de charge de travail administratif entre les déposants, les tiers et les offices.  La délégation a déclaré qu’elle est en mesure d’approuver le concept fondamental de conformité avec le PCT.  Constatant que le projet de traité contient certaines modifications conformes aux modifications apportées au règlement d’exécution du PCT lors de la session de l’Assemblée du PCT en septembre, la délégation a souligné qu’il est indispensable que les deux instances soient en permanence en étroite communication afin de maintenir la cohérence entre les deux traités.  Enfin, la délégation a exprimé l’espoir de contribuer au débat de manière constructive, afin d’aboutir rapidement à la conclusion du traité.
+
+13	La délégation de la Suisse a souligné que la haute qualité des documents fournis va permettre d’obtenir d’excellents résultats au cours de la session.  Elle a insisté à nouveau sur l’importance de l’harmonisation internationale du droit des brevets et sur la nécessité d’aboutir le plus rapidement possible à des résultats positifs.  Elle a estimé que le projet d’accord soumis reflète des progrès importants devant permettre de conclure les travaux dans un proche avenir.  Elle a cité à titre d’exemple positif des dispositions qui sont d’un réel intérêt pour les utilisateurs, notamment l’établissement de liens prudents, et n’allant pas au‑delà de l’acceptable, avec le PCT, ainsi que les dispositions concernant la prorogation des délais, la poursuite de la procédure ou le rétablissement d’une revendication de priorité.  La délégation a souhaité que les travaux en cours ne soient que la première étape en vue d’une harmonisation ultérieure du droit matériel des brevets. 
+
+14	La délégation de la Slovaquie a indiqué avoir étudié les projets de documents et suivi les débats avec beaucoup d’attention.  Elle a exprimé son soutien le plus total à l’harmonisation des législations nationales sur les brevets.  En Slovaquie, la loi sur les brevets a été établie compte tenu de la Convention de Paris pour la protection de la propriété industrielle et du Traité de coopération en matière de brevets.  La délégation a dit que la loi slovaque sur les brevets est, dans ses articles les plus importants, conforme au projet de traité sur le droit des brevets même si, dans certains cas, elle est plus stricte.  La délégation a indiqué qu’elle accorde beaucoup d’importance à l’harmonisation des législations nationales étant donné que la plupart des demandes nationales sont utilisées comme demandes antérieures à l’appui de demandes internationales déposées en vertu du PCT.  Le traité sur le droit des brevets est extrêmement important pour tous les déposants en ce qu’il permet d’assurer des conditions d’égalité pour le dépôt de demandes nationales utilisées par la suite comme documents de priorité dans le cadre de demandes internationales.  La délégation a conclu en annonçant que, se fondant sur la mise en œuvre d’un accord européen d’association, l’Office de propriété industrielle slovaque va modifier la loi nationale sur les brevets au cours de l’année à venir, en tenant compte du projet de traité sur le droit des brevets.
+
+15	La délégation de la République de Corée a constaté avec satisfaction que le projet de traité révisé constitue un moyen d’harmoniser les prescriptions en matière de droit des brevets sur le plan international et a exprimé l’espoir que les efforts déployés par toutes les délégations pour aboutir à un accord résulteront en un traité d’harmonisation de haute qualité.  Elle a souligné cependant qu’il conviendrait de tenir compte dans le projet de traité des avantages respectifs des trois parties intéressées, à savoir l’utilisateur, le tiers et l’office des brevets, afin d’assurer un équilibre raisonnable dans son application.  Privilégier l’une des parties d’une manière excessive pourrait léser les autres parties.  À cet égard, la délégation a exprimé sa préoccupation quant à certaines dispositions du projet, telles que les articles 4.3)c) et 4)a), 5.5)b), 6.1)a) et 14.1)a) qui sont susceptibles d’être trop favorables aux utilisateurs.  La délégation a fait observer que les différents points soulevés lors de la précédente session du comité d’experts ont fait l’objet de débats approfondis et que, par conséquent, le comité d’experts est arrivé à la phase finale de conclusion du traité.  À cet égard, la délégation a exprimé l’espoir que, au cours de la présente session, les différences de points de vue entre les délégations pourront être résolues dans le cadre d’un accord mutuel et a annoncé qu’elle fera tout son possible pour se joindre au consensus et aboutir à la conclusion du traité.
+
+16	La délégation de l’Ukraine a fait observer l’importance de la mise au point définitive du texte du projet de traité pour la conférence diplomatique.  Elle a félicité le Bureau international pour la haute tenue des textes et a souligné l’importance du projet de traité pour l’Ukraine, qui est engagée dans un processus de révision de sa législation de propriété industrielle.
+
+17	La délégation du Canada a dit continuer à croire que l’harmonisation au plan international des lois et pratiques en matière de brevets constitue un objectif important, susceptible d’être très profitable aux inventeurs et aux déposants partout dans le monde.  C’est pourquoi elle a apporté son soutien aux travaux du comité d’experts, même si elle a souligné qu’elle apprécierait beaucoup que des progrès soient réalisés en ce qui concerne les questions relatives à l’harmonisation des dispositions de fond du droit des brevets.  De l’avis de la délégation, le comité a réalisé des progrès considérables dans l’élaboration d’un projet de traité sur le droit des brevets et, dans la plupart des domaines, on est sur le point d’aboutir à un texte définitif acceptable.  Cependant, elle a exprimé sa préoccupation concernant certains détails du texte, au sujet desquels elle fera des observations au cours de la réunion.  La délégation a également fait observer que les conséquences de certaines parties du projet ne seront tout à fait claires pour elle que lorsqu’elle aura une idée précise des modifications que l’on apportera au règlement d’exécution du PCT afin d’assurer des liens entre le traité sur le droit des brevets et le PCT.  À cet égard, la délégation a réitéré l’observation qu’elle avait formulée au cours de la dernière réunion, selon laquelle même si elle est favorable au principe de l’alignement des conditions de forme prévues dans le traité sur le droit des brevets et dans le PCT, il lui semble que le lien actuellement proposé entre ce traité et le PCT est loin d’être tout à fait évident.  De l’avis de la délégation, le lien proposé, ainsi que, notamment, le règlement d’exécution du PCT, deviennent trop complexes.  Elle a estimé que, dans ce domaine, et dans d’autres domaines de l’harmonisation du droit des brevets, un effort particulier doit être fait pour tenter d’aborder le problème dans une optique simple, directe et facile à appréhender.
+
+18	La délégation des Pays‑Bas a indiqué que la conclusion de ce traité présente un intérêt considérable pour son pays qui estime qu’il est extrêmement important pour les déposants de ne pas être pris au dépourvu par les diverses prescriptions de forme qui peuvent exister dans divers pays.  La délégation a estimé qu’une étape a été franchie et qu’il est désormais possible d’aboutir à une conclusion et a dit ne pas douter que, sous la direction du président, cet objectif pourra être atteint.
+
+19	La délégation de la France a exprimé le souhait que la volonté des États membres d’harmoniser le droit des brevets ne se traduise pas seulement dans le fait d’aller plus vite, mais permette d’aller plus loin.  Elle a souhaité que la première raison de l’harmonisation du droit des brevets, c’est‑à‑dire l’harmonisation quant au fond, ne soit pas oubliée.  La délégation a toujours soutenu le projet de traité (PLT) en ce qu’il répond aux demandes et aux besoins des déposants, et elle a relevé qu’un certain nombre de dispositions vont très largement dans ce sens.  C’est le cas notamment des dispositions relatives au recours en restauration ainsi que, dans la mesure où certains points sont ou seront clarifiés, de celles relatives aux revendications de priorité.  Elle a soutenu les liens établis avec le PCT et salue, en particulier, les dispositions de l’article 5 du projet de traité.  La délégation a déclaré que certains éclaircissements seront nécessaires, notamment à l’article 2.3) concernant les caractéristiques particulières de certains types de demandes et de brevets, du point de départ du délai lorsqu’un office ne peut entrer en contact avec le déposant, de l’article 5.5)b) concernant les traductions, et des articles 6.2), 13.1) et 14.5)b).
+
+20	La délégation de l’Australie a indiqué que son pays est depuis longtemps favorable à l’harmonisation et considère que les avantages qui découlent du système de propriété intellectuelle sont énormes.  Évoquant la déclaration de la délégation du Canada, elle a dit souhaiter que certaines des questions de fond soient abordées dans un avenir proche.  La délégation a déclaré que, au cours de la semaine précédente, les pouvoirs publics australiens ont annoncé une réduction de 10% en moyenne des taxes d’enregistrement.  Elle a estimé qu’il s’agit d’une mesure qui va dans la bonne direction et a exprimé l’espoir que les dispositions du traité sur le droit des brevets permettront aux pays d’aller encore plus loin.
+
+21	La délégation de l’Indonésie a partagé le point de vue du comité selon lequel une demande de brevet doit être conforme aux dispositions du PCT car il s’agit d’un modèle qui peut être généralement admis.  Elle s’est donc déclarée favorable au projet de traité et à la mise au point par le comité de dispositions prévoyant des procédures simples, souples, peu onéreuses et plus intelligibles pour tous les intéressés.  En outre, cette même délégation a souhaité que la réunion puisse aboutir à une formulation plus concrète afin que les travaux préparatoires en vue de la convocation d’une conférence diplomatique chargée d’adopter le projet de traité puissent être achevés l’an prochain.
+
+22	La délégation de la Trinité‑et‑Tobago s’est déclarée satisfaite de l’énorme travail accompli par le comité d’experts pour harmoniser le droit des brevets.  Cette harmonisation progresse grâce aux traités mis au point dans d’autres instances pour faciliter le commerce international.  Dans ce contexte, la Trinité‑et‑Tobago s’est récemment dotée d’une nouvelle législation sur les brevets, qui est plus proche de celle de bon nombre des États représentés à la réunion.  Cette même délégation a regretté qu’il n’ait pas été possible d’étudier de manière plus approfondie l’harmonisation des dispositions de fond lors des précédentes réunions.  L’avantage d’une harmonisation quant à la forme, tant pour les utilisateurs que pour les offices, ne doit cependant pas être sous‑estimé.  Comme d’autres États contractants du PCT, la Trinité‑et‑Tobago se félicite des efforts entrepris pour aligner le projet de traité sur le droit des brevets sur le PCT et continuer à simplifier les procédures dans le cadre des deux traités.  Elle a estimé que ces travaux devraient aussi permettre de réduire à l’échelon international le coût de l’obtention des brevets et donner à tous la possibilité de bénéficier de l’énorme potentiel de création dont les coûts et la complexité actuels du système international des brevets freinent le développement.  La délégation de la Trinité‑et‑Tobago a donc donné au comité d’experts l’assurance qu’elle continuera à lui apporter son soutien et son concours dans la difficile tâche que suppose la conciliation des différents points de vue représentés.
+
+23	La délégation de l’Uruguay s’est dite favorable aux travaux entrepris pour harmoniser les formalités du droit des brevets.  Elle a estimé que la poursuite des travaux dans ce domaine sera profitable aux utilisateurs du système.
+
+24	La délégation du Venezuela a appuyé la poursuite des travaux en vue de la conclusion du traité sur le droit des brevets.  Elle s’est dite favorable à la convocation d’une conférence diplomatique dès la conclusion des débats sur les dispositions.  Elle a reconnu l’utilité du traité pour harmoniser l’instruction des demandes en fonction des normes internationales et pour faciliter le dépôt international des demandes émanant de son pays.  Le traité jouerait un rôle complémentaire par rapport aux décisions de la Communauté andine pour ce qui concerne les dispositions sur les brevets et elle s’est dite favorable à leur mise au point.  Elle a déclaré que le Venezuela s’attache à adopter une législation qui lui permette d’adhérer au PCT et a souhaité que les travaux dans ce domaine soient achevés d’ici à la fin de 1998 ou au début de 1999 afin que les deux traités puissent entrer en vigueur au Venezuela.
+
+25	La délégation de la Chine a dit que, pour être plus conviviales et pour mieux protéger les intérêts légitimes des déposants et des inventeurs, les procédures et conditions de dépôt de demandes à l’étranger doivent être aussi simples et uniformes que possible.  Le dépôt des demandes sous forme électronique, qui offre de grands avantages par rapport aux procédures traditionnelles, est d’ores et déjà inévitable, et la conclusion du traité sur le droit des brevets en revêt d’autant plus d’importance du point de vue économique aussi bien que pratique.  La délégation de la Chine s’est donc déclarée favorable, comme elle l’a toujours été, à la conclusion du traité et à son entrée en vigueur à brève échéance.  Elle a relevé qu’il convient encore de simplifier le projet actuel, qui est déjà plus complexe que prévu.  En ce qui concerne la législation et la pratique en vigueur en Chine, la plupart des dispositions du projet de traité ne posent pas beaucoup de problèmes – puisqu’elles sont facultatives pour les parties contractantes – et n’exigent que des modifications mineures.  Il existe cependant quelques dispositions dont la mise en œuvre supposerait que la Chine modifie fondamentalement sa législation et sa pratique, et la délégation chinoise fera part au cours de la réunion de ses observations et propositions pour faciliter l’utilisation du traité dans l’intérêt d’une bonne gestion et du fonctionnement efficace de l’office.
+
+26	La délégation du Royaume‑Uni a dit accueillir avec satisfaction et approuver le projet de traité sur le droit des brevets, qui est un moyen d’harmoniser les formalités et conditions du droit des brevets dans le monde entier, de façon conviviale et moins contraignante.  Elle a cependant estimé que quelques aspects du projet de traité sont incompatibles avec la convivialité des procédures suivies au Royaume‑Uni, et a dit qu’elle ferait des observations à ce propos, le moment venu, au cours des débats.
+
+27	La délégation de l’Inde a souhaité que les débats, sous la présidence de M. Jenkins, soient très fructueux et a aussi remercié les délégations présentes d’avoir élu M. Sohan Lal à la vice‑présidence.  Elle a annoncé qu’elle interviendrait lors du débat sur les articles 5 et 6.
+
+28	La délégation du Soudan s’est dite favorable, dans le principe, à la conclusion du traité.  À propos de l’article 5.4) sur les taxes, elle a relevé que les taxes du PCT ont été réduites de 75% pour les ressortissants de pays en développement et a suggéré qu’une mesure semblable soit prévue dans le traité.
+
+29	La délégation de l’Afrique du Sud a dit que le projet de traité est particulièrement important pour son pays, qui met actuellement en place les mesures lui permettant d’adhérer au PCT.  L’harmonisation qui découlera du traité à l’examen facilitera grandement le dépôt des demandes de brevet pour les utilisateurs.  Elle a ajouté qu’elle souhaiterait une harmonisation plus poussée des questions de fond.
+
+30	La délégation du Kenya a dit qu’elle continue à appuyer les travaux du comité d’experts en vue de la conclusion d’un traité sur l’harmonisation du droit des brevets, car les déposants, leurs représentants et tous les intéressés ont tout à gagner de la simplification des formalités d’obtention de la protection qui en découlera.  Toutefois, elle a estimé que le lien entre certains articles du projet de traité, notamment les articles 2, 13, 14 et 15, et les articles correspondants du PCT n’a pas été assez clairement exposé.  Elle a exprimé l’espoir que le comité d’experts aborde ces articles et d’autres dispositions similaires au cours des débats.
+
+31	Le représentant de l’Office européen des brevets (OEB) a dit qu’il constate, après avoir comparé le projet actuel avec celui examiné pendant la première session du comité d’experts, que des progrès considérables ont été accomplis.  Au début des travaux, il pouvait apparaître que le traité proposé ne contenait pas assez de dispositions sur le fond de manière à lui faire acquérir un poids important dans la pratique.  Toutefois, compte tenu du texte actuel soumis au comité, il ne fait aucun doute que ce traité est à même de faciliter considérablement la vie des inventeurs.  Le nouveau projet de traité sur le droit des brevets est déjà devenu un texte de référence pour les personnes chargées d’adapter et de modifier le droit des brevets dans leurs pays.  Parmi les points de la Convention sur le brevet européen actuellement examinés par le Conseil d’administration comme susceptibles de faire l’objet d’une révision, plusieurs dispositions pourraient être en phase directe avec le traité sur le droit des brevets.  Bien que le représentant ait indiqué qu’il sera nécessaire de réexaminer soigneusement diverses dispositions du projet, il a estimé que le texte pourra être mis au point prochainement et a espéré que la simplification des formalités résultant du traité sur le droit des brevets ouvrira la voie à une harmonisation plus poussée sur le fond.
+
+32	Le représentant de l’ARIPO a dit que, bien que l’ARIPO participe au comité d’experts concernant le traité sur le droit des brevets pour la première fois, cette organisation a suivi avec intérêt les délibérations du comité au cours de ses sessions précédentes, en particulier en ce qui concerne les questions prises en compte dans le nouveau projet de traité.  Il a aussi souligné l’intérêt que l’ARIPO accorde aux dispositions qui permettent aux organisations régionales d’adhérer au traité, ainsi qu’aux dispositions visant à établir une conformité avec le PCT, étant donné que 10 États membres de l’ARIPO sont parties au PCT.  En outre, le représentant a annoncé que les dispositions de ce projet de traité seront utilisées comme référence en vue de la révision du Protocole de Harare relatif aux brevets et aux dessins et modèles industriels dans le cadre de l’ARIPO.  La révision de ce protocole a déjà débuté dans le cadre du Conseil d’administration de l’ARIPO, qui a tenu sa vingt et unième session à Maseru (Royaume du Lesotho) il y a trois semaines;  cet organe a en effet commencé de modifier le Protocole de Harare en vue de créer une commission de recours.  Le Secrétariat de l’ARIPO s’emploie actuellement à examiner d’autres dispositions du Protocole de Harare dans un souci d’harmonisation.  Le représentant de l’ARIPO a déclaré que, l’harmonisation étant l’un des objectifs de l’ARIPO énoncés à l’article III.a) de l’Accord de Lusaka sur la création de l’ARIPO adopté en 1976, cette organisation est d’une façon générale favorable à tous les efforts d’harmonisation dont le projet de traité est une preuve.
+
+33	Le représentant de l’Association américaine du droit de la propriété intellectuelle (AIPLA) a déclaré que son organisation approuve pleinement les travaux d’harmonisation en cours et que ces travaux devraient être achevés le plus rapidement possible.  Toutefois, il existe une incertitude quant à la forme finale sous laquelle le projet de traité sur le droit des brevets sera adopté, et le représentant a demandé au Bureau international des précisions à cet égard.
+
+34	Répondant à la question du représentant de l’AIPLA, le Bureau international a expliqué que la forme finale sous laquelle le projet de traité sur le droit des brevets sera adopté n’a pas encore été arrêtée.  Il a informé le comité d’experts que des consultations officieuses, organisées par la présidente de l’Assemblée générale de l’OMPI, se tiendront en vue d’examiner des propositions relatives au projet de programme et budget pour l’exercice biennal 1998‑1999 et, à cet égard, d’étudier quelle sera la forme la plus appropriée pour l’adoption du contenu du projet de traité sur le droit des brevets.  L’issue de ces consultations officieuses servira de base à une proposition qui figurera dans le projet de programme et budget pour l’exercice biennal 1998‑1999 en vue d’être présentée aux organes directeurs de l’OMPI pour adoption au mois de mars 1998.
+
+35	Le représentant de l’Association des avocats américains (ABA) a rappelé que, avec ses 14 000 membres, cette organisation est probablement l’organisation non gouvernementale du domaine de la propriété intellectuelle dont les effectifs sont les plus nombreux.  En ce qui concerne le projet de traité sur le droit des brevets, le représentant a fait deux observations.  Premièrement, tout comme la délégation des États‑Unis d’Amérique, l’ABA estime que l’harmonisation des législations nationales relatives aux brevets doit se limiter à des questions de forme.  Une fois qu’un accord aura été conclu sur les formalités, il sera peut‑être possible de passer à des dispositions de fond.  Deuxièmement, le représentant est revenu sur la suggestion de fusionner le traité sur le droit des brevets et le PCT et a déclaré que l’ABA est opposée à une telle solution.  Se référant au discours prononcé par M. Kamil Idris à l’occasion de sa nomination au poste de directeur général de l’OMPI, le représentant a déclaré qu’il faut réfléchir à la possibilité de trouver un moyen propice à une harmonisation internationale en évitant de passer par des procédures internationales et nationales longues et contraignantes.
+
+36	Le représentant de l’Association internationale pour la protection de la propriété industrielle (AIPPI) a appuyé les efforts d’harmonisation qui résultent du projet de traité, même si cette harmonisation n’a qu’un caractère limité.  Il a indiqué que l’essentiel, dans ce projet, est la simplification, pour les étrangers, de l’accès aux droits de propriété industrielle dans les pays tiers.  Il a soutenu, comme les délégués du Burkina Faso et du Pérou, le paragraphe 120 du rapport sur la quatrième session du comité d’experts, selon lequel les étrangers doivent pouvoir s’appuyer sur des mandataires qui sont de bons professionnels.  Il a estimé qu’il semble déraisonnable d’encourager la création de corps de mandataires qualifiés dans les pays en développement tout en interdisant aux États le droit de réserver à ces mandataires le dépôt de traductions, qui sera probablement une de leurs tâches importantes.  En conséquence, il a demandé que l’interdiction formulée à l’article 7.2.i) soit reconsidérée. 
+
+37	Le représentant de la Fédération européenne des mandataires de l’industrie en propriété industrielle (FEMIPI), de l’Institut des mandataires agréés près l’Office européen des brevets (EPI) et de l’Union des confédérations de l’industrie et des employeurs d’Europe (UNICE) a déclaré que les trois organisations qu’il représente approuvent sans réserve le projet de traité sur le droit des brevets et en particulier les dispositions favorables aux déposants.  Les trois organisations considèrent ce traité comme une étape importante tout en espérant qu’il sera possible d’arriver prochainement à une harmonisation sur les questions de fond de manière à faciliter la vie des déposants.
+
+38	Le représentant de l’Association japonaise pour la propriété intellectuelle (JIPA) a dit que, d’une façon générale, il approuve le projet de traité, tout en estimant que certains articles proposés sont trop stricts pour les déposants ou mal équilibrés.  Il déclare que, au Japon, les déposants et l’Office japonais des brevets échangent des informations sous forme électronique depuis 1990.  La plupart des déposants considérant qu’il est plus commode d’utiliser un système de dépôt électronique, le représentant de la JIPA espère que ce traité facilitera l’introduction d’un tel système dans de nombreuses parties contractantes.  Il espère aussi que le traité sur le droit des brevets portant sur les formalités entrera en vigueur rapidement et que ce traité constituera un point de départ à un débat sur les questions de fond touchant à l’harmonisation des législations sur les brevets.
+
+39	Le représentant de l’Association coréenne des conseils en brevets (KPAA) a dit que, bien que cette session soit la première occasion pour son organisation de faire part de son avis dans le cadre du comité d’experts, il s’est toujours montré attentif et est tout à fait au courant des débats qui ont eu lieu au cours des réunions précédentes.  Il souscrit à l’objectif principal que devrait permettre d’atteindre l’harmonisation des législations dans le cadre du présent traité, à savoir la simplification des procédures et la réduction des coûts au profit des utilisateurs.  Il a souligné qu’il est important que les lois relatives à la propriété intellectuelle soient appliquées dans les pays en développement et que, si les experts ne sont pas appuyés en particulier dans ces pays, les lois ne pourront pas y être appliquées correctement.  Il a donc émis l’espoir que la même attention soit accordée, au profit des utilisateurs, à la nécessité de soutenir les experts dans les pays en développement.
+
+40	Le représentant de la Fédération internationale des conseils en propriété industrielle (FICPI) a rappelé que son organisation suit depuis plus de 10 ans, avec un grand intérêt, les efforts et les tentatives de l’OMPI pour arriver à un consensus en matière d’harmonisation des législations relatives aux brevets.  Son organisation aurait aimé une harmonisation plus large couvrant les domaines de fond à l’égard desquels les divergences de vues ne semblent plus être trop marquées.  Toutefois, un traité sur les formalités est certainement préférable, dans un premier temps, à une absence totale d’harmonisation.  Le représentant a dit que certains points du projet de traité sur le droit des brevets suscite une inquiétude croissante pour son organisation.  Premièrement, la FICPI se félicite de la souplesse manifestée en ce qui concerne la restauration de la priorité conventionnelle, mais il lui est difficile de comprendre pourquoi les parties contractantes pourraient exclure le rétablissement des droits pour des points relativement simples tels que le paiement des taxes de maintien en vigueur, le dépôt d’une demande de recherche ou d’examen ou encore la remise d’une traduction du brevet original.  Deuxièmement, la FICPI se félicite de la possibilité de poursuivre la procédure relative à la demande en vue de remédier au non‑respect involontaire des délais mais est préoccupée par le fait que la possibilité donnée de poursuivre la procédure, s’il en est fait usage, donne des droits à des tiers, ce qui est difficilement acceptable pour elle.  Troisièmement, la FICPI est particulièrement préoccupée par ce qu’elle considère comme une liste de plus en plus longue et illogique d’actes pour lesquels les parties contractantes ne seraient plus libres de rendre obligatoire le recours à un mandataire professionnel.  Il semble plus honnête de laisser à chaque partie contractante le soin de décider si elle souhaite rendre le recours à un mandataire totalement obligatoire ou non.
+
+41	La représentante de la Confédération des industries indiennes (CII) a dit que, l’Inde étant signataire des conventions relatives aux échanges commerciaux multilatéraux, elle entend respecter ses obligations internationales.  Elle a expliqué que la CII mène actuellement une campagne de sensibilisation à divers traités internationaux dans le domaine de la propriété intellectuelle.  Elle a aussi fait part de la préoccupation de la CII en ce qui concerne les coûts de traduction en tant qu’élément du prix à payer pour l’obtention d’un brevet.
+
+42	Le représentant de l’Association japonaise des conseils en brevets (JPAA) s’est dit favorable à ce que les dispositions du traité soient, dans toute la mesure du possible, alignées sur celles du PCT, qui joue un rôle important et offre aux utilisateurs un modèle de système de format unique pour la présentation des demandes.  En ce qui concerne les dispositions sur le dépôt électronique, ce même représentant a dit que, d’après son expérience, ce dépôt est efficace pour les communications entre l’office des brevets et les mandataires en brevets et qu’il espère qu’il tendra à se généraliser avec l’évolution des techniques.  Il s’est prononcé en faveur des nouveaux articles sur les prorogations de délai, le rétablissement des droits et le rétablissement d’une revendication de priorité.  Notant que ces dispositions correspondent à des conditions minimums, le représentant de la JPAA a dit que la souplesse inhérente à cette formule serait favorable à l’obtention de la protection par brevet.  En ce qui concerne la représentation, il a rappelé qu’en raison des barrières linguistiques une expérience de la pratique est considérée comme essentielle pour l’obtention d’une protection suffisante.  Il a estimé que la traduction d’une demande est aussi importante que la demande déposée initialement auprès de l’office puisque la portée des revendications est définie par cette traduction.  De ce point de vue, il a dit que l’article 7.2)a)i) et ii) ne peut être accepté.
+III.  DISPOSITIONS DU PROJET DE TRAITÉ
+ET DU PROJET DE RÈGLEMENT D’EXÉCUTION DU PROJET DE TRAITÉ
+
+
+Projet d’article premier :  Expressions abrégées
+
+43	Points i) à iv).  Ces points ont été approuvés sous la forme proposée.
+
+44	Point v).  En réponse à une délégation ayant suggéré que la définition de la “communication” englobe uniquement celles qui sont soit présentées par écrit, soit susceptibles d’être consignées par écrit, le Bureau international a expliqué que cette disposition n’a pas pour effet d’empêcher les parties contractantes d’accepter des communications orales, mais leur laisse au contraire une totale liberté à cet égard.  En conclusion, ce point a été approuvé sous la forme proposée.
+
+45	Point vi).  Une suggestion tendant à insérer à la deuxième ligne, dans la version anglaise du texte, après les mots “the Office, relating to”, les mots “and including” a été acceptée.  Une autre suggestion tendant à insérer à la quatrième ligne, après le mot “inscrites”, les mots “par l’Office” a également été acceptée.  Sous réserve de ces deux modifications, ce point a été approuvé sous la forme proposée.
+
+46	Point vii).  Ce point a été approuvé sous la forme proposée.
+
+47	Point viii).  Il a été suggéré d’examiner la possibilité d’élargir la portée de cette disposition en y ajoutant le membre de phrase “ou la personne qui présente la demande, ou qui a le droit de poursuivre la procédure y relative”.  Il a été convenu qu’un tel élargissement ne serait acceptable que s’il était applicable dans l’ensemble du texte.  Sous réserve du réexamen que cela suppose, ce point a été approuvé sous la forme proposée.
+
+48	Point ix).  La délégation des États‑Unis d’Amérique a suggéré d’étendre la portée de la définition du terme “titulaire” afin qu’elle s’applique au “titulaire de la demande ou du brevet”.  En réponse, le Bureau international a expliqué qu’une indication distincte du “déposant” est nécessaire, par exemple pour désigner la personne qui demande la délivrance du brevet au moment du dépôt de la demande.  Cela étant, il a été convenu de passer en revue le document pour voir, chaque fois que le mot “titulaire” apparaît, si la modification proposée répondrait au problème perçu.  Sous réserve de ce réexamen, ce point a été approuvé sous la forme proposée.
+
+49	Point x).  Un représentant d’organisation non gouvernementale a signalé que les termes français “cabinet d’avocats” et “cabinet de conseils en propriété industrielle” n’ont pas une portée aussi large que les termes correspondants “firm or partnership” employés dans le texte anglais.  Sous réserve d’une révision à cet égard du texte français, ce point a été approuvé sous la forme proposée.
+
+50	Points xi) et xii).  Ces points ont été approuvés sous la forme proposée.
+
+51	Point xiii).  Ce point reste réservé pour un examen ultérieur.
+
+52	La délégation des États‑Unis d’Amérique a fait observer que quelques définitions ne sont pas identiques dans le projet de traité sur le droit des brevets et dans le Traité de coopération en matière de brevets (PCT) et elle a suggéré l’emploi d’un vocabulaire commun pour certains termes qui apparaissent à la fois dans le projet de traité sur le droit des brevets et dans le PCT.  Le Bureau international a répondu que certains termes sont employés dans le PCT avec un sens particulier, le terme “requête” par exemple, mais que tous les termes qui apparaissent dans les deux traités feront l’objet d’un examen.
+
+53	La délégation des États‑Unis d’Amérique a également demandé, à propos de la note 1.02, si le traité régira les demandes résultant d’une transformation et les demandes de transformation.  Il a été convenu que la question sera étudiée par le Bureau international. 
+
+
+Projet de règle 1 :  Expressions abrégées
+
+54	Cette règle a été approuvée sous la forme proposée.
+
+
+Projet d’article 2 :  Demandes et brevets auxquels le traité s’applique
+
+55	Alinéa 1)a).  En réponse à la demande d’éclaircissement d’une délégation, le Bureau international a précisé qu’une “partie contractante” ne peut être qu’un État ou une organisation intergouvernementale.  À la suite d’une question soulevée par la délégation de la Fédération de Russie, le Bureau international a expliqué que le traité s’appliquerait sur le territoire relevant d’une partie contractante quelle que soit la nationalité du déposant ou du titulaire.
+
+56	Une suggestion du représentant de l’OEB tendant à supprimer, à la fin du sous‑alinéa a), le membre de phrase “ainsi qu’aux brevets délivrés produisant leurs effets à l’égard d’une partie contractante” n’a pas été acceptée.  Le Bureau international a expliqué que le résultat recherché – à savoir que certaines procédures des offices régionaux, telles que les procédures d’opposition auprès de l’OEB, ne soient pas régies par le traité sur le droit des brevets à moins que ces offices régionaux ne soient eux‑mêmes parties à ce traité – serait le même indépendamment de la présence ou de la suppression de ce membre de phrase dans le traité.  En outre, une délégation, à l’appui de l’explication donnée par le Bureau international, a déclaré que ce membre de phrase est nécessaire pour couvrir le cas d’un office régional qui ne serait pas une partie contractante du traité sur le droit des brevets.  Le sous‑alinéa a) a été approuvé sous la forme proposée.
+
+57	Le représentant d’une organisation non gouvernementale s’est inquiété du caractère peut‑être incomplet de la note 2.01 eu égard à la question soulevée par le représentant de l’OEB et a suggéré de préciser dans cette note que le traité sur le droit des brevets s’appliquera à tous les brevets produisant leurs effets dans un pays qui est partie contractante du traité sur le droit des brevets, que ces brevets aient été délivrés par l’office national du pays en question ou par l’intermédiaire de l’office régional dont ce pays est membre.  Il a été convenu que le Bureau international révisera la note en question dans ce sens.
+
+58	Alinéa 1)b).  Une délégation a demandé qu’il soit précisé si les “brevets d’innovation” seraient régis par l’alinéa 1)a) ou exclus en vertu de l’alinéa 1)b).  Le Bureau international a expliqué que le traité sur le droit des brevets régira les brevets visés à l’article 27.1) de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce (Accord sur les ADPIC).  En outre, dans le cadre du PCT, ce type de question se résout en déterminant si la protection découlant d’un “brevet” de cette nature est une protection d’invention.  Il a encore été débattu de cet alinéa à propos de l’alinéa 3).
+
+59	Alinéa 2), point i).  La majorité des délégations se sont déclarées favorables à la présence de cette disposition dans le traité et à la suppression des crochets, tandis que deux délégations ont suggéré de supprimer ce texte.  Il a été convenu que ce texte serait maintenu.
+
+60	Point ii).  La délégation de l’Australie a signalé que ce que l’on entend par “une fois le traitement commencé” varie selon les offices et elle a suggéré de remplacer cette expression par le libellé suivant : “une fois remplies les conditions énoncées à l’article 22.1) ou à l’article 39.1) du Traité de coopération en matière de brevets”. En réponse à une demande de précision quant à l’applicabilité de cette suggestion à l’égard d’un État contractant qui ne serait pas partie au PCT, le Bureau international a déclaré que la disposition en question ne s’appliquerait pas à de tels États.  La délégation des États‑Unis d’Amérique a réservé sa position.  Cette disposition a par ailleurs été approuvée sous la forme proposée.
+
+61	Alinéa 3).  Les délégations ont, dans leur majorité, approuvé cet alinéa tout en suggérant des modifications rédactionnelles.  Plusieurs délégations ont suggéré que la mention de certains types de demandes, à l’alinéa 3), soit incorporée à l’alinéa 1)b) afin que le projet de traité ne puisse s’appliquer à une demande qui ne peut être déposée en tant que demande internationale selon le PCT ni à un brevet résultant d’une telle demande.  D’autres ont suggéré de mentionner, de préférence, à l’alinéa 3) les titres énumérés à l’alinéa 1)b), et de supprimer ce dernier.  Il a été convenu que le Bureau international étudiera dans le détail ces suggestions.
+
+
+Projet d’article 3 :  Défense nationale
+
+62	Cet article a été approuvé sous la forme proposée.
+
+
+Projet d’article 4 :  Date de dépôt
+
+63	Alinéa 1)a), partie introductive.  En réponse à une délégation qui a proposé que la date de dépôt d’une demande ne puisse être postérieure à la date à laquelle son office a reçu les éléments prescrits, le Bureau international a fait observer qu’une telle disposition ne serait pas conforme au principe selon lequel les conditions énoncées à l’alinéa 1) constituent une norme impérative.  Le représentant d’une organisation non gouvernementale a fait observer qu’il n’est pas indiqué expressément que les conditions énoncées à l’alinéa 1) constituent une norme impérative.
+
+64	En réponse à une observation formulée par une autre délégation, il a été convenu que le Bureau international devra indiquer clairement dans les notes que la date à laquelle l’office a reçu les éléments prescrits peut être postérieure à la date de réception des éléments proprement dits, lorsque ceux‑ci sont reçus après les heures d’ouverture de l’office pour le dépôt des demandes ou un jour de fermeture de l’office.  Sous réserve de cette observation, la partie introductive a été approuvée sous la forme proposée.
+
+65	Point i).  En réponse à la suggestion d’une délégation et du représentant d’une organisation non gouvernementale tendant à ce que les mots “indication explicite ou implicite” soient supprimés pour des raisons de conformité avec l’article 11.1)a) du PCT, le Bureau international a expliqué que ce point est conçu pour être moins contraignant que le PCT et que l’indication visée au point i) figure déjà dans le formulaire de requête prévu par le PCT.  À la suite de cette discussion, ce point a été approuvé sous la forme proposée.
+
+66	Point ii).  Deux délégations et un représentant d’une organisation intergouvernementale ont exprimé leur désaccord avec la proposition d’une délégation tendant à ce que ce point soit limité aux indications concernant le déposant.  À la suite de cette discussion, ce point a été approuvé sous la forme proposée.
+
+67	Point iii).  En réponse à une délégation ayant fait observer qu’il pourrait être impossible pour l’office de déterminer si un texte rédigé dans une langue qu’il n’accepte pas est “une partie qui, à première vue, semble constituer une description”, le Bureau international a fait observer qu’une date de dépôt accordée à une demande ne comportant aucune description n’aurait aucune valeur réelle et que, par conséquent, la situation se réglerait d’elle‑même.  La délégation des États‑Unis d’Amérique a émis une réserve sur ce point, car il ne permettrait pas à une partie contractante d’attribuer une date de dépôt à une demande contenant un dessin sans aucune description.  Le Bureau international a indiqué qu’il étudiera cette question.
+
+68	Suite à un échange de vues, au cours duquel le Bureau international a fait observer que ce point est identique à l’article 11.1)iii)d) du PCT et trois délégations se sont déclarées favorables à la présence de ce point, cette disposition a été approuvée sous la forme proposée, moyennant d’autres réserves formulées par les délégations de l’Uruguay et du Venezuela.
+
+69	Point iv).  En réponse à la suggestion d’une délégation, il a été convenu que le Bureau international devrait préciser le lien entre les conditions énoncées aux points iii) et iv).
+
+70	En réponse au commentaire d’une délégation et du représentant d’une organisation non gouvernementale, le Bureau international a expliqué que les mots “l’une des langues acceptées par l’office” s’inspirent de la suggestion formulée à la quatrième session du comité d’experts – dont il est rendu compte au paragraphe 83 du document PLT/CE/IV/4 – et qui tend à ce que la formule analogue qui figure à l’article 5.3) soit transformée en “une des langues admises par son office”, afin de tenir compte des prescriptions régissant l’utilisation des langues dans certains États.  Il a été convenu que le Bureau international reverra cette formule.  Le représentant d’une organisation non gouvernementale a demandé si une telle disposition est susceptible d’aller à l’encontre des dispositions relatives au “traitement national” ou “au traitement de la nation la plus favorisée” des articles 3 et 4 de l’Accord sur les ADPIC.
+
+71	Nouveau point.  À la suite d’une intervention du représentant d’une organisation non gouvernementale, qui s’est félicité de ce que l’alinéa 1)a) ne contient aucune disposition visant à ce que la demande comporte une partie qui, à première vue, semble constituer une ou des revendications, comme l’exige l’article 11.1)iii)e) du PCT, la délégation de l’Espagne a proposé qu’une telle disposition soit bel et bien incorporée au texte du projet d’article sous la forme d’un nouveau point.  Aucune délégation n’a appuyé cette proposition.
+
+72	Alinéa 1)b).  En réponse à une délégation qui a demandé si une erreur dans la traduction d’une description établie dans une langue non acceptée par l’office pourrait être corrigée, le Bureau international a expliqué que cette question relève de la législation nationale en vertu de l’article 12.  En réponse à une autre question posée par la même délégation, le Bureau international a également estimé que, étant donné que la divulgation de tout objet contenu dans les revendications déposées dans une langue non acceptée par l’office sera prise en compte, les revendications présentées à la date de dépôt seront déterminantes même si elles sont libellées dans une langue non acceptée par l’office.  Sous réserve de ces explications, la disposition a été approuvée sous la forme proposée.
+
+73	Alinéa 2)a).  Cette disposition a été approuvée sous la forme proposée.
+
+74	Alinéa 2)b).  Suite aux observations de trois délégations portant sur les problèmes liés à la façon de déterminer si la demande renvoie à des dessins qui, en fait, n’y figurent pas, il a été proposé d’ajouter à la première ligne les mots “l’office détermine que” après “lorsque”.  Sous réserve de cette suggestion, cette disposition a été approuvée sous la forme proposée.
+
+75	Alinéa 3)a).  La délégation de la Fédération de Russie a fait observer que la date de dépôt s’établit différemment selon que l’on se reporte à l’alinéa 3)a) ou à l’alinéa 3)b).  Elle a en outre relevé qu’il n’existe aucun lien entre les sous‑alinéas a), b) et c) de l’alinéa 3) quant aux cas dans lesquels les “conditions sont remplies ultérieurement”.  Elle a aussi proposé de supprimer le mot “ultérieurement” à la quatrième et à la sixième ligne.
+
+76	La délégation de la Chine a déclaré qu’elle réserve sa position au sujet de cette disposition étant donné que, d’après la législation de son pays et dans la pratique de son office, une demande qui ne satisfait pas aux conditions relatives à la date de dépôt est rejetée par l’office et doit être présentée à nouveau par le déposant.
+
+77	Alinéa 3)b).  Une délégation a suggéré que le délai mentionné dans la dernière phrase de la disposition soit le même que celui qui figure dans le règlement d’exécution et soit, par exemple, fixé à un mois, plutôt que d’être déterminé par l’office.  La délégation de la Fédération de Russie a proposé que, conformément aux observations qu’elle a formulées concernant le sous‑alinéa a), le contenu de l’alinéa 3) b) et c) soit déplacé dans un alinéa distinct du sous‑alinéa a);  de plus, le mot “ultérieurement” devrait être supprimé à la septième et à la onzième lignes.
+
+78	Le représentant d’une organisation intergouvernementale a suggéré que le déposant soit informé de la date de dépôt accordée en vertu de la première phrase.  En réponse à une organisation non gouvernementale ayant proposé qu’il soit donné un caractère obligatoire à la disposition de la troisième phrase, le Bureau international a expliqué que, comme indiqué dans la note 4.22, ce n’est pas possible parce que les offices qui ne procèdent pas à un examen ne seront pas en mesure de déterminer si les derniers dessins fournis contiennent ou non des éléments nouveaux.
+
+79	Alinéa 3)c).  Sept délégations et les représentants de deux organisations non gouvernementales ont exprimé leur désaccord avec la proposition d’une délégation tendant à supprimer cette disposition.  Les représentants de deux organisations non gouvernementales ont déclaré qu’elles ne sont pas favorables à une suggestion du représentant d’une organisation intergouvernementale tendant à considérer que cette disposition est liée à la rectification d’une erreur et devrait être incluse dans une règle relative à l’application de l’article 12.
+
+80	Une délégation et les représentants de deux organisations non gouvernementales ont exprimé leur désaccord avec une proposition d’une autre délégation tendant à ce qu’un délai soit inclus dans cette disposition, au motif que la description ou le dessin en cause peut être fourni au cours de l’examen de fond.
+
+81	À la suite d’un échange de vues, il a été convenu que le Bureau international devra revoir le libellé de la disposition compte tenu du débat mentionné ci‑dessus et des suggestions tendant à ce que, à la première ligne de la version anglaise du texte, le mot “When” soit remplacé par “Where”, à ce que l’expression “s’il y a lieu” qui figure à la deuxième ligne soit précisée et, par exemple, remplacée par les mots “sauf indication contraire du déposant”, à ce que les mots “ayant figuré” remplacent le mot “figurant” à la deuxième ligne, à ce que l’office soit autorisé à demander qu’une copie et une traduction de la demande antérieure soient fournies et à ce que la disposition soit limitée aux cas impliquant des erreurs commises par inadvertance ou des omissions involontaires.  La délégation de la France a également estimé que le texte français n’est pas aussi précis que le texte anglais.
+
+82	Alinéa 4).  En réponse à une question du Bureau international, six délégations et 10 organisations non gouvernementales se sont exprimées en faveur du maintien de cet alinéa;  quatre délégations se sont déclarées favorables à sa suppression.  Une délégation a estimé qu’aucune modification de la demande ne devrait être autorisée tant que la copie de la demande antérieure n’a pas été fournie.
+
+83	Alinéa 4)a), partie introductive.  En réponse à la question d’une délégation, et à la suggestion d’une autre délégation selon laquelle la disposition devrait être limitée à la “même invention revendiquée”, le Bureau international et le représentant d’une organisation non gouvernementale ont expliqué que la description et les dessins figurant dans la demande antérieure doivent exposer de manière suffisante l’invention revendiquée dans la demande contenant le renvoi, c’est‑à‑dire qu’il faut qu’il y ait objet commun mais que l’invention revendiquée ne doit pas nécessairement être la même.  Dans ces conditions, le représentant en question a estimé que les mots “de la même invention” ne sont pas nécessaires.
+
+84	Une délégation a suggéré que la disposition soit encore modifiée de manière à s’appliquer aussi au cas où il y a au moins un déposant commun.  En outre, le représentant d’une organisation non gouvernementale a estimé que la disposition pourrait être limitée aux cas où la demande antérieure a été déposée dans un pays tiers.
+
+85	Point i).  Aux termes d’un court débat, il a été convenu que le Bureau international devra revoir le libellé de ce point pour tenir compte de la suggestion faite par une délégation de remplacer le mot “ou” à la première ligne par “et”, et de celle faite par deux autres délégations de ne pas exiger la remise d’une demande si l’office a la possibilité de consulter une copie de la demande antérieure.
+
+86	Point ii).  Deux délégations ont suggéré que les parties contractantes puissent ne pas exiger que la copie de la demande antérieure soit certifiée conforme.  Une autre délégation a suggéré qu’une partie contractante qui exige une copie certifiée conforme devrait pouvoir exiger, conformément à l’article 5.5)a), que cette copie certifiée conforme soit accompagnée d’un certificat établi par le même office et indiquant la date de dépôt de la demande antérieure.
+
+87	Alinéa 4)b).  Une délégation, appuyée par une autre délégation, a proposé que les mots “toute Partie contractante peut prévoir que” soient ajoutés avant les mots “la demande” à la fin de la première ligne, ou qu’une autre modification soit apportée à cette disposition pour la rendre plus souple.
+
+88	Alinéa 5).  Après une explication du Bureau international, il a été convenu que ce point sera maintenu entre crochets en attendant qu’une décision soit prise sur l’insertion dans le règlement d’exécution du PCT d’une disposition permettant le dépôt d’une demande divisionnaire en tant que demande internationale.
+
+
+Projet d’article 5 :  Demande
+
+89	Alinéa 1)a).  La délégation des États‑Unis d’Amérique a dit qu’elle ne peut toujours pas accepter l’harmonisation des dispositions sur l’unité de l’invention dans le cadre du traité envisagé et qu’elle recherchera une solution de compromis à cet égard, par exemple au moyen d’une réserve.
+
+90	La délégation du Canada a dit que, bien qu’elle soit en principe en faveur de cette disposition, elle ne peut se prononcer définitivement tant que le règlement d’exécution du PCT n’aura pas fait l’objet de toutes les modifications qu’il est proposé d’y apporter.
+
+91	En réponse à la question de la délégation de l’Inde, le Bureau international a fait observer que, comme il est expliqué dans la note 5.02, la condition autorisée en vertu de l’article 29.2 de l’Accord sur les ADPIC et les conditions prévues par la législation indienne en ce qui concerne la divulgation des résultats de la recherche sur les demandes et brevets connexes ne portent pas sur la forme et le contenu d’une demande au sens de l’alinéa 1)a).
+
+92	Sur réserve des déclarations susmentionnées, cette disposition a été approuvée sous la forme proposée.
+
+93	Alinéa 1)b).  La délégation de la Fédération de Russie a proposé que la deuxième phrase de cette disposition soit supprimée et qu’un nouvel alinéa, ayant la teneur suivante, soit ajouté :
+
+		“[Forme du dépôt]  a)  Chaque Partie contractante autorise le dépôt des demandes sur papier.
+
+			b)  Chaque Partie contractante peut autoriser le dépôt des demandes sous forme électronique ou sous une autre forme.”
+
+94	Une autre délégation, appuyée par deux autres, a dit qu’il est nécessaire de recenser les questions que soulève cette disposition.  Le règlement d’exécution ne devrait notamment pas obliger une partie contractante à accepter le dépôt électronique des demandes ni l’autoriser à exclure le dépôt des demandes sur papier auprès de son office.  En outre, toute disposition autorisant une partie contractante acceptant le dépôt électronique des demandes à exclure le dépôt de demandes sur papier ne devrait pouvoir être adoptée qu’à l’unanimité.  Une autre délégation a cependant proposé qu’à l’avenir il soit possible à certains offices de renoncer aux dépôts sur papier et que le règlement soit suffisamment souple pour permettre une telle mesure.  Une autre délégation a suggéré que l’on précise si un déposant qui a entamé une procédure sous une forme, par exemple sous forme électronique, serait ou non autorisé à opter ensuite pour une autre forme, par exemple le papier.  Il a été convenu que le Bureau international réexaminera l’alinéa 1)b) à la lumière de ces observations.
+
+95	Alinéa 1)c).  Une délégation a fait observer que l’expression “partie requête de la demande” n’a jamais été employée dans le traité et a proposé qu’elle soit définie, de même que d’autres expressions figurant dans le PCT, afin de préciser si elles sont employées dans le même sens que dans ce dernier traité.
+
+96	La délégation de la Fédération de Russie a suggéré, compte tenu de sa proposition concernant l’alinéa 1)b), que les mots “qui n’a pas exclu le dépôt des demandes sur papier auprès de son office” soient supprimés.  Sous réserve de l’examen de cette suggestion, cette disposition a été approuvée sous la forme proposée.
+
+97	Alinéa 2).  Il a été entendu que, si les propositions tendant à inclure des dispositions à cet effet dans le règlement d’exécution du PCT sont adoptées, cet alinéa ne sera pas nécessaire.
+
+98	Alinéa 3).  Cet alinéa a été approuvé sous la forme proposée.  
+
+99	Alinéa 4).  La délégation du Soudan a proposé que, pour atténuer les difficultés auxquelles se heurtent les ressortissants de pays en développement qui souhaitent faire protéger leurs inventions à l’étranger, le texte suivant, qui correspond à une disposition du PCT, soit ajouté à cet alinéa et aux dispositions concernant d’autres taxes prévues dans le projet de traité :
+
+				“i)	dans le cas d’une demande soumise par le ressortissant d’un pays en développement ou d’un pays faisant partie des pays les moins avancés, les Parties contractantes n’exigeront pas un montant supérieur à 25% des taxes prescrites;
+
+		“ii)	aux fins du présent article, les pays en développement et les pays les moins avancés sont définis conformément aux normes établies par l’Organisation des Nations Unies.”
+
+100	Cette proposition a été appuyée par les délégations de l’Afrique du Sud, de l’Algérie, du Brésil, de l’Égypte, du Gabon, de la Guinée, de la Jamaïque, du Kenya, du Lesotho et du Sénégal et par le représentant de l’ARIPO.  La délégation du Brésil a expliqué que, dans son pays, les personnes physiques, les microentreprises et les organismes de recherche publics bénéficient d’une réduction des taxes de 60%.  Les délégations des États‑Unis d’Amérique, de l’Allemagne et du Japon et les représentants de l’OEB, de l’ABA et de l’AIPLA ont marqué leur sympathie pour la proposition mais se sont demandé si le comité d’experts est l’organe compétent pour examiner cette question et si une telle disposition serait compatible avec les dispositions de l’article 4 de l’Accord sur les ADPIC sur la “nation la plus favorisée”.  Il a aussi été signalé que l’Office des brevets et des marques des États‑Unis d’Amérique (USPTO) prévoit déjà des réductions de taxes pour les particuliers, les petites entreprises et les organisations sans but lucratif, y compris ceux et celles des pays en développement, et que l’OEB prévoit de telles réductions en faveur des ressortissants de certains pays en développement, pour ce qui est des taxes de recherche internationale et d’examen préliminaire international.
+
+101	Le Bureau international a expliqué que les questions à inclure dans le projet de traité ont été définies par les organes directeurs de l’OMPI et qu’il appartient à ces derniers de définir un mandat pour la poursuite des travaux.  À la suite de la demande de la délégation de l’Égypte, le Bureau international a dit qu’une traduction officieuse de la proposition de la délégation du Soudan en arabe pourra être mise à disposition, en plus des traductions en français, anglais et espagnol qui en seront publiées dans un document de l’OMPI (PLT/CE/V/4).
+
+102	Alinéa 5)a).  Une délégation a proposé que les mots “du déposant ou de la personne qui présente la demande, ou qui a le droit de poursuivre la procédure y relative,” soient supprimés.  Cette même délégation, appuyée par deux autres, a aussi estimé que l’expression “ou à laquelle l’office a accès par d’autres moyens” est trop large et qu’elle pourrait être interprétée comme imposant à l’office l’obligation d’obtenir une copie de la demande antérieure chaque fois que possible, même moyennant une taxe.  Une des délégations a proposé que cette expression soit remplacée par la suivante : “ou dont la copie a déjà été déposée auprès de l’office”.  Toutefois, une autre délégation a relevé qu’il est nécessaire de tenir compte de la ligne générale d’action à long terme adoptée en juillet 1997 par le Comité exécutif de coordination du Comité permanent chargé de l’information en matière de propriété industrielle (PCIPI), qui prévoit la création de bibliothèques numériques de propriété industrielle qui mettraient des copies de documents à la disposition des offices par l’intermédiaire d’un réseau administré par l’OMPI.  Un représentant d’une organisation non gouvernementale a appuyé la disposition existante et suggéré qu’elle soit modifiée pour prévoir le dépôt d’une copie de la demande antérieure auprès de l’OMPI, qui transmettrait ensuite des copies aux offices où la priorité est revendiquée, comme c’est le cas pour les demandes internationales dans le cadre du PCT.
+
+103	Une autre délégation a fait observer que, s’il est prévu d’exiger le certificat mentionné dans la deuxième phrase de l’alinéa 5)a), une disposition similaire doit être prévue à l’article 4.4)a)ii).  On a toutefois fait observer que la copie certifiée conforme d’une demande contient ordinairement la date de dépôt. 
+
+104	Alinéa 5)b).  La délégation de la Suisse a émis une réserve concernant cette disposition.
+
+105	Alinéa 5)b), partie introductive.  Ce texte a été approuvé sous la forme proposée.
+
+106	Point i).  Une délégation a exprimé la crainte que cette disposition n’impose à un tiers l’obligation de fournir une traduction de la demande antérieure.  En outre, le Bureau international a proposé que le mot “, ou” soit supprimé, conformément à la pratique suivie pour la rédaction d’autres dispositions de projet de traité, pratique qui sera réexaminée en temps voulu pour assurer la cohérence du texte.  Avec cette réserve, ce point a été approuvé sous la forme proposée.
+
+107	Point ii).  Cette disposition a été appuyée dans son principe par une délégation et par les représentants de deux organisations non gouvernementales.  Cependant, une délégation et les représentants de trois organisations non gouvernementales ont suggéré de supprimer ce point pour réduire les contraintes imposées aux déposants.  En réponse à la question d’une des délégations ayant appuyé dans son principe cette disposition, le représentant de l’OEB a expliqué que, dans la procédure de son office, c’est le déposant de la demande pouvant être comprise dans l’état de la technique qui doit fournir la traduction, à moins que cette demande n’ait été retirée ou refusée, auquel cas l’office se charge lui‑même de l’établissement de la traduction.  En conclusion, il a été convenu que le Bureau international réexaminera le point ii) à la lumière de cette explication, compte tenu du fait que l’obligation prévue sous ce point doit rester équitable. 
+
+108	Alinéa 6).  Cet alinéa a été approuvé sous la forme proposée.
+
+109	Alinéa 7).  Une délégation a précisé que, selon les procédures de l’office de son pays, un examen complet quant à la forme n’est effectué que si une requête à cet effet, accompagnée de la taxe prescrite, est présentée.  Pour que cette procédure puisse être maintenue, ce qui est nécessaire étant donné que de telles requêtes ne sont présentées que pour 60% des demandes déposées, cette délégation a proposé de supprimer, à la troisième ligne, les mots “à bref délai”.  Sous réserve de l’examen de cette proposition, l’alinéa 7) a été approuvé sous la forme proposée.
+
+110	Alinéa 8)a).  Le Bureau international a indiqué qu’à la troisième ligne les mots “article 4.4)b)” doivent être remplacés par “article 4” pour tenir compte des sanctions prévues à l’article 4.3) et que les mots “, ou qui a le droit de poursuivre la procédure y relative” doivent être ajoutés après “la demande”, à la dernière ligne, pour aligner ce texte sur celui de la cinquième ligne.  La délégation de la Suisse a fait observer qu’il ne devrait pas être possible de refuser une demande au motif que le numéro d’enregistrement ou une autre indication prévue à l’alinéa 2) n’a pas été fourni.  Sous réserve de ces amendements et observations, cette disposition a été approuvée sous la forme proposée.
+
+111	Alinéa 8)b).  Le Bureau international a indiqué que les mots “ou 6)” doivent être ajoutés après “alinéa 1)” à la première ligne pour tenir compte des conditions prévues à l’alinéa 6) en ce qui concerne une revendication de priorité.  Sous réserve de cet amendement, cette disposition a été approuvée sous la forme proposée.
+
+112	Alinéa 8)c).  Sous réserve des craintes exprimées quant aux conséquences de l’inobservation de la condition prévue à l’alinéa 5)b)ii), cette disposition a été approuvée sous la forme proposée.
+
+
+Projet de règle 2 :  Précisions relatives à la date de dépôt visée à l’article 4
+
+113	Alinéa 1).  Cet alinéa a été approuvé sous la forme proposée.
+
+114	Alinéa 2).  Une délégation a proposé de supprimer les mots “le titre” au point ii).  Sous réserve de l’examen de cette proposition, l’alinéa a été approuvé sous la forme proposée.
+
+115	Alinéa 3).  Une délégation a suggéré que l’on ajoute les mots “contenant le renvoi mentionné à l’article 4.4)” après “la demande” au sous‑alinéa b) afin d’éviter une ambiguïté quant à la demande visée.  Sous réserve de cet amendement, l’alinéa a été approuvé sous la forme proposée.
+
+
+Projet de règle 3 :  Dépôt des demandes visé à l’article 5.1)b)
+
+116	Après un bref débat, il a été convenu que cette règle devra être réexaminée compte tenu des débats qui ont eu lieu au sujet de l’article 5.1)b).
+
+
+Projet de règle 4 :  Preuves à fournir selon les articles 5.6), 7.6), 8.4)a), 9.4), 10.4), 11.4) et 12.3)
+
+117	Cette règle a été approuvée après suppression des crochets.
+
+
+Projet de règle 5 :  Délais concernant la demande visés à l’article 5
+
+118	Alinéa 1).  Une délégation a proposé que, aux fins de conformité avec la règle 16.1), le membre de phrase “mais en tout cas pas supérieur à quatre mois à compter de la date de dépôt de la demande dans laquelle la priorité est revendiquée” soit ajouté à la fin de la disposition.  Sous réserve du réexamen de cet amendement, l’alinéa 1) a été approuvé sous la forme proposée.
+
+119	Alinéas 2) et 3).  Ces alinéas ont été approuvés sous la forme proposée.
+
+
+Projet d’article 6 :  Validité du brevet;  révocation
+
+120	Alinéa 1)a).  Une délégation a demandé s’il convient de mentionner les tribunaux parmi les autorités qui peuvent révoquer ou annuler un brevet puisque le pouvoir de décision d’un tribunal ne devrait pas être limité.  Il a été expliqué que le traité sur le droit des brevets ne limitera pas le pouvoir des tribunaux mais ne traitera que de la question de savoir si l’inobservation de certaines conditions de forme constituera un motif de révocation ou d’invalidation.
+
+121	Répondant à une question posée par une délégation, le Bureau international a souligné que l’inobservation de certaines conditions de forme, constatée une fois le brevet délivré, ne devra pas constituer un motif de révocation ou d’invalidation, puisque ces conditions ne sont pas essentielles pour empêcher le brevet délivré de déployer ses effets bien qu’elles soient nécessaires pour le traitement de la demande.  Le défaut de paiement d’une taxe de dépôt a été cité comme exemple de ces conditions.  Il a aussi été expliqué que le fait que le déposant n’a pas répondu à l’invitation qui lui a été faite par l’office de remédier à des irrégularités quant à la forme pendant l’instruction de la demande ne devra pas constituer un motif de révocation, une fois le brevet délivré.
+
+122	Répondant à la question de savoir si l’article 5.6) doit aussi être mentionné dans ce sous‑alinéa, le Bureau international a souligné que cet article n’y figure pas parce que le fait de ne pas fournir de preuve ne constitue pas en soi un cas d’inobservation d’une condition de forme, mais peut éventuellement aboutir à l’inobservation d’une condition de ce genre.
+
+123	Le représentant de l’EPI a suggéré que l’inobservation de la condition de l’unité de l’invention soit mentionnée dans ce sous‑alinéa de sorte que, une fois qu’un brevet a été délivré, il ne puisse pas être révoqué ou invalidé pour inobservation de cette condition sauf si la possibilité de diviser ce brevet a été donnée pendant la procédure de révocation.
+
+124	À l’issue de ce débat, l’alinéa 1)a) a été approuvé sous la forme proposée.
+
+125	Alinéa 1)b).  Répondant à une demande d’éclaircissement, le Bureau international a expliqué que la révocation d’un brevet au motif que le titulaire de ce brevet n’y a pas droit est une question de fond qui n’est pas couverte par l’article 6.
+
+126	Le Bureau international a souligné que les cas visés dans ce sous‑alinéa sont des exemples et que les parties contractantes sont libres de prévoir d’autres cas d’invalidation ou de révocation.  Deux délégations ont proposé de déplacer ces exemples et de les faire figurer dans les notes.  Une autre délégation a proposé de supprimer le sous‑alinéa b) mais d’insérer dans le sous‑alinéa a) une disposition d’exception applicable en cas d’inobservation d’une condition de forme par suite d’une intention frauduleuse.  Une autre encore, favorable au transfert des exemples dans les notes et à l’insertion au sous‑alinéa a) d’une disposition d’exception applicable en cas d’intention frauduleuse, a suggéré que les mots “sans préjudice du présent traité” soient ajoutés au début de ce sous‑alinéa et que les mots “selon la législation nationale” soient insérés après “motif tenant au fond”, à la troisième ligne.  Une autre délégation enfin s’est prononcée en faveur du maintien dans le sous‑alinéa b) de la disposition visant le cas où l’inobservation d’une condition de forme résulte d’une intention frauduleuse.  Sous réserve de ces observations, cette disposition a été approuvée sous la forme proposée.
+
+127	Alinéa 2).  Cet alinéa a été approuvé sous la forme proposée.
+
+
+Projet d’article 7 :  Mandataire;  élection de domicile
+
+128	Généralités.  La délégation des États‑Unis d’Amérique a déclaré que le congrès américain examine actuellement un projet de loi portant sur certains problèmes rencontrés par les inventeurs dans le cadre de leurs consultations avec une personne qui ne s’est pas inscrite pour pouvoir exercer, et elle a réservé sa position à propos de cet article dans la mesure où il pourrait y avoir conflit lorsque la loi en question aura été adoptée.
+
+129	Une délégation, appuyée par le représentant d’une organisation non gouvernementale, a suggéré de faire figurer dans cet article une condition selon laquelle, lorsqu’un mandataire a été constitué, c’est avec lui que l’office devra entrer en relation et non avec la personne représentée sauf dans les cas particuliers prévus dans ce traité.  Le Bureau international a expliqué que cette possibilité a été laissée intentionnellement aux offices.
+
+130	Alinéa 1).  En réponse à une question posée par une délégation, le Bureau international a confirmé que les points i) et ii) doivent être compris comme s’ajoutant l’un à l’autre.
+
+131	Une délégation a suggéré de prévoir une adresse pour la correspondance pour le cas où elle serait différente du domicile élu indiqué en vertu du point ii).  Répondant à une autre délégation ayant demandé des précisions au sujet des deux adresses, le Bureau international a expliqué que le domicile élu est l’adresse à laquelle une personne recevra une communication officielle alors qu’une adresse pour la correspondance est simplement une adresse à laquelle une personne pourra recevoir du courrier.
+
+132	Le représentant des Communautés européennes a fait observer que les dispositions exigeant l’élection d’un domicile sur le territoire d’un État contractant pourraient être contraires à celles du Traité de Rome.
+
+133	Le représentant d’une organisation non gouvernementale a proposé d’ajouter, à la deuxième ligne, après les mots “l’office” les termes “relative à une demande ou à un brevet”.  Sous réserve d’une analyse de ces deux propositions par le Bureau international, cet alinéa a été approuvé sous la forme proposée.
+
+134	Alinéa 2)a).  Les délégations et les représentants n’ont pas pu parvenir à une décision en ce qui concerne ce sous‑alinéa, et, après un débat approfondi, il a été convenu que le Bureau international examinera les observations et les positions exprimées par les délégations et les représentants en vue de revenir ultérieurement sur cette question.
+
+135	Cette disposition a été appuyée, ainsi que l’a indiqué en particulier le représentant de l’AIPLA, pour les raisons suivantes : l’inventeur doit pouvoir être libre de décider d’avoir ou non recours à un mandataire pour des procédures simples;  les inventeurs accordent une très grande importance à la qualité des traductions et d’autres travaux effectués en relation avec leurs demandes et engageront un mandataire si cela est nécessaire, dans leur intérêt;  cette disposition permettrait d’accéder plus facilement aux demandes de réduction des taxes formulées par de nombreux pays en développement;  et le principal objectif du droit des brevets est d’encourager les inventions et les innovations.  Les huit délégations, l’organisation intergouvernementale et les cinq organisations non gouvernementales citées ci‑après se sont prononcées avec force en faveur de cette disposition : Allemagne, Australie, États‑Unis d’Amérique, Pays‑Bas, Royaume‑Uni, Slovaquie, Suède, Suisse, OEB, ABA, AIPLA, BDI, FEMIPI et UNICE.
+
+136	La délégation des États‑Unis d’Amérique, appuyée par la délégation de l’Australie et par les représentants de l’OEB et de l’AIPLA, a suggéré d’ajouter un point supplémentaire (“dépôt d’une demande”) aux points figurant dans ce sous‑alinéa.
+
+137	Les intervenants qui se sont prononcés en faveur de la suppression de l’alinéa 2) ou qui ont exprimé des réserves au sujet de cet alinéa ont fait valoir que la qualité des traductions ne peut être assurée que si la constitution d’un mandataire est obligatoire, qu’il sera difficile de promouvoir cette profession, en particulier dans les pays en développement, en cas de réduction de ses revenus, et que cette disposition dépasserait le cadre du traité sur le droit des brevets.  Six délégations et le représentant d’une organisation non gouvernementale ont exprimé ce point de vue : Guinée, Mexique, Chine, Portugal, Espagne, Venezuela et AGESORPI.  La délégation de l’Espagne a suggéré d’utiliser le terme “terceros” au lieu de “un representante” dans le texte espagnol.
+
+138	Deux délégations ont formulé des réserves sur certains points et les représentants de cinq organisations non gouvernementales ont suggéré de supprimer uniquement certains points.  La délégation de la Belgique a réservé sa position en ce qui concerne le point i) et la délégation de l’Autriche en ce qui concerne les points i) et iv).  Les représentants de l’ABAPI, de l’ABPI et de la FICPI ont suggéré de supprimer les points i), ii) et iv) et les représentants de la JPAA et de la KPAA ont suggéré de supprimer les points i) et ii).
+
+139	Alinéa 2)b).  La délégation de la Fédération de Russie a suggéré d’ajouter une nouvelle disposition ayant la teneur suivante :
+
+“tout déposant ou toute personne qui présente la demande, ou qui a le droit de poursuivre la procédure y relative, tout titulaire ou toute autre personne intéressée qui n’a ni domicile ni établissement industriel ou commercial effectif et sérieux sur le territoire de la Partie contractante peut être représenté par un mandataire.”
+
+140	Alinéa 3)a).  Cette disposition a été approuvée sous la forme proposée.
+
+141	Alinéa 3)b).  La délégation des États‑Unis d’Amérique s’est dite intéressée par la possibilité pour les offices d’exiger plusieurs copies du “pouvoir général” original, ce dont le Bureau international a pris note.  Sinon, cette disposition a été approuvée sous la forme proposée.
+
+142	Alinéa 3)c).  Une délégation, appuyée par deux autres délégations, a suggéré de supprimer ce sous‑alinéa.  Cette suggestion n’a suscité aucune objection.
+
+143	Alinéa 3)d) et e).  Ces dispositions ont été approuvées sous la forme proposée.
+
+144	Alinéas 4) à 6).  Hormis une réserve formulée par la délégation de l’Espagne au sujet de l’alinéa 4), ces alinéas ont été approuvés sous la forme proposée.
+
+145	Alinéa 7).  Après qu’une délégation a manifesté sa préoccupation, le Bureau international a expliqué que des normes de conduite ne sont pas censées être incorporées et qu’il examinera si le terme “de forme” doit figurer après “conditions”, à la deuxième ligne du texte.  Sous réserve de cet examen, cet alinéa a été approuvé sous la forme proposée.
+
+146	Alinéa 8)a).  Le Bureau international a noté que la mention de l’alinéa “2)a)” sera supprimée à la troisième ligne de ce sous‑alinéa.  En outre, plusieurs délégations ont fait part de leur préoccupation devant le fait que ce sous‑alinéa exigerait une double notification.  Certaines délégations ont suggéré de remplacer la proposition “et” par “ou” entre les points i) et ii) et d’autres ont suggéré de supprimer le point ii) et les mots “à la personne représentée”, à la neuvième ligne.  Il a été convenu que le Bureau international étudiera ces suggestions.
+
+147	Alinéa 8)b).  Le Bureau international a noté que l’indication “b)” sera supprimée à la quatrième ligne.  Sous réserve de cette modification, cette disposition a été approuvée sous la forme proposée.
+
+148	Alinéa 9).  À la suite des préoccupations formulées par plusieurs délégations, le Bureau international a expliqué que la sanction prévue dans cet alinéa constitue un maximum et que, par conséquent, les offices peuvent appliquer des sanctions moins sévères;  il a précisé que les termes “une procédure” qui figurent à la troisième ligne permettent aux offices de déterminer les procédures auxquelles cette disposition s’applique.
+
+149	La suggestion formulée par une délégation selon laquelle toute modification adoptée à propos du sous‑alinéa 8)a) devra aussi être répercutée dans cet alinéa a été acceptée.  En outre, plusieurs délégations ont indiqué que la sanction prévue dans cet alinéa, considérée aussi par rapport à l’article 5.8), est trop sévère en cas d’omission de numéros de demandes.  Il a été convenu que le Bureau international examinera cette question.
+
+150	Deux délégations ont suggéré des changements dans le texte.  Il a notamment été suggéré de remplacer, aux troisième et quatrième lignes, les mots “cette procédure peut, sous réserve de l’article 4, être considérée comme inexistante” par “la Partie contractante peut, sous réserve de l’article 4, appliquer la sanction prévue dans sa législation”.  Il a aussi été suggéré de remplacer le texte situé actuellement après le terme “inexistante”, à la quatrième ligne, par “à condition que la notification prévue à l’alinéa 8) ait été faite, sauf si les indications permettant à l’office d’entrer en relation avec la personne intéressée n’ont pas été fournies”.  Il a été décidé que le Bureau international étudiera toutes les suggestions qui ont été formulées à propos de cet alinéa.
+
+
+Projet d’article 8 :  Signature
+
+151	Alinéas 1) et 2).  Ces alinéas ont été approuvés sous la forme proposée.
+
+152	Alinéas 3) et 4).  La délégation de la République de Corée a proposé que le libellé de l’alinéa 3) soit complété de manière à permettre à une partie contractante d’exiger une copie certifiée conforme de l’empreinte d’un sceau.  Le représentant d’une organisation non gouvernementale ayant fait observer que le fait de limiter la portée des alinéas 3) et 4)b) aux communications sur papier risque d’avoir pour conséquence que les parties contractantes exigeront une certification inutile pour les communications par des moyens électroniques ou autres, le Bureau international a expliqué que les exigences en ce qui concerne ces dernières communications seront régies par l’alinéa 2).  Sous réserve de l’examen de la proposition susmentionnée visant à modifier l’alinéa 3), les alinéas 3) et 4) ont été approuvés sous la forme proposée.
+
+153	Alinéa 5).  En réponse à la question d’une délégation, le Bureau international a confirmé qu’une notification serait envoyée en vertu de cet alinéa à la personne définie à l’article 7.  Suite à cette explication, l’alinéa a été approuvé sous la forme proposée.
+
+154	Alinéa 6).  Compte tenu des amendements proposés pour l’article 7.9), une délégation a suggéré de remplacer le membre de phrase “peut considérer la communication en cause comme n’ayant pas été reçue” par “peut appliquer la sanction prévue par sa législation”.  Une autre délégation a proposé d’utiliser plutôt le membre de phrase “traitée comme non reçue, mais conservée dans le dossier”.  Sous réserve de l’examen de ces amendements, l’alinéa a été approuvé sous la forme proposée.
+
+
+Projet de règle 6 :  Réception des communications
+
+155	Cette règle a été approuvée sous la forme proposée.
+
+
+Projet de règle 7 :  Précisions relatives au nom et à l’adresse
+
+156	Le Bureau international a expliqué qu’il a placé cette règle entre crochets car, après un examen plus approfondi, elle ne lui semblait pas nécessaire.  En effet, en ce qui concerne les demandes, les exigences concernant le nom et l’adresse dans les demandes internationales déposées selon le PCT peuvent être appliquées conformément à l’article 5.1)a) du projet de traité.  Après un bref débat, au cours duquel une délégation a proposé que les parties contractantes puissent exiger la preuve que le nom de la personne est celui qui figure dans son passeport ou toute autre pièce d’identité, il a été convenu que cette règle devra être supprimée.
+
+
+Projet de règle 8 :  Précisions relatives à la constitution de mandataire et à l’élection de domicile visées à l’article 7
+
+157	Cette règle a été approuvée sous la forme proposée.
+
+
+Projet de règle 9 :  Précisions relatives à la signature visée à l’article 8
+
+158	Le représentant d’une organisation non gouvernementale a fait observer que, dans le texte français, le mot “langue” devrait être remplacé par le mot “langage” si l’on veut parler des langages d’ordinateur.  Sous réserve de l’examen de cet amendement du texte français, cette règle a été approuvée sous la forme proposée.
+
+
+Projet d’article 9 :  Requête en inscription d’un changement de nom ou d’adresse
+
+159	Alinéa 1)a) à d).  Ces dispositions ont été approuvées sous la forme proposée.
+
+160	Alinéa 1)e).  La délégation de l’Espagne a souligné que le texte espagnol de cette disposition nécessite des éclaircissements.  Sous réserve de cette observation, la disposition a été approuvée sous la forme proposée.
+
+161	Alinéa 1)f).  Sous réserve de la proposition présentée par la délégation du Soudan en ce qui concerne la réduction des taxes pour les pays en développement, cette disposition a été approuvée sous la forme proposée.
+
+162	Alinéa 1)g).  La délégation des États‑Unis d’Amérique a déclaré que, lorsqu’une requête porte sur plusieurs demandes, le traité devrait autoriser la possibilité d’exiger des copies multiples. Sous réserve de cette déclaration, cette disposition a été approuvée sous la forme proposée.
+
+163	Alinéas 2) à 4).  Ces alinéas ont été approuvés sous la forme proposée.
+
+164	Alinéa 5).  La délégation de la Chine a indiqué que, en vertu de la législation de son pays, en cas de changement de nom d’un déposant ou d’un mandataire, l’office exige la preuve de ce changement afin d’éviter toute fraude.  Sous réserve de cette indication, cet alinéa a été approuvé sous la forme proposée.
+
+165	Alinéas 6) et 7).  Ces alinéas ont été approuvés sous la forme proposée.
+
+
+Projet de règle 10 :  Précisions relatives à la requête en inscription d’un changement de nom ou d’adresse en vertu de l’article 9
+
+166	En réponse à une question d’une délégation, le Bureau international a accepté de revoir la nécessité de fixer des délais différents aux alinéas 3) et 4).  Ce réexamen devra aussi s’appliquer en ce qui concerne la règle 9.  Sous réserve de ce réexamen, la règle a été approuvée sous la forme proposée.
+
+
+Projet d’article 10 :  Requête en inscription d’un changement de titulaire
+
+167	La délégation de l’Espagne a réservé sa position sur cet article parce que, selon sa législation nationale, le transfert de droits a des incidences fiscales.
+
+168	Alinéa 1)a) et b).  Ces dispositions ont été approuvées sous la forme proposée.
+
+169	Alinéa 1)c).  Une délégation a déclaré que, compte tenu de l’automatisation des opérations de son office, qui se traduit notamment par la mise en place d’un système d’enregistrement informatisé, la requête en inscription devra contenir toutes les informations nécessaires en vue de faciliter la saisie des données ainsi que la mise à jour du système, puisqu’il est principalement utilisé par le grand public.  Sous réserve de cette observation, cette disposition a été approuvée sous la forme proposée.
+
+170	Alinéa 1)d).  Une délégation, appuyée par plusieurs autres délégations, a suggéré d’étendre cette disposition à une requête présentée par un déposant ou un titulaire antérieur, et de supprimer, par conséquent, les mots “lorsque l’inscription est demandée par le nouveau déposant ou par le nouveau titulaire et non par le déposant ou le titulaire” figurant aux deuxième et troisième lignes.  Toutefois, un certain nombre de délégations et les représentants d’une organisation intergouvernementale et d’une organisation non gouvernementale se sont prononcés pour le texte actuel, étant donné que cette disposition répond au souci de simplification et vise à faciliter la vie des utilisateurs.  À cet égard, une délégation a souligné qu’il suffit pour les utilisateurs que la fourniture d’une preuve sous la forme d’un document soit garantie indépendamment de la façon d’obtenir la preuve en question.  Le représentant de l’OEB et le Bureau international ont expliqué que ni la Convention sur le brevet européen ni le PCT n’exigent de preuve lorsque l’inscription est demandée par le déposant.  Une autre délégation s’est déclaré favorable à l’harmonisation sur cette question.
+
+171	La délégation du Japon a émis des réserves au sujet de cette disposition et a proposé d’ajouter, au sous‑alinéa ii), les mots “pour autant que la loi applicable le permette” puisqu’un mandataire autorisé à exercer devant l’office de cet État n’est pas habilité à certifier le document.
+
+172	À la suite d’une suggestion d’une délégation tendant à inclure, dans un souci de cohérence avec l’article 11.1)b) du Traité sur le droit des marques, un document de cession non certifié conforme établi et signé à la fois par le titulaire et le nouveau titulaire comme forme de preuve susceptible d’être exigée par la partie contractante, le Bureau international a expliqué que, outre l’éventuelle harmonisation avec le Traité sur le droit des marques, ce traité doit aussi tenir compte de la nécessaire conformité avec le PCT.
+
+173	Alinéa 1)e).  Un représentant d’une organisation non gouvernementale a suggéré de remplacer, à la troisième ligne, les mots “l’autorité compétente” par “une autorité compétente” étant donné qu’il peut y avoir plusieurs autorités compétentes pour plusieurs documents.  Sous réserve de cette suggestion, la disposition a été approuvée sous la forme proposée.
+
+174	Alinéa 1)f).  Cette disposition a été approuvée sous la forme proposée.
+
+175	Alinéa 1)g).  La délégation de la Suisse a déclaré que, en vertu de sa loi nationale, seul un officier public et non un mandataire habilité à exercer auprès de l’office a le pouvoir de certifier conforme un document.  Sous réserve de cette déclaration, la disposition a été approuvée sous la forme proposée.
+
+176	Alinéa 1)h) à j).  Ces dispositions ont été approuvées sous la forme proposée, sous réserve de la déclaration de la délégation des États-Unis d’Amérique concernant l’article 9.1)g).
+
+177	Alinéa 2).  Cet alinéa a été approuvé sous la forme proposée.
+
+178	Alinéa 3).  Une délégation et un représentant d’une organisation non gouvernementale ont noté que le renvoi au sous‑alinéa i) figurant à la première ligne doit être remplacé par un renvoi au sous‑alinéa j).  Sous réserve de cette modification, l’alinéa a été approuvé sous la forme proposée.
+
+179	Alinéa 4).  Une délégation a suggéré d’ajouter un renvoi au sous‑alinéa d) de manière à permettre de remédier à la situation au cas où une requête a été présentée dans une intention frauduleuse.  Sous réserve de cette suggestion, l’alinéa a été approuvé sous la forme proposée.
+
+180	Alinéas 5) à 7).  Ces alinéas ont été approuvés sous la forme proposée.
+
+181	Alinéa 8).  La délégation des États‑Unis d’Amérique a suggéré de remplacer, à la deuxième ligne, les mots “le déposant ou le titulaire est l’inventeur” par “un changement a trait à la qualité d’inventeur” de manière à limiter la portée de cet alinéa aux corrections relatives à la qualité d’inventeur au lieu de permettre d’exclure l’application des dispositions en cause dans tous les cas où le déposant ou le titulaire est un inventeur.  Le représentant d’une organisation non gouvernementale a dit que cette disposition devrait plutôt figurer dans les clauses du projet de traité relatives aux réserves, afin d’en limiter les effets aux parties contractantes qui exigent l’exclusion au moment de leur adhésion au traité.
+
+
+Projet de règle 11 :  Précisions relatives à l’inscription d’un changement de titulaire en vertu de l’article 10
+
+182	Alinéa 1).  Cet alinéa a été approuvé sous la forme proposée.
+
+183	Alinéa 2)a).  Il a été signalé que, dans la version anglaise, au sous‑alinéa a), les mots “of such requests” doivent être supprimés.  Sous réserve de cette modification, cette disposition a été approuvée sous la forme proposée.
+
+184	Alinéa 2)b).  Cette disposition a été approuvée sous la forme proposée.
+
+185	Alinéa 2)c).  En réponse à la question d’une délégation, le Bureau international a expliqué que la question de la langue de la publication sera encore examinée.  Avec cette réserve, cette disposition a été approuvée sous la forme proposée.
+
+186	Alinéa 3). Cet alinéa a été approuvé sous la forme proposée.
+
+187	Alinéa 4).  Au point ii) de la version anglaise, il a été convenu que les mots “was received by the Office” doivent être insérés à la fin de la phrase.
+
+
+Projet d’article 11 :  Requête en inscription d’un accord de licence ou d’une sûreté réelle
+
+188	Alinéas 1) à 7).  La délégation du Japon a proposé qu’il soit prévu que toute partie contractante est libre de décider quelles sortes de licences doivent être inscrites, ainsi qu’il est indiqué à la note 11.11 pour ce qui concerne l’inscription d’une sûreté réelle.  En réponse à la question d’une délégation, le Bureau international a expliqué que l’inscription visée dans cet article est une simple inscription à l’office des brevets, sans aucune autre incidence, sur le plan fiscal par exemple.
+
+189	Compte tenu de l’importance de l’exactitude des inscriptions, la délégation du Danemark a suggéré que le Bureau international étudie des dispositions concernant la radiation de l’inscription d’un accord de licence lorsque cet accord a pris fin.
+
+190	Alinéa 1)a).  Une délégation a proposé que les mots “concernant une demande ou un brevet” soient insérés après les mots “accord de licence” à la troisième ligne.  Sous réserve de cette proposition, cette disposition a été approuvée sous la forme proposée.
+
+191	Alinéa 1)b).  Cette disposition a été approuvée sous la forme proposée.
+
+192	Alinéa 1)c).  La délégation de l’Espagne a émis une réserve au sujet de cette disposition.  Le Bureau international a expliqué que cet article régit uniquement les requêtes en inscription présentées auprès du service de l’enregistrement de l’office d’une partie contractante.  Avec cette réserve, cette disposition a été approuvée sous la forme proposée.
+
+193	Alinéa 1)d).  La délégation de la Fédération de Russie, appuyée par celle du Japon, a expliqué que la situation quant à l’article 11 est la même qu’en ce qui concerne l’article 10 et a proposé que des documents certifiant l’existence d’un accord de licence puissent être exigés lorsque l’inscription a été demandée par le donneur de licence.  Elle a expliqué que, avant d’inscrire une licence, l’office de son pays vérifie s’il existe une autre licence exclusive, précédemment enregistrée, qui s’oppose à l’inscription de la nouvelle licence, même si la requête en inscription est présentée par le titulaire du brevet.  Sous réserve de cette proposition, cette disposition a été approuvée sous la forme proposée.
+
+194	Alinéa 1)e).  Une délégation a fait observer que les codéposants ou cotitulaires parties à un accord de licence ne jouissent pas toujours de droits égaux sur le brevet, s’il s’agit par exemple du titulaire du brevet, du titulaire d’une licence exclusive et du titulaire d’une licence non exclusive.  Il a été convenu que cette question devra être examinée par le Bureau international.  Avec cette réserve, cette disposition a été approuvée sous la forme proposée.
+
+195	Alinéa 1)f) à h).  Ces dispositions ont été approuvées sous la forme proposée, sous réserve de la déclaration de la délégation des États-Unis d’Amérique concernant l’article 9.1)g).
+
+196	Alinéas 2) à 7).  Ces alinéas ont été approuvés sous la forme proposée.
+
+197	Alinéa 8).  La délégation de l’Espagne a émis une réserve au sujet de cet alinéa, compte tenu des prescriptions en vigueur dans son pays, et notamment des articles 74 et 79 de la loi sur les brevets, de la législation sur les hypothèques et nantissements et des dispositions réglementaires correspondantes.
+
+
+Projet de règle 12 :  Précisions relatives à la requête en inscription d’un accord de licence ou d’une sûreté réelle en vertu de l’article 11
+
+198	Cette règle a été approuvée sous la forme proposée.
+
+
+Projet d’article 12 :  Requête en rectification d’une erreur
+
+199	Alinéa 1).  Une délégation a proposé que, dans la version anglaise, à la deuxième ligne du sous‑alinéa j), le mot “undue” soit remplacé par “unintentional”.  Sous réserve de cette proposition et de la déclaration de la délégation des États-Unis d’Amérique concernant l’article 9.1)g), cet alinéa a été approuvé sous la forme proposée.
+
+200	Alinéas 2) et 3).  Ces alinéas ont été approuvés sous la forme proposée.
+
+201	Alinéa 4).  La délégation des États‑Unis d’Amérique a dit que, compte tenu de la redélivrance des brevets prévue par la législation de son pays, la portée de cet article doit être clairement limitée aux formalités.  Sous réserve de cette déclaration, cet alinéa a été approuvé sous la forme proposée.
+
+202	Alinéa 5).  Une délégation a fait observer que cet alinéa s’appliquerait aux erreurs résultant d’une transcription de l’office.  Sous réserve de cette observation, cet alinéa a été approuvé sous la forme proposée.
+
+203	Alinéas 6) et 7).  Ces alinéas ont été approuvés sous la forme proposée.
+
+204	Alinéa 8).  Il a été convenu que le Bureau international devra revoir ce texte compte tenu de la suggestion faite au sujet de l’article 10.8).
+
+
+Projet de règle 13 :  Précisions relatives à la requête en rectification d’une erreur en vertu de l’article 12
+
+205	Cette règle a été approuvée sous la forme proposée.
+
+
+Projet d’article 13 :  Prorogation d’un délai fixé par l’office
+
+206	Alinéa 1)a).  Une délégation a suggéré d’ajouter, après les mots “communication adressée à l’office” à la première ligne, les mots “, autre qu’une requête formulée en vertu de l’alinéa 3) ou de l’article 6.2),”.  Une autre délégation a suggéré que cette disposition prévoie des exceptions, par exemple en ce qui concerne les procédures d’appel ou d’autres procédures spécialisées en dehors du traitement normal.
+
+207	Une suggestion d’une autre délégation, appuyée par les représentants de deux organisations non gouvernementales, selon laquelle il faudrait modifier la deuxième phrase de l’alinéa 1)a) de manière que le délai ne soit pas inférieur au minimum prescrit dans le règlement d’exécution, a été contestée par une délégation au motif que les dispositions de la législation doivent primer sur les actes administratifs de l’office.  À cet égard, une autre délégation a fait observer que, à son avis, le sens de l’expression “imposé par la législation” n’est pas clair.
+
+208	Alinéa 1)b).  Il a été noté que, dans la version anglaise, le terme “State” doit être remplacé par “Party”, à la première ligne.  Sous réserve de cette modification, cette disposition a été approuvée sous la forme proposée.
+
+209	Alinéa 2).  Trois délégations se sont déclarées opposées à une proposition du représentant d’une organisation non gouvernementale, appuyée par une délégation et le représentant d’une autre organisation non gouvernementale, selon laquelle il ne faudrait percevoir aucune taxe pour la première prorogation en vertu de l’alinéa 1)a).  Sous réserve d’examen de cette proposition, l’alinéa a été approuvé sous la forme proposée.
+
+210	Alinéa 3).  Une délégation a suggéré de définir dans le règlement d’exécution ce qu’il faut entendre par “délai raisonnable”, qui figure dans les lignes 3 et 4.  Cet alinéa a été approuvé sous la forme proposée.
+
+
+Projet de règle 14 :  Précisions relatives à la prorogation en vertu de l’article 13.1)a) d’un délai fixé par l’office
+
+211	La proposition d’une délégation tendant à ce que le délai soit ramené à un mois et celle du représentant d’une organisation non gouvernementale selon laquelle il devrait être porté à six mois au minimum n’ont pas reçu de soutien.  Après délibération concernant des difficultés qui pourraient surgir si le délai applicable expirait un jour non ouvrable, une proposition du représentant d’une organisation intergouvernementale, appuyée par deux délégations, selon laquelle les deux mois de prorogation prescrits devraient s’ajouter au délai applicable et non pas être calculés à partir de la date d’expiration de ce délai, a été approuvée.  Sous réserve de cette modification, la règle a été approuvée sous la forme proposée.
+
+
+Projet d’article 14 :  Poursuite de la procédure;  rétablissement des droits
+
+212	Généralité.  Il a été convenu que cet article devra être revu, compte tenu des suggestions et observations ci‑après.
+
+213	Alinéas 1)a) et 2)a).  Après quelques délibérations, au cours desquelles le représentant de l’OEB a expliqué qu’il est envisagé d’étendre la poursuite de la procédure selon la Convention sur le brevet européen au non‑respect des délais fixés en vertu de cette convention, il a été convenu que le Bureau international révisera les alinéas 1)a) et 2)a) d’une manière analogue en vue de la poursuite de l’examen.
+
+214	En outre, en réponse à une observation de la délégation des États‑Unis d’Amérique qui souhaite maintenir son exigence actuelle selon laquelle le non‑respect du délai en question ne doit pas avoir été intentionnel, et prévoir le retrait de l’abandon lorsque le déposant établit qu’il n’a pas reçu de communication officielle imposant ce délai ou qu’il a en fait observé ce délai, il a été convenu que le Bureau international étudiera la question plus avant avec l’USPTO.  À cet égard, le représentant de l’AIPLA et celui d’une autre organisation non gouvernementale se sont déclarés opposés à une suggestion de la délégation des États‑Unis d’Amérique tendant à ce que la poursuite de la procédure soit rendue facultative du fait que le rétablissement des droits est une pratique à laquelle l’office de son pays a largement recours.  La possibilité de prévoir soit la poursuite de la procédure soit un large recours à la procédure de restauration ou de rétablissement des droits a aussi été évoquée.
+
+215	Alinéa 1)b).  La délégation de la Belgique a émis une réserve à l’égard de la suggestion du représentant d’une organisation non gouvernementale, appuyée par une délégation, tendant à supprimer cette disposition.
+
+216	Alinéa 2)b), partie introductive.  Une délégation a proposé de remplacer les mots “à la suite” par “en cas”.
+
+217	Alinéa 2)b), point i).  Deux délégations ont suggéré de supprimer ce point.
+
+218	Point ii).  Quatre délégations ont suggéré de supprimer ce point.
+
+219	Point iii).  Une délégation et le représentant d’une organisation intergouvernementale se sont prononcés en faveur du maintien de ce point.  Une autre délégation a proposé de supprimer le renvoi à l’article 13.1).  Une autre encore a suggéré de supprimer ce point.
+
+220	Point iv).  Trois délégations ont suggéré de supprimer ce point.
+
+221	Point v).  Deux délégations et le représentant d’une organisation non gouvernementale ont suggéré de supprimer ce point.  Une autre délégation a émis des réserves à l’égard du maintien de ce point, tandis qu’une autre en a émis quant à sa suppression.
+
+222	Alinéa 3).  La délégation de la Fédération de Russie a proposé de rétablir dans cet alinéa l’ancien article 13.4)b) du document PLT/CE/IV/3, modifié comme elle l’a proposé à la quatrième session du comité d’experts (voir le paragraphe 194 du document PLT/CE/IV/4). 
+
+223	Alinéa 4).  Une délégation a fait observer que cette disposition pourrait entraîner une série interminable de requêtes en vertu de l’article 13.1)a).
+
+224	Alinéa 5)a).  La délégation du Canada, appuyée par quatre autres délégations, le représentant d’une organisation intergouvernementale et les représentants de trois organisations non gouvernementales, a suggéré de rendre cet alinéa facultatif, par exemple en ajoutant les mots “toute Partie contractante peut prévoir que”.
+
+225	Une délégation, appuyée par une autre délégation et le représentant de trois organisations non gouvernementales ont aussi suggéré que la période mentionnée à la cinquième ligne ne commence pas avant trois mois à compter de l’expiration du délai imparti pour accomplir un acte auprès de l’office et que les droits des tiers soient limités aux cas où, durant la période en question, un tiers a commencé d’utiliser l’invention ou a commencé à faire des préparatifs effectifs et sérieux en vue de l’utiliser, sur le territoire où la demande ou le brevet produit ses effets.
+
+226	Une autre délégation a proposé de préciser dans les notes ce qu’il faut entendre par “bonne foi”, et notamment que cette notion ne couvre pas le cas où la personne concernée n’a pas connaissance de la perte des droits avant la poursuite de la procédure ou le rétablissement des droits.  Cette même délégation a aussi suggéré qu’aucun droit des tiers ne soit reconnu avant la publication de la demande.  En outre, le représentant d’une organisation non gouvernementale a proposé de limiter les droits des tiers au cas du rétablissement des droits.
+
+227	Alinéa 5)b).  La délégation de la Chine a suggéré de supprimer cette disposition.
+
+
+Projet de règle 15 :  Précisions relatives à la poursuite de la procédure et au rétablissement des droits en vertu de l’article 14
+
+228	Alinéas 1) et 2).  Le représentant d’une organisation non gouvernementale a suggéré que, conformément à la pratique de l’OEB, le délai commence à courir à compter de la date à laquelle il est signalé au déposant qu’il n’a pas respecté le délai imparti pour l’accomplissement de l’acte considéré auprès de l’Office.
+
+229	Le représentant d’une autre organisation non gouvernementale a suggéré que le délai visé au point ii) de l’alinéa 2) soit porté à 12 mois au moins.
+
+
+Projet d’article 15 :  Adjonction et rétablissement d’une revendication de priorité
+
+230	Alinéa 1)a).  Cette disposition a été approuvée sous la forme proposée.
+
+231	Alinéa 1)b).  En réponse à la question d’une délégation, le Bureau international a confirmé que le PCT ne contient pas de disposition correspondante.  Après un débat au cours duquel une délégation a soutenu le maintien de cette disposition, une proposition d’une autre délégation, appuyée par cinq délégations ainsi que par les représentants d’une organisation intergouvernementale et d’une organisation non gouvernementale, tendant à supprimer cette disposition a été acceptée.
+
+232	Alinéa 2)a).  Deux délégations ont relevé, à propos de l’explication donnée dans la note 15.06, que cette disposition prévoit le rétablissement du droit de priorité et non la prorogation du délai de priorité de 12 mois prévu par l’article 4C.1) de la Convention de Paris pour la protection de la propriété industrielle.  Le Bureau international a aussi expliqué que l’interprétation de cette convention relève des États membres et non du Bureau international.  En réponse à la question d’une autre délégation, le Bureau international a confirmé que la question du rétablissement du droit de priorité n’a pas été examinée par l’Assemblée de l’Union du PCT.  Au cours du débat, cinq délégations et les représentants d’une organisation gouvernementale et de deux organisations non gouvernementales ont émis l’opinion que cette disposition n’est pas contraire à la Convention de Paris et se sont dits favorables à sa présence dans le projet de traité.  La délégation des Pays‑Bas a émis des réserves au sujet de l’alinéa 2)a) et les délégations de l’Espagne et de la Belgique ont formulé des réserves quant à l’alinéa 2) dans son ensemble.
+
+233	La suggestion d’une délégation, appuyée par une autre délégation et par le représentant d’une organisation non gouvernementale, tendant à faire du délai de deux mois imparti pour formuler la requête en vertu de l’alinéa 2)a) un minimum, s’est heurtée à l’opposition de deux délégations et du représentant d’une organisation non gouvernementale, pour qui ce délai devrait être le même pour tous les offices.  Une délégation a fait observer que, si le délai de deux mois doit être maintenu, il n’apparaît pas nécessaire d’exiger aussi que la requête soit formulée avant l’achèvement des préparatifs techniques nécessaires à la publication de la demande ultérieure.  Le représentant d’une organisation gouvernementale a suggéré que le délai en question commence à courir à compter de la date de dépôt de la demande ultérieure.  Une délégation a suggéré de supprimer le membre de phrase “et avant l’achèvement des préparatifs techniques nécessaires à la publication de la demande ultérieure”.  Une délégation, appuyée par une autre, a dit que la condition selon laquelle, au cas où la demande n’a pas été reçue avant l’expiration du délai de priorité, l’intéressé doit avoir fait preuve “de toute la diligence requise en l’espèce” devrait être remplacée par une disposition exigeant que le défaut de présentation de la demande ultérieure dans le délai de priorité n’ait pas été intentionnel.
+
+234	Alinéa 2)b).  Aucun accord ne s’est dégagé quant au maintien ou à la suppression de cet alinéa.
+
+235	Alinéa 3).  Une délégation, soutenue par une autre délégation et par le représentant d’une organisation non gouvernementale, a suggéré que les parties contractantes soient autorisées à fixer un délai pour remettre la copie de la demande antérieure afin d’éviter que le traitement de la demande qui en revendique la priorité ne dure trop longtemps.  Sous réserve de la prise en considération de cette suggestion, cette disposition a été approuvée sous la forme proposée.
+
+236	Alinéa 4).  Une délégation a fait observer que, comme pour l’article 14.4), cette disposition risque d’aboutir à une série interminable de requêtes selon l’article 13.1)a). 
+
+
+237	Alinéa 5).  Sous réserve de la proposition touchant l’article 5.4) formulée par la délégation du Soudan à l’égard des taxes, cette disposition a été approuvée sous la forme proposée.
+
+238	Point nouveau.  En réponse aux questions de deux délégations, le Bureau international a expliqué que le projet ne contient pas de disposition relative aux droits nés pendant la période intermédiaire parce qu’il n’a pas semblé possible que des droits de cette nature puissent naître dans un délai aussi bref que ce qui est proposé pour l’adjonction ou le rétablissement de droits de priorité, en particulier si la demande n’est pas publiée avant cette adjonction ou ce rétablissement.  En outre, il ne serait pas raisonnable pour un tiers agissant de bonne foi, a‑t‑on pensé, de spéculer sur une hypothétique perte ou réduction de portée de la protection conférée par le brevet pour cause d’omission ou d’annulation d’une revendication de priorité.  Le représentant de l’OEB a confirmé que la Convention sur le brevet européen ne prévoit rien en ce qui concerne les droits nés pendant la période intermédiaire dans un tel cas puisque la demande n’est pas publiée avant l’adjonction ou le rétablissement de la revendication de priorité.  La délégation de l’Australie en revanche a signalé que la loi australienne, qui laisse pour déposer la demande ultérieure un délai plus long que les deux mois proposés à l’alinéa 2)a), prévoit, elle, la protection des droits nés durant cette période.
+
+
+Projet de règle 16 :  Précisions relatives à l’adjonction et au rétablissement d’une revendication de priorité en vertu de l’article 15
+
+239	Cette règle a été approuvée sous la forme proposée.
+
+
+Projet de règle 17 :  Moyens d’identifier une demande en l’absence de son numéro
+
+240	Alinéas 1) et 2).  Ces alinéas ont été approuvés sous la forme proposée.
+
+241	Point nouveau.  Il a été convenu que le Bureau international étudiera la suggestion formulée par la délégation du Brésil tendant à ajouter un alinéa qui autoriserait l’utilisation, avec l’accord du déposant, du numéro attribué à la demande internationale selon le PCT dans la “phase nationale” du traitement de la demande.
+
+
+Projet d’article 16 :  Règlement d’exécution
+
+242	Alinéa 1)a).  En ce qui concerne le point i), une délégation a suggéré de simplifier le libellé du projet de traité en y définissant le terme “prescrit” comme signifiant “faisant l’objet de prescriptions du règlement d’exécution”.
+
+
+243	Alinéa 1)b).  En réponse à la question du représentant d’une organisation non gouvernementale, le Bureau international a confirmé que des formulaires types seront présentés pour examen lorsqu’un accord suffisant se sera dégagé en ce qui concerne les dispositions du projet de traité.
+
+244	Alinéa 2).  Cet alinéa a été approuvé sous la forme proposée.
+
+245	Le comité d’experts a adopté le présent rapport à l’unanimité le 19 décembre 1997.
+
+
+
+[L’annexe suit]
+
+
+
+ANNEXE/ANNEX
+
+
+LISTE DES PARTICIPANTS/LIST OF PARTICIPANTS
+
+
+I.  ÉTATS MEMBRES/MEMBER STATES
+
+(dans l’ordre alphabétique des noms français des États)
+(in the alphabetical order of the names in French of the States)
+
+
+AFRIQUE DU SUD/SOUTH AFRICA
+
+Craig John BURTON-DURHAM, Acting Registrar of Patents, Trade Marks, Copyright and Designs, South African Patent Office, Department of Trade and Industry, Pretoria
+
+Bongiwe QWABE (Ms.), Second Secretary, Permanent Mission, Geneva
+
+
+ALGÉRIE/ALGERIA
+
+Amor BOUHNIK, directeur de la propriété industrielle, Institut algérien de normalisation et propriété industrielle (INAPI), Alger
+
+
+ALLEMAGNE/GERMANY
+
+Peter MÜHLENS, First Counsellor, Federal Ministry of Justice, Bonn
+
+Britta DIECK-BOGATZKE (Mrs.), Counsellor, Federal Ministry of Justice, Bonn
+
+Klaus MÜLLNER, Head, Patent Division, German Patent Office, Munich
+
+Heinz BARDEHLE, Patent Attorney, Munich
+
+
+ARGENTINE/ARGENTINA
+
+Luis María NOGUÉS, Comisario de la Administración Nacional de Patentes, Instituto Nacional de la Propiedad Industrial (INPI), Buenos Aires
+
+
+ARMÉNIE/ARMENIA
+
+Boris VARDANYAN, Chief, Inventions Examinations Department, Armenian Patent Office, Yerevan
+
+
+AUSTRALIE/AUSTRALIA
+
+Bruce Ian MURRAY, Commissioner of Patents, Australian Industrial Property Organisation, Woden
+
+
+AUTRICHE/AUSTRIA
+
+Ewald GLANTSCHNIG, Counsellor, Permanent Mission, Geneva
+
+Christoph ZEILER, Legal Officer, Austrian Patent Office, Vienna
+
+
+BÉLARUS/BELARUS
+
+Alexander CHENADO, Chief Specialist, Preliminary Examination Department, The Belarus Patent Office, Minsk
+
+
+BELGIQUE/BELGIUM
+
+Stefan DRISQUE, ingénieur, Division dépôt et délivrance, Ministère des affaires économiques, Bruxelles
+
+
+BRÉSIL/BRAZIL
+
+Luiz Cesar GASSER, Second Secretary, Permanent Mission, Geneva
+
+Maria Margarida MITTELBACH (Mrs.), Director of Patent Directorate, National Institute of Industrial Property, Rio de Janeiro
+
+
+CAMEROUN/CAMEROON
+
+Jean Paul YOPA, chef de Bureau de l’information au service de la propriété industrielle, Ministère du développement industriel et commercial, Yaoundé
+
+
+CANADA
+
+Pierre TRÉPANIER, Deputy Director, Patent Branch, Canadian Intellectual Property Office, Hull
+
+Alan TROICUK, Legal Counsel, Canadian Intellectual Property Office, Hull
+
+
+CHINE/CHINA
+
+WEN Xikai (Mrs.), Deputy Director General, Law and Treaty Department, Chinese Patent Office, Beijing
+
+
+COSTA RICA
+
+Joaquín ALVAREZ, Ministro Consejero, Misión Permanente, Ginebra
+
+Linnetthe Patricia FLORES ARIAS (Sra.), Asesora Jurídica, Dirección Multilateral, Ministerio de Relaciones Exteriores y Culto, San José
+
+
+CROATIE/CROATIA
+
+Ivan SUGJA, Assistant Director for Patents, State Intellectual Property Office of the Republic of Croatia, Zagreb
+
+Mirjana PUKARI (Ms.), Assistant Director, State Intellectual Property Office of the Republic of Croatia, Zagreb
+
+Tanja RAJI (Mrs.), Legal Advisor, State Intellectual Property Office of the Republic of Croatia, Zagreb
+
+
+DANEMARK/DENMARK
+
+Anne Rejnhold JØRGENSEN (Mrs.), Head, Legal Department, Danish Patent Office, Taastrup
+
+Ulla BJÖRNSSON (Ms.), Head of Section, Danish Patent Office, Taastrup
+
+
+ÉGYPTE/EGYPT
+
+Ibrahim SALAMA, Counsellor, Permanent Mission, Geneva
+
+Alaa YOUSSEF, Third Secretary, Permanent Mission, Geneva
+
+Afaf Aly Abd El Latif SHETAYA (Mrs.), Director General, Egyptian Patent Office, Cairo
+
+
+EL SALVADOR
+
+Lilian ALVARADO-OVERDIEK (Mme), conseiller, Mission permanente, Genève
+
+
+ESPAGNE/SPAIN
+
+Rubén AMENGUAL MATAS, Técnico Superior Examinador, Departamento de Patentes e Información Tecnológica, Oficina Española de Patentes y Marcas, Madrid
+
+
+ESTONIE/ESTONIA
+
+Raul KARTUS, Head, Patent Department, Estonian Patent Office, Tallinn
+
+
+ÉTATS-UNIS D’AMÉRIQUE/UNITED STATES OF AMERICA
+
+Lee SCHROEDER, Senior Counsellor, Office of Legislative and International Affairs, Patent and Trademark Office, Department of Commerce, Washington, D.C.
+
+Stephen G. KUNIN, Deputy Assistant Commissioner for Patent Policy and Projects, Patent and Trademark Office, Department of Commerce, Washington, D.C.
+
+Lois BOLAND (Mrs.), Attorney‑Adviser, Office of Legislative and International Affairs, Patent and Trademark Office, Department of Commerce, Washington, D.C.
+
+Thaddeus BURNS, Attaché, Office of the United States Trade Representative, Geneva
+
+
+FÉDÉRATION DE RUSSIE/RUSSIAN FEDERATION
+
+Nikolay BOGDANOV, Deputy Director, International Cooperation Department, Russian Agency for Patents and Trademarks, Moscow
+
+
+FINLANDE/FINLAND
+
+Maarit LÖYTÖMÄKI (Mrs.), Deputy Director, National Board of Patents and Registration of Finland, Helsinki
+
+Marjo AALTO-SETÄLÄ (Ms.), Coordinator, International Affairs, National Board of Patents and Registration of Finland, Helsinki
+
+
+FRANCE
+
+Denis CROZE, chef du Service des affaires multilatérales, Institut national de la propriété industrielle (INPI), Paris
+
+Martine PLANCHE (Mme), chef du Département des brevets, Institut national de la propriété industrielle (INPI), Paris
+
+Jean-Luc GAL, chargé de mission aux affaires multilatérales, Institut national de la propriété industrielle (INPI), Paris
+
+
+GABON
+
+Malem TIDZANI, directeur général de l’industrie, Ministère du commerce, de l’industrie, des petites et moyennes entreprises, des petites et moyennes industries et de l’artisanat, Libreville
+
+
+GUATEMALA
+
+Beatriz MÉNDEZ (Sra.), Tercer Secretario, Misión Permanente, Ginebra
+
+
+GUINÉE/GUINEA
+
+Cécé KPOHOMOU, chef du Service de la propriété industrielle, Ministère de l’industrie et du commerce, Conakry
+
+
+HONGRIE/HUNGARY
+
+Gusztáv Vékás, Vice-President, Hungarian Patent Office, Budapest
+
+Magdolna ANGYAL (Mrs.), Head, Legal Section, Hungarian Patent Office, Budapest
+
+Judit HAJDÚ (Mrs.), Head, Patent Department for Mechanics and Electricity, Hungarian Patent Office, Budapest
+
+
+INDE/INDIA
+
+Sohan LAL, Director, Department of Industrial Development, Ministry of Industry, New Delhi
+
+
+INDONÉSIE/INDONESIA
+
+Emmawati JUNUS (Mrs.), Patent Director, Directorate General of Copyrights, Patents and Trademarks, Tangerang
+
+Henry SOELISTYO BUDI, Head, Intellectual Property Division, Cabinet Secretariat, Jakarta
+
+Bambang HIENDRASTO, First Secretary, Permanent Mission, Geneva
+
+
+JAMAÏQUE/JAMAICA
+
+Marie Elaine THOMPSON (Ms.), Deputy Chief Parliamentary Counsel, Office of the Parliamentary Counsel, Kingston
+
+
+JAPON/JAPAN
+
+Masaru SEKINE, Director, General Administration Division, Japanese Patent Office, Tokyo
+
+Ryokichi SUZUKI, Deputy Director, First Formality Examination Division, Japanese Patent Office, Tokyo
+
+Nobuyuki MONNA, Section Chief, International Affairs Division, Japanese Patent Office, Tokyo
+
+Satoshi MORIYASU, First Secretary, Permanent Mission, Geneva
+
+
+KENYA
+
+Jared Odera NYAGUA, Chief Examination Officer, Kenya Industrial Property Office, Nairobi
+
+
+KIRGHIZISTAN/KYRGYZSTAN
+
+Kanat SARGAZAKOV, Main Expert, Examination, Invention and Utility Model Division, State Agency of Intellectual Property of the Kyrgyz Republic, Bishkek
+
+
+LESOTHO
+
+Nyalleng Mabakuena PII (Mrs.), Registrar-General, Registrar-General’s Office, Maseru
+
+
+LETTONIE/LATVIA
+
+Guntis RAMANS, Head, Department of Examination of Inventions, Patent Office of the Republic of Latvia, Riga
+
+
+LITUANIE/LITHUANIA
+
+Rimvydas NAUJOKAS, Director, State Patent Bureau of the Republic of Lithuania, Vilnius
+
+
+MADAGASCAR
+
+Olgatte ABDOU (Mme), attaché, Mission permanente, Genève
+
+
+MALAISIE/MALAYSIA
+
+Kamal KORMIN, Chief Examiner of Patents (Acting), Intellectual Property Division, Ministry of Domestic Trade and Consumer Affairs, Kuala Lumpur
+
+
+MALAWI
+
+Vincent Jeremy MZUMARA, Deputy Registrar General, Department of the Registrar General, Ministry of Justice, Blantyre
+
+
+MALI
+
+Mariam BAGAYOGO (Mme), chef de la Section information industrielle, scientifique et technique, Direction nationale des industries, Bamako
+
+
+MALTE/MALTA
+
+Godwin WARR, Deputy Controller, Industrial Property Office, Valletta
+
+
+MAROC/MOROCCO
+
+Abdellah BEN MELLOUK, premier secrétaire, Mission permanente, Genève
+
+
+MEXIQUE/MEXICO
+
+José Germán CAVAZOS TREVIÑO, Patent Director, Mexican Institute of Industrial Property, México, D.F.
+
+
+NORVÈGE/NORWAY
+
+Inger NÆSGAARD (Mrs.), Head of Division, Norwegian Patent Office, Oslo
+
+Hildegun RAA GRETTE (Mrs.), Senior Executive Officer, Norwegian Patent Office, Oslo
+
+
+PAYS-BAS/NETHERLANDS
+
+Willem NEERVOORT, Vice President, Bureau for Industrial Property, Rijswijk
+
+Herman SPEYART, Industrial Property Advisor, Ministry of Economic Affairs, The Hague
+
+
+PORTUGAL
+
+José MOTA MAIA, président, Institut national de la propriété industrielle (INPI), Lisbonne
+
+Isabel AFONSO (Mme), directeur de Services de brevets, Institut national de la propriété industrielle (INPI), Lisbonne
+
+José Sérgio DE CALHEIROS DA GAMA, conseiller juridique, Mission permanente, Genève
+
+
+RÉPUBLIQUE DE CORÉE/REPUBLIC OF KOREA
+
+Joon-Kyu KIM, Counsellor, Permanent Mission, Geneva
+
+Jin Gyun SHIN, Senior Patent Examiner, Korean Industrial Property Office, Seoul
+
+
+RÉPUBLIQUE DE MOLDOVA/REPUBLIC OF MOLDOVA
+
+Eugen STASHKOV, Director General, State Agency on Industrial Property Protection of the Republic of Moldova (AGEPI), Kishinev
+
+Mihail Mrcuta, Camera-man, International Cooperation of State Company, Teleradio Moldova, Kishinev
+
+
+RÉPUBLIQUE TCHÈQUE/CZECH REPUBLIC
+
+Marcela HUJEROVÁ (Mrs.), Head, International Department, Industrial Property Office of the Czech Republic, Prague
+
+
+ROUMANIE/ROMANIA
+
+Liviu BULGÁR, chef du Service juridique et relations internationales, Office d’État pour les inventions et les marques, Bucarest
+
+Valeriu ERHAN, chef du Service de l’examen des inventions et topographies, Office d’État pour les inventions et les marques, Bucarest
+
+Viorel PORDEA, chef du Service de l’examen préliminaire, Office d’État pour les inventions et les marques, Bucarest
+
+
+ROYAUME-UNI/UNITED KINGDOM
+
+Graham JENKINS, Head, Intellectual Property Policy Directorate, The Patent Office, Newport
+
+Frank MILES, Senior Legal Adviser, The Patent Office, Newport
+
+Nicola CURTIS (Ms.), Policy Adviser, The Patent Office, Newport
+
+Richard FAWCETT, Consultant, The Patent Office, Newport
+
+
+SÉNÉGAL/SENEGAL
+
+Mamadou Syll KEBE, ingénieur chargé des opérations industrielles à la Direction de l’industrie, Ministère de l’énergie, des mines et de l’industrie, Dakar
+
+
+SINGAPOUR/SINGAPORE
+
+Hwee Lian TOH (Ms.), Assistant Registrar, Registry of Trade Marks and Patents, Ministry of Law, Singapore
+
+
+SLOVAQUIE/SLOVAKIA
+
+Eugen ZÁTURECKÝ, Director, Law and Legislation Department, Industrial Property Office of the Slovak Republic, Banská Bystrica
+
+Ldmila HLADKÁ (Mrs.), Deputy Director, International Department, Industrial Property Office of the Slovak Republic, Banská Bystrica
+
+
+SOUDAN/SUDAN
+
+Abd El Rahman Ahmed IBRAHIM, Commercial Registrar General, Ministry of Justice, Commercial Registrar General, Khartoum
+
+
+SRI LANKA
+
+Mahinda G. HEWAGE, Director of Commerce, Department of Commerce, Ministry of Internal and International Commerce and Food, Colombo
+
+
+SUÈDE/SWEDEN
+
+Per HOLMSTRAND, Chief Legal Counsel, Swedish Patent and Registration Office, Stockholm
+
+Marie ERIKSSON (Ms.), Head of Legal Division, Patent Department, Swedish Patent and Registration Office, Stockholm
+
+
+SUISSE/SWITZERLAND
+
+Philippe BAECHTOLD, chef du Service juridique des brevets, Institut fédéral de la propriété intellectuelle, Berne
+
+Philip THOMAS, Service juridique des brevets, Institut fédéral de la propriété intellectuelle, Berne
+
+
+SWAZILAND
+
+Beatrice S. SHONGWE (Mrs.), Acting Registrar-General, Registrar-General’s Office, Mbabane
+
+
+THAÏLANDE/THAILAND
+
+Suradet ATSAWINTARANGKUN, Deputy Director, Patent Examination Division, Department of Intellectual Property, Ministry of Commerce, Bangkok
+
+
+TRINITÉ-ET-TOBAGO/TRINIDAD AND TOBAGO
+
+Mary-Ann RICHARDS (Ms.), Deputy Permanent Representative, Permanent Mission, Geneva
+
+Mazina KADIR (Ms.), Controller (Acting), Intellectual Property Office, Ministry of Legal Affairs, Port of Spain
+
+
+UKRAINE
+
+Leonid NIKOLAYENKO, Deputy Chairman, State Patent Office of Ukraine, Kyiv
+
+Nellja MOVA (Mrs.), Director, Industrial Property Economics Department, State Patent Office of Ukraine, Kyiv
+
+Fedora GNATUSH (Mrs.), Deputy Head, External Relations and International Department, State Patent Office of Ukraine, Kyiv
+
+Gennady ANDROSCHUK, Chief Adviser, Secretariat of Science and Education Committee, Kyiv
+
+
+URUGUAY
+
+Carlos SGARBI, Ministro Consejero, Misión Permanente, Ginebra
+
+Graciela ROAD D’IMPERIO (Sra.), Directora de Asesoria Letrada, Dirección Nacional de la Propiedad Industrial, Montevideo
+
+
+VENEZUELA
+
+Carlos PACHECO HERNÁNDEZ, Jefe, Oficina de Patentes, Servicio Autónomo Registro de la Propiedad Industrial, Caracas
+
+David VIVAS, Attaché, Misión Permanente, Ginebra
+
+
+VIET NAM
+
+VU THI BICH DZUNG (Mrs.), Third Secretary, Permanent Mission, Geneva
+
+
+ZAMBIE/ZAMBIA
+
+Wilbrod Aggrey MULENGA, Assistant Registrar, Zambia Patent Office, Ministry of Commerce, Trade and Industry, Lusaka
+
+
+ZIMBABWE
+
+Edward MUNAIWA, Acting Controller of Patents and Trade Marks, Patents and Trade Marks Office, Harare
+
+
+
+II.  ORGANISATIONS INTERGOUVERNEMENTALES/
+INTERGOVERNMENTAL ORGANIZATIONS
+
+
+ORGANISATION MONDIALE DU COMMERCE (OMC)/WORLD TRADE ORGANIZATION (WTO)
+
+Nuno PIRES de Carvalho, counsellor, Intellectual Property and Investment Division, Geneva
+
+
+COMMUNAUTÉS EUROPÉENNES (CE)/EUROPEAN COMMUNITIES (EC)
+
+Dominique VANDERGHEYNST, administrateur, Bruxelles
+
+
+OFFICE EUROPÉEN DES BREVETS (OEB)/EUROPEAN PATENT OFFICE (EPO)
+
+Eugen STOHR, Lawyer, International Legal Affairs, Munich
+
+Robert CRAMER, Lawyer, Directorate Patent Law, Munich
+
+
+ORGANISATION DE L’UNITÉ AFRICAINE (OUA)/ORGANIZATION OF AFRICAN UNITY (OAU)
+
+Mustapha CHATTI, attaché, Genève
+
+
+Organisation régionale africaine de la propriété industrielle (ARIPO)/African Regional Industrial Property Organization (ARIPO)
+
+Mzondi Haviland CHIRAMBO, Director General, Harare
+
+
+
+III.  ORGANISATIONS NON GOUVERNEMENTALES/
+NON-GOVERNMENTAL ORGANIZATIONS
+
+
+American Bar Association (ABA):  Michael N. MELLER (Intellectual Property Law Section, New York)
+
+
+American Intellectual Property Law Association (AIPLA):  Michael K. KIRK (Executive Director, Arlington);  Michael J. PANTULIANO (Chairman, Harmonization Committee, New York)
+
+
+Asociación de Agentes Españoles autorizados ante Organizaciones Internacionales de Propiedad Industrial e Intelectual (AGESORPI)/Association of Spanish Attorneys before International Industrial and Intellectual Property Organizations (AGESORPI):  Enrique ARMIJO (Miembro de la Junta Rectora, Barcelona)
+
+
+Association asiatique d’experts juridiques en brevets (APAA)/Asian Patent Attorneys Association (APAA):  Hideo TANAKA (Member of the Patent Committee, Tokyo)
+
+
+Association brésilienne de la propriété industrielle (ABPI)/Brazilian Association of Industrial Property (ABPI):  Ivan AHLERT (Engineer and Patent Expert, Rio de Janeiro)
+
+
+Association brésilienne des agents de propriété industrielle (ABAPI)/Brazilian Association of Industrial Property Agents (ABAPI):  Ivan AHLERT (Member, Rio de Janeiro)
+
+
+association internationale pour la protection de la propriété industrielle (AIPPI)/International Association for the Protection of Industrial Property (AIPPI):  Michel DE BEAUMONT (Chairman of Question 89E, Grenoble)
+
+
+Chartered Institute of Patent Agents (CIPA):  John David BROWN (Member of Patents Committee, London)
+
+
+Committee of National Institutes of Patent Agents (CNIPA):  John David BROWN (Munich)
+
+
+Confederation of Indian Industry (CII):  Rachna SINGH (Mrs.) (Executive Officer, Technology Group, New Delhi)
+
+
+Federal Chamber of Patent Attorneys (FCPA):  Gert SCHMITT-NILSON (Member of the Committee for Patent Laws and Utility Model Laws, Munich)
+
+
+Fédération de l’industrie allemande (BDI)/Federation of German Industry (BDI):  Hans‑Jürgen SCHULZE-STEINEN (former Deputy Head, Patent and License Department, Hoechst AG, Frankfurt)
+
+
+Fédération européenne des mandataires de l’industrie en propriété industrielle (FEMIPI)/European Federation of Agents of Industry in Industrial Property (FEMIPI):  Félix A. JENNY (Honorary Board Member and Member of the Working Group European Patent/PCT/Community Patent, Basel)
+
+
+Fédération internationale des conseils en propriété industrielle (FICPI)/International Federation of Industrial Property Attorneys (FICPI):  Gert SCHMITT-NILSON (Special Reporter, Group for International Matters, Munich)
+
+
+Institut des mandataires agréés près l’Office européen des brevets (EPI)/Institute of Professional Representatives before the European Patent Office (EPI):  John David BROWN (Member of Harmonisation Committee, Munich);  Félix A. JENNY (Board Member and Chairman of the Harmonisation Committee, Basel)
+
+
+International Intellectual Property Association (IIPA):  Michael N. MELLER (USA AIPPI Group, New York)
+
+
+Japan Intellectual Property Association (JIPA):  Hiroshi KATSUYAMA (Vice‑Chairman, International Committee, Tokyo)
+
+
+Japan Patent Attorneys Association (JPAA):  Kazuaki TAKAMI (Chairman, Working Group on PLT, International Activities Committee, Tokyo);  Masaki HIGUCHI (Member of the Patent Committee, Tokyo);  Takaaki KIMURA (Working Group on PLT, International Activities Committee, Tokyo);  Sadaaki KAMBARA (Member of the Patent Committee, Tokyo)
+
+
+Korea Patent Attorneys Association (KPAA):  Jong Yoon KIM (Director, International Affairs, Seoul)
+
+
+Ligue internationale du droit de la concurrence (LIDC)/International League of Competition Law (LIDC):  Jean-François LÉGER (membre du Groupe suisse, Genève)
+
+
+Union des Confédérations de l’industrie et des employeurs d’Europe (UNICE)/Union of Industrial and Employers’ Confederations of Europe (UNICE):  Félix A. JENNY (c/o Patent Department, Novartis, Basel)
+IV.  BUREAU/OFFICERS 
+
+
+Président/Chairman:			Graham JENKINS (Royaume-Uni/United Kingdom)
+
+
+Vice-présidents/Vice-Chairmen:	Sohan LAL (Inde/India)
+						Eugen STASHKOV (République de Moldova/Republic of 							Moldova)
+
+
+Secrétaire/Secretary:			Ludwig BAEUMER (OMPI/WIPO)
+
+
+
+V.  BUREAU INTERNATIONAL DE L’ORGANISATION MONDIALE
+DE LA PROPRIÉTÉ INTELLECTUELLE (OMPI)/
+INTERNATIONAL BUREAU OF THE
+WORLD INTELLECTUAL PROPERTY ORGANIZATION (WIPO)
+
+
+François CURCHOD, vice-directeur général/Deputy Director General
+
+Département du droit de la propriété industrielle/Industrial Property Law Department:  Ludwig BAEUMER (directeur/Director);  Marcus HÖPPERGER (juriste principal, Section du droit des marques et des dessins et modèles industriels/Senior Legal Officer, Trademark and Industrial Design Law Section);  Yolanda HUERTA (Ms.) (juriste adjointe/Assistant Legal Officer);  Leslie LEWIS (Consultant);  Karen LEE (Ms.) (Consultant);  Tomoko MIYAMOTO (Mrs.) (Consultant)
+
+Albert TRAMPOSCH, directeur-conseiller/Director-Advisor
+
+Secteur du PCT (Traité de coopération en matière de brevets)/PCT (Patent Cooperation Treaty) Sector:  Busso BARTELS (directeur/Director);  Philip THOMAS (directeur de la Division juridique/Director, Legal Division)
+
+
+
+[Fin du document/
+End of document]
+
+

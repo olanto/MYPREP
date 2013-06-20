@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--
+ JG-20212
+ author: Jacques Guyot
+-->
+<properties>   
+<!--
+ Les paramètres suivants sont les paramètres fixes de la configuration
+-->    
+  
+ <entry key="LIST_OF_SEG_LANG">EN FR</entry>
+
+<!-- OBJ_FILE_ORGANISATION definit le type d'implementation BY_EXT, BY_FOLDER-->   
+  <entry key="FILE_ORGANISATION">BY_FOLDER</entry>
+      
+  <entry key="FOLDER_ORIGINAL">C:/MYCAT/corpus/docs</entry>
+  <entry key="FOLDER_CONVERTED">C:/MYCAT/corpus/source</entry>
+  <entry key="FOLDER_SEGMENTED">C:/MYCAT/corpus/txt</entry>
+
+ 
+</properties>

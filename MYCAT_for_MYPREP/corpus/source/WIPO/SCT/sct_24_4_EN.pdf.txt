@@ -1,0 +1,3037 @@
+E 
+SCT/24/4 
+ORIGINAL:  ENGLISH 
+DATE:  AUGUST, 31 2010 
+Standing Committee on the Law of Trademarks, Industrial 
+Designs and Geographical Indications 
+Twenty-Fourth Session 
+Geneva, November 1 to 4, 2010 
+TRADEMARKS AND THE INTERNET 
+Document prepared by the Secretariat 
+ 
+ 
+I. INTRODUCTION 
+ 
+1. At its twenty-third session, held in Geneva from June 30 to July 2, 2010, the Standing 
+Committee on the Law of Trademarks, Industrial Designs and Geographical 
+Indications (SCT) requested the Secretariat to prepare a background document 
+summarizing past and current developments in the area of Trademarks and the Internet, 
+in particular the WIPO Joint Recommendation Concerning Provisions on the Protection of 
+Marks, and Other Industrial Property Rights in Signs, on the Internet, and recent 
+developments within the Internet Corporation for Assigned Names and Numbers (ICANN) 
+on domain name issues.  SCT members and observers were invited to present their 
+contribution to that work to the Secretariat by September 15, 2010 
+(see document SCT/23/6, paragraph 18). 
+ 
+2. In accordance with the request made by the SCT, the Secretariat has prepared the 
+present document, which attempts to summarize existing information on the above issues 
+and presents a number of additional considerations for discussion by the Standing 
+Committee. 
+ 
+SCT/24/4 
+page 2 
+ 
+II. INTERNET DOMAIN NAMES 
+ 
+3. During recent years, the Internet has gained increasing importance for the global 
+movement of goods and services of all kinds.  With continued growth at a phenomenal 
+rate, the Internet is now a major global data pipeline, which is more and more used in the 
+mainstream of commerce to sell and deliver goods and services across transnational 
+borders.  Issues of intellectual property protection regarding the material available on the 
+Internet are just as important as issues regarding the use of trademarks as vectors of 
+consumer preference in a global marketplace. 
+ 
+4. One of the earliest issues addressed in that context was the bad faith registration of 
+trademarks as domain names.  It is well-known that an important break-through in 
+tackling this issue was reached through the first WIPO Internet Domain Name Process, 
+as a result of which ICANN adopted the Uniform Domain Name Dispute Resolution 
+Policy (UDRP).  In addition to being the principal global administrator of cases under 
+the UDRP, the WIPO Arbitration and Mediation Center continues to be active in 
+monitoring and following up on ICANN’s activities as relevant to identity protection on the 
+Internet.  This concerns, in particular, ICANN’s proposals for significant expansion of the 
+generic domain name space, as explained in further detail in Annex III to this document. 
+ 
+ 
+III. THE WIPO JOINT RECOMMENDATION CONCERNING PROVISIONS ON THE 
+PROTECTION OF MARKS, AND OTHER INDUSTRIAL PROPERTY RIGHTS IN 
+SIGNS, ON THE INTERNET 
+ 
+5. Apart from the work on domain names, the SCT was instrumental in preparing the WIPO 
+“Joint Recommendation Concerning Provisions on the Protection of Marks, and Other 
+Industrial Property Rights in Signs, on the Internet (hereinafter “Joint Recommendation”), 
+which was adopted during the thirty-six series of meetings of the Assemblies of the 
+Member States of WIPO (September 24 to October 3, 2001).  The Joint 
+Recommendation is the third of a series of instruments in the area of trademark law 
+adopted by the Assemblies of the Paris Union and the WIPO General Assembly. 
+ 
+6. The provisions contained in the Joint Recommendation aim at facilitating the application 
+of territorial laws regarding trademarks and other industrial property rights in signs and 
+territorial laws regarding unfair competition, to the use of signs on the Internet.  The 
+provisions are intended to be applied in determining whether, under the applicable law, 
+use of a sign on the Internet has contributed to the acquisition, maintenance or 
+infringement of a mark or another industrial property right in the sign, or whether such use 
+constitutes an act of unfair competition. 
+ 
+7. Under the provisions, the use of a sign on the Internet is treated as the use in a member 
+State, only if the use has a commercial effect in that particular member State.  The Joint 
+Recommendation details the factors for determining whether the sign has a commercial 
+effect.  Although the list of potentially relevant factors is non-exhaustive, it is intended to 
+assist the competent authority to make a finding of commercial effect.  The competent 
+authority is, however, free to determine which factors are relevant in a given case. 
+ 
+SCT/24/4 
+page 3 
+ 
+8. With respect to the liability of the user of a sign on the Internet in a way that has a 
+commercial effect in a member State, the Joint Recommendation provides that if such a 
+user owns a right in the sign in another member State, or uses the sign with the consent 
+of the owner of such a right, or is permitted to use the sign, he or she will not be liable to 
+the trademark owner in that other State prior to receiving a “notification of infringement”.  
+This notice and avoidance of conflict procedure is an attempt to balance the interests of 
+good faith legitimate users on the one hand and owners of rights which might be infringed 
+by such use on the other. 
+ 
+9. The Joint Recommendation contains provisions that instruct the competent authority 
+granting a remedy against the use of a sign on the Internet in a member State to consider 
+the effect of a potential injunction in other States.  Any remedy must be proportionate to 
+the commercial effect of the use in that member State.  The competent authority should 
+avoid imposing a remedy that would have the effect of prohibiting any future use of the 
+sign on the Internet.  The full text of the Joint Recommendation and Explanatory Notes 
+are contained in Annex II to this document. 
+ 
+ 
+IV. RECENT DEVELOPMENTS REGARDING TRADEMARKS AND THE INTERNET 
+ 
+10. Almost ten years after the adoption of the Joint Recommendation, the Internet has 
+provided countless new ways for ingenious businesses and individuals to refer to 
+trademarks in a manner that impacts the trademark holder’s business.  These new 
+methods may not directly associate the mark with goods or services that the user is 
+offering for sale and may even be hidden from the consumer’s view.  Practices such as 
+the unauthorized use of trademarks as keywords by search engine operators or within 
+listings for non-genuine goods on auction sites, or the use of trademarks on virtual 
+objects that are traded in virtual worlds, constitute clear challenges to the traditional 
+application of trademark law. 
+ 
+11. Recently, a significant number of cases have been brought before national and regional 
+courts.  In deciding those cases, courts have resorted to Trademark Law principles often 
+in combination with other statutory law regulating electronic commerce or the 
+enforcement of intellectual property rights.  The solutions provided differ from one 
+jurisdiction to another.  Annex I to this document contains a succinct summary of new 
+challenges regarding the use of trademarks on the Internet, as shown in a selective 
+sample of cases across different jurisdictions. 
+ 
+ 
+12. The SCT is invited to 
+(i) take note of the contents of 
+Annex I to this document; 
+ 
+(ii) review the 2001 Joint 
+Recommendation contained in Annex II to this 
+document with a view to determining whether 
+amendments are desirable and appropriate to 
+address the recent developments set out in 
+Annex I; 
+SCT/24/4 
+page 4 
+ 
+(iii) identify any other course of action that 
+might be perceived as useful and appropriate 
+to address specific trademark issues related 
+to the use of trademarks on the Internet; 
+ 
+(iv) note the contents of Annex III to this 
+document and consider possible follow-up, if 
+any. 
+ 
+ 
+ 
+[Annexes follow] 
+ 
+ 
+SCT/24/4 
+ANNEX I 
+ 
+RECENT DEVELOPMENTS REGARDING TRADEMARKS AND THE INTERNET 
+ 
+ 
+I. Liability of Internet Auction Sites for Trademark Infringement 
+ 
+1. The commercial significance of online auction sites continues to escalate, as 
+retailers capitalize on the opportunity to access a vast consumer base, at low cost.  
+At the outset, it is important to note that such sites typically facilitate both 
+professional and amateur retailers.  Moreover, depending on the scruples of the 
+seller, a brand name may be exploited unlawfully to attract buyers to non-genuine 
+goods.  This dynamic raises significant challenges for trademark owners; 
+challenges, which are intensified by the global nature of the internet and 
+jurisdictional divergences in trademark law. 
+ 
+2. In recent years, litigation in this area has increased strongly, as lawsuits have 
+been taken against large auction sites in multiple jurisdictions.  Notwithstanding 
+distinct analogies of fact and legal argument presented in these cases, the judicial 
+outcomes have diverged in different jurisdictions.  Variations in domestic law 
+contribute to this divergence, but broader considerations of policy also bear 
+influence on courts.  In any event, legal uncertainty currently exists for both 
+auction sites and brand owners.  As a result, the practices and procedures of 
+auction sites, and the enforcement strategies of brand owners must be tailored 
+according to jurisdiction. 
+ 
+Policy 
+ 
+3. Before examining the relevant case law, it is helpful to outline the broad issues of 
+policy, which are implicated when a brand owner challenges the conduct of an 
+auction site.  Unquestionably, the most important issue in this respect is which 
+party should carry the burden of policing the use of trademarks on the site.  One 
+argument is that brand owners should bear this burden, because they have 
+intimate knowledge of their authorized goods and thus are best suited to detect a 
+trademark violation.  Furthermore, it is argued that intellectual property holders 
+should enforce their own rights, rather than rely on another party to do it for them.  
+On the other hand, it is claimed that auction sites should bear the burden because 
+they alone have the ability to filter ads, take remedial actions against sellers and 
+ultimately prevent trademark infringements from occurring on their sites.  This 
+argument is bolstered by the fact that auction sites profit from all sales conducted 
+on the site, including sales of illegitimate goods.  Auction sites resist the burden 
+however, because it threatens to jeopardize their business model.  Meanwhile, 
+brand owners claim with equal force that they sustain huge revenue losses due to 
+the manner in which auction sites currently operate. 
+SCT/24/4 
+Annex I, page 2 
+ 
+4. Another policy debate centers on passivity.  Internet Service Providers (ISPs) are 
+typically not liable for illegal activity conducted online, on the basis that they are a 
+“mere conduit1”.  In a similar vein, auction sites seek exemption from liability for 
+trademark violations on the basis that they are merely providing a forum for a 
+transaction between a buyer and a seller.  In other words, because the website is 
+hosting and is “passive”, rather than actively verifying the claims of sellers, liability 
+for trademark infringement is improper.  Brand owners dispute this claim of 
+passivity however, and refer to such examples as the endorsement and support 
+services that auction sites offer to those sellers that reach a high volume of 
+transactions.  As discussed below, the manner and extent to which an auction site 
+interacts with sellers and with brand owners is an important consideration for 
+courts when determining an auction site’s liability. 
+ 
+Cases 
+ 
+United States of America 
+ 
+5. In the United States of America, the U.S. Court of Appeals for the Second Circuit 
+recently delivered a seminal judgment in the case of Tiffany v Ebay2.  Regarding 
+the sale of non-genuine jewelry on the site, Tiffany brought suit against Ebay for 
+direct and contributory trademark infringement, trademark dilution and false 
+advertising.  
+ 
+6. The Court rejected the claim of direct infringement on the basis that eBay used the 
+mark to describe accurately the genuine Tiffany goods offered for sale on the site3.  
+Also, the use did not suggest that Tiffany was affiliated with eBay or that Tiffany 
+endorsed the sales4.  For the purposes of assessing direct infringement, the Court 
+held that eBay’s alleged knowledge of the availability of counterfeit wares on the 
+site was not a basis of such a claim and to impose liability on such grounds would 
+unduly inhibit the lawful resale of genuine Tiffany goods5.  
+ 
+7. Regarding the claim of contributory infringement, the Court acknowledged that it 
+was a more difficult issue than direct infringement6. An auction site may be liable if 
+it “continues to supply its service to one whom it knows or has reason to know is 
+engaging in trademark infringement7”.  However, concerning the requisite degree 
+of knowledge, the Court ruled that “for contributory trademark infringement to lie, a 
+                                                     
+1  For example, pursuant to Articles 12 and 13 of the Directive on certain legal aspects of electronic 
+commerce in the Internal Market 2000/31/EC (E-Commerce Directive), an ISP is exempt from liability 
+when it serves as a mere conduit or provides temporary caching for the sole purpose of making the 
+transmission of content more efficient, is of a mere technical, automatic or passive nature, and where the 
+ISP has neither knowledge nor control over the content being transmitted or stored. 
+2  Tiffany v eBay, 600 F.3d. 93, 98 (2010). 
+3  Tiffany v eBay, 600 F.3d. 93, 103 (2010).  Regarding genuine goods, the Court acknowledged that “a 
+significant portion of the ‘Tiffany’ sterling silver jewelry listed on the eBay website was counterfeit” but 
+found that a substantial number of authentic Tiffany goods are also sold on eBay.” Id. at 98. 
+4  Tiffany v eBay, 600 F.3d. 93, 103 (2010). 
+5  Tiffany v eBay, 600 F.3d. 93, 103 (2010). 
+6  Tiffany v eBay, 600 F.3d. 93, 103 (2010). 
+7  Tiffany v eBay, 600 F.3d. 93, 106 (2010). 
+ 
+SCT/24/4 
+Annex I, page 3 
+ 
+service provider must have more than a general knowledge or reason to know that 
+its service is being used to sell counterfeit goods.  Some contemporary knowledge 
+of which particular listings are infringing or will infringe in the future is necessary8”.  
+Because eBay, upon acquiring specific knowledge of infringements, removed 
+those listings and suspended repeat offenders, eBay had not failed to uphold this 
+legal standard.  Accordingly, eBay was not liable for contributory trademark 
+infringement9.  Interestingly however, the Court prohibited eBay from “willful 
+blindness10”.  Thus, if eBay has reason to suspect that users of its services are 
+infringing a protected mark, it is not permitted to “look the other way” in an effort to 
+shield itself from liability.  In other words, willful blindness is equivalent to actual 
+knowledge11. 
+ 
+8. As to the final two claims, the dilution argument failed because eBay never used 
+the mark to refer to its own product12 and the false advertising claim was 
+remanded to the District Court13.  
+ 
+United Kingdom 
+ 
+9. In the UK, L’Oréal brought suit against eBay14 claiming, inter alia, that eBay had 
+committed trademark violations based on theories of joint liability and primary 
+liability.  Regarding joint liability, the Court declared that this was a matter to be 
+determined by national law.  The judge acknowledged that eBay “do facilitate the 
+infringement of third parties’ trademarks, including L’Oréal’s trademarks, by 
+sellers;  they do know that such infringements have occurred and are likely to 
+continue to occur;  and they profit from such infringements except where the rights 
+owner makes a VeRO15 complaint in sufficient time16”.  However, L’Oreal failed to 
+establish that eBay had procured sellers’ particular acts of infringement and had 
+not proved evidence of common design.  The Court ruled (i) eBay is under no legal 
+duty to prevent infringement, and (ii) facilitation with knowledge and intention to 
+profit is not enough17. 
+ 
+                                                     
+8  Tiffany v eBay, 600 F.3d. 93, 107 (2010). 
+9  Tiffany v eBay, 600 F.3d. 93, 109 (2010). 
+10  See Tiffany v eBay, 600 F.3d. 93, 109 and 110. 
+11  Tiffany v eBay, 600 F.3d. 93, 110 (2010). 
+12  Tiffany v eBay, 600 F.3d. 93, 112 (2010). 
+13  Tiffany v eBay, 600 F.3d. 93, 114 (2010). 
+14  L’Oreal SA v eBay International AG, [2009] E.T.M.R. 53. 
+15  eBay's Verified Rights Owner or VeRO programme is a notice and take-down system that is intended to 
+provide intellectual property owners with assistance in removing infringing listings from the Site.  L’Oreal 
+SA v eBay International AG, [2009] E.T.M.R. 53, at 875. 
+16  L’Oreal SA v eBay International AG, [2009] E.T.M.R. 53, at 928. 
+17  L’Oreal SA v eBay International AG, [2009] E.T.M.R. 53, at 928.  
+ 
+SCT/24/4 
+Annex I, page 4 
+ 
+10. With respect to primary liability, L’Oréal targeted eBay’s use of L’Oreal trademarks 
+in sponsored links on search engine sites18.  Additionally, L’Oreal challenged use 
+of the marks on the eBay site as subcategories to assist in a search of eBay 
+listings19.  It is important to note that both claims relate only to trademark infringing 
+products.  On these issues, the judge decided to refer questions to the European 
+Court of Justice for clarification20.  The answers to these questions are pending. 
+ 
+France 
+ 
+11. In France, different courts have reached different conclusions as to eBay’s liability 
+for the sale of non-genuine goods.  In LVM v eBay21, the Commercial Court of 
+Paris found in favor of Louis Vuitton and held that eBay was guilty of “serious 
+tortuous acts consisting in abstention and negligence22”.  The Court rejected the 
+notion that eBay was a mere host and instead classified eBay as a broker.  In this 
+role, eBay had failed in its duty to prevent illicit sales.  eBay had “failed to set up 
+effective and appropriate measures to combat trademark infringement” and the 
+“anti-counterfeit measures [were] inadequate because eBay did not require sellers 
+to authenticate their merchandise nor did eBay permanently terminate infringing 
+seller accounts23”.  
+ 
+12. By contrast, a more recent French decision24, resulting from litigation initiated by 
+L’Oréal, has ruled in favor of eBay.  According to the Court, eBay had fulfilled its 
+obligation in good faith and had done its due diligence to prevent infringing goods 
+being sold through its site25.  In order to ground liability, the case would require 
+evidenced knowledge on the part of eBay of infringing content and a failure to 
+remedy it26. 
+ 
+Belgium 
+ 
+13. In Lancôme Parfums v eBay27, the Brussels Commercial Court found that eBay 
+was not liable because it “did not have actual knowledge of illegal information it 
+hosted, or it was not aware of any facts or circumstances suggesting such illegal 
+                                                     
+18  L’Oreal SA v eBay International AG, [2009] E.T.M.R. 53, at 929.  
+19  L’Oreal SA v eBay International AG, [2009] E.T.M.R. 53, at 860. 
+20  See C 267/40, 7.11.2009, Available at  
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2009:267:0040:0041:en:pdf. 
+21  Commercial Court of Paris, RG no 2006077799. 
+22  Rebecca M. Haynes, Should Designers Pay the Price? A Look at Contributory Trademark Infringement as 
+it Relates to Different Outcomes of Internet Auction Site Liability in the United States and France, 8 Ave. 
+Maria L. Rev. 223, at 232. 
+23  Allison N. Ziegler, Online Auction House Liability for the Sale of Trademark Infringing Products, 14 Marq. 
+Intell. Prop. L. Rev. 215, at 230. 
+24  Case RG 07/11365 L’Oréal SA v eBay France SA, 13 May 2009. 
+25  Nathan Fan, L’Oreal v eBay: European Courts Rule eBay Not Liable for Sales of Counterfeit Goods, May 
+26, 2009, http://www.iposgoode.ca/2009/05/l%E2%80%99oreal-v-ebay-european-courts-rule-ebay-not-
+liable/ 
+26  Franck Soutoul and Jean-Phillippe Bresson, eBay Succeeds Over L’Oreal in France, Trademark World 
+#219, July/August 2009 15, at 16. 
+27  Case A/07/06032. 
+ 
+SCT/24/4 
+Annex I, page 5 
+ 
+nature, and upon obtaining such knowledge or awareness, it had acted promptly to 
+remove the information or render it inaccessible28”.  Therefore, eBay was 
+successful in asserting that it was a mere host for the information shown and 
+enjoyed the exemptions conferred by articles 12 to 15 of the E-Commerce 
+Directive29. 
+ 
+Germany 
+ 
+14. A number of German courts have pronounced on the issue of auction site liability 
+for trademark infringement30.  The position has been characterized as follows:  If a 
+seller31 is acting on a commercial footing and the auction site has been provided 
+clear information of infringement, then the site may be secondarily liable as an 
+“interferer” if it fails to prevent infringements by filtering and manual checks32.  It 
+appears that the courts have attempted to strike a balance when allocating the 
+burden of monitoring for trademark infringement.  Because judges have shown a 
+willingness to protect the business model of the auction sites, there is only an 
+obligation to control only easily identifiable infringements33.  
+ 
+ 
+II. Liability of Search Engines for the Sale of Trademarks as Keywords 
+ 
+15. When Internet users conduct an online search, they are typically exposed to two 
+different sets of results:  “natural results34” and “sponsored links35”.  Natural results 
+are generated by the search engine in a neutral manner based on relevance to the 
+search terms36.  Initially, search engines relied heavily on “meta tags37” to produce 
+natural results, however, the importance of meta tags has been reduced by 
+                                                     
+28  Kevin K.H. Pun, Comparative Study on the Liability for Trade Mark Infringement of Online Auction 
+Providers, E.I.P.R. 2009, 31(11) 559-567, at 561. 
+29   Ibid. 
+30  For a list of the judgments, see Mary Bagnall, David Fyfield, Constantine Rehag, Michael Adams, Liability 
+of Online Auctioneers: Auction Sites and Brand Owners Hammer it Out, INTA Bulletin Vol. 65 No. 1 
+(January 1, 2010), at 6. 
+31  This refers to the actual seller of the infringing goods. In other words, the party that is directly liable for 
+trademark infringement.  
+32  See Kevin K.H. Pun, Comparative Study on the Liability for Trade Mark Infringement of Online Auction 
+Providers, E.I.P.R. 2009, 31(11) 559-567, at 563, and Mary Bagnall, David Fyfield, Constantine Rehag, 
+Michael Adams, Liability of Online Auctioneers: Auction Sites and Brand Owners Hammer it Out, INTA 
+Bulletin Vol. 65 No. 1 (January 1, 2010). 
+33  Mary Bagnall, David Fyfield, Constantine Rehag, Michael Adams, Liability of Online Auctioneers: Auction 
+Sites and Brand Owners Hammer it Out, INTA Bulletin Vol. 65 No. 1 (January 1, 2010). 
+34  Also referred to as organic results or non-sponsored results. 
+35  See Rachel R. Friedman, No Confusion Here: Proposing a New Paradigm for the Litigation of Keyword 
+Advertising Trademark Infringement Cases, 12 Vand. J. Ent. & Tech. L. 355, at 363 (2010).  
+36  See Die BergSpechte Outdoor Reisen une Alpineschule Edi Koblmüller v Günter Guni, Case C-278/08, 
+par 5.  
+37  “A meta tag” is a list of words normally hidden in a Web site that acts as an index or reference source 
+identifying the content of the Web site for search engines.” Thomas McCarthy, McCarthy on Trademarks 
+and Unfair Competition §25:69 (4th Ed.). 
+ 
+SCT/24/4 
+Annex I, page 6 
+ 
+modern search algorithms38.  In contrast to natural results, sponsored links appear 
+because certain websites (“advertisers”) pay fees to the search engine to ensure 
+that their links appear following the input of certain search terms (“keywords”). 
+ 
+16. Taking Google as an example, advertisers bid on certain keywords and are 
+charged fees on a “pay per click” basis.  In other words, each time a user clicks on 
+a sponsored link, the advertiser is charged a fee by Google.  This fee is 
+determined by auction, meaning the advertiser or advertisers who have agreed to 
+pay the most “per click” will appear in a prime location on the results page.  Thus, 
+the fee varies according to the popularity of the search term in question. 
+ 
+17. Often, brand owners that appear as the first link in the list of natural results, also 
+bid for a sponsored link to ensure that consumers searching specifically for their 
+brand arrive at their website.  However, complications arise when one advertiser 
+bids on a keyword, which constitutes the trademark of a third party.  In this 
+situation, a consumer searching for a particular brand may be exposed to a 
+sponsored link from that brand’s competitor.  This may cause consumer confusion 
+or lead the consumer to believe that the two brands are affiliated.  Naturally, this is 
+problematic from the perspective of the trademark owner.  Redress, however, is 
+fraught with difficult questions of trademark law, such as what constitutes an 
+infringing use, and, if the activity is infringing, who should be held liable; the search 
+engine, the advertiser, or both39?  
+ 
+18. Recently, Google has been a defendant in numerous cases, in multiple 
+jurisdictions, because of its “Adwords”40 program.  Adwords allows an advertiser to 
+bid on the trademarks of another party as keywords.  The purchasers of these 
+keywords may be competitors of the brand owner or they may be offering non-
+genuine goods.  In either instance, the brand owner may be susceptible to harm, 
+both financial and reputational. 
+ 
+Cases 
+ 
+United States of America 
+ 
+19. According to a recent case in the United States of America, two issues are critical 
+in a keyword advertising case:  first, the plaintiff must establish that there has been 
+a “use in commerce”, second, the plaintiff must show that a “likelihood of 
+confusion” exists.  The Second Circuit recently handed down a landmark verdict in 
+the case of RescueCom v Google41, holding that Google’s sale of plaintiff’s 
+trademark as a keyword to competitors, which caused competitor’s advertisements 
+to appear on user’s screens whenever a user searched for the term “Rescuecom”,  
+                                                     
+38  Thomas McCarthy, McCarthy on Trademarks and Unfair Competition §25:69 (4th Ed.) 
+39  Jonathan Cornthwaite, Adwords or Bad Words? A UK Perspective on Keywords and Trademark 
+Infringement, E.I.P.R. 2009, 31 (7), 347-352, at 347. 
+40  For more information on Adwords, see 
+http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=6084 
+41  Rescuecom Corp. v Google Inc., 562 F.3d 123 (2d Cir. 2009).  
+ 
+SCT/24/4 
+Annex I, page 7 
+ 
+was sufficient to constitute a “use in commerce”.  The Court remanded the case to 
+the U.S. District Court to determine whether or not plaintiff could also establish the 
+second element, “likelihood of confusion”.  The outcome of the remand is pending. 
+ 
+European Court of Justice42 
+ 
+20. The European Court of Justice (ECJ) recently handed down its ruling in response 
+to preliminary questions posed by the French Cour de Cassation.  The ECJ issued 
+a joint ruling, concerning three different cases, but for the purpose of this analysis, 
+the facts pertaining to the Louis Vuittion Malletier (LVM) lawsuit are suitably 
+illustrative.  When users entered LVM’s trademarks into Google, sponsored links 
+appeared offering imitation versions of LVM’s products.  This occurred because 
+advertisers (i.e. the customers of Google’s Adword program) had chosen 
+keywords that were identical or confusingly similar to LVM’s marks.  LVM sued 
+alleging, inter alia, that Google had infringed its trademarks.  LVM was successful 
+at both the trial court level and at the Court of Appeal.  When the case reached the 
+Cour de Cassation, that Court sought a preliminary ruling on a number of issues 
+from the ECJ. 
+ 
+21. In analyzing the judgment of the ECJ, it is important to note that the Court ruled on 
+the liability of two distinct parties.  On the one hand, the Court’s ruling relates to 
+the liability of the internet referencing service provider (Google).  However, the 
+Court also discussed the liability of the advertiser (the customer of Google’s 
+Adwords program).  This distinction is important because the potential for 
+establishing trademark infringement differs for each. 
+ 
+22. First, on the issue of “use” as it relates to Google’s liability, the Court held that “an 
+internet referencing service provider which stores, as a keyword, a sign identical 
+with a trademark and organizes the display of advertisements on the basis of that 
+keyword does not use (emphasis added) that sign within the meaning of the 
+Trademark Directive”. 
+ 
+23. By contrast, the Court held that use by an advertiser of a sign identical with a 
+trademark as a keyword in the context of an internet referencing service falls within 
+the concept of use (emphasis added) “in relation to goods or services” within the 
+meaning of Article 5(1)(a) of the Trademark Directive43. 
+ 
+24. Moving beyond the concept of use, the Court also examined whether Google 
+could avail itself of the safe harbor defence under Article 14 of the E-Commerce 
+Directive.  According to the Court, the availability of this defence hinges upon 
+whether Google has played an “active role” that would give it knowledge of, or 
+control over the data stored44”.  It is for the national court to determine whether the 
+internet service provider has behaved in a neutral manner or has been “active” in 
+                                                     
+42  Following the adoption of the Treaty of Lisbon on December 1, 2009, the European Court of Justice (ECJ) 
+has been renamed “The Court of Justice of the European Union”. 
+43  Google France SARL v Louis Vuitton Malletier SA (C-236/08, C-237/08 & C-238/08) [2010] paragraph 73.  
+44  Google France SARL v Louis Vuitton Malletier SA (C-236/08, C-237/08 & C-238/08) [2010] 
+paragraph 114.  
+ 
+SCT/24/4 
+Annex I, page 8 
+ 
+this sense45.  If such an active role has been played by the keyword operator, then 
+the defence will be unavailable.  However, even if the keyword operator has not 
+played an active role, it may still be liable (under the E-Commerce Directive) if it 
+failed to act expeditiously to remove or disable access to an offending ad after 
+obtaining knowledge of the unlawful nature of the ad. 
+ 
+25. Turning again to the liability of the advertiser, the Court focused on the advertising 
+function of a trademark.  The trademark owner can prohibit the advertiser from 
+using the mark as a keyword for goods or services identical to those for which the 
+mark is registered, if the ad does not enable the average Internet user or enables 
+the user only with great difficulty, to ascertain whether the goods or services 
+originate from the trademark owner or an undertaking economically connected to it 
+or, on the contrary, originate from a third party46. 
+ 
+26. Another decision47 was handed down by the ECJ recently following a referral from 
+the Netherlands.  The parties to the dispute both manufacture and sell mobile 
+buildings. The plaintiff trades under the mark PORTAKABIN while the defendant 
+trades under the mark PRIMAKABIN.  Defendant purchased keywords from 
+Google, which consisted of plaintiff’s mark and minor spelling variations thereof.  
+Portakabin brought suit in an effort to enjoin Primakabin’s use of the mark in this 
+manner.  The Hoge Raad der Nederlanden (Supreme Court of the Netherlands) 
+referred a number of questions to the Court of Justice.  The ECJ endorsed its 
+ruling in LVMH v Google by reiterating that use of a trademark by an advertiser as 
+a keyword is “use in the course of trade48”.  The Court then provided further 
+clarification on how national courts should proceed in keyword cases. 
+ 
+27. The Court referred to Article 6(1)(b) and 6(1)(c) of the Trademarks Directive, which 
+limit the effects of the trademark holders rights in order to ensure free movement 
+of goods and services within the Community49.  Whether or not a defendant in a 
+keyword advertising case can rely on these provisions is a matter for the national 
+court to determine50 based on whether the use has been “in accordance with 
+honest practices in industrial or commercial matters51”.  This standard involves a 
+“duty to act fairly in relation to the legitimate interests of the trademark 
+proprietor52”. 
+ 
+                                                     
+45  Google France SARL v Louis Vuitton Malletier SA (C-236/08, C-237/08 & C-238/08) [2010] 
+paragraph 119.  
+46  Google France SARL v Louis Vuitton Malletier SA (C-236/08, C-237/08 & C-238/08) [2010] paragraph 99. 
+47  Portakabin Ltd v Primakabin BV, Case C-558/08. 
+48  Case C-558/08, paragraph 27. 
+49  Case C-558/08, paragraph 57.  Under Article 6(1)(b) the trademark holder cannot prohibit a third party 
+from using indications concerning the kind, quality, quantity, intended purpose, value, geographical origin, 
+the time of production of goods or of rendering the service, or other characteristics of goods or services. 
+Under Article 6(1)(c) a third party can use the mark where it is necessary to indicate the intended purpose 
+of a product or service, in particular as accessories or spare parts. 
+50  Case C-558/08, paragraphs 61 and 65. 
+51  Case C-558/08, paragraph 66. 
+52  Case C-558/08, paragraph 67. 
+ 
+SCT/24/4 
+Annex I, page 9 
+ 
+28. The Court also discussed Article 7 of the Trademarks Directive, which limits the 
+trademark holders rights based on regional exhaustion53. Under that provision, the 
+trademark owner cannot prohibit use of the mark for the resale of goods which 
+were manufactured and placed on the market within the EEA by the trademark 
+owner or with his consent, unless there is a legitimate reason54.  The Court 
+declared that a legitimate reason arises where the use is seriously detrimental to 
+the reputation of the mark or the reseller gives the impression that he is 
+economically linked to the trademark owner.  The Court went on to provide further 
+guidance for assessing whether a legitimate reason exists:  merely using the mark 
+with additional wording such as “used” or “second hand” is not a legitimate reason;  
+removing reference to the mark by relabeling with the resellers name is a 
+legitimate reason;  using the mark to advertise the resale of second hand goods, 
+where some of the goods for sale bear the mark and others do not, is not a 
+legitimate reason unless there is a risk of serious damage to the mark’s image due 
+to the volume, presentation or poor quality of the other goods being sold55. 
+ 
+United Kingdom 
+ 
+29. In the United Kingdom, Interflora initiated suit against Marks and Spencer56 for 
+bidding on its trademark as an Adword.  The Court initially referred ten questions 
+to the ECJ for clarification, however following the ECJ’s ruling in Google v LVM, 
+the number of questions has been reduced to four57.  Thus, even after the ECJ’s 
+recent clarifications, the English courts maintain that further clarification is required 
+on what exactly constitutes “use” within the meaning of Article 5(1) and (2) of the 
+Trademarks Directive and Article 9(1) of the CTM Regulation. 
+ 
+India 
+ 
+30. In the case of Consim Info v Google58 the Madras High Court in Chennai issued a 
+preliminary injunction to prevent Google from selling registered trademarks as 
+keywords to competitors of the trademark owner.  The plaintiff, Consim Info 
+operated matrimonial websites and claimed that when a user entered plaintiff’s 
+                                                     
+53  “The proprietor’s right to prohibit all third parties from using the mark is exhausted where goods have been 
+placed on the market in the EEA under that trademark by the proprietor or with his consent, unless there 
+are legitimate reasons for him to oppose further commercialization of the goods.”  Case C-558/08, 
+paragraph 74. 
+54  The reason must be legitimate within the meaning of Article 7(2). 
+55  Case C-558/08, paragraph 93. 
+56  Interflora Inc. v Marks and Spencer PLC, [2009] EWHC 1095 (Ch). 
+57  Interflora Inc. v Marks and Spencer PLC, [2010] EWHC 925 (Ch). 
+58  Judgment not yet available but see the following: Shamni Pande, Google Gets a Googly; Imagine 
+Opening a Webiste, Keying in a Few Search Terms and Presto! You are on the Page of a Rival Website, 
+Business Today, New Delhi, November 1, 2009; Consim Info Sues Google, 
+http://www.medianama.com/2009/09/223-bharatmatrimony-google-naukri-shaadi-simplymarry-case-sues/; 
+Consim India Awaiting Madras High Court Verdict in Case Against Google, 
+http://www.dnaindia.com/india/report_consim-india-awaiting-madras-high-court-verdict-in-case-against-
+google_1369237; Peter Ollier, Keyword Disputes Go Global, Managing Intellectual Property, 25 
+March 2010, http://www.managingip.com/Article/2452473/Search-Results/Keyword-disputes-go-
+global.html?Keywords=keyword+disputes+go+global&Quick=True&OrderType=. 
+ 
+SCT/24/4 
+Annex I, page 10 
+ 
+marks as Google search terms, sponsored links appeared for plaintiff’s 
+competitors.  It appears that the ruling has not yet been published59.  Therefore, it 
+is not possible to analyze the reasoning of the Court in this case.  Naturally 
+however, the fact that the Court restrained Google’s activities in this instance 
+implies that the national law requirement that defendant has used the mark “in the 
+course of trade60” was satisfied. 
+ 
+China 
+ 
+31. In China, two keyword advertising lawsuits61, one initiated against Google China, 
+the other against Baidu62, have yielded different outcomes.  In Google v 
+Guangdong Ganyi Electrical Appliance Co Ltd, the plaintiff’s registered trademark 
+NEDFON was sold by Google as a keyword to a competitor.  The Court ruled that 
+the competitor in question had committed trademark infringement.  However, 
+Google itself was not held jointly liable for trademark infringement.  The Court 
+determined that, although use of a keyword to trigger sponsored links was a form 
+of advertising, Google neither had the ability to check or control the information 
+submitted by the competitor, nor did it have an obligation to examine the legality of 
+that information.  
+ 
+32. The Google case can be contrasted to the case of Baidu v Shanghai Dazhong 
+House-moving Logistics Co Ltd.  Baidu’s bid ranking service allowed Dazhong’s 
+competitors to link their websites to the keywords “Dazhong Banchang”.  Here, the 
+Court ordered Baidu to pay compensation to Dazhong. 
+ 
+Israel 
+ 
+33. In the case of Matim Li v Crazy Line63, both parties to the litigation were retailers of 
+ladies fashion.  Matim Li claimed that its trademarks had been purchased by Crazy 
+Line through the Google Adword program, so that the Crazy Line website 
+appeared as the first link, in bold, following a user’s search for those marks.  The 
+Court dismissed Matim Li’s claim of trademark infringement on the basis that there 
+was no consumer confusion or likelihood of such.  The Court noted in this regard 
+that neither the ad itself, nor the link to the website made reference to plaintiff’s 
+trademarks.  It is interesting to note that the Court in this case did not focus on 
+whether the marks were being “used” as trademarks, but instead based its 
+                                                     
+59  A search of the Madras Law Journal Online Legal Library (http://mljlibrary.com) yielded no judgment for 
+the case. (Search conducted July 21 2010.)  
+60  As provided for by the relevant legislation in India, (Section 29 of the Trademark Act 1999.)    
+61  For further information on both cases, see Article by Kangxin Partners on Internet Issues in China, World 
+Trademark Review, February/March 2009, available at, 
+http://www.worldtrademarkreview.com/issues/article.ashx?g=45245d9b-732a-47c2-9d80-
+22a0c6aff0cc&q=kangxin#search=%22kangxin%22, see also Keyword Disputes Go Global, Peter Ollier, 
+Managing Intellectual Property, 25 March 2010. 
+62  Baidu is a Chinese language internet search provider. 
+63  Decision of the District Court of Tel Aviv-Jaffa, 31 July 2006 – Action No. 000506/06, cited by Zohar 
+Efroni, Keywording in Search Engines as Trademark Infringement:  Issues Arising from Matim Li v. Crazy 
+Line, IIC 2007, 38(2), 204-223. 
+ 
+SCT/24/4 
+Annex I, page 11 
+ 
+dismissal on a lack of likelihood of confusion64.  The Court opined that internet 
+users were aware that much of the information produced following a search would 
+not be directly relevant to their query and that consumers anticipated exposure to 
+advertisements.  The Court highlighted the important role that search engines play 
+in allowing users to locate information on the internet and also the need for 
+commercial incentives (paid advertising) to foster continued innovation in the 
+area65. 
+ 
+Argentina 
+ 
+34. In the case of Organización Veraz v Open Discovery, the plaintiff, a financial 
+services company, sued the defendant for purchasing its mark VERAZ as a 
+keyword.  The Court held that the defendant had engaged in an unauthorized use 
+in commerce of the plaintiff’s mark with the aim of attracting consumers that were 
+interested in the plaintiff’s services66.  According to the Court, this use could cause 
+confusion or mistake as to the origin of the services or could suggest an 
+association between the two companies67.  The Court held that in these 
+circumstances, the trademark holder could prevent the unauthorized use of its 
+mark by a competitor68. 
+ 
+Australia 
+ 
+35. The Australian Competition and Consumer Commission (ACCC) brought suit 
+against Google and a classifieds website named Trading Post because the latter 
+party purchased keywords constituting the marks of car dealerships.  Trading Post 
+was a competitor of these dealerships for automotive sales.  This case stands out 
+from the others referred to in this document on the basis that the ACCC did not 
+found its claim on trademark infringement.  Rather, the ACCC alleged a violation of 
+the Trade Practices Act 1974, claiming misleading or deceptive conduct and a 
+false representation of an approval or affiliation69.  Trading Post settled out of court 
+by giving an undertaking not to continue the advertising practices complained of70.  
+It appears however, that the case against Google is still pending.  Although not 
+founded upon trademark infringement, the allegations made by the ACCC are 
+significant insofar as they relate to the issue of consumer confusion, which as 
+highlighted in many of the cases above, has been deemed determinative of 
+trademark infringement. 
+                                                     
+64  Zohar Efroni, Keywording in Search Engines as Trademark Infringement:  Issues Arising from Matim Li v. 
+Crazy Line, IIC 2007, 38(2), 204-223 at 212. 
+65  For English translation of the judgment see IIC 2007, 38(2), 238. 
+66  See Graciela Perez de Inzaurraga, Trademarks and the Internet, Metatags and Keywords;  A Latin 
+American Perspective, 
+https://www.aippi.org/download/reports/forum/forum09/2/ForumSession2_Presentation_Perrez.pdf. 
+67  Graciela Perez de Inzaurraga, supra. 
+68  Graciela Perez de Inzaurraga, supra. 
+69  See ACCC Press Release # MR 180/07, Available at 
+http://www.accc.gov.au/content/index.phtml/itemId/792088/fromItemId/142. 
+70  The Undertaking is available at 
+http://www.accc.gov.au/content/item.phtml?itemId=826159&nodeId=cf68136e565d04bb6b150000112728
+a5&fn=Undertaking.pdf. 
+ 
+SCT/24/4 
+Annex I, page 12 
+ 
+Austria 
+ 
+36. In Austria, the online wine store, “Wein & Co” sued a competitor, “Weinwelt” for 
+purchasing its mark as a keyword.71  When a user entered the term “Wein & Co” 
+the first link listed at the top of the results page was for defendant’s website.  The 
+Austrian Supreme Court ruled that this use of the mark as a keyword infringed the 
+rights of the plaintiff on the basis that the appearance of the link above the search 
+results, using the plaintiff’s mark as a header, created a danger of consumer 
+confusion and gave the impression that the defendant was a company closely 
+related to the plaintiff.  It is important to emphasize that the facts of this case 
+involved use of plaintiff’s trademark in the header of the ad itself. 
+ 
+ 
+III. Trademark Infringement in Virtual Worlds and Social Media 
+ 
+37. In recent years, virtual worlds, or massively multiplayer online role playing games 
+(MMORPGs) have enjoyed an immense surge in popularity72.  Although the term 
+“virtual world” can encompass many types of online community73, this analysis will, 
+by way of example, consider “Second Life”, an online social community created by 
+Linden Labs74.   
+ 
+38. There are a number of reasons why Second Life warrants special attention with 
+respect to trademarks, when compared to other virtual worlds.  First, Second Life 
+facilitates and encourages user generated content75.  This means that there are a 
+vast number of potential infringers that may be difficult to identify in “real life”.  
+User generated content can be sold to other users for virtual currency, which can 
+in turn, be exchanged for “real” currency76.  This introduces a significant 
+commercial dynamic to the activities occurring in Second Life.  Users who create  
+                                                     
+71  Supreme Court of Austria (Oberster Gerichtshof), 20 March 2007 – 17 Ob 1/07, MMR 2007, 497. For a 
+discussion of the case, see Wiebke Baars, Marc Schuler, Charles Lloyd, Keyword-Advertising, Legal 
+Implications in Germany, France and the UK, Available at 
+http://www.taylorwessing.com/uploads/tx_siruplawyermanagement/Baars_Schuler_Lloyd_CRi.en.pdf. 
+72  See generally, Andreas M. Kaplan and Michael Haenlein, Consumer Use and Business Potential of Virtual 
+Worlds:  The Case of “Second Life,” International Journal on Media Management, 11: 93-101, (2009). 
+73  Candidus Dougherty and Greg Lastowka identifiy three different types of virtual world:  game worlds, 
+social worlds and user generated worlds.  Virtual Trademarks,24 Santa Clara Computer & High Tech. L.J. 
+749 at 759-773. 
+74  Second Life employs the following terminology:  users are referred to as “residents” and residents are 
+represented on screen by their “avatars”.  An avatar is a virtual character that the user can control and 
+personalize.  Residents interact with each other using their avatars. 
+75  See Mark A. Armitage, Virtual Trademark Infringement in a Virtual World?  Landslide, March/April 2009. 
+76  See, The Virtual Brand Footprint: The Marketing Opportunity in Second Life, available at 
+http://www.popcha.com/combinedstory_whitepaper.pdf. 
+ 
+SCT/24/4 
+Annex I, page 13 
+ 
+content retain IP rights in their creations77.  Many “real life” brands have 
+established themselves within Second Life78.  Finally, Second Life is the most 
+popular and successful virtual world of its kind79.  
+ 
+39. Thus, although Second Life is a virtual environment, there is a real commercial 
+element and a risk that users may create and sell digital content, which infringes 
+the trademark rights of real life brands.  Furthermore, there is a risk that users may 
+create and sell digital content in violation of the rights which have accrued to other 
+users of Second Life.  Both of these scenarios have given rise to recent litigation.  
+An examination of the cases will help highlight the relevant issues of trademark 
+law in this area. 
+ 
+Cases 
+ 
+United States of America 
+ 
+Taser International Inc. v Linden Research Inc.80 
+ 
+40. Following the alleged sale of virtual stun guns in Second Life, which were labeled 
+with the TASER mark, the plaintiff initiated suit against Linden in the District of 
+Arizona claiming trademark infringement, dilution by blurring, dilution by 
+tarnishment, in addition to design patent infringement.  Although the case was 
+voluntarily dismissed81, presumably following a settlement, the complaint 
+underscores the willingness of brand owners to enforce their trademarks, 
+notwithstanding that the goods sold were utterly intangible.  Unquestionably, the 
+fact that some brands have established an authorized commercial presence in 
+Second Life increases the likelihood that users may be confused as to the origin of 
+the virtual goods.  In other words, the user may be led to believe that the brand 
+has authorized virtual reproductions of its products or marks within Second Life. 
+ 
+Eros LLC. v Linden Research Inc.82  
+ 
+41. The Taser complaint is an example of a “real life” brand suing for an unauthorized 
+use of its mark in the virtual environment.  As alluded to earlier however, it is also 
+possible for a “virtual brand” to bring suit in similar circumstances.  In the Eros 
+case, a class action lawsuit was initiated against Linden by Second Life  
+                                                     
+77  See Harris Weems Henderson, Through The Looking Glass: Copyright Protection in the Virtual Reality of 
+Second Life, 16 J. Intell. Prop. L. 165 at 172 (2008). 
+78  American Apparel, Gibson Guitars, Coca Cola, Adidas, BMW and Harvard Law School have all 
+established a presence in Second Life. 
+79  Dougherty and Lastowka, supra, at 768.  
+80  See Matthew Asbell, A Stunning Development:  Taser International Inc. Sues the Owners of the Second 
+Life Virtual World, Mondaq, May 11, 2009.  
+81  See Matthew Asbell, A Stunning Development:  Taser International Inc. Sues the Owners of the Second 
+Life Virtual World, Mondaq, May 11, 2009. 
+82  U.S. District Court for the Northern District of California, Case No. 09-CV-4269.  The Complaint is 
+available at 
+http://www.3dinternetlaw.com/Trademark/Trademark/Eros_v_Linden_files/Eros%20v.%20Linden%20Com
+plaint.pdf. 
+ 
+SCT/24/4 
+Annex I, page 14 
+ 
+content-creators for virtual counterfeiting of their products.  The named plaintiff 
+sells adult themed virtual products, which have been described as “software code 
+applications designed to facilitate sexual connections between Avatars83”. 
+ 
+42. By contrast to TASER, the SEXGEN mark has not been applied to tangible “real 
+life” goods.  Nonetheless, the plaintiff has registered SEXGEN as a service mark 
+with the USPTO for “providing temporary use of non-downloadable software for 
+animating three-dimensional virtual characters84” and is relying on this registration 
+in the pending lawsuit. 
+ 
+43. In cases such as Eros, a crucial analysis for the Court to engage in is whether or 
+not sales, which take place exclusively in the virtual environment, are sufficient to 
+satisfy the “use in commerce” requirement.  This is important considering that 
+there is no tangible transfer in the “real world”.  However, Eros’ registration clearly 
+anticipates and precludes such a transfer by inclusion of the term  
+“non-downloadable”.  Therefore, it is arguable that Eros is providing a service to 
+users of Second Life on a commercial basis and this satisfies the use in commerce 
+requirement. In any event, this seems to be a novel issue of trademark use on the 
+internet and may continue to give rise to litigation. 
+ 
+Hermann Miller 
+ 
+44. In addition to lawsuits, brand owners monitoring Second Life have sought to 
+remedy infringements of their marks through alternative means.  When the 
+furniture maker Herman Miller discovered unauthorized use of its AERON mark on 
+virtual chairs, the manufacturer offered legitimate virtual versions of the chairs for 
+free to users in exchange for a return of the virtual knock offs85.  This example 
+illustrates that retaining control of the mark in the virtual world is as important, and 
+probably more so, than profiting directly from the sale of virtual goods. This is 
+especially true, considering that the unauthorized sale of virtual goods may dilute 
+the mark and erode the mark’s distinctiveness. 
+ 
+Social Media 
+ 
+45. In recent years, online social networking has experienced a dramatic rise in 
+popularity across the globe.  Beyond the purely social ramifications, websites such 
+as Facebook, Twitter, MySpace, YouTube and Linkedin have become forums of 
+immense significance, professionally86, politically87 and commercially88.  Focusing 
+                                                     
+83  Benjamin R. Mulcahy, Second Life Raises Novel IP Issues, Among Them is Whether Use of a Trademark 
+Exclusively in a Virtual World can be Use in Commerce, Nat’l L. J. Vol. 30, No. 14, (Dec 3, 2007). 
+84  Registration No. 3483253. 
+85  Kieran G. Doyle, Brands on the Silver Screen, the Television Screen and the Computer Screen, Practising 
+Law Institute, Patents, Copyrights, Trademarks Property Course Handbook Series, PLI Order No. 23481, 
+199 at 221 (April 2010). 
+86  The New York Times reports that 75% of US recruiters and human resource professionals conduct online 
+research about candidates and this research encompasses social networking sites.  Jeffrey Rosen, The 
+Web Means the End of Forgetting, New York Times Magazine, July 19, 2010.  
+87  See Jose Antonio Vargas, Politics and Social Networks:  Voters Make the Connection, Washington Post, 
+November 3, 2008.  
+ 
+SCT/24/4 
+Annex I, page 15 
+ 
+on the commercial dimension of such websites, it is important to analyze some 
+issues relating to the interests of brand owners and the wider implications for the 
+international trademark law framework. 
+ 
+46. Because the leading social networking sites differ in terms of market orientation, 
+presentation, and policies, it is helpful to proceed by way of example, rather than 
+by discussing the issues in generality. 
+ 
+Facebook 
+ 
+47. Facebook describes itself as a “social utility that helps people communicate more 
+efficiently with their friends, family and coworkers89”.  This communication is 
+achieved primarily through profile pages or group pages where users can post 
+comments, photographs and links.  Although headquartered in the United States 
+of America, 70% of Facebook’s 400 million active users are located in other 
+countries90.  Thus, activities taking place on Facebook implicate the trademark 
+laws of many jurisdictions. 
+ 
+48. On June 12, 2009 Facebook rolled out “vanity URLs”, which allow users to have a 
+unique identifier/username (e.g. www.facebook.com/YourName)91.  This new 
+facility posed a potential risk to the interests of brand owners as users could, 
+theoretically, choose a name consisting of a trademark.  Recognizing this concern, 
+Facebook afforded rights holders a “sunrise period92” during which they could 
+register their trademarks as “Facebook URLs” prior to opening registration to the 
+general public.  
+ 
+49. Many brand owners have embraced the “vanity URL” facility and established an 
+official Facebook page to interact and communicate with their customers and other 
+Facebook users93.  These pages utilize vanity URLs in the following manner:  
+www.facebook.com/brandname.  Considering the prevalence of marks being used 
+with authorization throughout the site, there is an increased risk that unauthorized 
+use of marks on the site will lead to consumer confusion.  In light of this risk, 
+Facebook has established a mechanism for reporting infringing usernames.  If a 
+trademark owner discovers that a third party’s username consists of their 
+registered trademark, they can fill out an automated IP infringement form94, so that 
+Facebook can remove the page or disable access. 
+ 
+                                                     
+[Footnote continued from previous page] 
+88  For example, many brands have successfully established themselves on Twitter. See the case studies 
+offered by twitter at www.business.twitter.com/twitter101/   
+89  http://www.facebook.com/?ref=home#!/press/info.php?factsheet 
+90  http://www.facebook.com/?ref=home#!/press/info.php?factsheet 
+91  Sally M. Abel, Trademarks and Rights of Publicity in the Converged World, 978 PLI/Pat 57, at 61 (2009).  
+92  Adam Smith, International – Engage:  Trademark Protection in Social Media, World Trademark Review, 
+Nov 4 2009.  
+93  For illustrative purposes, a Facebook search conducted on July 28, 2010 revealed that among many 
+others, the following brands were operating seemingly official pages:  Dell, BMW, Lacoste, Swatch, 
+Renault, Fosters, Walmart, Guinness.  
+94  Available at http://www.facebook.com/copyright.php?noncopyright_notice=1 
+ 
+SCT/24/4 
+Annex I, page 16 
+ 
+50. Facebook’s rules and procedures concerning the registration of usernames are 
+also important to note. Generic terms are not eligible for registration95.  Thus, there 
+is a correlation between Facebook usernames and trademarks insofar as brand 
+owners should not suffer a commercial impediment simply because they were not 
+first in time to register a term, which is necessary to communicate effectively with 
+the market.  Also, Facebook usernames are not transferable96.  Presumably, this 
+restriction helps to avoid bad faith registrations by parties who do not own the 
+rights for a particular mark.  Furthermore, Facebook provides that usernames, 
+which have been removed, will not be made available to other users. 
+ 
+51. If Facebook continues to grow exponentially97 and gain commercial significance in 
+multiple jurisdictions, the appropriate framework for dealing with trademark 
+controversies may increase in complexity.  For example, the current form for 
+reporting an infringing username requires a trademark registration number98.  
+Moreover, the form states a preference for US registration numbers.  It is unclear 
+whether the procedure is adequately equipped to deal with territorial conflicts, 
+complaints of brand owners lacking a US registration, or brand owners simply 
+asserting common law rights in their marks. 
+ 
+Twitter 
+ 
+52. Twitter describes itself as “a real-time information network powered by people all 
+around the world that lets users share and discover what’s happening now99”.  
+Users can write and read messages (“tweets”) of up to 140 characters in length 
+and these messages are made public to other users of the site100.  Users decide 
+what type of messages they would like to receive, such as messages from friends, 
+messages posted by their favorite celebrities, or messages relating to a particular 
+topic. 
+ 
+53. Like Facebook, Twitter is headquartered in the United States of America but is 
+used internationally and translations are available in French, German, Italian, 
+Japanese and Spanish101.  
+ 
+54. For trademark owners, Twitter carries a risk that people ‘tweeting’ about a 
+particular brand may mislead other users as to the authorized or unauthorized 
+nature of their use of the mark.  This risk of confusion is exacerbated by the 
+constant flow of rapidly disseminating information over the site and the fact that 
+many businesses have established an official profile on Twitter102.  
+ 
+                                                     
+95  http://blog.facebook.com/blog.php?post=90316352130 
+96  http://blog.facebook.com/blog.php?post=90316352130 
+97  Facebook reports that in January 2009, the site had 150 million active users, whereas by February 2010, 
+the number had grown to 400 million active users. See http://www.facebook.com/press/info.php?timeline 
+98  See http://www.facebook.com/help/?page=899#!/help/contact.php?show_form=username_infringement 
+99  www.twitter.com/about 
+100  www.business.twitter.com/twitter101 
+101  www.twitter.com/about 
+102  See the case studies offered by twitter at www.business.twitter.com/twitter101/ 
+ 
+SCT/24/4 
+Annex I, page 17 
+ 
+55. To counteract the risks of trademark infringement, Twitter has enacted a 
+trademark policy103, which allows brand owners to report trademark violations.  
+Twitter states that it will suspend a user’s account if there is a clear intention to 
+mislead others through the unauthorized use of a mark104.  In instances where an 
+account appears to be confusing users but is not purposefully passing itself off as 
+the brand/company/product, the account holder will be notified and given an 
+opportunity to clear up any potential confusion105.  
+ 
+56. Twitter has been sued on at least two occasions for trademark infringement;  
+however both cases were voluntarily dismissed.  In the case of La Russa v Twitter 
+Inc.106 the plaintiff was a manager of baseball teams in the United States.  An 
+anonymous user created a Twitter account in the plaintiff’s name, impersonated 
+him and posted inappropriate comments on the deaths of two of his team’s 
+pitchers107.  The plaintiff claimed, inter alia, that Twitter had committed trademark 
+infringement.  In order to succeed on this claim, it would be necessary for plaintiff 
+to prove that the false account was likely to confuse consumers into thinking he 
+endorsed Twitter108.  Plaintiff sought to support this claim by alleging that his photo 
+was used in conjunction with the phrases “Tony La Russa is using Twitter” and 
+“Join today to start receiving Tony La Russa’s updates109”.  The plaintiff voluntarily 
+dismissed his claim shortly after filing110. 
+ 
+57. In the case of Oneok Inc v Twitter Inc111, a natural gas distributor brought suit 
+against Twitter for allowing a third party to adopt its trademark ONEOK as a 
+username.  The complaint alleged that messages posted by the user were 
+misleading insofar as consumers would believe that they were official statements 
+of the company112.  This lawsuit was voluntarily dismissed shortly after filing and 
+the Twitter account in question was transferred to the plaintiff113. 
+ 
+                                                     
+103  http://support.twitter.com/groups/33-report-a-violation/topics/122-reporting-violations/articles/18367-
+trademark-policy 
+104  http://support.twitter.com/groups/33-report-a-violation/topics/122-reporting-violations/articles/18367-
+trademark-policy 
+105  http://support.twitter.com/groups/33-report-a-violation/topics/122-reporting-violations/articles/18367-
+trademark-policy 
+106  Case No. CV-09-2503 (N.D.C.A. June 5, 2009). 
+107  Adam Smith, United States – Trademarks and Tweets: Brand Protection on Twitter, World Trademark 
+Review, June 16 2009.  
+108  William McGeveran, Celebrity Impersonation and Section 230, June 25, 2009, 
+http://blogs.law.harvard.edu/infolaw/2009/06/25/impersonation-and-230/ 
+109       Jillian Bluestone, La Russa’s Loophole: Trademark Infringement Lawsuits and Social Networks, 17 Vill.  
+Sports & Ent. L. J. 573, at 575.  
+110  Liisa M. Thomas and Robert H. Newman, Five Steps to Protect Your Trademarks in the Web 2.0 World, 
+INTA Bulletin, May 15, 2010, Vol. 65, No 10.  
+111  Case No. 4:09-cv-00597 (N.D.O.K. Sep 15, 2009)  
+112  Darren B. Cohen, Meredith B. Pikser, Dr. Alexander R. Klett, Sachin Premnath, Social Media in Action in 
+Trademarks, March 8, 2010, http://www.legalbytes.com/2010/03/articles/social-and-digital-media-
+law/social-media-in-action-in-trademarks/ 
+113  Ibid.  
+ 
+SCT/24/4 
+Annex I, page 18 
+ 
+58. Although the La Russa case and the Oneok case did not give rise to judicial 
+pronouncements on Twitter’s liability, the facts of these cases illustrate the 
+potential problems facing trademark owners.  Because many brands are using an 
+official Twitter page to communicate with their customers, there is a risk that  
+non-authorized use of the brand name on Twitter may confuse consumers into 
+thinking that they are interacting with an official representative of the brand.  If the 
+messages are in bad taste114 or convey inaccurate information, this may damage 
+brand reputation. 
+ 
+[Annex II follows]
+                                                     
+114  Even official Twitter accounts are susceptible to offensive posts by company employees.  See Richard 
+Wray and Charles Arthur, Vodafone Suspends Employee After Obscene Tweet, The Guardian, February 
+6, 2010, available at http://www.guardian.co.uk/technology/2010/feb/05/vodafone-twitter-obscene-tweet  
+ 
+SCT/24/4 
+ANNEX II 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JOINT RECOMMENDATION CONCERNING PROVISIONS ON THE PROTECTION OF MARKS 
+AND OTHER INDUSTRIAL PROPERTY RIGHTS IN SIGNS ON THE INTERNET 
+(WITH EXPLANATORY NOTES) 
+ 
+adopted by the Assembly of the Paris Union for the Protection of Industrial Property 
+and the General Assembly of the World Intellectual Property Organization (WIPO) 
+ 
+at the Thirty-Six Series of Meetings of the Assemblies of the Member States of WIPO 
+September 24 to October 3, 2001 
+ 
+ 
+ 
+SCT/24/4 
+Annex II, page 2 
+ 
+PREFACE 
+ 
+The Joint Recommendation Concerning the Protection of Marks, and Other Industrial 
+Property Rights in Signs, on the Internet, which includes the text of the provisions as 
+adopted by the Standing Committee on the Law of Trademarks, Industrial Designs and 
+Geographical Indications (SCT) at its sixth session (March 12 to 16, 2001), was adopted 
+at a joint session of the Assembly of the Paris Union for the Protection of Industrial 
+Property and the General Assembly of the World Intellectual Property Organization 
+(WIPO) at the Thirty-Sixth Series of Meetings of the Assemblies of the Member States of 
+WIPO (September 24 - October 3, 2001). 
+ 
+Initiated at the first session of the SCT (July 13 to 17, 1998), the issue relating to the 
+protection of marks on the Internet was discussed at the second session, second part of 
+the SCT (June 7 to 11, 1999) and at the third session of the SCT (November 8  
+to 12, 1999).  Draft provisions concerning the protection of marks on the Internet were 
+discussed by the SCT at its fourth session (March 27 to 31, 2000), at its fifth session 
+(September 11 to 15, 2000) and at its sixth session (March 12 to 16, 2001). 
+ 
+The provisions aim at providing a clear legal framework for trademark owners who wish to 
+use their marks on the Internet and to participate in the development of electronic 
+commerce.  They are intended to facilitate the application of existing laws relating to 
+marks, and other industrial property rights in signs, on the Internet, and to be applied in 
+the context of: 
+ 
+-  determining whether, under the applicable law, use of a sign on the Internet has 
+contributed to the acquisition, maintenance or infringement of a mark or other 
+industrial property right in the sign, or whether such use constitutes an act of 
+unfair competition;  
+ 
+-  enabling owners of conflicting rights in identical or similar signs to use these signs 
+concurrently on the Internet; 
+ 
+-  determining remedies. 
+ 
+The determination of the applicable law itself is not addressed by the present provisions, 
+but left to the private international laws of individual Member States. 
+ 
+Further to the adoption by the WIPO Assemblies of the Joint Recommendation 
+Concerning Provisions on the Protection of Well-known Marks, in September 1999, and of 
+the Joint Recommendation Concerning Trademark Licenses in September 2000, this Joint 
+Recommendation is the third achievement of the SCT in implementing WIPO’s policy of 
+finding new ways to accelerate the development of international harmonized principles.  
+This new approach to the progressive development of international intellectual property 
+law was implemented by WIPO pursuant to the WIPO Program and Budget for the 
+biennium 1998-99. 
+ 
+This volume contains the text of the Joint Recommendation, the accompanying provisions, 
+and explanatory notes prepared by the International Bureau. 
+ 
+ 
+SCT/24/4 
+Annex II, page 3 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Joint Recommendation.......................................................................................................5 
+ 
+ 
+Preamble ............................................................................................................................6 
+ 
+ 
+Part I:  General ..........................................................................................................7 
+ 
+Article 1: Abbreviated Expressions .....................................................................7 
+ 
+ 
+Part II: Use of a Sign on the Internet .........................................................................7 
+ 
+Article 2: Use of a Sign on the Internet in a Member State ................................7 
+Article 3: Factors for Determining Commercial Effect in a Member State ..........8 
+Article 4: Bad Faith..............................................................................................9 
+ 
+ 
+Part III: Acquisition and Maintenance of Rights in Signs..........................................10 
+ 
+Article 5: Use of a Sign on the Internet and Acquisition and Maintenance of Rights..10 
+ 
+ 
+Part IV: Infringement and Liability .............................................................................10 
+ 
+Article 6: Use of a Sign on the Internet, Infringement of Rights and  
+ Acts of Unfair Competition .................................................................10 
+Article 7: Liability for Infringement and Acts of Unfair Competition Under the  
+ Applicable Law...................................................................................10 
+Article 8: Exceptions and Limitations Under the Applicable Law......................10 
+ 
+ 
+Part V: Notice and Avoidance of Conflict .................................................................11 
+ 
+Article 9: Use Prior to Notification of Infringement............................................11 
+Article 10: Use After Notification of Infringement................................................11 
+Article 11: Notification Under Articles 9 and 10 ..................................................11 
+Article 12: Disclaimer as a Measure Under Article 10 ........................................12 
+ 
+ 
+SCT/24/4 
+Annex II, page 4 
+ 
+ 
+Part VI: Remedies .....................................................................................................12 
+ 
+Article 13: Remedy Proportionate to Commercial Effect ....................................12 
+Article 14: Limitations of Use of a Sign on the Internet.......................................13 
+Article 15: Limitation on Prohibition to Use a Sign on the Internet .....................13 
+ 
+SCT/24/4 
+Annex II, page 5 
+ 
+JOINT RECOMMENDATION 
+ 
+ 
+The Assembly of the Paris Union for the Protection of Industrial Property and the General 
+Assembly of the World Intellectual Property Organization (WIPO);  
+ 
+Taking into account the provisions of the Paris Convention for the Protection of Industrial 
+Property; 
+ 
+Recommend that each Member State may consider the use of any of the provisions 
+adopted by the Standing Committee on the Law of Trademarks, Industrial Designs and 
+Geographical Indications (SCT) at its sixth session, as guidelines concerning the 
+protection of marks, and other industrial property rights in signs, on the Internet; 
+ 
+It is further recommended to each Member State of the Paris Union or of WIPO which is 
+also a member of a regional intergovernmental organization that has competence in the 
+area of registration of trademarks, to bring these provisions to the attention of that 
+organization. 
+ 
+ 
+[Provisions follow] 
+ 
+ 
+SCT/24/4 
+Annex II, page 6 
+ 
+ 
+PREAMBLE 
+ 
+ 
+Recognizing that the present provisions are intended to facilitate the application of 
+existing laws relating to marks and other industrial property rights in signs, and existing 
+laws relating to unfair competition, to the use of signs on the Internet; 
+ 
+Recognizing that Member States will apply, wherever possible, existing laws relating to 
+marks and other industrial property rights in signs, and existing laws relating to unfair 
+competition, to the use of signs on the Internet, directly or by analogy; 
+ 
+Recognizing that a sign used on the Internet is simultaneously and immediately accessible 
+irrespective of territorial location; 
+ 
+The present provisions are intended to be applied in the context of determining whether, 
+under the applicable law of a Member State, use of a sign on the Internet has contributed 
+to the acquisition, maintenance or infringement of  a mark or other industrial property right 
+in the sign, or whether such use constitutes an act of unfair competition, and in the context 
+of determining remedies. 
+ 
+ 
+ 
+SCT/24/4 
+Annex II, page 7 
+ 
+PART I 
+GENERAL 
+ 
+ 
+Article 1 
+Abbreviated Expressions 
+ 
+ 
+For the purposes of these Provisions, unless expressly stated otherwise: 
+ 
+ (i) “Member State” means a State member of the Paris Union for the Protection 
+of Industrial Property, of the World Intellectual Property Organization, or of both; 
+ 
+ (ii) “Right” means an industrial property right in a sign under the applicable law, 
+whether registered or unregistered;  
+ 
+ (iii) “Act of unfair competition” means any act of competition contrary to honest 
+business practices in industrial or commercial matters as defined in Article 10bis of the 
+Paris Convention for the Protection of Industrial Property, signed in Paris on March 20, 
+1883, as revised and amended; 
+ 
+ (iv) “Competent authority” means an administrative, judicial or quasi-judicial 
+authority of a Member State which is competent for determining whether a right has been 
+acquired, maintained or infringed, for determining remedies, or for determining whether an 
+act of competition constitutes an act of unfair competition, as the case may be;  
+ 
+ (v) “Remedies” means the remedies which a competent authority of a Member 
+State can impose under the applicable law, as a result of an action for the infringement of 
+a right or an act of unfair competition;  
+ 
+ (vi) “Internet” refers to an interactive medium for communication which contains 
+information that is simultaneously and immediately accessible irrespective of territorial 
+location to members of the public from a place and at a time individually chosen by them; 
+ 
+ (vii) except where the context indicates otherwise, words in the singular include 
+the plural, and vice versa, and masculine personal pronouns include the feminine. 
+ 
+ 
+PART II 
+USE OF A SIGN ON THE INTERNET 
+ 
+ 
+Article 2 
+Use of a Sign on the Internet in a Member State 
+ 
+ 
+ Use of a sign on the Internet shall constitute use in a Member State for the 
+purposes of these provisions, only if the use has a commercial effect in that Member State 
+as described in Article 3. 
+ 
+ 
+ 
+SCT/24/4 
+Annex II, page 8 
+ 
+Article 3 
+Factors for Determining Commercial Effect in a Member State 
+ 
+ 
+ (1)  [Factors]  In determining whether use of a sign on the Internet has a 
+commercial effect in a Member State, the competent authority shall take into account all 
+relevant circumstances. Circumstances that may be relevant include, but are not limited 
+to: 
+ 
+(a)  circumstances indicating that the user of the sign is doing, or has undertaken 
+significant plans to do, business in the Member State in relation to goods or services 
+which are identical or similar to those for which the sign is used on the Internet. 
+ 
+(b)  the level and character of commercial activity of the user in relation to the 
+Member State, including: 
+ 
+  (i) whether the user is actually serving customers located in the Member 
+State or has entered into other commercially motivated relationships with persons located 
+in the Member State; 
+ 
+  (ii) whether the user has stated, in conjunction with the use of the sign on 
+the Internet, that he does not intend to deliver the goods or services offered to customers 
+located in the Member State and whether he adheres to his stated intent;  
+ 
+  (iii) whether the user offers post-sales activities in the Member State, 
+such as warranty or service;  
+ 
+  (iv) whether the user undertakes further commercial activities in the 
+Member State which are related to the use of the sign on the Internet but which are not 
+carried out over the Internet.  
+ 
+(c)  the connection of an offer of goods or services on the Internet with the Member 
+State, including: 
+ 
+  (i) whether the goods or services offered can be lawfully delivered in the 
+Member State;  
+ 
+  (ii) whether the prices are indicated in the official currency of the Member 
+State.  
+ 
+(d)  the connection of the manner of use of the sign on the Internet with the Member 
+State, including: 
+ 
+  (i) whether the sign is used in conjunction with means of interactive 
+contact which are accessible to Internet users in the Member State;  
+ 
+  (ii) whether the user has indicated, in conjunction with the use of the 
+sign, an address, telephone number or other means of contact in the Member State;  
+ 
+  (iii) whether the sign is used in connection with a domain name which is 
+registered under the ISO Standard country code 3166 Top Level Domain referring to the 
+Member State;  
+ 
+SCT/24/4 
+Annex II, page 9 
+ 
+  (iv) whether the text used in conjunction with the use of the sign is in a 
+language predominantly used in the Member State;  
+ 
+  (v) whether the sign is used in conjunction with an Internet location which 
+has actually been visited by Internet users located in the Member State.  
+ 
+ 
+(e)  the relation of the use of the sign on the Internet with a right in that sign in the 
+Member State, including: 
+ 
+  (i) whether the use is supported by that right;  
+ 
+  (ii) whether, where the right belongs to another, the use would take 
+unfair advantage of, or unjustifiably impair, the distinctive character or the reputation of the 
+sign that is the subject of that right.  
+ 
+ 
+(2)  [Relevance of Factors]  The above factors, which are guidelines to assist the 
+competent authority to determine whether the use of a sign has produced a commercial 
+effect in a Member State, are not pre-conditions for reaching that determination.  Rather, 
+the determination in each case will depend upon the particular circumstances of that case.  
+In some cases all of the factors may be relevant.  In other cases some of the factors may 
+be relevant.  In still other cases none of the factors may be relevant, and the decision may 
+be based on additional factors that are not listed in paragraph (1), above.  Such additional 
+factors may be relevant, alone, or in combination with one or more of the factors listed in 
+paragraph (1), above. 
+ 
+ 
+Article 4 
+Bad Faith 
+ 
+ 
+(1)  [Bad Faith]  For the purposes of applying these provisions, any relevant 
+circumstance shall be considered in determining whether a sign was used in bad faith, or 
+whether a right was acquired in bad faith. 
+ 
+(2)  [Factors]  In particular, the competent authority shall take into consideration, 
+inter alia: 
+ 
+  (i) whether the person who used the sign or acquired the right in the sign 
+had knowledge of a right in an identical or similar sign belonging to another, or could not 
+have reasonably been unaware of that right, at the time when the person first used the 
+sign, acquired the right or filed an application for acquisition of the right, whichever is 
+earlier, and 
+ 
+  (ii) whether the use of the sign would take unfair advantage of, or 
+unjustifiably impair, the distinctive character or the reputation of the sign that is the subject 
+of the other right. 
+ 
+ 
+ 
+SCT/24/4 
+Annex II, page 10 
+ 
+PART III 
+ACQUISITION AND MAINTENANCE OF RIGHTS IN SIGNS 
+ 
+ 
+Article 5 
+Use of a Sign on the Internet and Acquisition and Maintenance of Rights 
+ 
+ 
+ Use of a sign on the Internet in a Member State, including forms of use that are 
+made possible by technological advances, shall in every case be taken into consideration 
+for determining whether the requirements under the applicable law of the Member State 
+for acquiring or maintaining a right in the sign have been met. 
+ 
+ 
+PART IV 
+INFRINGEMENT AND LIABILITY 
+ 
+ 
+Article 6 
+Use of a Sign on the Internet, Infringement of Rights and Acts of Unfair Competition 
+ 
+ 
+Use of a sign on the Internet, including forms of use that are made possible by 
+technological advances, shall be taken into consideration for determining whether a right 
+under the applicable law of a Member State has been infringed, or whether the use 
+amounts to an act of unfair competition under the law of that Member State, only if that 
+use constitutes use of the sign on the Internet in that Member State.  
+ 
+ 
+Article 7 
+Liability for Infringement and Acts of Unfair Competition Under the Applicable Law 
+ 
+ 
+ Except where otherwise provided for in these provisions, there shall be liability in a 
+Member State under the applicable law when a right is infringed, or an act of unfair 
+competition is committed, through use of a sign on the Internet in that Member State. 
+ 
+ 
+Article 8 
+Exceptions and Limitations Under the Applicable Law 
+ 
+ 
+A Member State shall apply the exceptions to liability, and the limitations to the 
+scope of rights, existing under the applicable law when applying these provisions to the 
+use of a sign on the Internet in that Member State. 
+ 
+ 
+ 
+SCT/24/4 
+Annex II, page 11 
+ 
+PART V 
+NOTICE AND AVOIDANCE OF CONFLICT 
+ 
+ 
+Article 9 
+Use Prior to Notification of Infringement 
+ 
+ 
+If the use of a sign on the Internet in a Member State is alleged to infringe a right in 
+that Member State, the user of that sign shall not be held liable for such infringement prior 
+to receiving a notification of infringement, if:  
+ 
+  (i) the user owns a right in the sign in another Member State or uses the 
+sign with the consent of the owner of such a right, or is permitted to use the sign, in the 
+manner in which it is being used on the Internet, under the law of another Member State to 
+which the user has a close connection;  
+ 
+  (ii) any acquisition of a right in the sign, and any use of the sign, has not 
+been in bad faith; and 
+ 
+  (iii) the user has provided, in conjunction with the use of the sign on the 
+Internet, information reasonably sufficient to contact him by mail, e-mail or telefacsimile.  
+ 
+ 
+Article 10 
+Use After Notification of Infringement 
+ 
+ 
+If the user referred to in Article 9 has received a notification that his use infringes 
+another right, he shall not be held liable if he 
+ 
+  (i) indicates to the person sending the notification that he owns a right in 
+the sign in another Member State, or uses the sign with the consent of the owner of such a 
+right, or that he is permitted to use the sign, in the manner in which it is being used on the 
+Internet, under the law of another Member State to which he has a close connection;  
+ 
+  (ii) gives relevant details of that right or permitted use;  and  
+ 
+  (iii) expeditiously takes reasonable measures which are effective to avoid 
+a commercial effect in the Member State referred to in the notification, or to avoid 
+infringement of the right referred to in the notification.  
+ 
+ 
+Article 11 
+Notification Under Articles 9 and 10 
+ 
+ 
+The notification under Articles 9 and 10 shall be effective if it is sent by the owner of 
+a right or his representative, by mail, e-mail or telefacsimile, and indicates, in the 
+language, or in one of the languages, used in conjunction with the use of the sign on the 
+Internet, the following: 
+ 
+ 
+SCT/24/4 
+Annex II, page 12 
+ 
+  (i) the right which is alleged to be infringed;  
+ 
+  (ii) the identity of the owner of that right and information reasonably 
+sufficient to contact him or his representative by mail, e-mail or telefacsimile;  
+ 
+  (iii) the Member State in which that right is protected;  
+ 
+  (iv) relevant details of such protection allowing the user to assess the 
+existence, nature and scope of that right;  and 
+ 
+  (v) the use that is claimed to infringe that right.  
+ 
+ 
+Article 12 
+Disclaimer as a Measure Under Article 10 
+ 
+ 
+Member States shall accept, inter alia, a disclaimer, by a user referred to in 
+Article 9, as a reasonable and effective measure under Article 10, if: 
+ 
+  (i) the disclaimer includes a clear and unambiguous statement in 
+conjunction with the use of the sign, to the effect that the user has no relationship with the 
+owner of the right which is alleged to be infringed, and does not intend to deliver the goods 
+or services offered to customers located in a particular Member State where the right is 
+protected; 
+ 
+  (ii) the disclaimer is written in the language or in the languages used in 
+conjunction with the use of the sign on the Internet; 
+ 
+  (iii) the user inquires, before the delivery of the goods or services, 
+whether customers are located in the Member State referred to in item (i);  and  
+ 
+  (iv) the user in fact refuses delivery to customers who have indicated that 
+they are located in that Member State.  
+ 
+ 
+ 
+PART VI 
+REMEDIES 
+ 
+ 
+Article 13 
+Remedy Proportionate to Commercial Effect 
+ 
+ 
+(1)  The remedies provided for the infringement of rights or for acts of unfair 
+competition in a Member State, through use of a sign on the Internet in that Member State, 
+shall be proportionate to the commercial effect of the use in that Member State. 
+ 
+(2)  The competent authority shall balance the interests, rights and circumstances 
+involved. 
+ 
+ 
+SCT/24/4 
+Annex II, page 13 
+ 
+(3)  The user of the sign shall, upon request, be given the opportunity to propose an 
+effective remedy for consideration by the competent authority, prior to a decision on the 
+merits of the case. 
+ 
+ 
+Article 14 
+Limitations of Use of a Sign on the Internet 
+ 
+ 
+(1)  In determining remedies, the competent authority shall take into account 
+limitations of use by imposing reasonable measures designed: 
+ 
+  (i) to avoid a commercial effect in the Member State, or 
+ 
+  (ii) to avoid infringement of the right or to avoid the act of unfair 
+competition.  
+ 
+(2)  The measures referred to in paragraph (1) may include, inter alia:  
+ 
+(a)  a clear and unambiguous statement in conjunction with the use of the sign on 
+the Internet, to the effect that the user has no relationship with the owner of the infringed 
+right or the person affected by the act of unfair competition, written in the language or in 
+the languages used in conjunction with the use of the sign on the Internet, and any other 
+language indicated by the competent authority;  
+ 
+(b)  a clear and unambiguous statement in conjunction with the use of the sign on 
+the Internet to the effect that the user does not intend to deliver the goods or services 
+offered to customers located in a particular Member State, written in the language or in the 
+languages used in conjunction with the use of the sign on the Internet, and any other 
+language indicated by the competent authority; 
+ 
+(c)  an obligation to inquire, before the delivery of the goods or services, whether 
+customers are located in that Member State, and to refuse delivery to customers who 
+have indicated that they are located in that Member State; 
+ 
+(d)  gateway web pages. 
+ 
+ 
+Article 15 
+Limitation on Prohibition to Use a Sign on the Internet 
+ 
+ 
+(1)  Where the use of a sign on the Internet in a Member State infringes a right, or 
+amounts to an act of unfair competition, under the laws of that Member State, the 
+competent authority of the Member State should avoid, wherever possible, imposing a 
+remedy that would have the effect of prohibiting any future use of the sign on the Internet. 
+ 
+(2)  The competent authority shall not, in any case, impose a remedy that would 
+prohibit future use of the sign on the Internet, where  
+ 
+SCT/24/4 
+Annex II, page 14 
+ 
+  (i) the user owns a right in the sign in another Member State, uses the 
+sign with the consent of the owner of such a right, or is permitted to use the sign, in the 
+manner in which it is being used on the Internet, under the law of another Member State to 
+which the user has a close connection;  and 
+ 
+  (ii) any acquisition of a right in the sign, and any use of the sign, has not 
+been in bad faith. 
+ 
+ 
+ 
+[Explanatory Notes follow]
+ 
+SCT/24/4 
+Annex II, page 15 
+ 
+ 
+EXPLANATORY NOTES* 
+prepared by the International Bureau 
+ 
+ 
+ 
+Notes on the Preamble 
+ 
+ 
+0.01 The first and second recitals clarify that the present provisions do not constitute a 
+self-contained industrial property law for the Internet, but are intended to guide the application of 
+existing national or regional industrial property laws to legal problems resulting from the use of a 
+sign on the Internet. 
+ 
+0.02 The third recital emphasizes the main particularity of the Internet, its “global nature” which 
+challenges the territorial nature of national or regional laws.  These challenges require some 
+modifications in national or regional laws if marks and other rights in distinctive signs are to be 
+granted an adequate level of protection on the Internet. 
+ 
+0.03 The purpose of the present provisions is, therefore, to provide a link between the global 
+Internet and territorial laws and to make these laws Internet-compatible.  The present provisions 
+deal with all situations in which a competent authority is called upon to decide whether the use of 
+a sign on the Internet has, under the applicable national or regional law, contributed to acquiring, 
+maintaining or infringing a right in that sign, or whether such use constitutes an act of unfair 
+competition.  They also apply in the context of determining remedies. 
+ 
+0.04 The question of determining the applicable law is not addressed by the present 
+provisions, but left to the private international laws of individual Member States.  Once the 
+applicable national or regional law has been determined, it should be applied, directly or by 
+analogy, wherever this is possible. 
+ 
+ 
+Notes on Article 1 
+ 
+1.01 Items (i), (iii) and (v) appear self-explanatory. 
+ 
+1.02 Item (ii). The present provisions are not limited to trademark rights, but include all types of 
+industrial property rights in signs existing under the applicable law.  The provisions do not limit 
+the freedom of Member States to determine the conditions for the protection of individual types of 
+rights.  Unregistered rights are included to the extent they are recognized under the applicable 
+law.  The provisions do not provide an exhaustive list of industrial property rights in signs.  
+Trademark rights are just one example; other examples could include trade names, or 
+geographical indications. Item (ii) describes the scope of industrial property rights in signs 
+protected under national laws by reference to the following common characteristics of such 
+rights:  (i) they belong to one person or a group of persons (whether individualized or, as in the 
+case of collective marks or geographical indications, defined in abstract terms) who may exclude 
+every other person from using the sign (“exclusive rights”), and (ii) these rights are only protected 
+                                                     
+* These notes were prepared by the International Bureau of the World Intellectual Property 
+ Organization (WIPO) for explanatory purposes only. 
+ 
+SCT/24/4 
+Annex II, page 16 
+ 
+in a commercial context.  The present provisions neither limit the freedom of Member States to 
+determine what kinds of industrial property rights in signs they recognize, nor interfere with 
+obligations existing under international treaties, such as the Paris Convention.  The present 
+provisions do not apply in a purely non-commercial context.  It is left to the law of Member States 
+to determine whether and under what conditions they want to apply the provisions in a 
+non-commercial context. 
+ 
+1.03 The concept of “sign” is not defined in the provisions.  However, it follows from the 
+purpose of the provisions that they only refer to “distinctive” signs.  The provisions deal with the 
+question whether the use of a sign on the Internet can be considered in the context of 
+determining whether an industrial property right in that sign has been acquired, maintained, or 
+infringed, or whether such use constitutes an act of unfair competition.  Therefore, the provisions 
+only deal with the use of signs which, at least in the abstract, can serve to distinguish enterprises, 
+goods, etc. irrespective of whether the user of the sign owns a right in that sign.  Use of a sign 
+that cannot even in the abstract serve as a “distinctive sign” could not contribute to acquiring, 
+maintaining or infringing a right in such a sign, and would therefore be of no relevance for the 
+purpose of these provisions.  It is not required that the sign be actually used to distinguish 
+enterprises, goods, etc., as long as it can be used as such. 
+ 
+1.04 Item (iv).  The legal nature of the “competent authority” will depend on the national 
+system in a given Member State.  Item (iv) does not interfere with the power of Member States to 
+determine competence.  It has been drafted broadly in order to accommodate all systems that 
+might exist in Member States. 
+ 
+1.05 Item (vi).  This item  gives a description of the term “Internet” without attempting to 
+provide a comprehensive definition.  This is emphasized by the use of the words “refers to” 
+instead of the word “means” used in the other items.  Given the rapid technological development 
+of that sector, a definition of the term “Internet” might soon be outdated.  As is emphasized in the 
+Preamble, one of the main particularities of the Internet is its “global nature,” the fact that a sign 
+used on the Internet is simultaneously and immediately accessible irrespective of territorial 
+location.  This particular feature challenges the territorial basis of laws relating to marks or other 
+industrial property rights in signs, and which therefore requires the application of the present 
+provisions.  The fact that the Internet allows a potentially unlimited number of users to access 
+certain content distinguishes it from telephone networks.  Its public nature distinguishes it from 
+private networks or Intranets.  Its interactivity, and the fact that it provides content to individual 
+members of the public at a time and from a place individually chosen by them distinguishes it 
+from television and broadcasting.  With regard to the last-mentioned aspect, item (vi) follows the 
+wording of Article 8 of the WIPO Copyright Treaty (WCT) and Article 14 of the WIPO 
+Performances and Phonograms Treaty (WPPT). 
+ 
+1.06 Item (vii).  This item has been added in order to facilitate the drafting of the provisions.  A 
+similar provision is contained in Article 1(xv) of the Patent Law Treaty.   
+ 
+1.07 References in the provisions to individual users or individual right owners also include 
+legal entities recognized under the applicable law.  Such entities can be regarded as users of a 
+sign or owners of a right to the extent that they have competence to act or to own a right under 
+the applicable law.  The provisions do, however, not interfere with the power of Member States to 
+determine the conditions for recognizing legal entities, and to regulate their structure and legal 
+competence. 
+ 
+SCT/24/4 
+Annex II, page 17 
+ 
+Notes on Article 2 
+ 
+2.01 The question whether use of a sign on the Internet can be regarded as having taken 
+place in a particular Member State is relevant for deciding whether such use should count 
+towards deciding whether the user has acquired, maintained or infringed a right that is protected 
+in the Member State, or whether he has committed an act of unfair competition in that Member 
+State.   
+ 
+2.02 Article 2 is based on the assumption that not each and every use of a sign on the Internet 
+should be treated as taking place in the Member State concerned, even though the use might be 
+accessible to Internet-users based in that State.  The effect of the provision is that only use that 
+has commercial repercussions in a given Member State, or, in other words, use that has a 
+“commercial effect” in that Member State, can be treated as having taken place in that Member  
+State.  The provisions introduce the term “use of a sign on the Internet in a Member State” as a 
+shorthand expression for use of a sign on the Internet which is deemed to have taken place in a 
+Member State as a result of its commercial effect. 
+ 
+2.03 The provision is only intended to deal with the question of whether use of a sign on the 
+Internet can be deemed to have taken place in a particular Member State.  The legal effects of 
+such use in that Member State would have to be determined under the applicable law in 
+accordance with Articles 5 and 6. 
+ 
+2.04 The term “commercial effect” has been chosen rather than “in the course of trade,” in 
+order to include situations in which a non-profit company has produced a commercial effect in a 
+particular country by using the sign on the Internet without using it “in the course of trade.”  It 
+should be noted that use of a sign on the Internet can have a commercial effect even before any 
+business transactions are carried out in that Member State. 
+ 
+2.05 The present provisions are only applicable to rights that are protected in a commercial 
+context.  In so far as Member States also protect certain rights in signs, such as personality 
+rights, in a purely non-commercial context, they are free to either to grant such protection in 
+relation to use of a sign on the Internet independently of whether such use has a commercial 
+effect, or to apply the present provisions. 
+ 
+ 
+Notes on Article 3 
+ 
+3.01 Paragraph (1).  The determination of whether use of a sign on the Internet has produced 
+a commercial effect in a particular Member State, and whether such use can be deemed to have 
+taken place in that Member State, shall be made on the basis of all relevant circumstances.  A 
+competent authority is free to determine which factors are relevant in a given case.  Once it has 
+identified the relevant factors, it is obliged to take them into account.  Paragraph (1) provides a 
+non-exhaustive list of factors that can be relevant.  The factors are grouped into various 
+categories for clarity. 
+ 
+3.02 Subparagraph (a).  This subparagraph contains two general principles and, in that regard, 
+supplements all following items.  First, doing business in a Member State is the most obvious 
+way of creating a commercial effect in that State.  Second, planning to do business in a Member 
+State can have a commercial effect in that Member State.  It should be noted, however, that use 
+of a sign on the Internet might have a commercial effect in a Member State even if the user was 
+not yet planning to do business in that particular Member State. 
+ 
+SCT/24/4 
+Annex II, page 18 
+ 
+3.03 Subparagraph (b).  This subparagraph invites a competent authority to determine 
+whether the level and character of commercial activity carried out in conjunction with the use of 
+the sign on the Internet contributes to a finding that such use has a commercial effect in that 
+Member State.  This does not mean, however, that there always has to be some commercial 
+activity in the Member State;  use of a sign on the Internet can have a commercial effect in a 
+Member State even though the user of the sign does not, or not yet, carry out any commercial 
+activity. 
+ 
+3.04 Item (i).  The location of actual or prospective customers in the Member State is an 
+important factor for determining whether use of the sign in the context of actual delivery of goods 
+or services, or in the context of other commercially motivated relationships has a commercial 
+effect in that State.  Customers are located in the Member State if they are physically present in 
+the Member State at the time of the relevant activity.  For the purposes of these provisions, 
+“location” is a purely factual concept, for which mere presence in the State should be sufficient.   
+“Other commercially motivated relationships” include activities of the user that are, like direct 
+mailing of advertisements or product information, aimed at prospective customers in preparation 
+for the eventual future conclusion of commercial contracts. 
+ 
+3.05 Item (ii).  This item refers to what might be called a “territorial disclaimer.”  If a web site 
+contains a statement to the effect that the goods or services offered are not available in particular 
+Member States, it is less likely that such use would produce a commercial effect in those Member 
+States.  Such statements can either be drafted in a “positive” or in a “negative” way:  The user 
+can, for example, expressly exclude particular Member States (“No delivery to customers located 
+in countries X, Y and Z”), or he can provide an exclusive list of countries in which the goods or 
+services are available (“Delivery only to countries A, B, and C”), which would implicitly exclude all 
+countries which are not listed.  Since mere use of “disclaimers” should not shield users of signs 
+on the Internet from every liability, the item invites the competent authority to inquire whether the 
+user has adhered to his stated intent.  It is recalled that “location” is used in a purely factual way, 
+and does not require any continuous presence in the Member State, such as the term “domicile” 
+(see Note 3.04 above). 
+ 
+3.06 As currently drafted, “disclaimers” constitute merely one factor among other factors which 
+a competent authority can consider for determining whether the use of a sign on the Internet has 
+produced a commercial effect in the Member State concerned.  The use of “disclaimers” can, 
+therefore, be outweighed by other factors, such as actual delivery of goods to customers located 
+in the Member State.  A competent authority can also hold, for example, that a disclaimer was not 
+effective in an individual case because it was not drafted clearly enough, because it was not 
+placed obviously enough, or because it was written in a language that is not understood in the 
+Member State in question.  In sum, the determination as to whether a disclaimer is effective or 
+not is ultimately left to competent authorities of Member States.   
+ 
+3.07 The concept of disclaimer used in item (ii) of Article 3 is broader than the one used in 
+Article 12.  In Article 3, the statement serves as a precautionary measure by a user who does not 
+necessarily own a right in the sign he uses, and who does not necessarily know of any other 
+existing rights.  This could be one way of reducing the need to do a “global search” for existing 
+rights, which is often difficult and prohibitively expensive. In item (ii) of Article 3, the effectiveness 
+of the disclaimer is left to the appreciation of competent authorities in each individual case.  In 
+Article 12, however, the disclaimer serves as a means for users in good faith, who own a right in 
+the sign they use, to avoid liability for the infringement of a particular right, after having been 
+notified by the owner of that right.  Article 12 therefore explicitly requires that the disclaimer also 
+contain a statement designed to avoid confusion with the holder of the allegedly infringed right.  
+Article 12 further sets out, in items (iii) and (iv), the specific actions the user must take in order to 
+abide by the disclaimer.  Under these circumstances, the disclaimer can effectively shield the 
+user from liability. 
+ 
+SCT/24/4 
+Annex II, page 19 
+ 
+3.08 Items (iii) and (iv).  These items appear self-explanatory 
+ 
+3.09 Subparagraph (c).  This subparagraph invites a competent authority to determine whether 
+the goods or services offered in conjunction with the use of the sign on the Internet relate or can 
+relate to a particular Member State.  Again, this does not mean that use of a sign on the Internet 
+can only have a commercial effect in a particular Member State if it takes place in conjunction 
+with the offer of goods or services over the Internet.  As in the example of advertisement targeted 
+at a particular Member State, use of a sign on the Internet can have a commercial effect in a 
+particular Member State without any goods or services being offered over the Internet. 
+ 
+3.10 Item (i).  This item refers to national laws which set conditions for the marketing of 
+particular goods or services, such as product regulations.  Use of a sign on the Internet in 
+conjunction with the offer of goods or services that do not comply with the product regulations of 
+a particular Member State is less likely to produce a commercial effect in that Member State 
+because, in such a case, the goods or services could not lawfully be delivered in that State. 
+ 
+3.11 Item (ii)  This item appears self-explanatory. 
+ 
+3.12 Subparagraph (d).  This subparagraph directs the attention of competent authorities to 
+the manner of use of the sign on the Internet.  A sign can be used on a web site, in an e-mail or 
+an e-mail heading.  It can also be used to direct Internet users to a particular web site, for 
+example if it is used in an Internet domain name or as a meta-tag without being visible on the 
+web site itself.  It should be noted, however, that a sign can be used on the Internet without there 
+being a web site on which or for which it is used.  Therefore, the item does not explicitly mention 
+any specific forms of uses. 
+ 
+3.13 Items (i) and (ii).  These items include all means which enable Internet users located in a 
+particular country to communicate with the user of the sign in question.  In addition to an address 
+or telephone number in the Member State (item (ii)) which provide an obvious relationship with 
+that State, a web site can offer means of interactive contact which allow customers located in the 
+Member State not only to communicate with the user via e-mail, but also to place orders or to 
+obtain delivery directly via the Internet.  Similarly, if the sign was used in an e-mail which was 
+sent to (potential) customers in the Member State, the recipients could directly reply to that e-
+mail, and thus easily communicate with the user of the sign.  Thus, the “degree of interactivity” of 
+the use can be an important factor for determining a commercial effect. 
+ 
+3.14 Item (iii).  Top level domain names based on the ISO Standard country code 3166 refer to 
+individual States.  For example, “.ch” refers to Switzerland, “.fr” to France and “.ru” refers to the 
+Russian Federation.  If a domain name, which identifies a web site or an e-mail address, is 
+registered in a top level domain referring to a particular country, this might indicate that use of the 
+sign as part of, or in conjunction with, that domain name is in some way connected to that 
+country. 
+ 
+3.15 Item (iv).  Language can be a decisive factor if the language used in conjunction with the 
+use of the sign is not widely spoken outside the Member State in question.  However, the more 
+widely a language is used outside the Member State, the less conclusive is the evidence 
+provided by its use. 
+ 
+3.16 Item (v).  It should be noted that the fact alone that a particular Internet location, such as 
+a web site, has been visited by Internet users located in a particular Member State may not 
+suffice for concluding that use of a sign on that Internet location has a commercial effect in that 
+Member State.  Even though such visits will probably not be conclusive as such, they can 
+nevertheless constitute one factor among others for determining whether the use of a sign on the  
+ 
+SCT/24/4 
+Annex II, page 20 
+ 
+Internet has a commercial effect in that country.  It is recalled that the term “location” is used in a 
+purely factual way, and does not require any continuous presence in the Member State, such as 
+the term “domicile” (see Note 3.04 above). 
+ 
+3.17 Subparagraph (e).  This subparagraph highlights the importance of any right in the sign 
+used.  Use of a sign on the Internet can have a commercial effect in a Member State if the sign is 
+the subject of a right protected under the law of that Member State.  This link between the sign 
+used and a right in that sign can become relevant in two situations:  First, in a positive way 
+(item (i)), if the user himself owns a right in the sign.  If the user has, for example, registered a 
+mark in a particular Member State, this can serve as an indication that he or she intends to 
+engage in activities which have a commercial effect in that State.  Second, in a negative way 
+(item (ii)), if someone else owns a right in the sign under the law of a particular Member State.  If 
+the user, knowing of that right, nevertheless uses the sign, for example because he or she wants 
+to profit from the goodwill embodied in that sign, such use can have a commercial effect in the 
+State in which the right is protected, be it only because the commercial value of the sign for the 
+right holder is diminished.  Such use is generally considered to be use in “bad faith.”  
+“Cybersquatting” would be the most obvious case of such unauthorized use.  Thus, item (ii) 
+would allow a competent authority to find a link between such cases of bad faith use, and the 
+country in which the infringed right is protected.  In order to clarify that item (ii) refers to the effect 
+of bad faith use, it follows the wording of Article 4(2)(ii). 
+ 
+3.18 Paragraph (2).  This provision states expressly that the list of factors is neither cumulative 
+nor exhaustive, but functions as a checklist of factors which might be relevant in a given case, 
+without obliging the competent authority to express an opinion about every listed factor.  
+Paragraph (2) follows the model of Article 2(1)(c) of the Joint Recommendation Concerning 
+Provisions on the Protection of Well-Known Marks. 
+ 
+ 
+Notes on Article 4 
+ 
+4.01 It should be noted that Article 4 does not introduce bad faith as a prerequisite of liability 
+for infringement.  However, since use of a sign on the Internet in bad faith is relevant in the 
+context of Article 9 and 15, it is necessary to include a provision describing this concept in Part II 
+which deals with use of a sign in the Internet in a general way. 
+ 
+4.02 Paragraph (1). This provision requires competent authorities to consider all relevant 
+circumstances when determining bad faith.  A competent authority will determine bad faith in 
+accordance with the applicable law.  Accordingly, for determining whether a right has been 
+acquired in bad faith, the law under which the right has been acquired will have to be applied, 
+whereas the question whether a sign was used in bad faith can be determined under the law of 
+the State in which the sign was used. 
+ 
+4.03 Paragraph (2).  This provision sets out, by way of example, the factors that appear 
+particularly relevant in the context of the determination under paragraph (1).  Member States are, 
+however, free to adopt different standards for determining bad faith.  The factors are stated in an 
+abstract and general way.  A more detailed list of factors could only provide examples for “unfair 
+advantage” or “unjustifiable impairment,” such as those which are included in the Report of the 
+WIPO Internet Domain Name Process (paragraph 172).  Such a list might, however, rather be 
+perceived as a limitation of relevant factors.  A more general formulation chosen in the present 
+provisions allows competent authorities of Member States to adapt their reasoning to the merits 
+of each individual case. 
+ 
+SCT/24/4 
+Annex II, page 21 
+ 
+4.04 Item (i). This item specifies that users must have had knowledge of the conflicting right at 
+the time when they acquired the right or started to use the sign.  If a user later becomes aware of 
+a conflicting right, he would not be considered to have acted in bad faith.  The expression “could 
+not have reasonably been unaware” is used instead of the term “reason to know” in order to 
+avoid the inclusion of broad constructive knowledge provisions under certain national laws.  A 
+similar provision is contained in Article 4(5)(c) of the Joint Recommendation Concerning 
+Provisions on the Protection of Well-Known Marks.  It should be noted that knowledge, or the fact 
+that the user could not reasonably have been unaware of the conflicting right, alone, would not be 
+sufficient for a finding of bad faith. 
+ 
+4.05  Item (ii).  This item introduces an additional element of bad faith, namely that the sign 
+was used with a view to profit from the goodwill associated with the sign protected by the right of 
+another, or to impair its distinctive character or reputation.  However, because of the difficulty of 
+proving a certain intent, an objective formulation has been adopted. 
+ 
+ 
+Notes on Article 5 
+ 
+5.01 This provision confirms that use of a sign on the Internet shall be taken into consideration 
+for determining whether rights in the sign have been acquired or maintained through use in a 
+particular Member State.  Instances in which a right can be acquired or maintained through use 
+include, inter alia:  acquiring or maintaining a right in an unregistered mark or other sign;  
+acquiring or maintaining the registration of a mark;  avoiding abandonment of a right;  
+determining whether a mark has acquired distinctiveness;  or determining whether a mark has 
+become well-known.  If relevant under the applicable law, use of a sign on the Internet by another 
+can also be considered as prior use of a sign in that Member State. 
+ 
+5.02 The provision does not require Member States to provide the legal possibilities for 
+acquiring or maintaining rights in marks or other industrial property rights in signs through use.  
+However, if use of a sign is relevant in these contexts under the law of a Member State, use on 
+the Internet shall also be taken into account, provided that such use can be deemed to have 
+taken place in that Member State (see Article 2).  It should be noted that the provision does not 
+specify the legal requirements for acquiring or maintaining a right in a sign through its use.  This 
+determination is left to the applicable law.  Article 5 merely requires that use of a sign on the 
+Internet that has a commercial effect in a Member State be subject  to the same general 
+principles as use in that Member State outside the Internet. 
+ 
+5.03 The provision also reminds competent authorities that “new” forms of use should not be 
+discarded only because they are new.  However, the final determination as to whether a 
+particular “new” form of use can be taken into account for the purposes of acquiring or 
+maintaining a right is left to the applicable law. 
+ 
+ 
+Notes on Article 6 
+ 
+6.01 Mere use of a sign on the Internet shall not be considered as infringing any rights in that 
+sign which might exist under the law of a particular Member State.  Use on the Internet shall only 
+be taken into consideration under the laws of a particular Member State if such use has a 
+commercial effect and can, therefore, be deemed to have taken place in that Member State (see 
+Articles 2 and 3). 
+ 
+6.02 The present provisions also address matters of unfair competition on the Internet.  They 
+are, however, limited to the question as to when and under what conditions use of a sign on the 
+Internet can constitute an act of unfair competition in Member States.  Consistent with the 
+ 
+SCT/24/4 
+Annex II, page 22 
+ 
+approach generally adopted in the present provisions, the substantive criteria for determining that 
+use of a sign on the Internet constitutes an act of unfair competition in an individual case are left 
+to the applicable law of Member States.  Such an approach is also mandated by the fact that the 
+private international law rules of unfair competition have not been harmonized.  Therefore, the 
+present provisions merely provide that use of a sign on the Internet shall only be considered as 
+an act of unfair competition under the law of a Member State, if such use has a commercial effect 
+in a particular Member State. 
+ 
+6.03 Article 6 also requires Member States to protect rights in marks and other signs in 
+situations which might appear unusual if compared with forms of use outside the Internet, such 
+as use of signs in banner advertisements, sale or purchase of signs as keywords for search 
+engines, use as metatags, use in Uniform Resource Locators (URLs), use as search terms, or 
+any other “new” forms of use that might be possible in the future. 
+ 
+6.04 It should be noted, however, that Article 6 does not require Member States to consider 
+such forms of use as generally infringing marks or other industrial property rights in signs.  
+Whether an infringement has in effect taken place will be determined under the applicable law, 
+including any exceptions which might apply in certain situations, such as “fair use” of descriptive 
+terms (see Article 8).  Article 6 in effect obliges Member States to monitor new and emerging, 
+possibly circumventive, forms of use, and to provide protection under their national laws.  This 
+protection may be provided under any of the laws relating to marks or other industrial property 
+rights in signs, including unfair competition laws, of the Member State, at the Member State’s 
+option. 
+ 
+ 
+Notes on Article 7 
+ 
+7.01 This provision states the general principle that the user of a sign on the Internet shall, 
+under the applicable law on distinctive signs or unfair competition of a Member State, be liable for 
+such use which constitutes an infringement or an act of unfair competition if use of the sign on 
+the Internet can be deemed to have taken place in that Member State in accordance with 
+Sections 2 and 6.  The only exceptions to that principle are provided for by Section 8 (Exceptions 
+and Limitations under the applicable law) and contained in Part V (Notice and Avoidance of 
+Conflict). 
+ 
+7.02 The provision does not specify the conditions for determining whether such use in fact 
+infringes a right which is protected under the law of a particular Member State, or whether it 
+constitutes an act of unfair competition.  This determination has to be made under the applicable 
+law of that Member State.  Similarly, liability of intermediaries, such as online service providers, is 
+not specifically addressed under these provisions, but left to the applicable law. 
+ 
+ 
+Notes on Article 8 
+ 
+8.01 This provision generally requires Member States to apply any existing exceptions and 
+limitations under the applicable law in respect of liability that arises in connection with the use of 
+a sign on the Internet, provided, of course, that the use on the Internet can be considered to have 
+taken place in the Member State in question in accordance with Section 2.  This means that all 
+exceptions to liability or limitations to the scope of rights existing under the law applicable in that 
+Member State have to be available to users of a sign on the Internet.  However, the provision 
+neither obliges Member States to recognize particular exceptions or limitations, such as “fair use” 
+or “free speech,” nor requires them to introduce particular exceptions or limitations for use of 
+signs on the Internet.  It is left to the applicable law to determine the forms of use that could 
+benefit from an exception or limitation. 
+ 
+SCT/24/4 
+Annex II, page 23 
+ 
+Notes on Article 9 
+ 
+9.01 Because of the territoriality of marks and other industrial property rights in signs, different 
+owners can hold rights in identical or similar signs in different countries.  This can create 
+problems if the sign is used on the Internet.  Because of the necessarily global nature of the 
+Internet such use might be considered as infringing a right under the law of a Member State in 
+which the right of the user is not recognized.  Similar conflicts arise when the use of a sign is 
+permitted in one country, but is considered to infringe the right of someone else under the law of 
+another country. 
+ 
+9.02 Part V provides for what might be called a “notice and avoidance of conflict” procedure in 
+an attempt to balance the interests of good faith legitimate users who hold a right in the sign they 
+use or are otherwise permitted to use that sign on the one hand, and owners of rights which 
+might be infringed by such use on the other.  It also implements the general principle that no one 
+should be obliged to undertake a worldwide search for registered or unregistered rights before 
+using a sign on the Internet.  Right holders, or persons who are otherwise permitted to use the 
+sign, are exempt from liability up to the point when they receive a notification of infringement 
+provided that they use the sign in good faith, and provide in conjunction with the use of the sign 
+on the Internet, sufficient information to be contacted.  As a consequence, they cannot be 
+subjected to any injunction, or held liable for any damages occurring, before notification. Such 
+users are, therefore, not compelled to undertake a worldwide search for existing rights before 
+using the sign on the Internet.  However, once they have received a notice of infringement, they 
+have to take certain measures for avoiding or ending the conflict.  If they do so, they are not only 
+exempt from any liability for any infringing use prior to notification, but continue to be exempt for 
+any such use after notification. 
+ 
+9.03 Articles 9 to 12 do not apply to cases where the use of a sign on the Internet is 
+considered an act of unfair competition in a Member State.  In most cases of unfair competition, 
+there is no clearly specified right holder who could start the “notice and avoidance of conflict” 
+procedure by sending a notification.  The unfair competition laws of individual countries diverge 
+widely with regard to the question who has standing to bring an action in unfair competition.  It 
+should be noted, however, that nothing would prevent a Member State from applying the “notice 
+and avoidance of conflict” procedure to acts of unfair competition as well. 
+ 
+9.04 Article 9 exempts users of signs on the Internet from liability for the infringement of a right 
+up to the point of notification, provided that all conditions listed in items (i) to (iii) are met.  The 
+provision is, of course, only applicable when the use on the Internet has a commercial effect in 
+the Member State where the allegedly infringed right is protected, as set out in Articles 2, 3 
+and 6, because otherwise the user could not be held liable.  It should be noted that the “notice 
+and avoidance of conflict” procedure does not result in a permanent restriction or limitation of 
+rights that are infringed by the use of a sign on the Internet; liability for infringement begins with 
+the notification if the user does not comply with the requirements set out in Articles 10 to 12..  
+Nothing in this provision shall derogate from the existing obligations that Member States may 
+have to each other under existing international conventions and agreements concerning industrial 
+property.  
+ 
+9.05 Item (i)  Only users who own a right in the sign in another Member State, users who use 
+the sign with the consent of the owner, or users who are otherwise permitted to use the sign can 
+benefit from that procedure. 
+ 
+9.06 The phrase “otherwise permitted to use the sign” is understood to refer to: 
+ 
+(i) the use of the sign by a user who has a right in that sign which is, like his personal name, 
+protected in a non-commercial context; 
+ 
+SCT/24/4 
+Annex II, page 24 
+ 
+(ii) the fair use of generic or descriptive terms. 
+ 
+Member States may also apply the “notice and avoidance of conflict” procedure if the use is 
+permitted in another Member State for other reasons or simply because no other person owns a 
+right in the sign in that other Member State. 
+ 
+9.07 The term “close connection” describes a certain relationship between the user of the sign 
+and the Member State under the laws of which he is permitted to use the sign.  Such a 
+relationship is obvious in cases where the user owns a right in that sign under the laws of a 
+particular Member State.  If the user, however, does not own a right in the sign, he should not be 
+able to rely on the laws of a country with which he has no relationship whatsoever for asserting 
+that his use was permitted.  He should have valid reasons for this assertion, which would have to 
+be based on his relationship with a country that permits the use.  Domicility would satisfy this 
+requirement.  Since the present provisions are concerned with use which has a commercial 
+effect, the “close connection” would typically be of a commercial nature.  Obvious examples for 
+such a “close connection” would be the relationship with a country in which the user has his seat 
+or headquarters, or a real and effective industrial or commercial establishment in the sense of 
+Article 3 of the Paris Convention for the Protection of Industrial Property.  The user would also 
+have a “close connection” with a country in which he carries out a substantial part of his 
+business. 
+ 
+9.08 Item (ii)  The exception from liability does not apply if the user has acquired or used the 
+right in bad faith.  The criteria for determining whether a right was acquired or used in bad faith 
+are set out in Article 4. 
+ 
+9.09 Item (iii)  The user can only be notified if he has provided sufficient contact information in 
+conjunction with the use.  If he fails to do so, he can be held liable for any infringement even 
+without having received a notification of infringement. 
+ 
+ 
+Notes on Article 10 
+ 
+10.01 Article 10 sets out the consequences of an effective notification.  After notification, the 
+user of a sign on the Internet only continues to be exempt from liability if he substantiates his own 
+right in the sign, or spells out why he is permitted to use the sign, in accordance with items (i) and 
+(ii), and, in addition to this substantiation, takes the measures set out in item (iii).  The time period 
+within which the user has to act is not specified because the time to implement the measures 
+might be different in each individual case.  However, the user has to act “expeditiously,” which 
+means that he or she has to act as quickly as possible under the given circumstances. 
+ 
+10.02 In item (iii), the measures are described only with reference to their objective, namely, to 
+avoid a commercial effect in the Member State in which the allegedly infringed right is protected, 
+or to avoid infringement of that right through other means..  The user can, however, only be 
+expected to take “reasonable” measures.  Such measures should not unreasonably burden the 
+commercial activity the user carries out over the Internet.  Thus, the user should not be obliged, 
+for example, to stop every activity on the Internet which would, of course, be the most effective 
+way of avoiding a commercial effect in any given country (see also Article 15 for remedies).  The 
+parties to the conflict are free to determine which measures would achieve these objectives in a 
+given case.  They are, of course, free to have recourse to alternative dispute resolution 
+procedures, but are not obliged to do so.  If the user adopts certain measures unilaterally, the 
+competent authority, which is called upon to decide whether the user can be held liable for the 
+infringement of the other right, will have to decide whether the measures adopted by the user are 
+sufficient.  Member States are, however, obliged to accept the measure set out in Article 12 as 
+sufficient under Article 10. 
+ 
+SCT/24/4 
+Annex II, page 25 
+ 
+Notes on Article 11 
+ 
+11.01 Article 11 sets out the requirements under which a notification has the effect described in 
+Article 10.  The owner of the allegedly infringed right has to enable the user to assess the case 
+and to respond to the notification.  Therefore, the owner of the allegedly infringed right has to 
+present a prima facie case of infringement (items (i), (iii) to (v)), and to furnish sufficient contact 
+information (item (ii)). If the notification fails any of the requirements listed in items (i) to (v), it 
+shall not be considered effective and the user continues to be exempt from liability.  Whether the 
+notification becomes effective once it has been sent or only on receipt is, however, left to the 
+applicable law. 
+ 
+11.02 The notification can also be sent by a person other than the owner if the sender acts as 
+the “representative” of the owner.  The term “representative” includes every person that is 
+authorized under the applicable law (i.e. the law under which the right is protected) to take steps 
+for enforcing the right.  Thus, the term can also include a licensee having this authority under the 
+applicable law. 
+ 
+11.03 The notification has to be sent by mail, e-mail or telefacsimile.  This requirement ensures 
+that the required information exists in, or, as in the case of e-mail, can be reduced to, a physical 
+embodiment.  Oral notification by telephone or the like would thus not be sufficient. 
+ 
+11.04 The notification has to be drafted in the language, or in one of the languages, used in 
+conjunction with the sign on the Internet.  This requirement seems justified in view of the fact that 
+the user of the sign has to act under time pressure under paragraph (2), and must therefore be in 
+a position to understand the notification. 
+ 
+ 
+Notes on Article 12 
+ 
+12.01 This provision is meant to give right holders, and other permitted users, who use their 
+sign on the Internet in good faith, some degree of legal certainty as to how to avoid liability for the 
+infringement of another right after having received a notification of infringement.  The effect of 
+Article 12 is that such users cannot be held liable for the infringement of the other right provided 
+that they fulfill all the requirements set out in Article 12.  Hence, a disclaimer under Article 12, has 
+to be accepted as an effective measure described in Article 10(iii), and can, therefore, shield right 
+owners and other permitted users from liability. 
+ 
+12.02 The disclaimer has to include the two statements listed in item (i) in order to avoid 
+confusion with the owner of the conflicting right, and to avoid a commercial effect in the Member 
+State in which the other right is protected.  The user also has to take certain qualified actions in 
+order to render the disclaimer effective under Article 10 (item (iii)). 
+ 
+12.03 The statements listed in item (i) have to appear “in conjunction” with the use of the sign.  
+If the sign is used on a web site, the statement would have to appear on that web site. The 
+provisions do not address further details, such as the exact location or the size of the statements, 
+or whether it would suffice to place a link on the relevant page which leads to the statements.  
+This determination is left to the competent authorities of Member States. 
+ 
+12.04 Item (i).  Once users have received a notification of conflict, they can be expected to 
+make the statements set out in item (i), in order to avoid confusion with the owner of the other 
+right on the one hand, and to avoid a commercial effect with a particular Member State on the 
+other. 
+ 
+ 
+SCT/24/4 
+Annex II, page 26 
+ 
+12.05 Item (ii).  The user should be able to remove the commercial effect caused by his use in 
+one language, and to avoid liability for infringement, by making the prescribed statements in the 
+same language. 
+ 
+12.06 Item (iii) and (iv).  The disclaimer is only effective under Article 10 if the user abides by it 
+as described in items (iii) and (iv).  This procedure should, however, not unreasonably burden his 
+commercial activity.  The user should, therefore, not be expected to verify the statements made 
+by his customers.  If the goods or services are physically delivered, it is in the own interest of 
+customers to indicate their address correctly.  If payments are effected via credit card, most 
+companies require a billing address.  If, however, the goods or services are directly delivered 
+over the Internet, a business has in most cases no means to find out, in the normal course of 
+business, where their customers are really located.  In line with the rationale that the user should 
+only be required to take measures which do not unreasonably burden his or her commercial 
+activity, it seems justified to pose the remaining risk of false indications on the owner of the other 
+right, that is the right which is alleged to be infringed.  It is recalled that the term “location” is used 
+in a purely factual way, and does not require any continuous presence in the country, such as the 
+term “domicile” (see Note 3.04 above). 
+ 
+12.07 Unlike Article 14, Article 12 does not mention “gateway web pages.”  The reason for this 
+is that Article 12 describes measures which a user can take unilaterally in order to avoid liability.  
+The establishment of gateway pages, however, would require consent of all parties involved.  
+Gateway web pages can, of course, be adopted under Article 10 by way of consent between the 
+user and the owner of the allegedly infringed right, but not as a unilateral measure of the user. 
+ 
+12.08 Article 12 is part of the “notice and avoidance of conflict” procedure set out in Articles 9 
+to 11.  As a consequence, right owners and other permitted users, who use their sign in good 
+faith, can only rely on a disclaimer in the context of this procedure, i.e. once they have received a 
+notification of infringement as set out in Articles 10 and 11.  It should be noted, however, that a 
+right owner or other permitted user in good faith, who is aware of another right without having 
+been notified, would probably not produce a commercial effect under Article 2 if he takes all the 
+measures set out in Article 12, and could, therefore, not be held liable for the infringement of that 
+right.  This would, however, have to be decided by a competent authority in the individual case. 
+ 
+ 
+Notes on Article 13 
+ 
+13.01 This provision emphasizes the necessity to adapt national or regional laws on remedies 
+to infringements taking place on the Internet, and to take account of the fact that marks and other 
+industrial property rights in signs, as well as the means for enforcing these rights, are territorial in 
+nature, whereas the Internet is global.  The same is generally true for the laws against unfair 
+competition which apply only to acts which affect the market of a certain country.  Such laws 
+cannot claim authority over acts occurring in foreign countries.  Thus, by being linked to certain 
+national markets, unfair competition laws are also territorially limited. 
+ 
+13.02 Paragraph (1).  In principle, a decision as to remedies should take into account the 
+territorial limitation of marks or other industrial property rights in signs.  Remedies should, 
+therefore, be limited, as far as possible, to the territory in which the right is recognized, and they 
+should only be available if the allegedly infringing use of the sign can be deemed to have taken 
+place in that territory (see Article 6).  This is determined with regard to the “commercial effect” of 
+such use in the Member State in question (see Articles 2 and 3).  Thus, the “commercial effect” of 
+Internet use should serve as a yardstick for determining a “proportionate” remedy.  Use of a sign 
+on the Internet that infringes a right which is protected under the laws of a Member State should 
+not be prohibited any more than is proportionate to the commercial effect that such use has 
+produced in that Member State.  Injunctions should generally be limited to what is necessary to 
+ 
+SCT/24/4 
+Annex II, page 27 
+ 
+prevent or remove the commercial effect in the Member State in which the infringed right is 
+protected, and damages should be granted only for the commercial effect of the use in that 
+Member State. 
+ 
+13.03 Similarly, remedies for acts of unfair competition should only be granted if the allegedly 
+unfair use on the Internet can be deemed to have occurred in the Member State concerned 
+(Article 6), and they should be limited as far as possible to removing the commercial effect from 
+the Member State in which the unfair competition law applies.   
+ 
+13.04 Paragraph (2) emphasizes the need for a balanced approach.  In addition to the interests 
+of the parties involved, a competent authority could also take account, inter alia, of the number of 
+Member States in which the infringed right is also protected, the number of Member States in 
+which the infringing sign is protected by a right, or the relative extent of use on the Internet. 
+ 
+13.05 Paragraph (3).  The user of the sign might, in a given case, be in a position to propose a 
+remedy which is equally (or more) effective as the remedy envisaged by the competent authority, 
+but less burdensome for him.  Thus, a defendant should, in an infringement procedure, have the 
+right to propose a remedy.  This does not mean, however, that the competent authority is obliged 
+to ask the defendant for proposals; paragraph (3) is a mere application of the principle that 
+defendants have a right to be heard before a decision on the merits is taken.  This is emphasized 
+by the words “upon request”.  The final decision at the end of the infringement procedure is, of 
+course, left to the competent authority.  Furthermore, the provision does not interfere with the 
+authority of courts or other competent authorities under the applicable law to order provisional 
+measures without hearing the other party (inaudita altera parte); the right to be heard can be 
+given at a later stage in the proceedings before a decision on the merits is taken. 
+ 
+ 
+Notes on Article 14 
+ 
+14.01 This provision further specifies the general principle of proportionality contained in 
+Article 13.  Under normal circumstances, remedies should not have the effect of forcing the user 
+of a sign on the Internet to abandon any use of that sign on the Internet because the right, or the 
+law against unfair competition, which they are meant to enforce is territorially limited. 
+ 
+14.02 Paragraph (1)  For this reason, paragraph (1) requires competent authorities, in designing 
+remedies, to consider limitations of use designed to avoid a commercial effect in the Member 
+State in which the infringed right is protected, or in which the law against unfair competition 
+applies.  If there is not commercial effect, the user can no longer be considered to infringe a right 
+or to commit an act of unfair competition in that Member State (Article 6).  The competent 
+authority can also order the user to avoid the infringement or the act of unfair competition in the 
+Member State by other means.  These objectives mirror the ones listed in item (iii) of Article 10.  
+The situation is, however, different:  Whereas Articles 9 to 12 deal with measures that right 
+owners in good faith can adopt to avoid liability for the infringement of another right, Article 14 
+addresses a situation in which a court has already found an infringement or an act of unfair 
+competition and is now determining a proportionate remedy. 
+ 
+14.03 Paragraph (2) gives examples for proportionate limitations of use.  Unlike Article 12, 
+Article 14(2) does not require a competent authority to adopt one or all of the measures listed.  
+Competent authorities are free to choose other remedies which are effective and proportionate in 
+a given case. 
+ 
+SCT/24/4 
+Annex II, page 28 
+ 
+14.04 Subparagraphs (a) to (c) mirror the disclaimer described under Article 12, but in this case 
+the disclaimer is imposed by way of an injunction.  In such a case, the competent authority is free 
+to determine the language of the disclaimer, and to take account of laws regulating the use of 
+languages by official authorities. 
+ 
+14.05 Subparagraph (d) proposes an alternative measure which has already successfully been 
+applied in practice: owners of mutually infringing rights could be required either to set up a 
+gateway page through which the web site of both right holders could be accessed, or to provide 
+links from one web site to the other. 
+ 
+ 
+Notes on Article 15 
+ 
+15.01 Paragraph (1).  This provision contains another implementation of the general principle of 
+proportionality set out in Article 13.  An injunction to cease every use of a sign on the Internet 
+would go far beyond the territory for which the infringed right in that sign has effect.  It would have 
+an effect which is as global as the Internet and could, therefore, also be called a “global 
+injunction.”  Applying the principle of proportionality, therefore, means that competent authorities 
+should, as far as possible, refrain from granting such “global injunctions.” However, the provision 
+does not completely exclude prohibitions of use, which can be justified particularly in cases of 
+bad-faith use, such as cybersquatting.  The provision does, therefore, not interfere with national 
+anti-cyberquatting laws which provide for prohibitions of use in such cases of use in bad faith. 
+ 
+15.02 Paragraph (2).  This provision generally exempts users from “global injunctions” if they do 
+not act in bad faith as described in Article 4, and if they either hold a right in that sign themselves, 
+or are otherwise permitted to use the sign on the Internet in the way they use it.  It should be 
+noted that the concept of “permitted use” in Article 15 is wider than the one in Article 9.  In 
+Article 9, “permitted use” is limited to the fair use of generic or descriptive terms, and to use 
+which is supported by a non-commercial right such as a personal name (see Note 9.06 above).  
+For the purpose of applying Article 15, however, no such limitation exists.  Under this provision, 
+there are many additional reasons why users might be permitted to use a sign in a particular way 
+even if they do not own a right in it as defined in Article 1(ii);  the user might, for example, be 
+permitted to use the sign simply because no other person owns a right in it.  If his use is merely 
+permitted, the user could not rely on Articles 9 to 12 in order to avoid liability for the infringement 
+of rights protected under the laws of other countries.  The effect of paragraph (2) is that, in cases 
+of permitted good-faith use, a competent authority can only apply limitations of use, such as 
+those described in Article 14. 
+ 
+ 
+ 
+[Annex III follows] 
+ 
+SCT/24/4 
+ANNEX III 
+ 
+E 
+WO/GA/39/10 
+ORIGINAL:  ENGLISH 
+DATE:  JULY 20, 2010 
+WIPO General Assembly 
+Thirty-Ninth (20th Extraordinary) Session 
+Geneva, September 20 to 29, 2010 
+Internet Domain Names 
+prepared by the Secretariat 
+1. The Internet Domain Name System (DNS) raises a number of challenges for the 
+protection of intellectual property, which, due to the global nature of the Internet, call for 
+an international approach.  WIPO has addressed these challenges since 1998 by 
+developing specific solutions, most notably in the First1 and Second2 WIPO Internet 
+Domain Name Processes.  In particular, the WIPO Arbitration and Mediation Center 
+(WIPO Center) provides trademark owners with an efficient international mechanism to 
+deal with the bad-faith registration and use of domain names corresponding to their 
+trademark rights. 
+ 
+2. This document provides an update on the domain name-related activities of WIPO, as 
+previously reported in WO/GA/38/123.  It covers the WIPO Center’s administration of 
+domain name disputes under different policies and various related aspects of the DNS, 
+as well as selected policy developments, in particular the introduction of new generic 
+                                                     
+1  The Management of Internet Names and Addresses:  Intellectual Property Issues – Final Report of the First WIPO 
+Internet Domain Name Process, WIPO publication No. 439, also available at 
+http://www.wipo.int/amc/en/processes/process1/report. 
+2  The Recognition of Rights and the Use of Names in the Internet Domain Name System – Report of the Second 
+WIPO Internet Domain Name Process, WIPO Publication No. 843, also available at 
+http://www.wipo.int/amc/en/processes/process2/report. 
+3  http://www.wipo.int/edocs/mdocs/govbody/en/wo_ga_38/wo_ga_38_12.pdf. 
+SCT/24/4 
+Annex III, page 2 
+ 
+top-level domains (gTLDs), internationalized domain names (IDNs), and the status of the 
+recommendations made by the Member States of WIPO in the context of the Second 
+WIPO Internet Domain Name Process.   
+ 
+I. DOMAIN NAME CASE ADMINISTRATION 
+ 
+A.  Uniform Domain Name Dispute Resolution Policy 
+ 
+3. The WIPO Center administers dispute resolution procedures principally under the 
+Uniform Domain Name Dispute Resolution Policy (UDRP).  The UDRP was adopted by 
+the Internet Corporation for Assigned Names and Numbers (ICANN) on the basis of 
+recommendations made by WIPO in the First WIPO Internet Domain Name Process.  The 
+UDRP is limited to clear cases of bad-faith, abusive registration and use of domain 
+names.  It does not prevent either party from submitting a dispute to a competent court of 
+justice.  However, the UDRP has proven highly popular among trademark owners, and 
+very few cases that were decided under the UDRP were also brought before a national 
+court of justice4. 
+ 
+4. Since December 1999, the WIPO Center has administered more than 17,500 UDRP and 
+UDRP-based cases.  Demand for WIPO’s domain name dispute resolution services 
+continued in 2009 with trademark holders filing 2,107 complaints.  While this caseload 
+represents a 9.5% decrease over 2008, it covers the highest number of individual domain 
+names in a given year (4,688) since the UDRP was launched ten years ago.  Following 
+the introduction by WIPO of its paperless UDRP procedure in December 2009, the first 
+five months of 2010 have seen an increase of some 20% in cases filed compared to the 
+same period in 2009.  
+ 
+5. A diverse mixture of individuals and enterprises, foundations and institutions used the 
+WIPO Center’s dispute resolution procedures in 2009.  The top five sectors for 
+complainant business activity were Biotechnology and Pharmaceuticals, Banking and 
+Finance, Internet and IT, Retail, and Food, Beverage and Restaurants.  Pharmaceutical 
+manufacturers remained the top filers due to numerous permutations of protected names 
+registered for web sites offering or linking to online sales of medications and drugs.  
+WIPO UDRP proceedings have so far involved parties from 155 countries.  Reflecting the 
+truly global scope of this dispute mechanism, in 2009 alone, named parties to WIPO 
+cases represented over 110 countries.  WIPO UDRP proceedings have so far been 
+conducted in 18 different languages, namely (in alphabetical order), Chinese, Danish, 
+Dutch, English, French, German, Hebrew, Italian, Japanese, Korean, Norwegian, Polish, 
+Portuguese, Romanian, Russian, Spanish, Swedish, Turkish in function of the language 
+of the applicable registration agreement of the domain name at issue.   
+ 
+6. Since the year 2000 all panel decisions are posted on the WIPO Center’s website.  
+To facilitate access to these decisions according to subject matter the WIPO Center also 
+offers an online searchable Legal Index5.  This Index has become a highly-frequented 
+professional resource, allowing panelists, parties, academics or any interested person to 
+familiarize themselves with WIPO case precedent, and is one of the Organization’s most 
+                                                     
+4 See Selected UDRP-related Court Cases at http://www.wipo.int/amc/en/domains/challenged. 
+5 The WIPO Legal Index is available at the Center’s web site at  
+http://www.wipo.int/cgi-bin/domains/search/legalindex. 
+ 
+SCT/24/4 
+Annex III, page 3 
+ 
+visited web pages.  The Index is updated periodically to include new search categories 
+that primarily reflect developments in the Domain Name System itself6.  In addition to its 
+Legal Index, the WIPO Center also offers an overview of broad decision trends on 
+important case issues, via the WIPO Overview of WIPO Panel Views on Selected UDRP 
+Questions which distills thousands of UDRP cases handled by the WIPO Center.  
+The Overview is a globally used instrument to help maintain the consistency of WIPO 
+UDRP jurisprudence.7 
+ 
+7. The WIPO Center also maintains on its web pages an extended statistics search facility 
+in relation to WIPO domain name dispute resolution, intended to assist WIPO case 
+parties and neutrals, trademark attorneys, domain name policy makers, the media and 
+academics.  Available statistics cover many categories, such as “areas of complainant 
+activity”, “named respondents”, “domain name script” and “25 most cited decisions in 
+complaint8”. 
+ 
+8. In addition, the WIPO Center regularly organizes Domain Name Dispute Resolution 
+Workshops for interested parties9 and meetings of its Domain Name Panelists.  
+The year 2009 marked the tenth anniversary of the introduction of the UDRP and in 
+recognition of this milestone the WIPO Center turned its annual Panelists Meeting into an 
+open Conference, “10 Years UDRP – What’s Next?”.  This Conference drew lessons from 
+the UDRP experience of the WIPO Center, panelists, parties, and other stakeholders, 
+with a view to informing similar or other processes in the future of the DNS and in the 
+broader context of intellectual property, and exemplifies the WIPO Center’s commitment 
+to monitoring and guiding developments in the DNS10. 
+ 
+B. Country Code Top-Level Domains 
+ 
+9. While the mandatory application of the UDRP is limited to domain names registered in 
+gTLDs, such as .biz, .com, .info, .net, and .org, the WIPO Center also assists many 
+ccTLD registries in their establishment of registration conditions and dispute resolution 
+procedures that conform with international standards of intellectual property protection.  
+These procedures are mostly modeled after the UDRP, but may take account of the 
+particular circumstances and needs of individual ccTLDs.  Following further additions 
+during the past 12 months, the WIPO Center provides domain name dispute resolution 
+services to 62 ccTLD registries11.  In line with a global increase in the share of ccTLD 
+registrations in recent years, the collective percentage of disputed ccTLD domain names 
+in WIPO cases has been increasing, from less than 1% in the year 2000, to 7% in 2007, 
+and 14% in 2009.  The growth in demand for dispute resolution services among the 
+ccTLD registries reflects the expansion of the Internet across regions. 
+ 
+                                                     
+6  Most recently added Index categories include:  Timing of Rights;  Pay-per-click and other landing pages;  Prior 
+knowledge/Notice of Mark;  Willful blindness;  Constructive notice;  Knew of should have known;  Registrant 
+search obligation;  and, Consent to transfer. 
+7 The Overview is available at the Center’s web site at http://www.wipo.int/amc/en/domains/search/overview. 
+8  The portal page of this facility is located at http://www.wipo.int/amc/en/domains/statistics.  
+9 See the list of events organized by the Center at http://www.wipo.int/amc/en/events. 
+10  Program and presentations for this Conference are located at 
+http://www.wipo.int/amc/en/events/workshops/2009/10yrs-udrp/index.html. 
+11 The full list of ccTLDs which have retained the Center as domain name dispute resolution provider is available at 
+http://www.wipo.int/amc/en/domains/cctld. 
+ 
+SCT/24/4 
+Annex III, page 4 
+ 
+C. WIPO “eUDRP” Implementation 
+ 
+10. Following extensive research, the WIPO Center submitted a proposal to ICANN, in 
+December 2008, to remove the requirement to submit and distribute paper copies of 
+pleadings relating to the UDRP process, primarily through the use of email12.  This 
+forward-looking proposal emanated from awareness of environmental challenges and the 
+recognition that Internet-based communication has become ubiquitous.  Following ICANN 
+acceptance in October 2009, the WIPO Center became the first UDRP provider to offer 
+this electronic filing option from December 14, 2009, when amended WIPO practice took 
+effect.  WIPO’s eUDRP procedure benefits all stakeholders by eliminating the use of vast 
+quantities of paper and the associated production and shipping costs, as well as 
+improving the timeliness of UDRP proceedings without prejudicing either complainants or 
+respondents. 
+ 
+D. UDRP Policy Development 
+ 
+11. Significant developments in the DNS pose continuing challenges for intellectual property 
+rights owners, in particular trademark owners, in policing and enforcing their rights.  Such 
+developments include the growth in the number of professional domain name dealers and 
+the volume of their activity, and the use of computer software to automatically register 
+expired domain names and their “parking” on pay-per-click portal sites.  Domain names 
+used to be primarily identifiers for businesses and other Internet users, but are 
+increasingly taking on aspects of commodities for speculative gain.  Whereas traditionally 
+domain name abuse involved the registration of domain names by individuals seeking to 
+sell the “squatted” names, nowadays a growing number of “domainers” are deriving 
+income from the large-scale automated registration of domain names corresponding to 
+third-party identifiers. 
+ 
+12. As the leading provider of case administration services under the UDRP, WIPO must 
+monitor these developments with a view to continually adjusting its practices.  One such 
+area of attention is the widespread use of privacy and proxy registration, which according 
+to some ICANN estimates involves 25% of domain name registrations.  In combination 
+with the reliability of “Whois” registrant contact data, this poses significant challenges for 
+filing parties, providers, and panels in ascertaining respondent identity in UDRP 
+proceedings.  A broader UDRP-related development which may present new concerns 
+for trademark owners is described in paragraph 31 herein. 
+ 
+II. POLICY DEVELOPMENTS IN THE DOMAIN NAME SYSTEM 
+ 
+13. Two policy developments in relation to ICANN will in particular present not only 
+opportunities but also serious legal and practical challenges for intellectual property rights 
+owners and users, namely the introduction of further new gTLDs and of IDNs at the top 
+level. 
+ 
+                                                     
+12  Full details of WIPO’s eUDRP implementation are available at http://www.wipo.int/amc/en/domains/rules/eudrp/. 
+http://www.wipo.int/export/sites/www/amc/en/docs/icann301208.pdf. 
+ 
+SCT/24/4 
+Annex III, page 5 
+ 
+A. New Generic Top-Level Domains 
+ 
+14. In September 2007, ICANN’s policy formulating body, the Generic Names Supporting 
+Organization (GNSO), issued a set of recommendations (GNSO New gTLD Report)13 to 
+ICANN to implement a process that allows for the introduction of further new gTLDs, 
+potentially broadly expanding their currently limited number14.  These GNSO 
+recommendations were approved by ICANN’s Board in June 2008 (ICANN’s New gTLD 
+Program)15.  Subsequently, ICANN published Versions I, II, III, and, on May 31, 2010, IV 
+of a Draft Applicant Guidebook for New gTLDs, containing information in relation to the 
+application process and conditions for New gTLDs16.  Informal communications as of 
+June 2010 suggest that a final Applicant Guidebook is expected to be published by 
+early 2011, in which case applications for new gTLDs could be received still in 2011 with 
+registrations of individual domain names following17. 
+ 
+15. The GNSO New gTLD Report includes the following recommendation, of particular 
+relevance for trademark owners: 
+ 
+“Recommendation 3:  Strings must not infringe the existing legal rights of others that are 
+recognized or enforceable under generally accepted and internationally recognized 
+principles of law. 
+ 
+Examples of these legal rights that are internationally recognized include, but are not 
+limited to, rights defined in the Paris Convention for the Protection of [Industrial] Property 
+(in particular trademark rights), the Universal Declaration of Human Rights (UDHR) and 
+the International Covenant on Civil and Political Rights (ICCPR) (in particular freedom of 
+expression rights).”  
+ 
+16. On its part, ICANN’s Governmental Advisory Committee (GAC) issued in 2007 the “GAC 
+Principles regarding New gTLDs,” which state inter alia:   
+ 
+“2.3  The process for introducing new gTLDs must make proper allowance for prior third 
+party rights, in particular trademark rights as well as rights in the names and acronyms of 
+inter-governmental organizations (IGOs)18”. 
+ 
+17. In its Press Release of March 23, 2010, providing an annual overview of the activities of 
+the WIPO Center, WIPO noted that ICANN’s New gTLD Program, forecasting an 
+unprecedented expansion of the DNS, is a source of concern for brand owners and 
+consumers19.  In this connection, the Final Report of the First WIPO Internet Domain 
+Name Process had recommended, inter alia, that new gTLDs be introduced in a 
+controlled manner.  Intellectual property stakeholders generally fear that in the absence 
+                                                     
+13  ICANN GNSO Final Report on the Introduction of New Generic Top Level Domains, at 
+http://gnso.icann.org/issues/new-gtlds/pdp-dec05-fr-parta-08aug07.htm. 
+14  There are currently 21 gTLDs, such as .com, .biz, and .net. 
+15  http://www.icann.org/en/announcements/announcement-4-26jun08-en.htm. 
+16  http://www.icann.org/en/topics/new-gtlds/draft-rfp-redline-28may10-en.pdf.  
+(Previous drafts were published respectively on October 24, 2008:  http://www.icann.org/en/topics/new-gtlds/draft-
+rfp-24oct08-en.pdf;  February 18, 2009:  http://www.icann.org/en/topics/new-gtlds/draft-rfp-clean-18feb09-en.pdf;  
+and, October 4, 2009:  http://www.icann.org/en/topics/new-gtlds/draft-rfp-redline-04oct09-en.pdf.) 
+17  See generally, http://www.icann.org/en/topics/new-gtld-program.htm. 
+18  http://gac.icann.org/web/home/gTLD_principles.pdf. 
+19  http://www.wipo.int/pressroom/en/articles/2010/article_0007.html. 
+ 
+SCT/24/4 
+Annex III, page 6 
+ 
+of adequate safeguards, ICANN’s planned expansion will give rise to trademark abuse, 
+consumer confusion, and a general undermining of public trust in the DNS, with a heavier 
+enforcement burden on trademark owners.   
+ 
+18. Based on these concerns, the WIPO Center has been working with stakeholders to 
+attempt to safeguard the observance of general principles of intellectual property 
+protection in the event that the introduction of new gTLDs will proceed as intended by 
+ICANN.  Within the framework of existing international trademark norms, the input of the 
+WIPO Center aims to help prevent disputes, and where such disputes arise, to create 
+administrative mechanisms as low-threshold alternatives to court litigation, in foreign 
+jurisdictions or otherwise. 
+ 
+(i) Pre- (TLD) Delegation Dispute Resolution Procedure 
+ 
+19. In reply to ICANN’s request for “Expressions of Interest from Potential Dispute Resolution 
+Service Providers for New gTLD Program,” of December 21, 2007, the WIPO Center 
+communicated to ICANN in a letter dated January 18, 2008 its readiness to assist ICANN 
+in devising and applying dispute resolution procedures in relation to the introduction of 
+new gTLDs to the extent these involve disputes based on intellectual property rights.  
+Since then, the WIPO Center has worked with ICANN in the confirmation of the 
+substantive criteria of the pre-delegation procedure, which are rooted in the “WIPO Joint 
+Recommendation Concerning Provisions on the Protection of Marks, and Other Industrial 
+Property Rights in Signs, on the Internet20”, adopted by the WIPO General Assembly in 
+September 2001, and the development of procedural rules for “Legal Rights Objections” 
+as integrated in ICANN’s Draft Applicant Guidebook21.  This proposal appears to have 
+met with broad support, and the WIPO Center has accepted to administer disputes under 
+these procedural rules22. 
+ 
+(ii) WIPO-Proposed Post- (TLD) Delegation Dispute Resolution Procedure  
+ 
+20. From early 2008 the WIPO Center has advocated to ICANN the usefulness of a 
+permanent administrative option, additional to the procedure described in the preceding 
+paragraph, that would allow for the filing of a complaint with respect to an approved new 
+gTLD registry operator whose actual manner of operation or use of its registry is alleged 
+to cause or materially contribute to trademark abuse.  On February 5, 2009, the WIPO 
+Center communicated to ICANN a concrete substantive proposal for a trademark-based 
+post-delegation dispute resolution procedure addressing such potential gTLD registry 
+behavior.  This proposal, which was published in a letter from the WIPO Center to ICANN 
+dated March 13, 200923, is intended to act as a form of standardized assistance to 
+ICANN’s own compliance oversight responsibilities, provide an administrative alternative 
+to court litigation, encourage responsible conduct by relevant actors including through the 
+provision of safe harbors for good-faith registry operators, and enhance the security and  
+ 
+ 
+                                                     
+20  http://www.wipo.int/about-ip/en/development_iplaw/pub845-toc.htm. 
+21  See section 3.2 of the Draft Applicant Guidebook Versions I, II, III, and IV. 
+22  See WIPO Rules for New gTLD Dispute Resolution and Schedule of Fees and Costs, respectively at 
+http://www.icann.org/en/topics/new-gtlds/draft-wipo-rules-28may10-en.pdf, and 
+http://www.icann.org/en/topics/new-gtlds/draft-wipo-fees-28may10-en.pdf.   
+23  http://www.wipo.int/amc/en/docs/icann130309.pdf. 
+ 
+SCT/24/4 
+Annex III, page 7 
+ 
+ stability of the DNS.  The WIPO Center’s suggestion recognizes the opportunity which 
+ICANN and its registration stakeholders have, at this stage of planning, to incorporate 
+such a mechanism within their contractual framework, in a positive, pro-active manner 
+designed to minimize burdens associated with anticipated levels of infringement.   
+ 
+21. Given the perceived convergence of registry, registrar, and registrant roles within the 
+DNS, the WIPO Center has further recommended, taking account of its UDRP-based 
+experiences, that ICANN consider extending the concept behind this post-delegation 
+proposal for registries also to registrar conduct24. 
+ 
+(iii) Complementary Rights Protection Mechanisms 
+ 
+22. While the UDRP will remain an important curative tool for particular disputes involving the 
+considered transfer of a disputed domain name to the trademark owner, the WIPO Center 
+has also advocated the additional availability of other appropriate second-level Rights 
+Protection Mechanisms (RPMs) to safeguard legitimate trademark interests in the DNS.  
+Here again, the WIPO Center noted the need to strike a reasonable balance between the 
+protection of trademark rights recognized by law, the practical interests of good-faith 
+registration authorities to encounter minimal operational burdens, and the legitimate 
+expectations of bona fide domain name registrants.  With these interests in mind, the 
+WIPO Center on April 13, 2009, communicated to ICANN a discussion draft of an 
+Expedited (Domain Name) Suspension Mechanism (ESM)25.  This RPM would succinctly 
+address domain name disputes at the second (and lower) level, expanding the present 
+UDRP option for brand owners to combat cybersquatting in a cost and time effective 
+manner.   
+ 
+(iv) ICANN Implementation Recommendation Team;  ICANN Special Trademarks 
+ Issues Review Team 
+ 
+23. In response to public comments made on ICANN’s Draft Applicant Guidebook, ICANN 
+defined trademark protection as an “overarching” issue requiring further consideration by 
+relevant parties, and ICANN’s Board resolved in March 6, 2009 to request the ICANN 
+Intellectual Property Constituency to convene an “Implementation Recommendation 
+Team” (IRT) to develop and propose solutions to the issue of trademark protection vis-à-
+vis new gTLDs26. 
+ 
+24. The IRT published its Draft27 and Final28 Reports respectively on April 24, and 
+May 29, 2009;  these Reports distill and adapt a range of differing concepts and 
+proposals including the WIPO Center’s above-mentioned Post-Delegation and ESM 
+proposals.  The IRT recommendations included the creation of a central “Clearinghouse” 
+to collect and validate certain intellectual property rights and other data, and a “Globally 
+Protected Marks List” to reflect conditions deemed appropriate in the context of the DNS.  
+It appears that ICANN may be dropping this IRT concept of a formal “Globally Protected 
+marks List” from consideration. 
+                                                     
+24  http://www.wipo.int/amc/en/docs/icann260310rap.pdf;  see also letters referenced at footnotes 29 and 30. 
+25  http://www.wipo.int/amc/en/docs/icann030409.pdf. 
+26  http://www.icann.org/en/minutes/resolutions-06mar09.htm#08. 
+27  http://www.icann.org/en/topics/new-gtlds/irt-draft-report-trademark-protection-24apr09-en.pdf. 
+28  http://www.icann.org/en/topics/new-gtlds/irt-final-report-trademark-protection-29may09-en.pdf. 
+ 
+SCT/24/4 
+Annex III, page 8 
+ 
+25. The WIPO Center provided targeted comments on the Draft and Final IRT Reports 
+through in-person discussions and letters to ICANN and the IRT of May 1029, and 
+June 18, 200930.  These letters identified a number of aspects in which adaptations of the 
+WIPO Center’s Post-Delegation and ESM proposals may have the effect of limiting their 
+intended effectiveness.  While the IRT’s Final Report accounts for several of the key 
+trademark protection-based points raised by the WIPO Center, areas of concern 
+remained outstanding in particular as to independent and effective system design, both in 
+operational and in substantive terms. 
+ 
+26. Subsequent to the Final IRT Report, ICANN through its staff further adapted the concept 
+of a Post-Delegation mechanism in Version III of its Draft Applicant Guidebook.  In a letter 
+of November 20, 200931, the WIPO Center reiterated that, in such form, the Post-
+Delegation Dispute Resolution Procedure (PDDRP) would be of more limited effect, as it 
+would not encompass registry conduct in relation to widespread trademark abuse 
+undertaken by domain name registrants.  The WIPO Center further noted that an 
+alternative, broader scope of the PDDRP would involve the identification of realistic safe 
+harbors for registries, who on that basis could responsibly partner with intellectual 
+property stakeholders toward DNS credibility and integrity. 
+ 
+27. Following the work of the IRT, ICANN’s Board requested that the GNSO provide input on 
+whether it would approve the proposed ICANN staff Clearinghouse and Uniform Rapid 
+Suspension procedure (URS) (the URS adopts the concept but not the design of the 
+WIPO Center’s ESM proposal), or alternatively whether the GNSO would propose other 
+equivalent or indeed more effective and implementable RPMs.  The GNSO created a 
+Special Trademarks Issues Review Team (STI) which in its Report32 analyzed and 
+proposed further adaptations to the URS and the Clearinghouse.  In a letter of 
+January 26, 201033, the WIPO Center submitted comments on the STI Report noting that 
+unworkable compromise detracts from the fundamental goal of minimizing rights abuse in 
+the DNS without excessive need for court intervention.  In specific reply to an ICANN STI 
+proposal which would impact trademark owners in jurisdictions that do not conduct 
+“substantive review” of applications, the WIPO Center further cautioned that ICANN 
+policies should respect trademark law. 
+ 
+28. On February 15, 2010, ICANN released another round of documents proposing further 
+adaptations to RPMs including the PDDRP, URS, and Clearinghouse. 
+ 
+29. Noting ICANN’s proposed limitation of the PDDRP to registry operator “affirmative 
+conduct”, in a letter of March 26, 201034, the WIPO Center proposed that ICANN 
+registration authorities give consideration to a mechanism which would address willful 
+blindness on their part – without involving a sweeping policing duty for such authorities, 
+who should benefit from realistic safe harbors.   
+                                                     
+29  http://www.wipo.int/amc/en/docs/icann100509.pdf. 
+30  http://www.wipo.int/amc/en/docs/icann180609.pdf. 
+31  http://www.wipo.int/amc/en/docs/icann201109.pdf. 
+32  http://gnso.icann.org/issues/sti/sti-wt-recommendations-11dec09-en.pdf. 
+33  http://www.wipo.int/amc/en/docs/icann260110.pdf. 
+34  http://www.wipo.int/amc/en/docs/icann260310pddrp.pdf. 
+ 
+SCT/24/4 
+Annex III, page 9 
+ 
+30. Concerning the URS and Clearinghouse, in separate letters of March 30, 201035, the 
+WIPO Center submitted comments emphasizing the need for the URS to complement 
+and interoperate with the existing UDRP so as to offer a time and cost effective additional 
+enforcement option.  The WIPO Center further cautioned that RPMs should respect 
+national and international trademark registration and protection norms, in particular with 
+respect to the Clearinghouse. 
+ 
+(v) Calls for review of the WIPO-initiated UDRP 
+ 
+31. Separately, on February 12, 2010, an ICANN-convened Registration Abuse Policies 
+Working Group (RAP WG) produced an Initial Report36 which recommended inter alia, 
+the initiation of an ICANN Policy Development Process to assess the current state of the 
+UDRP.  In a letter of March 26, 201037, the WIPO Center submitted comments noting that 
+the apparently envisaged ICANN committee process risks compromising or destabilizing 
+the (WIPO-initiated) UDRP, which is universally acknowledged to be an internationally 
+effective enforcement tool in the interests of all parties.  Any such ICANN process could 
+increase enforcement burdens on trademark owners and compliance exposure for 
+registration authorities.  Also, against the backdrop of the ICANN New gTLD Program, 
+the WIPO Center suggested that rather than seeking to amend the time-tested UDRP, as 
+actively maintained primarily by the WIPO Center38, attention logically should focus on 
+the complementary qualities of new mechanisms under consideration.   
+ 
+(vi) Continuing DNS Policy Discussions 
+ 
+32. Following participation at a meeting of the ICANN Intellectual Property Constituency (IPC) 
+and at the ICANN Meetings in Nairobi, Kenya, and Brussels, Belgium, the WIPO Center 
+continues to advocate, as outlined above, balanced RPMs vis-à-vis ICANN’s plans to 
+allow for a potentially limitless expansion of the DNS.  The WIPO Center has been 
+contributing to discussions aimed at addressing trademark abuse in the DNS, and 
+monitors ICANN’s development of decisions that remain outstanding in its New gTLD 
+Program.  These issues are also subject to monitoring by the ICANN GAC. 
+ 
+B. Internationalized Domain Names (IDNs) 
+ 
+33. As noted, another significant policy development in the DNS currently being addressed 
+by ICANN is the introduction of IDNs (non-Latin script) at the top level.  IDN gTLDs are 
+being discussed in part in connection with the ICANN New gTLD Program where 
+potential new gTLD applications are expected to be made for IDNs.   
+                                                     
+35  http://www.wipo.int/amc/en/docs/icann300310urs.pdf, and http://www.wipo.int/amc/en/docs/icann300310tmch.pdf. 
+36  http://www.icann.org/en/announcements/announcement-12feb10-en.htm. 
+37  http://www.wipo.int/amc/en/docs/icann260310rap.pdf. 
+38  Examples of such stewardship include the provision on a non-profit basis for the benefit of parties globally:  Legal 
+Index of WIPO UDRP Panel Decisions;  WIPO Overview of WIPO Panel Views on Selected UDRP Questions;  
+WIPO Advanced Workshop on Domain Name Dispute Resolution;  WIPO Conference:  10 Years UDRP – What's 
+Next?;  and, WIPO Panelists Meetings. 
+ 
+SCT/24/4 
+Annex III, page 10 
+ 
+34. Separately, ICANN’s Final Implementation Plan for IDN ccTLD Fast Track Process was 
+published on November 16, 200939.  This has already allowed for the introduction of 
+several IDN ccTLDs, associated with the two-letter codes in the ISO 3166-1 standard40.  
+As of June 2010, ICANN has received a total of 21 requests for IDN ccTLD(s) 
+representing 11 languages.  Approved requests continue to be delegated into the DNS 
+root zone. 
+ 
+C. Domain Names and Other Identifiers 
+ 
+35. In addition to and in connection with the above developments, there are further 
+developments taking place at ICANN in relation to the protection of non-trademark 
+identifiers. 
+ 
+36. It is recalled that the First WIPO Internet Domain Name Process addressed the 
+relationship between domain names and trademarks.  The Second WIPO Internet 
+Domain Name Process concerned the relationship between domain names and five other 
+types of identifiers that had not been addressed, namely, International Nonproprietary 
+Names for pharmaceutical substances (INNs), the names and acronyms of international 
+intergovernmental organizations (IGOs), personal names, geographical identifiers, 
+including country names, and trade names. 
+ 
+37. At its meeting from September 23 to October 1, 2002, the WIPO General Assembly 
+recommended amending the UDRP in order to provide protection for country names and 
+for the names and acronyms of IGOs41.  The WIPO Secretariat transmitted these 
+recommendations (WIPO-2 Recommendations) to ICANN in February 200342. 
+ 
+38. Following further WIPO communications, in a letter dated March 13, 200643, the then 
+President and CEO of ICANN informed the Secretariat that it had not been possible to 
+achieve a consensus among the various constituencies of ICANN.  Since, by virtue of its 
+Bylaws, ICANN was dependent on its “bottom-up consensus-seeking procedures” to 
+introduce new policies or modify existing ones, the then President and CEO of ICANN 
+expressed doubts as to whether a re-launch of such a consensus-seeking procedure would 
+result in a basis for moving forward with the WIPO-2 Recommendations as a whole.  The 
+letter however indicated that progress might be possible with regard to the protection of 
+names and acronyms of IGOs for which an established basis exists in international law. 
+ 
+39. In view of the statement made by the President and CEO of ICANN, it then appeared 
+unlikely that ICANN would move to implement the part of the WIPO-2 Recommendations 
+that concerns the protection of country names at second level of existing gTLDs.  As to 
+the WIPO-2 Recommendations on IGO names and acronyms, upon the request of the 
+GNSO Council, ICANN staff produced on June 15, 2007, an Issues Report on Dispute 
+Handling for IGO Names and Abbreviations44, recommending as follows:  
+                                                     
+39  http://www.icann.org/en/topics/idn/fast-track/idn-cctld-implementation-plan-16nov09-en.pdf. 
+40  http://www.iso.org/iso/english_country_names_and_code_elements. 
+41  http://www.wipo.int/edocs/mdocs/govbody/en/wo_ga_28/wo_ga_28_3.pdf;  see also documents SCT/9/8, 
+paragraphs 6 to 11; and, SCT/9/9, paragraph 149. 
+42  http://www.wipo.int/amc/en/docs/wipo.doc. 
+43  A similar letter was sent to the then Chairman of the GAC, Mr. Sharil Tarmizi.  It is posted on ICANN’s web site at:  
+http://www.icann.org/correspondence/twomey-to-tarmizi-13mar06.pdf. 
+44  GNSO Issues Report on Dispute Handling for IGO Names and Abbreviations is posted on ICANN’s web site at, 
+http://gnso.icann.org/issues/igo-names/issues-report-igo-drp-15jun07.pdf. 
+ 
+SCT/24/4 
+Annex III, page 11 
+ 
+ 
+“Staff does not recommend a PDP [Policy Development Process] on the protection of 
+IGO names and abbreviations at this time.  If staff was recommending a PDP, it would be 
+within the scope of the GNSO; 
+ 
+“Staff recommends that new gTLD agreements may provide for protection of IGO names 
+and abbreviations as a contractual condition for new gTLDs; 
+ 
+“Staff recommends that a separate Dispute Resolution Procedure [DRP] be developed for 
+IGO names and abbreviations as domain names at the second or third level in new 
+gTLDs and that a framework be developed for handling objections or challenges related 
+to IGO names and abbreviations in the upcoming application round for new gTLDs.  Staff 
+believes that this action will be more efficient than launching a PDP at this time; 
+ 
+“Once the DRP has been developed, staff recommends that the GNSO Council consider 
+launching a PDP to investigate its application to existing gTLDs; 
+ 
+“In the alternative, the GNSO Council may consider forming a Working Group or 
+assistance group to collaborate on a DRP for IGO names and abbreviations and conduct 
+a PDP for application of the DRP to existing gTLDs; 
+ 
+“The GNSO Council may also consider extending the work of the Protections of Rights of 
+Others (PRO) Working Group to develop a DRP for IGO names and abbreviations.” 
+ 
+40. On June 27, 2007, the GNSO Council requested ICANN staff to provide a report on a 
+draft IGO Domain Name Dispute Resolution Procedure, primarily foreseen for new 
+gTLDs.  Such Report was produced by ICANN Staff on September 28, 200745, but to 
+date has not been adopted by the GNSO Council.    
+ 
+41. While the WIPO-2 Recommendations were made in the context of the DNS at that time, 
+i.e., prior to ICANN’s plans for a broad expansion of the DNS, protection of geographical 
+names and names and acronyms of IGOs is being reconsidered under ICANN’s New gTLD 
+Program, without ICANN as yet having articulated a formal position in the Draft Applicant 
+Guidebook.  
+ 
+42. As to geographical terms, ICANN’s GAC, in particular, has expressed concerns about their 
+protection in the new gTLDs.  In 2007 it issued the “GAC Principles regarding 
+New gTLDs46”, which states inter alia:   
+ 
+“2.2  ICANN should avoid [in the introduction of new gTLDs] country, territory or place 
+names, and country, territory or regional language or people descriptions, unless in 
+agreement with the relevant governments or public authorities.  
+ 
+[…] 
+ 
+                                                     
+45  http://gnso.icann.org/drafts/gnso-igo-drp-report-v2-28sep07.pdf. 
+46  http://gac.icann.org/web/home/gTLD_principles.pdf. 
+ 
+SCT/24/4 
+Annex III, page 12 
+ 
+2.7  Applicant registries for new gTLDs should pledge to: 
+ 
+(a)  Adopt, before the new gTLD is introduced, appropriate procedures for blocking, at no 
+cost and upon demand of governments, public authorities or IGOs, names with national 
+or geographic significance at the second level of any new gTLD. 
+ 
+(b)  Ensure procedures to allow governments, public authorities or IGOs to challenge 
+abuses of names with national or geographic significance at the second level of any 
+new gTLD.”  
+ 
+43. The GAC submitted, upon the ICANN Board’s request, letters dated 
+April 24, May 26, and August 18, 2009 to ICANN recommending inter alia, specific 
+measures to protect geographic names in new gTLDs, including reserving names.  
+Version IV of ICANN’s Draft Applicant Guidebook would require an applicant for a 
+geographic name-based gTLD string to submit a statement of support for or 
+non-objection from the relevant governments or public authorities.  The GAC in its Nairobi 
+Communiqué47 has called for a mechanism to address derivation from conditions of 
+approval, and also inclusion of commonly used abbreviations or regions not listed in 
+ISO 3166-2.  These GAC recommendations will be subject to further ICANN GNSO 
+discussion and ICANN Board approval. 
+ 
+44. The Secretariat will continue to monitor these developments and provide input where 
+possible. 
+ 
+The WIPO General Assembly is invited to 
+take note of the contents of this document. 
+ 
+ 
+ 
+[End of Annexes and of document] 
+                                                     
+47  http://nbo.icann.org/meetings/nairobi2010/presentation-gac-soac-reports-12mar10-en.pdf. 
+ 

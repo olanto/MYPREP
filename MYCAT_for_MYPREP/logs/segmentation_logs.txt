@@ -1,0 +1,45 @@
+running OS:Windows 7
+properties from: C:/MYCAT/config/SEG_fix.xml
+-- listing properties --
+LIST_OF_SEG_LANG=EN FR ES AR PT RU
+FOLDER_CONVERTED=C:/MYCAT/corpus/source
+FOLDER_SEGMENTED=C:/MYCAT/corpus/txt
+FILE_ORGANISATION=BY_FOLDER
+FOLDER_ORIGINAL=C:/MYCAT/corpus/docs
+SEG_BY_FOLDER
+____________________________________________________________________
+C:/MYCAT/corpus/source/EN -> C:/MYCAT/corpus/txt/EN/
+Total already Segmented:0
+Total new Segmented:0
+Total Segmented:0
+SEG_BY_FOLDER
+____________________________________________________________________
+C:/MYCAT/corpus/source/FR -> C:/MYCAT/corpus/txt/FR/
+Total already Segmented:0
+Total new Segmented:0
+Total Segmented:0
+SEG_BY_FOLDER
+____________________________________________________________________
+C:/MYCAT/corpus/source/ES -> C:/MYCAT/corpus/txt/ES/
+Total already Segmented:0
+Total new Segmented:0
+Total Segmented:0
+SEG_BY_FOLDER
+____________________________________________________________________
+C:/MYCAT/corpus/source/AR -> C:/MYCAT/corpus/txt/AR/
+Total already Segmented:0
+Total new Segmented:0
+Total Segmented:0
+SEG_BY_FOLDER
+____________________________________________________________________
+C:/MYCAT/corpus/source/PT -> C:/MYCAT/corpus/txt/PT/
+default=EN
+Total already Segmented:0
+Total new Segmented:0
+Total Segmented:0
+SEG_BY_FOLDER
+____________________________________________________________________
+C:/MYCAT/corpus/source/RU -> C:/MYCAT/corpus/txt/RU/
+Total already Segmented:0
+Total new Segmented:0
+Total Segmented:0
