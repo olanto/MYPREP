@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">United Nations A/RES/63/116</src>
+  <tgt xml:lang="ZH">联  合  国  A/RES/63/116</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">General Assembly Distr.: General 26 February 2009</src>
+  <tgt xml:lang="ZH">大  会  Distr.: General 26 February 2009</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Sixty-third session</src>
+  <tgt xml:lang="ZH">第 六 十 三 届 会 议 </tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Agenda item 64</src>
+  <tgt xml:lang="ZH">议 程 项 目  64</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Resolution adopted by the General Assembly</src>
+  <tgt xml:lang="ZH">大 会 决 议 </tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">[without reference to a Main Committee (A/63/L.54)]</src>
+  <tgt xml:lang="ZH">[未 经 发 交 主 要 委 员 会 而 通 过 (A/63/L.54)]</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">63/116. Sixtieth anniversary of the Universal Declaration</src>
+  <tgt xml:lang="ZH">63/116. 《 世 界 人 权 宣 言 》 六 十 周 年 </tgt>
+</seg>
+<seg  match="54-39" id="8">
+  <src xml:lang="EN">of Human Rights<br/>The General Assembly<br/>Adopts the following Declaration:<br/>Declaration on the sixtieth anniversary of the Universal<br/>Declaration of Human Rights<br/>We, the States Members of the United Nations, celebrate today the sixtieth<br/>anniversary of the adoption of the Universal Declaration of Human Rights, which is<br/>a common standard of achievement for all peoples and all nations in the field of<br/>human rights.<br/>Since its adoption, it has inspired the world and empowered women<br/>and men around the globe to assert their inherent dignity and rights without<br/>discrimination on any grounds.<br/>It is and will remain a source of progressive<br/>development of all human rights.<br/>The Universal Declaration of Human Rights calls upon us to recognize and<br/>respect the dignity, freedom and equality of all human beings.<br/>We applaud the<br/>efforts undertaken by States to promote and protect all human rights for all.<br/>We<br/>must strive to enhance international cooperation and the dialogue among peoples<br/>and nations on the basis of mutual respect and understanding towards this goal.<br/>In an ever-changing world, the Universal Declaration of Human Rights<br/>remains a relevant ethical compass that guides us in addressing the challenges we<br/>face today. The living, driving force of all human rights unites us in our common<br/>goal to eradicate the manifold ills that plague our world.<br/>We remain committed to<br/>development and to the internationally agreed development goals, and are convinced<br/>that their fulfillment will be instrumental to the enjoyment of human rights.<br/>We deplore that human rights and fundamental freedoms are not yet fully and<br/>universally respected in all parts of the world.<br/>In no country or territory can it be<br/>claimed that all human rights have been fully realized at all times for all.<br/>Human<br/>beings continue to suffer from the neglect and violation of their human rights and<br/>fundamental freedoms.<br/>We laud the courage and commitment of all women and men<br/>around the world who have devoted their lives to promoting and protecting human<br/>rights.<br/>08-47775<br/>A/RES/63/116<br/>We all have the duty to step up our efforts to promote and protect all human<br/>rights and to prevent, stop and redress all human rights violations.<br/>We must give<br/>everybody a chance to learn about and better understand all human rights and<br/>fundamental freedoms.<br/>We must continue to strengthen the human rights pillar of<br/>the United Nations, as we undertook with the creation of the Human Rights Council.<br/>Today, we, the States Members of the United Nations, reiterate that we will not<br/>shy away from the magnitude of this challenge.<br/>We reaffirm our commitment<br/>towards the full realization of all human rights for all, which are universal,<br/>indivisible, interrelated, interdependent and mutually reinforcing.<br/>65th plenary meeting<br/>10 December 2008<br/></src>
+  <tgt xml:lang="ZH">大 会 <br/>通 过 以 下 宣 言 ： <br/>关 于 《 世 界 人 权 宣 言 》 六 十 周 年 的 宣 言 <br/>今 天 ， 我 们 联 合 国 会 员 国 庆 祝 《 世 界 人 权 宣 言 》 通 过 六 十 周 年 。 《 <br/>人 权 宣 言 》 <br/>是 衡 量 所 有 国 家 和 人 民 在 人 权 领 域 取 得 的 成 就 的 一 个 共 同 标 准 。 《 <br/>宣 言 》 自 通 过 <br/>以 来 ， 一 直 激 励 着 整 个 世 界 ， 让 世 界 上 所 有 人 都 能 维 护 他 们 与 生 俱 来 的 尊 严 和 权 <br/>利 ， 而 不 会 因 任 何 原 因 而 受 到 歧 视 。 《 <br/>宣 言 》 现 在 是 ， 而 且 将 来 依 然 是 逐 步 确 立 <br/>各 项 人 权 的 依 据 。 <br/>《 世 界 人 权 宣 言 》 呼 吁 我 们 承 认 和 尊 重 所 有 人 的 尊 严 、 自 由 和 平 等 。 <br/>我 们 赞 <br/>扬 各 国 作 出 努 力 ， 促 进 和 保 护 每 一 个 人 的 所 有 人 权 。 <br/>我 们 必 须 在 相 互 尊 重 和 了 解 <br/>的 基 础 上 ， 努 力 加 强 国 际 合 作 ， 加 强 民 族 和 国 家 之 间 的 对 话 ， 最 终 实 现 这 一 目 标 。 <br/>在 一 个 不 断 变 化 的 世 界 中 ， 《 世 界 人 权 宣 言 》 仍 然 是 一 个 有 用 的 道 德 指 南 针 ， <br/>指 导 我 们 解 决 我 们 今 天 面 临 的 各 种 挑 战 。 <br/>各 项 人 权 推 动 我 们 团 结 起 来 ， 共 同 实 现 <br/>我 们 清 除 世 界 上 各 种 痼 疾 的 目 标 。 <br/>我 们 仍 然 决 心 推 动 发 展 ， 实 现 国 际 商 定 的 发 展 <br/>目 标 ， 并 相 信 实 现 发 展 和 各 项 发 展 目 标 对 于 享 有 人 权 至 关 重 要 。 <br/>我 们 深 感 遗 憾 的 是 ， 人 权 和 基 本 自 由 尚 未 在 世 界 的 所 有 地 方 都 充 分 得 到 普 遍 <br/>尊 重 。  世 界 上 没 有 任 何 一 个 国 家 或 地 区 可 以 说 ， 每 一 个 人 始 终 都 充 分 享 有 所 有 人 <br/>权 。  人 权 和 基 本 自 由 继 续 受 到 忽 视 和 侵 犯 。 <br/>我 们 称 赞 世 界 各 地 那 些 毕 生 都 在 促 进 <br/>和 保 护 人 权 的 人 的 勇 气 和 决 心 。 <br/>08-47774<br/>A/RES/63/116<br/>我 们 大 家 都 有 责 任 进 一 步 作 出 努 力 ， 促 进 和 保 护 各 项 人 权 ， 预 防 、 制 止 和 纠 <br/>正 所 有 侵 犯 人 权 的 行 为 。  我 们 必 须 让 每 个 人 都 有 机 会 学 习 和 更 多 了 解 各 项 人 权 和 <br/>基 本 自 由 。  就 像 我 们 在 创 建 人 权 理 事 会 时 那 样 ， 我 们 必 须 继 续 加 强 联 合 国 的 人 权 <br/>支 柱 。 <br/>今 天 ， 我 们 联 合 国 会 员 国 再 次 申 明 我 们 不 会 逃 避 这 一 重 大 挑 战 。 <br/>我 们 重 申 ， <br/>我 们 决 心 让 每 一 个 人 都 充 分 享 有 普 遍 、 不 可 分 割 、 相 互 关 联 、 相 互 依 存 和 相 辅 相 <br/>成 的 各 项 人 权 。 <br/>2008 年  12 月  10 日 <br/>第  65 次 全 体 会 议 <br/></tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">2</src>
+  <tgt xml:lang="ZH">2</tgt>
+</seg>
+</segments>
+</bitext>

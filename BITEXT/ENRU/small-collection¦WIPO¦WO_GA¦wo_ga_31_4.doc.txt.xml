@@ -1,0 +1,110 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿WIPO</src>
+  <tgt xml:lang="RU">﻿ВОИС</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">E</src>
+  <tgt xml:lang="RU">R</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">WO/GA/31/4</src>
+  <tgt xml:lang="RU">WO/GA/31/4</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">ORIGINAL: English</src>
+  <tgt xml:lang="RU">ОРИГИНАЛ: английский</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">DATE: August 20, 2004</src>
+  <tgt xml:lang="RU">ДАТА: 20 августа 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">WORLD INTELLECTUAL PROPERTY ORGANIZATION</src>
+  <tgt xml:lang="RU">ВСЕМИРНАЯ ОРГАНИЗАЦИЯ ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">GENEVA</src>
+  <tgt xml:lang="RU">ЖЕНЕВА</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">wipo general assembly</src>
+  <tgt xml:lang="RU">генеральная ассамблея воис</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Thirty-First (15th Extraordinary) Session</src>
+  <tgt xml:lang="RU">Тридцать первая (15-я внеочередная) сессия</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Geneva, September 27 to October 5, 2004</src>
+  <tgt xml:lang="RU">Женева, 27 сентября – 5 октября 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">protection of AUDiOVISuAL performances</src>
+  <tgt xml:lang="RU">охрана аудиовизуальных исполнений</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">Document prepared by the Secretariat</src>
+  <tgt xml:lang="RU">Документ подготовлен Секретариатом</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">1 A Diplomatic Conference on the Protection of Audiovisual Performances held in December 2000 was unable to reach agreement on all articles of a proposed treaty aimed at strengthening the rights of performers in their audiovisual performances.</src>
+  <tgt xml:lang="RU">1. Дипломатическая конференция по охране аудиовизуальных исполнений, проходившая в декабре 2000 г., не смогла достичь соглашения по всем статьям предлагаемого договора, направленного на укрепление прав исполнителей на их аудиовизуальные исполнения.</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">2 At its session in September 2003, the WIPO General Assembly decided that the issue of protection of audiovisual performances would remain on the Agenda of the Assembly for its session of September 2004.</src>
+  <tgt xml:lang="RU">2. На сессии, проходившей в сентябре 2003 г., Генеральная Ассамблея ВОИС решила, что вопрос об охране аудиовизуальных исполнений останется в повестке дня Ассамблеи на следующей сессии в сентябре 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">This document reports on the developments on the issue of protection of audiovisual performances that have taken place since the Assembly session of September 2003.</src>
+  <tgt xml:lang="RU">Настоящий документ содержит отчет о развитии событий в связи с вопросом об охране аудиовизуальных исполнений, которые имели место со времени проведения сессии Ассамблеи в сентябре 2003 г.</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">3 Following informal consultations with the Member States convened by the Director General under the chairmanship of the Chairman of the General Assembly, an Ad hoc Informal Meeting on the Protection of Audiovisual Performances was held at the headquarters of WIPO on November 6 and 7, 2003.</src>
+  <tgt xml:lang="RU">3. После проведения неофициальных консультаций с государствами-членами 6 и 7 ноября 2003 г. состоялась созванная Генеральным директором под председательством Председателя Генеральной Ассамблеи специальная неофициальная встреча по охране аудиовизуальных исполнений.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">The meeting was chaired by the Chairman of the WIPO General Assembly, and included an information session where four speakers were invited to talk about their personal experiences in performing, in creating, and producing audiovisual works.</src>
+  <tgt xml:lang="RU">На встрече председательствовал Председатель Генеральной Ассамблеи ВОИС, и выступили четыре докладчика, которые были приглашены для освещения своего личного опыта в области исполнения, создания и изготовления аудиовизуальных произведений.</tgt>
+</seg>
+<seg  match="2-1" id="18">
+  <src xml:lang="EN">The Secretariat provided a series of studies to facilitate discussions.<br/>These included a survey of national legislative protection of audiovisual performances, a study on rules on transfer of rights in audiovisual performances and related aspects of private international law, and two studies on audiovisual performers’ contracts and remuneration in selected countries.<br/></src>
+  <tgt xml:lang="RU">В целях содействия обсуждениям Секретариат подготовил серию исследований, которые включали анализ национального законодательства по охране аудиовизуальных исполнений, исследование правил передачи прав на аудиовизуальные исполнения и смежные аспекты частного международного права, а также два исследования, посвященных контрактам и выплате вознаграждения исполнителям аудиовизуальных исполнений в отдельных странах.<br/></tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">At the Informal Meeting, numerous delegations and representatives of intergovernmental and non-governmental organizations expressed their interest in further progress on the relevant outstanding issues.</src>
+  <tgt xml:lang="RU">В ходе неофициальной встречи многие делегации и представители межправительственных и неправительственных организаций выразили заинтересованность в продолжении работы над нерешенными вопросами.</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">4 Since the Ad hoc Informal Meeting took place, the Director General has been conducting informal consultations among Member States and key stakeholders in the private sector, in order to identify ways and means for making progress on outstanding issues.</src>
+  <tgt xml:lang="RU">4. После проведения специальной неофициальной встречи Генеральный директор провел неофициальные консультации с государствами-членами и ключевыми партнерами в частном секторе в целях выявления путей и средств достижения прогресса по нерешенным вопросам.</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">The consultations are taking place in a positive and constructive spirit.</src>
+  <tgt xml:lang="RU">Консультации проходят в позитивной и конструктивной атмосфере.</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">It is, therefore recommended that the issue remain on the agenda of the General Assembly for the coming year.</src>
+  <tgt xml:lang="RU">Поэтому рекомендуется оставить данный вопрос в повестке дня Генеральной Ассамблеи в предстоящем году.</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">5 The WIPO General Assembly is invited to:</src>
+  <tgt xml:lang="RU">5. Генеральной Ассамблее ВОИС предлагается:</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">(i) note the information contained in paragraphs 2 and 3;</src>
+  <tgt xml:lang="RU">(i) принять к сведению информацию, содержащуюся в пунктах 2 и 3;</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">(ii) decide that the issue of Protection of Audiovisual Performances will remain on the Agenda of the WIPO General Assembly in its session in September 2005.</src>
+  <tgt xml:lang="RU">(ii) принять решение о сохранении вопроса об охране аудиовизуальных исполнений в повестке дня Генеральной Ассамблеи ВОИС на ее следующей сессии в сентябре 2005 г.</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">[End of document]</src>
+  <tgt xml:lang="RU">[Конец документа]</tgt>
+</seg>
+</segments>
+</bitext>

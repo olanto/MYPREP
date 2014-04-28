@@ -1,0 +1,106 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿WIPO</src>
+  <tgt xml:lang="AR">﻿WO/GA/31/4</tgt>
+</seg>
+<seg  match="2-0" id="2">
+  <src xml:lang="EN">E<br/>WO/GA/31/4<br/></src>
+  <tgt xml:lang="AR"></tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">ORIGINAL: English</src>
+  <tgt xml:lang="AR">الأصل : بالإنكليزية</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">DATE: August 20, 2004</src>
+  <tgt xml:lang="AR">التاريخ : 20/8/2004</tgt>
+</seg>
+<seg  match="2-4" id="5">
+  <src xml:lang="EN">WORLD INTELLECTUAL PROPERTY ORGANIZATION<br/>GENEVA<br/></src>
+  <tgt xml:lang="AR">ويبـو<br/>A<br/>المنظمــة العالميــة للملكيــة الفكريــة<br/>جنيـف<br/></tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">wipo general assembly</src>
+  <tgt xml:lang="AR">الجمعية العامة للويبو</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">Thirty-First (15th Extraordinary) Session</src>
+  <tgt xml:lang="AR">الدورة الحادية والثلاثون (الدورة الاستثنائية الخامسة عشرة)</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">Geneva, September 27 to October 5, 2004</src>
+  <tgt xml:lang="AR">جنيف، من 27 سبتمبر/أيلول إلى 5 أكتوبر/تشرين الأول 2004</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">protection of AUDiOVISuAL performances</src>
+  <tgt xml:lang="AR">حماية الأداء السمعي البصري</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Document prepared by the Secretariat</src>
+  <tgt xml:lang="AR">وثيقة من إعداد الأمانة</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">1 A Diplomatic Conference on the Protection of Audiovisual Performances held in December 2000 was unable to reach agreement on all articles of a proposed treaty aimed at strengthening the rights of performers in their audiovisual performances.</src>
+  <tgt xml:lang="AR">1 - لم يتمكن المؤتمر الدبلوماسي المعني بحماية الأداء السمعي البصري الذي انعقد في ديسمبر/كانون الأول 2000 من التوصل إلى اتفاق بشأن جميع المواد المقترحة في معاهدة ترمي إلى تعزيز حقوق فناني الأداء في أدائهم السمعي البصري.</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">2 At its session in September 2003, the WIPO General Assembly decided that the issue of protection of audiovisual performances would remain on the Agenda of the Assembly for its session of September 2004.</src>
+  <tgt xml:lang="AR">2 - وقررت الجمعية العامة للويبو، في دورتها المنعقدة في سبتمبر/أيلول 2003، أن تحتفظ بمسألة حماية الأداء السمعي البصري في جدول أعمالها لدورتها المنعقدة في سبتمبر/أيلول 2004.</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">This document reports on the developments on the issue of protection of audiovisual performances that have taken place since the Assembly session of September 2003.</src>
+  <tgt xml:lang="AR">وتحتوي هذه الوثيقة على المعلومات المتعلقة بالتطورات الجارية بشأن مسألة حماية الأداء السمعي البصري منذ انعقاد دورة الجمعية في سبتمبر/أيلول 2003.</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">3 Following informal consultations with the Member States convened by the Director General under the chairmanship of the Chairman of the General Assembly, an Ad hoc Informal Meeting on the Protection of Audiovisual Performances was held at the headquarters of WIPO on November 6 and 7, 2003.</src>
+  <tgt xml:lang="AR">3 - وعقب مشاورات غير رسمية جرت مع الدول الأعضاء بدعوة من المدير العام وبرئاسة رئيس الجمعية العامة، انعقد اجتماع خاص غير رسمي بشأن حماية الأداء السمعي البصري في مقر الويبو يومي 6 و7 نوفمبر/تشرين الثاني 2003.</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">The meeting was chaired by the Chairman of the WIPO General Assembly, and included an information session where four speakers were invited to talk about their personal experiences in performing, in creating, and producing audiovisual works.</src>
+  <tgt xml:lang="AR">وترأس الاجتماع رئيس الجمعية العامة للويبو وشمل جلسة إعلامية دعي فيها أربعة متحدثين لشرح تجربتهم الشخصية في أداء المصنفات السمعية البصرية وابتكارها وإنتاجها.</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">The Secretariat provided a series of studies to facilitate discussions.</src>
+  <tgt xml:lang="AR">وأتاحت الأمانة مجموعة من الدراسات تيسيراً للنقاش.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">These included a survey of national legislative protection of audiovisual performances, a study on rules on transfer of rights in audiovisual performances and related aspects of private international law, and two studies on audiovisual performers’ contracts and remuneration in selected countries.</src>
+  <tgt xml:lang="AR">وشملت الدراسات دراسة استقصائية للقوانين الوطنية التي تحمي الأداء السمعي البصري ودراسة بشأن قواعد نقل الحقوق في الأداء السمعي البصري وما يقترن بها من جوانب القانون الدولي الخاص ودراستين بشأن عقود فناني الأداء السمعي البصري ومكافآتهم في بعض البلدان.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">At the Informal Meeting, numerous delegations and representatives of intergovernmental and non-governmental organizations expressed their interest in further progress on the relevant outstanding issues.</src>
+  <tgt xml:lang="AR">وأثناء الاجتماع غير الرسمي، أعرب العديد من الوفود وممثلي المنظمات الحكومية الدولية والمنظمات غير الحكومية عن اهتمامهم بمواصلة التقدم المحرز بشأن القضايا العالقة.</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">4 Since the Ad hoc Informal Meeting took place, the Director General has been conducting informal consultations among Member States and key stakeholders in the private sector, in order to identify ways and means for making progress on outstanding issues.</src>
+  <tgt xml:lang="AR">4 - ومنذ انعقاد الاجتماع الخاص غير الرسمي، ما زال المدير العام يشرف على مشاورات غير رسمية بين الدول الأعضاء وأصحاب المصالح الرئيسيين في القطاع الخاص بهدف إيجاد السبل والوسائل الكفيلة بإحراز تقدم في القضايا العالقة.</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">The consultations are taking place in a positive and constructive spirit.</src>
+  <tgt xml:lang="AR">وتجري المشاورات بروح إيجابية وبناءة.</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">It is, therefore recommended that the issue remain on the agenda of the General Assembly for the coming year.</src>
+  <tgt xml:lang="AR">ولذا، فمن الموصى به الاحتفاظ بالمسألة في جدول أعمال الجمعية العامة للسنة المقبلة.</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">5 The WIPO General Assembly is invited to:</src>
+  <tgt xml:lang="AR">5 - إن الجمعية العامة للويبو مدعوة إلى ما يأتي:</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">(i) note the information contained in paragraphs 2 and 3;</src>
+  <tgt xml:lang="AR">"1" أن تحيط علماً بالمعلومات الواردة في الفقرتين 2 و3؛</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">(ii) decide that the issue of Protection of Audiovisual Performances will remain on the Agenda of the WIPO General Assembly in its session in September 2005.</src>
+  <tgt xml:lang="AR">"2" وأن تقرر الاحتفاظ بمسألة حماية الأداء السمعي البصري في جدول أعمال دورة الجمعية العامة للويبو المنعقدة في سبتمبر/أيلول 2005.</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">[End of document]</src>
+  <tgt xml:lang="AR">[نهاية الوثيقة]</tgt>
+</seg>
+</segments>
+</bitext>

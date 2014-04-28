@@ -1,0 +1,182 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">United Nations A/RES/63/116</src>
+  <tgt xml:lang="ES">Naciones Unidas A/RES/63/116</tgt>
+</seg>
+<seg  match="1-2" id="2">
+  <src xml:lang="EN">General Assembly Distr.: General 26 February 2009<br/></src>
+  <tgt xml:lang="ES">Distr. general<br/>Asamblea General 26 de febrero de 2009<br/></tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Sixty-third session</src>
+  <tgt xml:lang="ES">Sexagésimo tercer período de sesiones</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Agenda item 64</src>
+  <tgt xml:lang="ES">Tema 64 del programa</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Resolution adopted by the General Assembly</src>
+  <tgt xml:lang="ES">Resolución aprobada por la Asamblea General</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">[without reference to a Main Committee (A/63/L.54)]</src>
+  <tgt xml:lang="ES">[sin remisión previa a una Comisión Principal (A/63/L.54)]</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">63/116. Sixtieth anniversary of the Universal Declaration</src>
+  <tgt xml:lang="ES">63/116. Sexagésimo aniversario de la Declaración Universal</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">of Human Rights</src>
+  <tgt xml:lang="ES">de Derechos Humanos</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">The General Assembly</src>
+  <tgt xml:lang="ES">La Asamblea General</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Adopts the following Declaration:</src>
+  <tgt xml:lang="ES">Aprueba la declaración siguiente:</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Declaration on the sixtieth anniversary of the Universal</src>
+  <tgt xml:lang="ES">Declaración sobre el sexagésimo aniversario de la Declaración</tgt>
+</seg>
+<seg  match="4-5" id="12">
+  <src xml:lang="EN">Declaration of Human Rights<br/>We, the States Members of the United Nations, celebrate today the sixtieth<br/>anniversary of the adoption of the Universal Declaration of Human Rights, which is<br/>a common standard of achievement for all peoples and all nations in the field of<br/></src>
+  <tgt xml:lang="ES">Universal de Derechos Humanos<br/>Nosotros, los Estados Miembros de las Naciones Unidas, celebramos hoy el<br/>sexagésimo aniversario de la aprobación de la Declaración Universal de Derechos<br/>Humanos, que constituye el ideal común en la esfera de los derechos humanos por el<br/>que todos los pueblos y naciones deben esforzarse.<br/></tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">human rights.</src>
+  <tgt xml:lang="ES">Desde que se aprobó, ha</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">Since its adoption, it has inspired the world and empowered women</src>
+  <tgt xml:lang="ES">inspirado al mundo y ha empoderado a mujeres y hombres de todo el planeta para</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">and men around the globe to assert their inherent dignity and rights without</src>
+  <tgt xml:lang="ES">hacer valer su dignidad inherente y sus derechos sin discriminación por motivo</tgt>
+</seg>
+<seg  match="2-1" id="16">
+  <src xml:lang="EN">discrimination on any grounds.<br/>It is and will remain a source of progressive<br/></src>
+  <tgt xml:lang="ES">alguno. Es y seguirá siendo una fuente de desarrollo progresivo de todos los<br/></tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">development of all human rights.</src>
+  <tgt xml:lang="ES">derechos humanos.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">The Universal Declaration of Human Rights calls upon us to recognize and</src>
+  <tgt xml:lang="ES">La Declaración Universal de Derechos Humanos nos exhorta a reconocer y</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">respect the dignity, freedom and equality of all human beings.</src>
+  <tgt xml:lang="ES">respetar la dignidad, la libertad y la igualdad de todas las personas.</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">We applaud the</src>
+  <tgt xml:lang="ES">Aplaudimos la</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">efforts undertaken by States to promote and protect all human rights for all.</src>
+  <tgt xml:lang="ES">labor realizada por los Estados para promover y proteger cada uno de los derechos</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">We</src>
+  <tgt xml:lang="ES">humanos de todos.</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">must strive to enhance international cooperation and the dialogue among peoples</src>
+  <tgt xml:lang="ES">Debemos esforzarnos por aumentar la cooperación internacional</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">and nations on the basis of mutual respect and understanding towards this goal.</src>
+  <tgt xml:lang="ES">y el diálogo entre los pueblos y naciones, sobre la base del respeto y la comprensión</tgt>
+</seg>
+<seg  match="1-2" id="25">
+  <src xml:lang="EN">In an ever-changing world, the Universal Declaration of Human Rights<br/></src>
+  <tgt xml:lang="ES">mutuos, para alcanzar esa meta.<br/>En un mundo en constante transformación, la Declaración Universal de<br/></tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">remains a relevant ethical compass that guides us in addressing the challenges we</src>
+  <tgt xml:lang="ES">Derechos Humanos sigue siendo una guía ética pertinente que nos orienta para</tgt>
+</seg>
+<seg  match="5-7" id="27">
+  <src xml:lang="EN">face today. The living, driving force of all human rights unites us in our common<br/>goal to eradicate the manifold ills that plague our world.<br/>We remain committed to<br/>development and to the internationally agreed development goals, and are convinced<br/>that their fulfillment will be instrumental to the enjoyment of human rights.<br/></src>
+  <tgt xml:lang="ES">vencer las dificultades a que nos enfrentamos hoy.<br/>La fuerza viva y motriz de todos<br/>los seres humanos nos une en la meta común de erradicar los múltiples males que<br/>azotan nuestro mundo.<br/>Mantenemos el compromiso con el desarrollo y con los<br/>objetivos de desarrollo convenidos internacionalmente y estamos convencidos de<br/>que su cumplimiento será decisivo para el disfrute de los derechos humanos.<br/></tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">We deplore that human rights and fundamental freedoms are not yet fully and</src>
+  <tgt xml:lang="ES">Deploramos que los derechos humanos y las libertades fundamentales todavía</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">universally respected in all parts of the world.</src>
+  <tgt xml:lang="ES">no se respeten de forma completa y universal en todas las partes del mundo.</tgt>
+</seg>
+<seg  match="6-9" id="30">
+  <src xml:lang="EN">In no country or territory can it be<br/>claimed that all human rights have been fully realized at all times for all.<br/>Human<br/>beings continue to suffer from the neglect and violation of their human rights and<br/>fundamental freedoms.<br/>We laud the courage and commitment of all women and men<br/></src>
+  <tgt xml:lang="ES">En<br/>ningún país o territorio puede afirmarse que cada uno de los derechos humanos es<br/>plenamente efectivo en todo momento y para todos.<br/>Los seres humanos siguen<br/>sufriendo como resultado de la desatención y vulneración de sus derechos humanos<br/>08-47778<br/>A/RES/63/116<br/>y libertades fundamentales.<br/>Alabamos la valentía y el empeño de todas las mujeres y<br/></tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">around the world who have devoted their lives to promoting and protecting human</src>
+  <tgt xml:lang="ES">hombres del mundo entero que han dedicado su vida a promover y proteger los</tgt>
+</seg>
+<seg  match="1-1" id="32">
+  <src xml:lang="EN">rights.</src>
+  <tgt xml:lang="ES">derechos humanos.</tgt>
+</seg>
+<seg  match="6-5" id="33">
+  <src xml:lang="EN">08-47775<br/>A/RES/63/116<br/>We all have the duty to step up our efforts to promote and protect all human<br/>rights and to prevent, stop and redress all human rights violations.<br/>We must give<br/>everybody a chance to learn about and better understand all human rights and<br/></src>
+  <tgt xml:lang="ES">Todos tenemos el deber de intensificar nuestro esfuerzo para promover y<br/>proteger cada uno de los derechos humanos y para prevenir, detener y reparar todas<br/>las vulneraciones de esos derechos.<br/>Debemos dar a todas las personas una<br/>oportunidad de conocer y comprender mejor cada uno de los derechos humanos y<br/></tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">fundamental freedoms.</src>
+  <tgt xml:lang="ES">libertades fundamentales.</tgt>
+</seg>
+<seg  match="1-1" id="35">
+  <src xml:lang="EN">We must continue to strengthen the human rights pillar of</src>
+  <tgt xml:lang="ES">Debemos seguir fortaleciendo el pilar de las Naciones</tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">the United Nations, as we undertook with the creation of the Human Rights Council.</src>
+  <tgt xml:lang="ES">Unidas relativo a los derechos humanos, como hicimos al crear el Consejo de</tgt>
+</seg>
+<seg  match="1-2" id="37">
+  <src xml:lang="EN">Today, we, the States Members of the United Nations, reiterate that we will not<br/></src>
+  <tgt xml:lang="ES">Derechos Humanos.<br/>Nosotros, los Estados Miembros de las Naciones Unidas, reiteramos hoy que la<br/></tgt>
+</seg>
+<seg  match="1-1" id="38">
+  <src xml:lang="EN">shy away from the magnitude of this challenge.</src>
+  <tgt xml:lang="ES">magnitud de este desafío no nos amilanará.</tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">We reaffirm our commitment</src>
+  <tgt xml:lang="ES">Reafirmamos nuestro compromiso con</tgt>
+</seg>
+<seg  match="1-1" id="40">
+  <src xml:lang="EN">towards the full realization of all human rights for all, which are universal,</src>
+  <tgt xml:lang="ES">la realización plena de cada uno de los derechos humanos de todos, que son</tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">indivisible, interrelated, interdependent and mutually reinforcing.</src>
+  <tgt xml:lang="ES">universales e indivisibles, están relacionados entre sí, son interdependientes y se</tgt>
+</seg>
+<seg  match="1-2" id="42">
+  <src xml:lang="EN">65th plenary meeting<br/></src>
+  <tgt xml:lang="ES">refuerzan mutuamente.<br/>65ª sesión plenaria<br/></tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">10 December 2008</src>
+  <tgt xml:lang="ES">10 de diciembre de 2008</tgt>
+</seg>
+<seg  match="1-1" id="44">
+  <src xml:lang="EN">2</src>
+  <tgt xml:lang="ES">2</tgt>
+</seg>
+</segments>
+</bitext>

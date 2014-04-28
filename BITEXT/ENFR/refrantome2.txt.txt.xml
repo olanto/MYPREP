@@ -1,0 +1,66 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">bla bla bla</src>
+  <tgt xml:lang="FR">bla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">t1 t2 t3 t4 bli bla bla</src>
+  <tgt xml:lang="FR">t1 t2 t3 t4 bli bla bla</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">bla bla bla</src>
+  <tgt xml:lang="FR">bla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">bla bla bla</src>
+  <tgt xml:lang="FR">bla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">bli bla blabla bla bla</src>
+  <tgt xml:lang="FR">bli bla blabla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">bla bla bla</src>
+  <tgt xml:lang="FR">bla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">bli bla blabla bla bla</src>
+  <tgt xml:lang="FR">bli bla blabla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">bla bla bla</src>
+  <tgt xml:lang="FR">bla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">bli bla blabla bla bla</src>
+  <tgt xml:lang="FR">bli bla blabla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">bla bla bla</src>
+  <tgt xml:lang="FR">bla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">bli bla blabla bla bla</src>
+  <tgt xml:lang="FR">bli bla blabla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">bla bla bla</src>
+  <tgt xml:lang="FR">bla bla bla</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">bli bla bla</src>
+  <tgt xml:lang="FR">bli bla bla</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">t2 t3 t4 t5 t6</src>
+  <tgt xml:lang="FR">t2 t3 t4 t5 t6</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">bla bla bla</src>
+  <tgt xml:lang="FR">bla bla bla</tgt>
+</seg>
+</segments>
+</bitext>

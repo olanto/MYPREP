@@ -1,0 +1,406 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿The Universal Declaration of Human Rights</src>
+  <tgt xml:lang="RU">﻿Всеобщая Декларация Прав Человека</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">PREAMBLE</src>
+  <tgt xml:lang="RU">ПРЕАМБУЛА</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,</src>
+  <tgt xml:lang="RU">Принимая во внимание, что признание достоинства, присущего всем членам человеческой семьи, и равных и неотъемлемых прав их является основой свободы, справедливости и всеобщего мира; и</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,</src>
+  <tgt xml:lang="RU">принимая во внимание, что пренебрежение и презрение к правам человека привели к варварским актам, которые возмущают совесть человечества, и что создание такого мира, в котором люди будут иметь свободу слова и убеждений и будут свободны от страха и нужды, провозглашено как высокое стремление людей; и</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law,</src>
+  <tgt xml:lang="RU">принимая во внимание, что необходимо, чтобы права человека охранялись властью закона в целях обеспечения того, чтобы человек не был вынужден прибегать, в качестве последнего средства, к восстанию против тирании и угнетения; и</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">Whereas it is essential to promote the development of friendly relations between nations,</src>
+  <tgt xml:lang="RU">принимая во внимание, что необходимо содействовать развитию дружественных отношений между народами; и</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom,</src>
+  <tgt xml:lang="RU">принимая во внимание, что народы Объединенных Наций подтвердили в Уставе свою веру в основные права человека, в достоинство и ценность человеческой личности и в равноправие мужчин и женщин и решили содействовать социальному прогрессу и улучшению условий жизни при большей свободе; и</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">Whereas Member States have pledged themselves to achieve, in co-operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms,</src>
+  <tgt xml:lang="RU">принимая во внимание, что государства-члены обязались содействовать, в сотрудничестве с Организацией Объединенных Наций, всеобщему уважению и соблюдению прав человека и основных свобод; и</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge,</src>
+  <tgt xml:lang="RU">принимая во внимание, что всеобщее понимание характера этих прав и свобод имеет огромное значение для полного выполнения этого обязательства,</tgt>
+</seg>
+<seg  match="1-2" id="10">
+  <src xml:lang="EN">Now, Therefore THE GENERAL ASSEMBLY proclaims THIS UNIVERSAL DECLARATION OF HUMAN RIGHTS as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.<br/></src>
+  <tgt xml:lang="RU">Генеральная Ассамблея,<br/>провозглашает настоящую Всеобщую декларацию прав человека в качестве задачи, к выполнению которой должны стремиться все народы и государства с тем, чтобы каждый человек и каждый орган общества, постоянно имея в виду настоящую Декларацию, стремились путем просвещения и образования содействовать уважению этих прав и свобод и обеспечению, путем национальных и международных прогрессивных мероприятий, всеобщего и эффективного признания и осуществления их как среди народов государств-членов Организации, так и среди народов территорий, находящихся под их юрисдикцией.<br/></tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Article 1.</src>
+  <tgt xml:lang="RU">Статья 1.</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">All human beings are born free and equal in dignity and rights.</src>
+  <tgt xml:lang="RU">Все люди рождаются свободными и равными в своем достоинстве и правах.</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.</src>
+  <tgt xml:lang="RU">Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">Article 2.</src>
+  <tgt xml:lang="RU">Статья 2.</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.</src>
+  <tgt xml:lang="RU">Каждый человек должен обладать всеми правами и всеми свободами, провозглашенными настоящей Декларацией, без какого бы то ни было различия, как-то в отношении расы, цвета кожи, пола, языка, религии, политических или иных убеждений, национального или социального происхождения, имущественного, сословного или иного положения.</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.</src>
+  <tgt xml:lang="RU">Кроме того, не должно проводиться никакого различия на основе политического, правового или международного статуса страны или территории, к которой человек принадлежит, независимо от того, является ли эта территория независимой, подопечной, несамоуправляющейся или как-либо иначе ограниченной в своем суверенитете.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">Article 3.</src>
+  <tgt xml:lang="RU">Статья 3.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">Everyone has the right to life, liberty and security of person.</src>
+  <tgt xml:lang="RU">Каждый человек имеет право на жизнь, на свободу и на личную неприкосновенность.</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">Article 4.</src>
+  <tgt xml:lang="RU">Статья 4.</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.</src>
+  <tgt xml:lang="RU">Никто не должен содержаться в рабстве или в подневольном состоянии; рабство и работорговля запрещаются во всех их видах.</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">Article 5.</src>
+  <tgt xml:lang="RU">Статья 5.</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.</src>
+  <tgt xml:lang="RU">Никто не должен подвергаться пыткам или жестоким, бесчеловечным или унижающим его достоинство обращению и наказанию.</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">Article 6.</src>
+  <tgt xml:lang="RU">Статья 6.</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">Everyone has the right to recognition everywhere as a person before the law.</src>
+  <tgt xml:lang="RU">Каждый человек, где бы он ни находился, имеет право на признание его правосубъектности.</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">Article 7.</src>
+  <tgt xml:lang="RU">Статья 7.</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">All are equal before the law and are entitled without any discrimination to equal protection of the law.</src>
+  <tgt xml:lang="RU">Все люди равны перед законом и имеют право, без всякого различия, на равную защиту закона.</tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.</src>
+  <tgt xml:lang="RU">Все люди имеют право на равную защиту от какой бы то ни было дискриминации, нарушающей настоящую Декларацию, и от какого бы то ни было подстрекательства к такой дискриминации.</tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">Article 8.</src>
+  <tgt xml:lang="RU">Статья 8.</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.</src>
+  <tgt xml:lang="RU">Каждый человек имеет право на эффективное восстановление в правах компетентными национальными судами в случаях нарушения его основных прав, предоставленных ему конституцией или законом.</tgt>
+</seg>
+<seg  match="1-1" id="30">
+  <src xml:lang="EN">Article 9.</src>
+  <tgt xml:lang="RU">Статья 9.</tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">No one shall be subjected to arbitrary arrest, detention or exile.</src>
+  <tgt xml:lang="RU">Никто не может быть подвергнут произвольному аресту, задержанию или изгнанию.</tgt>
+</seg>
+<seg  match="1-1" id="32">
+  <src xml:lang="EN">Article 10.</src>
+  <tgt xml:lang="RU">Статья 10.</tgt>
+</seg>
+<seg  match="1-1" id="33">
+  <src xml:lang="EN">Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.</src>
+  <tgt xml:lang="RU">Каждый человек, для определения его прав и обязанностей и для установления обоснованности предъявленного ему уголовного обвинения, имеет право, на основе полного равенства, на то, чтобы его дело было рассмотрено гласно и с соблюдением всех требований справедливости независимым и беспристрастным судом.</tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">Article 11.</src>
+  <tgt xml:lang="RU">Статья 11.</tgt>
+</seg>
+<seg  match="1-1" id="35">
+  <src xml:lang="EN">(1) Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.</src>
+  <tgt xml:lang="RU">1. Каждый человек, обвиняемый в совершении преступления, имеет право считаться невиновным до тех пор, пока его виновность не будет установлена законным порядком путем гласного судебного разбирательства, при котором ему обеспечиваются все возможности для защиты.</tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">(2) No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed.</src>
+  <tgt xml:lang="RU">2. Никто не может быть осужден за преступление на основании совершения какого-либо деяния или за бездействие, которые во время их совершения не составляли преступления по национальным законам или по международному праву.</tgt>
+</seg>
+<seg  match="1-1" id="37">
+  <src xml:lang="EN">Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.</src>
+  <tgt xml:lang="RU">Не может также налагаться наказание более тяжкое, нежели то, которое могло быть применено в то время, когда преступление было совершено.</tgt>
+</seg>
+<seg  match="1-1" id="38">
+  <src xml:lang="EN">Article 12.</src>
+  <tgt xml:lang="RU">Статья 12.</tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation.</src>
+  <tgt xml:lang="RU">Никто не может подвергаться произвольному вмешательству в его личную и семейную жизнь, произвольным посягательствам на неприкосновенность его жилища, тайну его корреспонденции или на его честь и репутацию.</tgt>
+</seg>
+<seg  match="1-1" id="40">
+  <src xml:lang="EN">Everyone has the right to the protection of the law against such interference or attacks.</src>
+  <tgt xml:lang="RU">Каждый человек имеет право на защиту закона от такого вмешательства или таких посягательств.</tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">Article 13.</src>
+  <tgt xml:lang="RU">Статья 13.</tgt>
+</seg>
+<seg  match="1-1" id="42">
+  <src xml:lang="EN">(1) Everyone has the right to freedom of movement and residence within the borders of each state.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право свободно передвигаться и выбирать себе местожительство в пределах каждого государства.</tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">(2) Everyone has the right to leave any country, including his own, and to return to his country.</src>
+  <tgt xml:lang="RU">2. Каждый человек имеет право покидать любую страну, включая свою собственную, и возвращаться в свою страну.</tgt>
+</seg>
+<seg  match="1-1" id="44">
+  <src xml:lang="EN">Article 14.</src>
+  <tgt xml:lang="RU">Статья 14.</tgt>
+</seg>
+<seg  match="1-1" id="45">
+  <src xml:lang="EN">(1) Everyone has the right to seek and to enjoy in other countries asylum from persecution.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право искать убежища от преследования в других странах и пользоваться этим убежищем.</tgt>
+</seg>
+<seg  match="1-1" id="46">
+  <src xml:lang="EN">(2) This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.</src>
+  <tgt xml:lang="RU">2. Это право не может быть использовано в случае преследования, в действительности основанного на совершении неполитического преступления, или деяния, противоречащего целям и принципам Организации Объединенных Наций.</tgt>
+</seg>
+<seg  match="1-1" id="47">
+  <src xml:lang="EN">Article 15.</src>
+  <tgt xml:lang="RU">Статья 15.</tgt>
+</seg>
+<seg  match="1-1" id="48">
+  <src xml:lang="EN">(1) Everyone has the right to a nationality.</src>
+  <tgt xml:lang="RU">•1. Каждый человек имеет право на гражданство.</tgt>
+</seg>
+<seg  match="1-1" id="49">
+  <src xml:lang="EN">(2) No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.</src>
+  <tgt xml:lang="RU">•2. Никто не может быть произвольно лишен своего гражданства или права изменить свое гражданство.</tgt>
+</seg>
+<seg  match="1-1" id="50">
+  <src xml:lang="EN">Article 16.</src>
+  <tgt xml:lang="RU">Статья 16.</tgt>
+</seg>
+<seg  match="1-1" id="51">
+  <src xml:lang="EN">(1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family.</src>
+  <tgt xml:lang="RU">1. Мужчины и женщины, достигшие совершеннолетия, имеют право без всяких ограничений по признаку расы, национальности или религии вступать в брак и основывать свою семью.</tgt>
+</seg>
+<seg  match="1-1" id="52">
+  <src xml:lang="EN">They are entitled to equal rights as to marriage, during marriage and at its dissolution.</src>
+  <tgt xml:lang="RU">Они пользуются одинаковыми правами в отношении вступления в брак, во время состояния в браке и во время его расторжения.</tgt>
+</seg>
+<seg  match="1-1" id="53">
+  <src xml:lang="EN">(2) Marriage shall be entered into only with the free and full consent of the intending spouses.</src>
+  <tgt xml:lang="RU">2. Брак может быть заключен только при свободном и полном согласии обеих вступающих в брак сторон.</tgt>
+</seg>
+<seg  match="1-1" id="54">
+  <src xml:lang="EN">(3) The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.</src>
+  <tgt xml:lang="RU">3. Семья является естественной и основной ячейкой общества и имеет право на защиту со стороны общества и государства.</tgt>
+</seg>
+<seg  match="1-1" id="55">
+  <src xml:lang="EN">Article 17.</src>
+  <tgt xml:lang="RU">Статья 17.</tgt>
+</seg>
+<seg  match="1-1" id="56">
+  <src xml:lang="EN">(1) Everyone has the right to own property alone as well as in association with others.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право владеть имуществом как единолично, так и совместно с другими.</tgt>
+</seg>
+<seg  match="1-1" id="57">
+  <src xml:lang="EN">(2) No one shall be arbitrarily deprived of his property.</src>
+  <tgt xml:lang="RU">2. Никто не должен быть произвольно лишен своего имущества.</tgt>
+</seg>
+<seg  match="1-1" id="58">
+  <src xml:lang="EN">Article 18.</src>
+  <tgt xml:lang="RU">Статья 18.</tgt>
+</seg>
+<seg  match="1-1" id="59">
+  <src xml:lang="EN">Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.</src>
+  <tgt xml:lang="RU">Каждый человек имеет право на свободу мысли, совести и религии; это право включает свободу менять свою религию или убеждения и свободу исповедовать свою религию или убеждения как единолично, так и сообща с другими, публичным или частным порядком в учении, богослужении и выполнении религиозных и ритуальных обрядов.</tgt>
+</seg>
+<seg  match="1-1" id="60">
+  <src xml:lang="EN">Article 19.</src>
+  <tgt xml:lang="RU">Статья 19.</tgt>
+</seg>
+<seg  match="1-1" id="61">
+  <src xml:lang="EN">Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.</src>
+  <tgt xml:lang="RU">Каждый человек имеет право на свободу убеждений и на свободное выражение их; это право включает свободу беспрепятственно придерживаться своих убеждений и свободу искать, получать и распространять информацию и идеи любыми средствами и независимо от государственных границ.</tgt>
+</seg>
+<seg  match="1-1" id="62">
+  <src xml:lang="EN">Article 20.</src>
+  <tgt xml:lang="RU">Статья 20.</tgt>
+</seg>
+<seg  match="1-1" id="63">
+  <src xml:lang="EN">(1) Everyone has the right to freedom of peaceful assembly and association.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право на свободу мирных собраний и ассоциаций.</tgt>
+</seg>
+<seg  match="1-1" id="64">
+  <src xml:lang="EN">(2) No one may be compelled to belong to an association.</src>
+  <tgt xml:lang="RU">2. Никто не может быть принуждаем вступать в какую-либо ассоциацию.</tgt>
+</seg>
+<seg  match="1-1" id="65">
+  <src xml:lang="EN">Article 21.</src>
+  <tgt xml:lang="RU">Статья 21.</tgt>
+</seg>
+<seg  match="1-1" id="66">
+  <src xml:lang="EN">(1) Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право принимать участие в управлении своей страной непосредственно или через посредство свободно избранных представителей.</tgt>
+</seg>
+<seg  match="1-1" id="67">
+  <src xml:lang="EN">(2) Everyone has the right of equal access to public service in his country.</src>
+  <tgt xml:lang="RU">2. Каждый человек имеет право равного доступа к государственной службе в своей стране.</tgt>
+</seg>
+<seg  match="1-1" id="68">
+  <src xml:lang="EN">(3) The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.</src>
+  <tgt xml:lang="RU">3. Воля народа должна быть основой власти правительства; эта воля должна находить себе выражение в периодических и нефальсифицированных выборах, которые должны проводиться при всеобщем и равном избирательном праве путем тайного голосования или же посредством других равнозначных форм, обеспечивающих свободу голосования.</tgt>
+</seg>
+<seg  match="1-1" id="69">
+  <src xml:lang="EN">Article 22.</src>
+  <tgt xml:lang="RU">Статья 22.</tgt>
+</seg>
+<seg  match="1-1" id="70">
+  <src xml:lang="EN">Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality.</src>
+  <tgt xml:lang="RU">Каждый человек, как член общества, имеет право на социальное обеспечение и на осуществление необходимых для поддержания его достоинства и для свободного развития его личности прав в экономической, социальной и культурной областях через посредство национальных усилий и международного сотрудничества и в соответствии со структурой и ресурсами каждого государства.</tgt>
+</seg>
+<seg  match="1-1" id="71">
+  <src xml:lang="EN">Article 23.</src>
+  <tgt xml:lang="RU">Статья 23.</tgt>
+</seg>
+<seg  match="1-1" id="72">
+  <src xml:lang="EN">(1) Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право на труд, на свободный выбор работы, на справедливые и благоприятные условия труда и на защиту от безработицы.</tgt>
+</seg>
+<seg  match="1-1" id="73">
+  <src xml:lang="EN">(2) Everyone, without any discrimination, has the right to equal pay for equal work.</src>
+  <tgt xml:lang="RU">2. Каждый человек, без какой-либо дискриминации, имеет право на равную оплату за равный труд.</tgt>
+</seg>
+<seg  match="1-1" id="74">
+  <src xml:lang="EN">(3) Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.</src>
+  <tgt xml:lang="RU">3. Каждый работающий имеет право на справедливое и удовлетворительное вознаграждение, обеспечивающее достойное человека существование для него самого и его семьи, и дополняемое, при необходимости, другими средствами социального обеспечения.</tgt>
+</seg>
+<seg  match="1-1" id="75">
+  <src xml:lang="EN">(4) Everyone has the right to form and to join trade unions for the protection of his interests.</src>
+  <tgt xml:lang="RU">4. Каждый человек имеет право создавать профессиональные союзы и входить в профессиональные союзы для защиты своих интересов.</tgt>
+</seg>
+<seg  match="1-1" id="76">
+  <src xml:lang="EN">Article 24.</src>
+  <tgt xml:lang="RU">Статья 24.</tgt>
+</seg>
+<seg  match="1-1" id="77">
+  <src xml:lang="EN">Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.</src>
+  <tgt xml:lang="RU">Каждый человек имеет право на отдых и досуг, включая право на разумное ограничение рабочего дня и на оплачиваемый периодический отпуск.</tgt>
+</seg>
+<seg  match="1-1" id="78">
+  <src xml:lang="EN">Article 25.</src>
+  <tgt xml:lang="RU">Статья 25.</tgt>
+</seg>
+<seg  match="1-1" id="79">
+  <src xml:lang="EN">(1) Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право на такой жизненный уровень, включая пищу, одежду, жилище, медицинский уход и необходимое социальное обслуживание, который необходим для поддержания здоровья и благосостояния его самого и его семьи, и право на обеспечение на случай безработицы, болезни, инвалидности, вдовства, наступления старости или иного случая утраты средств к существованию по не зависящим от него обстоятельствам.</tgt>
+</seg>
+<seg  match="1-1" id="80">
+  <src xml:lang="EN">(2) Motherhood and childhood are entitled to special care and assistance.</src>
+  <tgt xml:lang="RU">2. Материнство и младенчество дают право на особое попечение и помощь.</tgt>
+</seg>
+<seg  match="1-1" id="81">
+  <src xml:lang="EN">All children, whether born in or out of wedlock, shall enjoy the same social protection.</src>
+  <tgt xml:lang="RU">Все дети, родившиеся в браке или вне брака, должны пользоваться одинаковой социальной защитой.</tgt>
+</seg>
+<seg  match="1-1" id="82">
+  <src xml:lang="EN">Article 26.</src>
+  <tgt xml:lang="RU">Статья 26.</tgt>
+</seg>
+<seg  match="1-1" id="83">
+  <src xml:lang="EN">(1) Everyone has the right to education.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право на образование.</tgt>
+</seg>
+<seg  match="1-1" id="84">
+  <src xml:lang="EN">Education shall be free, at least in the elementary and fundamental stages.</src>
+  <tgt xml:lang="RU">Образование должно быть бесплатным по меньшей мере в том, что касается начального и общего образования.</tgt>
+</seg>
+<seg  match="1-1" id="85">
+  <src xml:lang="EN">Elementary education shall be compulsory.</src>
+  <tgt xml:lang="RU">Начальное образование должно быть обязательным.</tgt>
+</seg>
+<seg  match="1-1" id="86">
+  <src xml:lang="EN">Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.</src>
+  <tgt xml:lang="RU">Техническое и профессиональное образование должно быть общедоступным, и высшее образование должно быть одинаково доступным для всех на основе способностей каждого.</tgt>
+</seg>
+<seg  match="1-1" id="87">
+  <src xml:lang="EN">(2) Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms.</src>
+  <tgt xml:lang="RU">2. Образование должно быть направлено к полному развитию человеческой личности и к увеличению уважения к правам человека и основным свободам.</tgt>
+</seg>
+<seg  match="1-1" id="88">
+  <src xml:lang="EN">It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.</src>
+  <tgt xml:lang="RU">Образование должно содействовать взаимопониманию, терпимости и дружбе между всеми народами, расовыми и религиозными группами, и должно содействовать деятельности Организации Объединенных Наций по поддержанию мира.</tgt>
+</seg>
+<seg  match="1-1" id="89">
+  <src xml:lang="EN">(3) Parents have a prior right to choose the kind of education that shall be given to their children.</src>
+  <tgt xml:lang="RU">3. Родители имеют право приоритета в выборе вида образования для своих малолетних детей.</tgt>
+</seg>
+<seg  match="1-1" id="90">
+  <src xml:lang="EN">Article 27.</src>
+  <tgt xml:lang="RU">Статья 27.</tgt>
+</seg>
+<seg  match="1-1" id="91">
+  <src xml:lang="EN">(1) Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет право свободно участвовать в культурной жизни общества, наслаждаться искусством, участвовать в научном прогрессе и пользоваться его благами.</tgt>
+</seg>
+<seg  match="1-1" id="92">
+  <src xml:lang="EN">(2) Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.</src>
+  <tgt xml:lang="RU">2. Каждый человек имеет право на защиту его моральных и материальных интересов, являющихся результатом научных, литературных или художественных трудов, автором которых он является.</tgt>
+</seg>
+<seg  match="1-1" id="93">
+  <src xml:lang="EN">Article 28.</src>
+  <tgt xml:lang="RU">Статья 28.</tgt>
+</seg>
+<seg  match="1-1" id="94">
+  <src xml:lang="EN">Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.</src>
+  <tgt xml:lang="RU">Каждый человек имеет право на социальный и международный порядок, при котором права и свободы, изложенные в настоящей Декларации, могут быть полностью осуществлены.</tgt>
+</seg>
+<seg  match="1-1" id="95">
+  <src xml:lang="EN">Article 29.</src>
+  <tgt xml:lang="RU">Статья 29.</tgt>
+</seg>
+<seg  match="1-1" id="96">
+  <src xml:lang="EN">(1) Everyone has duties to the community in which alone the free and full development of his personality is possible.</src>
+  <tgt xml:lang="RU">1. Каждый человек имеет обязанности перед обществом, в котором только и возможно свободное и полное развитие его личности.</tgt>
+</seg>
+<seg  match="1-1" id="97">
+  <src xml:lang="EN">(2) In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.</src>
+  <tgt xml:lang="RU">2. При осуществлении своих прав и свобод каждый человек должен подвергаться только таким ограничениям, какие установлены законом исключительно с целью обеспечения должного признания и уважения прав и свобод других и удовлетворения справедливых требований морали, общественного порядка и общего благосостояния в демократическом обществе.</tgt>
+</seg>
+<seg  match="1-1" id="98">
+  <src xml:lang="EN">(3) These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.</src>
+  <tgt xml:lang="RU">3. Осуществление этих прав и свобод ни в коем случае не должно противоречить целям и принципам Организации Объединенных Наций.</tgt>
+</seg>
+<seg  match="1-1" id="99">
+  <src xml:lang="EN">Article 30.</src>
+  <tgt xml:lang="RU">Статья 30.</tgt>
+</seg>
+<seg  match="1-1" id="100">
+  <src xml:lang="EN">Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.</src>
+  <tgt xml:lang="RU">Ничто в настоящей Декларации не может быть истолковано, как предоставление какому-либо государству, группе лиц или отдельным лицам права заниматься какой-либо деятельностью или совершать действия, направленные к уничтожению прав и свобод, изложенных в настоящей Декларации.</tgt>
+</seg>
+</segments>
+</bitext>

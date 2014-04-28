@@ -1,0 +1,114 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿WIPO</src>
+  <tgt xml:lang="ZH">﻿ WIPO</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">E</src>
+  <tgt xml:lang="ZH">C</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">WO/GA/31/4</src>
+  <tgt xml:lang="ZH">WO/GA/31/4</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">ORIGINAL: English</src>
+  <tgt xml:lang="ZH">原  文 ： 英 文 </tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">DATE: August 20, 2004</src>
+  <tgt xml:lang="ZH">日  期 ： 2004年 8月 20日 </tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">WORLD INTELLECTUAL PROPERTY ORGANIZATION</src>
+  <tgt xml:lang="ZH">世  界  知  识  产  权  组  织 </tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">GENEVA</src>
+  <tgt xml:lang="ZH">日  内  瓦 </tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">wipo general assembly</src>
+  <tgt xml:lang="ZH">世  界  知  识  产  权  组  织  大  会 </tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Thirty-First (15th Extraordinary) Session</src>
+  <tgt xml:lang="ZH">第  三  十 一 届  会  议  ( 第  15 次  特  别  会  议  )</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Geneva, September 27 to October 5, 2004</src>
+  <tgt xml:lang="ZH">2004 年  9 月  27 日  至  10 月  5 日 ， 日  内  瓦 </tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">protection of AUDiOVISuAL performances</src>
+  <tgt xml:lang="ZH">保 护 音 像 表 演 </tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">Document prepared by the Secretariat</src>
+  <tgt xml:lang="ZH">秘 书 处 编 拟 的 文 件 </tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">1 A Diplomatic Conference on the Protection of Audiovisual Performances held in December 2000 was unable to reach agreement on all articles of a proposed treaty aimed at strengthening the rights of performers in their audiovisual performances.</src>
+  <tgt xml:lang="ZH">1．  2000年 12月 举 行 的 关 于 保 护 音 像 表 演 的 外 交 会 议 未 能 就 旨 在 加 强 表 演 者 对 其 音 像 表 演 享 有 的 权 利 的 拟 议 条 约 的 所 有 条 款 达 成 一 致 意 见 。 </tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">2 At its session in September 2003, the WIPO General Assembly decided that the issue of protection of audiovisual performances would remain on the Agenda of the Assembly for its session of September 2004.</src>
+  <tgt xml:lang="ZH">2．  在 2003年 9月 会 议 上 ， WIPO大 会 决 定 ， 将 保 护 音 像 表 演 的 问 题 保 留 在 大 会 2004年 9月 会 议 的 议 程 上 。 </tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">This document reports on the developments on the issue of protection of audiovisual performances that have taken place since the Assembly session of September 2003.</src>
+  <tgt xml:lang="ZH">本 文 件 对 大 会 2003年 9月 会 议 举 行 以 来 保 护 音 像 表 演 问 题 方 面 所 取 得 的 进 展 报 告 如 下 。 </tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">3 Following informal consultations with the Member States convened by the Director General under the chairmanship of the Chairman of the General Assembly, an Ad hoc Informal Meeting on the Protection of Audiovisual Performances was held at the headquarters of WIPO on November 6 and 7, 2003.</src>
+  <tgt xml:lang="ZH">3．  根 据 总 干 事 召 集 并 在 大 会 主 席 的 主 持 下 与 成 员 国 举 行 的 非 正 式 磋 商 结 果 ， 2003年 11月 6日 和 7日 在 WIPO总 部 举 行 了 一 次 关 于 保 护 音 像 表 演 问 题 的 特 别 非 正 式 会 议 。 </tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">The meeting was chaired by the Chairman of the WIPO General Assembly, and included an information session where four speakers were invited to talk about their personal experiences in performing, in creating, and producing audiovisual works.</src>
+  <tgt xml:lang="ZH">会 议 由 WIPO大 会 主 席 主 持 ， 其 中 包 括 一 次 情 况 介 绍 会 ， 请 4名 发 言 人 介 绍 其 在 表 演 、 创 作 和 制 作 音 像 作 品 方 面 的 个 人 经 验 。 </tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">The Secretariat provided a series of studies to facilitate discussions.</src>
+  <tgt xml:lang="ZH">秘 书 处 提 供 了 一 系 列 研 究 报 告 ， 以 方 便 进 行 讨 论 。 </tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">These included a survey of national legislative protection of audiovisual performances, a study on rules on transfer of rights in audiovisual performances and related aspects of private international law, and two studies on audiovisual performers’ contracts and remuneration in selected countries.</src>
+  <tgt xml:lang="ZH">其 中 包 括 一 份 关 于 各 国 对 音 像 表 演 进 行 立 法 保 护 的 调 查 报 告 ， 一 份 关 于 音 像 表 演 的 权 利 转 让 方 面 的 规 则 及 相 关 的 国 际 私 法 问 题 的 研 究 报 告 以 及 两 份 关 于 若 干 国 家 音 像 表 演 者 合 同 和 报 酬 问 题 的 研 究 报 告 。 </tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">At the Informal Meeting, numerous delegations and representatives of intergovernmental and non-governmental organizations expressed their interest in further progress on the relevant outstanding issues.</src>
+  <tgt xml:lang="ZH">在 该 次 非 正 式 会 议 上 ， 许 多 代 表 团 以 及 政 府 间 和 非 政 府 组 织 的 代 表 都 表 示 愿 意 进 一 步 开 展 工 作 ， 争 取 在 相 关 的 悬 而 未 决 问 题 上 取 得 进 展 。 </tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">4 Since the Ad hoc Informal Meeting took place, the Director General has been conducting informal consultations among Member States and key stakeholders in the private sector, in order to identify ways and means for making progress on outstanding issues.</src>
+  <tgt xml:lang="ZH">4．  自 特 别 非 正 式 会 议 举 行 以 来 ， 总 干 事 一 直 在 与 各 成 员 国 和 私 营 部 门 的 重 要 利 益 攸 关 者 进 行 非 正 式 磋 商 ， 以 了 解 如 何 才 能 在 悬 而 未 决 的 问 题 上 取 得 进 展 。 </tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">The consultations are taking place in a positive and constructive spirit.</src>
+  <tgt xml:lang="ZH">这 些 磋 商 都 是 本 着 积 极 、 富 有 建 设 性 的 精 神 进 行 的 。 </tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">It is, therefore recommended that the issue remain on the agenda of the General Assembly for the coming year.</src>
+  <tgt xml:lang="ZH">因 此 ， 建 议 这 一 问 题 仍 保 留 的 大 会 明 年 的 会 议 议 程 上 。 </tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">5 The WIPO General Assembly is invited to:</src>
+  <tgt xml:lang="ZH">5．  请 WIPO大 会 ： </tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">(i) note the information contained in paragraphs 2 and 3;</src>
+  <tgt xml:lang="ZH">(i) 注 意 第 2段 和 第 3段 中 所 载 信 息 ； </tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">(ii) decide that the issue of Protection of Audiovisual Performances will remain on the Agenda of the WIPO General Assembly in its session in September 2005.</src>
+  <tgt xml:lang="ZH">(ii) 决 定 将 保 护 音 像 表 演 问 题 继 续 保 留 在 WIPO大 会 2005年 9月 会 议 的 议 程 中 。 </tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">[End of document]</src>
+  <tgt xml:lang="ZH">[文 件 完 ]</tgt>
+</seg>
+</segments>
+</bitext>

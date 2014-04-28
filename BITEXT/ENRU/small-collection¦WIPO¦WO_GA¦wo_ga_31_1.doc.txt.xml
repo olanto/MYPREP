@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿WIPO</src>
+  <tgt xml:lang="RU">﻿ВОИС</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">E</src>
+  <tgt xml:lang="RU">R</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">WO/GA/31/1</src>
+  <tgt xml:lang="RU">WO/GA/31/1</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">ORIGINAL: English</src>
+  <tgt xml:lang="RU">ОРИГИНАЛ: английский</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">DATE: June 28, 2004</src>
+  <tgt xml:lang="RU">ДАТА: 28 июня 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">WORLD INTELLECTUAL PROPERTY ORGANIZATION</src>
+  <tgt xml:lang="RU">ВСЕМИРНАЯ ОРГАНИЗАЦИЯ ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">GENEVA</src>
+  <tgt xml:lang="RU">ЖЕНЕВА</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">wipo general assembly</src>
+  <tgt xml:lang="RU">ГЕНЕРАЛЬНАЯ АССАМБЛЕЯ ВОИС</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Thirty-First (15th Extraordinary) Session</src>
+  <tgt xml:lang="RU">Тридцать первая (15-я внеочередная) сессия</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Geneva, September 27 to October 5, 2004</src>
+  <tgt xml:lang="RU">Женева, 27 сентября - 5 октября 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Report on the Policy Advisory Commission (PAC)</src>
+  <tgt xml:lang="RU">КОНСУЛЬТАТИВНЫЙ КОМИТЕТ ПО ВОПРОСАМ ПОЛИТИКИ (ККП)</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">Memorandum of the Director General</src>
+  <tgt xml:lang="RU">Меморандум Генерального директора</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">1 The Assemblies of the Member States of WIPO approved, in their thirty-second series of meetings, from March 25 to 27, 1998, the proposal contained in the 1998-1999 biennial Program and Budget to establish the Policy Advisory Commission (PAC), comprised of eminent individuals from a wide range of policy backgrounds.</src>
+  <tgt xml:lang="RU">1. На тридцать второй серии заседаний, проходившей 25-27 марта 1998 г., Ассамблеи государств - членов ВОИС одобрили содержащееся в программе и бюджете на двухлетний период 1998-1999 гг. предложение о создании Консультативного комитета по вопросам политики (ККП), состоящего из видных деятелей – представителей широкого диапазона политических направлений.</tgt>
+</seg>
+<seg  match="5-4" id="14">
+  <src xml:lang="EN">It was noted that<br/>"the policy-making and medium-term planning processes of WIPO, its responsiveness to international trends and technological developments, and its capacity to anticipate and to meet the needs of the market sector and users of global protection systems, would benefit considerably from the availability of informed and objective advice from eminent international experts from a broad range of fields with bearing on intellectual property cooperation and WIPO’s operations” (see document A/32/2 - WO/BC/18/2,<br/>Sub-program 01.3).<br/>2 The mandate of this independent advisory body was defined in the same document<br/>(see Sub-program 01.3) and reaffirmed in the most recent Program and Budget of the Organization (see document WO/PBC/7/2, Sub-program 02.2), which states that the PAC will "continue to provide objective and informed external expert advice to the Director General, particularly with respect to policy-making, medium-term planning, processes and the needs in the market sector”.<br/></src>
+  <tgt xml:lang="RU">При этом отмечалось, что "процесс разработки политики и среднесрочного планирования ВОИС, ее способность реагировать на международные тенденции и технологические изменения, а также ее возможность предвосхищать и удовлетворять потребности рыночного сектора и пользователей глобальных систем охраны существенно выиграют от получения компетентных и объективных рекомендаций выдающихся международных экспертов, представляющих широкий диапазон областей, имеющих значение для сотрудничества в области интеллектуальной собственности и деятельности ВОИС” (см. документ А/32/2 – WO/BC/18/2, Подпрограмма 01.3).<br/>2. В том же документе (см.<br/>Подпрограмму 01.3) мандат этого независимого консультативного органа был определен, а в самых последних Программе и бюджете Организации он был подтвержден (см. документ WO/PBC/7/2, Подпрограмма 02.2).<br/>Он предусматривает, что ККП 'будет и впредь предоставлять объективные и квалифицированные внешние рекомендации Генеральному директору, в особенности в отношении разработки политики, среднесрочного планирования, процессов и потребностей в рыночном секторе'.<br/></tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">3 It should be noted that the role of the Policy Advisory Commission is strictly advisory and consultative and shall "never replace or diminish the role of the Member States in the initiation and monitoring of the program of the Organization” (see document A/32/2 - WO/BC/18/2, Sub-program 01.3).</src>
+  <tgt xml:lang="RU">3. Следует заметить, что роль Консультативного комитета по вопросам политики является чисто рекомендательной и консультативной и она 'никоим образом не сможет заменить или уменьшить роль государств-членов в подготовке программных инициатив и осуществлении контроля за ними' (см. документ А/32/2 - WO/PBC/18/2, подпрограмма 01.3).</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">4 The fourth meeting of the PAC took place on November 14, 2003, in Sinaia, Romania.</src>
+  <tgt xml:lang="RU">4. Четвертое заседание ККП проходило 14 ноября 2003 г. в Синае, Румыния.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">Twenty members attended the meeting, and its report to the Director General of WIPO is contained in Annex I.</src>
+  <tgt xml:lang="RU">В работе заседания участвовало двадцать членов и отчет Комитета Генеральному директору ВОИС содержится в Приложении I.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">The list of participants at the meeting is contained in Annex II.</src>
+  <tgt xml:lang="RU">Список участников заседания содержится в Приложении II.</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">5 The General Assembly is invited to note and comment on the present document and the report to the Director General of WIPO.</src>
+  <tgt xml:lang="RU">5. Генеральной Ассамблее предлагается принять к сведению содержание настоящего документа, прокомментировать его и представить доклад Генеральному директору ВОИС.</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">[Annex I follows]</src>
+  <tgt xml:lang="RU">[Конец Приложения II и документа]</tgt>
+</seg>
+</segments>
+</bitext>

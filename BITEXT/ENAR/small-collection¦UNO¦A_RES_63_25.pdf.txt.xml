@@ -1,0 +1,94 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">United Nations A/RES/63/25</src>
+  <tgt xml:lang="AR">الأمــم المتحـدة 63/25/A/RES</tgt>
+</seg>
+<seg  match="1-2" id="2">
+  <src xml:lang="EN">General Assembly Distr.: General 3 December 2008<br/></src>
+  <tgt xml:lang="AR">Distr.: General<br/>الجمعية العامة 2008 December 3<br/></tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Sixty-third session</src>
+  <tgt xml:lang="AR">الدورة الثالثة والستون</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Agenda item 64</src>
+  <tgt xml:lang="AR">البند ٦٤ من جدول الأعمال</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Resolution adopted by the General Assembly</src>
+  <tgt xml:lang="AR">قرار اتخذته ا لجمعية العامة</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">[without reference to a Main Committee (A/63/L.31)]</src>
+  <tgt xml:lang="AR">[دون الإحالة إلى لجنة رئيسية (31.</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">63/25. Commemoration of the sixtieth anniversary of</src>
+  <tgt xml:lang="AR">A/63/L)]</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">the Universal Declaration of Human Rights</src>
+  <tgt xml:lang="AR">٢٥/٦٣ - الاحتفال بالذكرى السنوية الستين للإعلان العالمي لحقوق الإنسان</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">The General Assembly,</src>
+  <tgt xml:lang="AR">إن الجمعية العامة،</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Guided by the purposes, principles and provisions of the Charter of the United</src>
+  <tgt xml:lang="AR">إذ تسترشد بمقاصد ميثاق الأمم المتحدة ومبادئه وأحكامه الـتي تـشمل تعزيـز حقـوق</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Nations, which include the promotion of, and respect for, human rights and</src>
+  <tgt xml:lang="AR">الإنسان والحريات الأساسية للجميع واحترامها،</tgt>
+</seg>
+<seg  match="2-1" id="12">
+  <src xml:lang="EN">fundamental freedoms for all,<br/>Recalling its resolution 62/171 of 18 December 2007 entitled "International<br/></src>
+  <tgt xml:lang="AR">وإذ تــشير إلى قرارهــا ١٧١/٦٢ المــؤرخ ١٨ كــانون الأول/ديــسمبر ٢٠٠٧ المعنــون<br/></tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">Year of Human Rights Learning”, in which it decided to commemorate the sixtieth</src>
+  <tgt xml:lang="AR">’’السنة الدولية للتعلم في مجال حقوق الإنسان‘‘ الذي قررت فيه الاحتفال بالذكرى الـسنوية</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">anniversary of the Universal Declaration of Human Rights1 at a plenary meeting to</src>
+  <tgt xml:lang="AR">الستين للإعلان العالمي لحقوق الإنسان(١) في جلسة عامة تعقـد في ١٠ كـانون الأول/ديـسمبر</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">be held on 10 December 2008,</src>
+  <tgt xml:lang="AR">٢٠٠٨،</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">Recalling also its resolution 2217 A (XXI) of 19 December 1966, in which it</src>
+  <tgt xml:lang="AR">وإذ تـــــشير أيـــــضا إلى قرارهـــــا ٢٢١٧ ألـــــف (د - ٢١) المـــــؤرخ ١٩ كـــــانون</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">decided to award at five-year intervals the United Nations award for outstanding</src>
+  <tgt xml:lang="AR">الأول/ديـسمبر ١٩٦٦ الــذي قـررت فيــه أن تمــنح كـل خمـس ســنوات جـائزة الأمــم المتحـدة</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">achievements in the field of human rights,</src>
+  <tgt xml:lang="AR">لأفراد يكونون قد حققوا إنجازات بارزة في مجال حقوق الإنسان،</tgt>
+</seg>
+<seg  match="18-10" id="19">
+  <src xml:lang="EN">1. Reaffirms its decision to commemorate the sixtieth anniversary of the<br/>Universal Declaration of Human Rights1 on 10 December 2008;<br/>2. Decides that the commemorative event will comprise a plenary meeting,<br/>including the award ceremony for the United Nations prize in the field of human<br/>rights, and two consecutive informal interactive panel discussions;<br/>3. Encourages all Member States and observers to participate at the highest<br/>level possible;<br/>4. Decides that the President of the General Assembly, the President of the<br/>Human Rights Council, the Secretary-General and the United Nations High<br/>Commissioner for Human Rights will address the commemorative plenary meeting;<br/>5. Invites intergovernmental organizations and entities that have observer<br/>status with the General Assembly, relevant entities of the United Nations system and<br/>non-governmental organizations in consultative status with the Economic and Social<br/>Council to be represented at the commemorative event;<br/>_______________<br/>1 Resolution 217 A (III).<br/>08-47229<br/>A/RES/63/25<br/></src>
+  <tgt xml:lang="AR">١ - تؤكد من جديد قرارها الاحتفال بالذكرى السنوية الـستين للإعـلان العـالمي<br/>لحقوق الإنسان(١) في ١٠ كانون الأول/ديسمبر ٢٠٠٨؛<br/>٢ - تقرر أن يشمل هذا الاحتفال جلسة عامـة يتخللـها حفـل مـنح جـائزة الأمـم<br/>المتحدة في مجال حقوق الإنسان وحلقتي تحاور متعاقبتين غير رسميتين؛<br/>٣ - تـــشجع جميـــع الـــدول الأعـــضاء والمـــراقبين علـــى المـــشاركة علـــى أرفـــع<br/>مستوى ممكن؛<br/>_______________<br/>(١) القرار ٢١٧ ألف (د - ٣).<br/>08-47227<br/>63/25/A/RES<br/></tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">6. Requests the President of the General Assembly, in consultation with</src>
+  <tgt xml:lang="AR">٤ - تقرر أن يلقي رئيس الجمعيـة العامـة ورئـيس مجلـس حقـوق الإنـسان والأمـين</tgt>
+</seg>
+<seg  match="18-19" id="21">
+  <src xml:lang="EN">Member States and with the technical support of the Office of the United Nations<br/>High Commissioner for Human Rights, to draw up, no later than 30 November<br/>2008, a list of two representatives of pertinent non-governmental organizations for<br/>each of the informal interactive panel discussions who will speak on behalf of civil<br/>society, and to circulate the list to Member States to be considered on a no-objection<br/>basis;<br/>7. Also requests the President of the General Assembly, in consultation with<br/>Member States and with the technical support of the Office of the United Nations<br/>High Commissioner for Human Rights, to finalize the organizational arrangements<br/>for the commemorative event, including the identification of themes and the<br/>assignment of panellists for the informal interactive panel discussions;<br/>8. Further requests the President of the General Assembly to hold open<br/>consultations with Member States and observers in order to prepare a brief<br/>declaration reaffirming the Universal Declaration of Human Rights and the<br/>commitment for its full implementation, to be adopted by consensus at the<br/>commemorative plenary meeting.<br/>57th plenary meeting<br/>24 November 2008<br/></src>
+  <tgt xml:lang="AR">العــــام ومفوضــــة الأمــــم المتحــــدة الــ ــسامية لحقــــوق الإنــــسان كلمــ ــة في الجلــ ــسة العامــــة<br/>المكرسة للاحتفال؛<br/>٥ - تـدعو المنظمـات والكيانــات الحكوميـة الدوليـة الـتي لهـا مركـز مراقـب لـدى<br/>الجمعية العامة وكيانات منظومـة الأمـم المتحـدة المعنيـة والمنظمـات غـير الحكوميـة ذات المركـز<br/>الاستشاري لدى الس الاقتصادي والاجتماعي إلى إيفاد ممثلين إلى الاحتفال؛<br/>٦ - تطلــب إلى رئ ــيس الجمعي ــة العام ــة أن يع ــد، بالتــشاور مــع الــدول الأعــضاء<br/>وبــدعم فــني مــن مفوضــية الأمــم المتحــدة لحقــوق الإنــسان وفي موعــد أقــصاه ٣٠ تــشرين<br/>الثاني/نوفمبر ٢٠٠٨، قائمة بممثلين اثـنين عـن المنظمـات غـير الحكوميـة المعنيـة ليتحـدثا باسـم<br/>اتمع المدني في كل من حلقتي التحاور غير الرسميتين وأن يعممها على الدول الأعضاء لتنظـر<br/>فيها على أساس عدم الاعتراض؛<br/>٧ - تطلب أيضا إلى رئيس الجمعية العامة أن ينجز، بالتشاور مع الدول الأعـضاء<br/>وبدعم فني من مفوضية الأمم المتحدة لحقوق الإنـسان، الترتيبـات التنظيميـة للاحتفـال، بمـا في<br/>ذلك تحديد مواضيع حلقتي التحاور غير الرسميتين وتعيين المشاركين فيهما؛<br/>٨ - تطلب كذلك إلى رئيس الجمعية العامة إجراء مشاورات مفتوحة مـع الـدول<br/>الأعـضاء والمــراقبين مــن أجـل إعــداد بيــان مـوجز يؤكــد مــن جديـد الإعــلان العــالمي لحقــوق<br/>الإنـــسان والالتـ ــزام بتنفيــذه علـــى نحـــو تـ ــام، لكـــي يعتمـ ــد بتوافـ ــق الآراء في الجلـــسة العامـ ــة<br/>المكرسة للاحتفال.<br/>الجلسة العامة ٥٧<br/>٢٤ تشرين الثاني/نوفمبر ٢٠٠٨<br/></tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">2</src>
+  <tgt xml:lang="AR">2</tgt>
+</seg>
+</segments>
+</bitext>

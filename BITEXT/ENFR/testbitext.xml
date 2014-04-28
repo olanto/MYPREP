@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?> 
+<bitext version="1.2">
+<segments>
+<seg>
+<src><b>316R-01.doc.txt</b></src>
+<tgt><b>316R-01.doc.txt</b></tgt>
+</seg>
+<seg match="1-1" id="1">
+<src>WORLD TRADE ORGANIZATION |</src>
+<tgt>ORGANISATION MONDIALE DU COMMERCE |</tgt>
+</seg>
+<seg match="1-1" id="2">
+<src>| WT/DS316/R 30 June 2010</src>
+<tgt>| WT/DS316/R 30 juin 2010</tgt>
+</seg>
+<seg match="1-1" id="3">
+<src>| (10-3375)</src>
+<tgt>| (10-3375)</tgt>
+</seg>
+<seg match="1-1" id="4">
+<src>| Original: English</src>
+<tgt>| Original: anglais</tgt>
+</seg>
+<seg match="1-3" id="5">
+<src>EUROPEAN COMMUNITIES AND CERTAIN MEMBER STATES -MEASURES AFFECTING TRADE IN</src>
+<tgt>COMMUNAUTES EUROPEENNES ET CERTAINS ETATS MEMBRES - MESURES AFFECTANT LE COMMERCE DES AERONEFS CIVILS</tgt>
+</seg>
+</segments>
+</bitext>

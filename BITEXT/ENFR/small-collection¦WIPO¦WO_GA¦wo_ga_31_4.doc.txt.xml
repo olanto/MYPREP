@@ -1,0 +1,114 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿WIPO</src>
+  <tgt xml:lang="FR">﻿OMPI</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">E</src>
+  <tgt xml:lang="FR">F</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">WO/GA/31/4</src>
+  <tgt xml:lang="FR">WO/GA/31/4</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">ORIGINAL: English</src>
+  <tgt xml:lang="FR">ORIGINAL : anglais</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">DATE: August 20, 2004</src>
+  <tgt xml:lang="FR">DATE : 20 août 2004</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">WORLD INTELLECTUAL PROPERTY ORGANIZATION</src>
+  <tgt xml:lang="FR">ORGANISATION MONDIALE DE LA PROPRIÉTÉ INTELLECTUELLE</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">GENEVA</src>
+  <tgt xml:lang="FR">GENÈVE</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">wipo general assembly</src>
+  <tgt xml:lang="FR">assemblée générale de l’ompi</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Thirty-First (15th Extraordinary) Session</src>
+  <tgt xml:lang="FR">Trente et unième session (15e session extraordinaire)</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Geneva, September 27 to October 5, 2004</src>
+  <tgt xml:lang="FR">Genève, 27 septembre – 5 octobre 2004</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">protection of AUDiOVISuAL performances</src>
+  <tgt xml:lang="FR">protection des interprétations et exécutions audiovisuelles</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">Document prepared by the Secretariat</src>
+  <tgt xml:lang="FR">Document établi par le Secrétariat</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">1 A Diplomatic Conference on the Protection of Audiovisual Performances held in December 2000 was unable to reach agreement on all articles of a proposed treaty aimed at strengthening the rights of performers in their audiovisual performances.</src>
+  <tgt xml:lang="FR">1 Une conférence diplomatique sur la protection des interprétations et exécutions audiovisuelles tenue en décembre 2000 n’a pu parvenir à un accord sur tous les articles d’un traité proposé visant à renforcer les droits des artistes interprètes ou exécutants sur leurs interprétations et exécutions audiovisuelles.</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">2 At its session in September 2003, the WIPO General Assembly decided that the issue of protection of audiovisual performances would remain on the Agenda of the Assembly for its session of September 2004.</src>
+  <tgt xml:lang="FR">2 À sa session de septembre 2003, l’Assemblée générale de l’OMPI a décidé que la question de la protection des interprétations et exécutions audiovisuelles serait maintenue à l’ordre du jour de sa session de septembre 2004.</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">This document reports on the developments on the issue of protection of audiovisual performances that have taken place since the Assembly session of September 2003.</src>
+  <tgt xml:lang="FR">Le présent document fait état des faits nouveaux intervenus en ce qui concerne cette question de la protection des interprétations et exécutions audiovisuelles depuis la session de l’assemblée de septembre 2003.</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">3 Following informal consultations with the Member States convened by the Director General under the chairmanship of the Chairman of the General Assembly, an Ad hoc Informal Meeting on the Protection of Audiovisual Performances was held at the headquarters of WIPO on November 6 and 7, 2003.</src>
+  <tgt xml:lang="FR">3 À la suite de consultations informelles tenues avec les États membres sur l’initiative du directeur général et sous la présidence du président de l’Assemblée générale, une réunion ad hoc informelle sur la protection des interprétations et exécutions audiovisuelles s’est tenue au siège de l’OMPI les 6 et 7 novembre 2003.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">The meeting was chaired by the Chairman of the WIPO General Assembly, and included an information session where four speakers were invited to talk about their personal experiences in performing, in creating, and producing audiovisual works.</src>
+  <tgt xml:lang="FR">La réunion présidée par le président de l’Assemblée générale de l’OMPI a comporté une séance d’information pendant laquelle quatre orateurs ont été invités à parler de leur expérience personnelle en ce qui concerne l’interprétation ou l’exécution, la création et la production d’œuvres audiovisuelles.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">The Secretariat provided a series of studies to facilitate discussions.</src>
+  <tgt xml:lang="FR">Le Secrétariat a mis à disposition une série d’études en vue de faciliter les discussions.</tgt>
+</seg>
+<seg  match="1-2" id="19">
+  <src xml:lang="EN">These included a survey of national legislative protection of audiovisual performances, a study on rules on transfer of rights in audiovisual performances and related aspects of private international law, and two studies on audiovisual performers’ contracts and remuneration in selected countries.<br/></src>
+  <tgt xml:lang="FR">Ces études comprenaient une enquête sur la protection par la législation et la réglementation nationales des interprétations et exécutions audiovisuelles, une étude sur les règles relatives au transfert des droits sur les interprétations et exécutions audiovisuelles et sur les aspects<br/>pertinents du droit international privé ainsi que deux études sur les contrats et la rémunération des artistes interprètes ou exécutants de l’audiovisuel dans certains pays.<br/></tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">At the Informal Meeting, numerous delegations and representatives of intergovernmental and non-governmental organizations expressed their interest in further progress on the relevant outstanding issues.</src>
+  <tgt xml:lang="FR">Pendant la réunion informelle, un grand nombre de délégations et de représentants d’organisations intergouvernementales et non gouvernementales ont exprimé le souhait que de nouveaux progrès soient réalisés en ce qui concerne les questions en suspens.</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">4 Since the Ad hoc Informal Meeting took place, the Director General has been conducting informal consultations among Member States and key stakeholders in the private sector, in order to identify ways and means for making progress on outstanding issues.</src>
+  <tgt xml:lang="FR">4 Depuis la tenue de la réunion informelle ad hoc, le directeur général a organisé des consultations informelles entre les États membres et les principales parties prenantes du secteur privé afin de déterminer les moyens d’accomplir des progrès en ce qui concerne les questions en suspens.</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">The consultations are taking place in a positive and constructive spirit.</src>
+  <tgt xml:lang="FR">Les consultations se déroulent dans un esprit positif et constructif.</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">It is, therefore recommended that the issue remain on the agenda of the General Assembly for the coming year.</src>
+  <tgt xml:lang="FR">Il est donc recommandé que cette question continue de figurer dans le programme de travail de l’Assemblée générale pour l’année à venir.</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">5 The WIPO General Assembly is invited to:</src>
+  <tgt xml:lang="FR">5 L’Assemblée générale de l’OMPI est invitée :</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">(i) note the information contained in paragraphs 2 and 3;</src>
+  <tgt xml:lang="FR">i) à prendre note des informations figurant dans les paragraphes 2 et 3;</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">(ii) decide that the issue of Protection of Audiovisual Performances will remain on the Agenda of the WIPO General Assembly in its session in September 2005.</src>
+  <tgt xml:lang="FR">ii) à décider que la question de la protection des interprétations et exécutions audiovisuelles restera inscrite à l’ordre du jour de sa session de septembre 2005.</tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">[End of document]</src>
+  <tgt xml:lang="FR">[Fin du document]</tgt>
+</seg>
+</segments>
+</bitext>

@@ -1,0 +1,182 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">United Nations A/RES/63/25</src>
+  <tgt xml:lang="FR">Nations Unies A/RES/63/25</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">General Assembly Distr.: General 3 December 2008</src>
+  <tgt xml:lang="FR">Assemblée générale Distr. générale 3 décembre 2008</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Sixty-third session</src>
+  <tgt xml:lang="FR">Soixante-troisième session</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Agenda item 64</src>
+  <tgt xml:lang="FR">Point 64 de l’ordre du jour</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Resolution adopted by the General Assembly</src>
+  <tgt xml:lang="FR">Résolution adoptée par l’Assemblée générale</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">[without reference to a Main Committee (A/63/L.31)]</src>
+  <tgt xml:lang="FR">[sans renvoi à une grande commission (A/63/L.31)]</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">63/25. Commemoration of the sixtieth anniversary of</src>
+  <tgt xml:lang="FR">63/25. Commémoration du soixantième anniversaire de</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">the Universal Declaration of Human Rights</src>
+  <tgt xml:lang="FR">la Déclaration universelle des droits de l’homme</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">The General Assembly,</src>
+  <tgt xml:lang="FR">L’Assemblée générale,</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Guided by the purposes, principles and provisions of the Charter of the United</src>
+  <tgt xml:lang="FR">Guidée par les buts, les principes et les dispositions de la Charte des Nations</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Nations, which include the promotion of, and respect for, human rights and</src>
+  <tgt xml:lang="FR">Unies, qui portent, entre autres, sur la promotion et le respect des droits de l’homme</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">fundamental freedoms for all,</src>
+  <tgt xml:lang="FR">et des libertés fondamentales pour tous,</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">Recalling its resolution 62/171 of 18 December 2007 entitled "International</src>
+  <tgt xml:lang="FR">Rappelant sa résolution 62/171 du 18 décembre 2007, intitulée ' Année</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">Year of Human Rights Learning”, in which it decided to commemorate the sixtieth</src>
+  <tgt xml:lang="FR">internationale de l’apprentissage des droits de l’homme ', dans laquelle elle a</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">anniversary of the Universal Declaration of Human Rights1 at a plenary meeting to</src>
+  <tgt xml:lang="FR">décidé de célébrer le soixantième anniversaire de la Déclaration universelle des</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">be held on 10 December 2008,</src>
+  <tgt xml:lang="FR">droits de l’homme1 lors d’une séance plénière qui se tiendra le 10 décembre 2008,</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">Recalling also its resolution 2217 A (XXI) of 19 December 1966, in which it</src>
+  <tgt xml:lang="FR">Rappelant également sa résolution 2217 A (XXI) du 19 décembre 1966, dans</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">decided to award at five-year intervals the United Nations award for outstanding</src>
+  <tgt xml:lang="FR">laquelle elle a décidé de décerner tous les cinq ans le Prix des Nations Unies pour</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">achievements in the field of human rights,</src>
+  <tgt xml:lang="FR">services éminents rendus à la cause des droits de l’homme,</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">1. Reaffirms its decision to commemorate the sixtieth anniversary of the</src>
+  <tgt xml:lang="FR">1. Réaffirme sa décision de célébrer le soixantième anniversaire de la</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">Universal Declaration of Human Rights1 on 10 December 2008;</src>
+  <tgt xml:lang="FR">Déclaration universelle des droits de l’homme1 le 10 décembre 2008 ;</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">2. Decides that the commemorative event will comprise a plenary meeting,</src>
+  <tgt xml:lang="FR">2. Décide que la manifestation commémorative consistera en une séance</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">including the award ceremony for the United Nations prize in the field of human</src>
+  <tgt xml:lang="FR">plénière, au cours de laquelle sera décerné le Prix des Nations Unies pour la cause</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">rights, and two consecutive informal interactive panel discussions;</src>
+  <tgt xml:lang="FR">des droits de l’homme, suivie de deux réunions-débats interactives informelles</tgt>
+</seg>
+<seg  match="3-4" id="25">
+  <src xml:lang="EN">3. Encourages all Member States and observers to participate at the highest<br/>level possible;<br/>4. Decides that the President of the General Assembly, the President of the<br/></src>
+  <tgt xml:lang="FR">consécutives ;<br/>3. Incite tous les États Membres et les observateurs à participer à la<br/>manifestation commémorative au plus haut niveau possible ;<br/>4. Décide que le Président de l’Assemblée générale, le Président du Conseil<br/></tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">Human Rights Council, the Secretary-General and the United Nations High</src>
+  <tgt xml:lang="FR">des droits de l’homme, le Secrétaire général et la Haut-Commissaire des Nations</tgt>
+</seg>
+<seg  match="2-3" id="27">
+  <src xml:lang="EN">Commissioner for Human Rights will address the commemorative plenary meeting;<br/>5. Invites intergovernmental organizations and entities that have observer<br/></src>
+  <tgt xml:lang="FR">Unies aux droits de l’homme prendront la parole à la séance plénière<br/>commémorative ;<br/>5. Invite les organisations et les entités intergouvernementales ayant le<br/></tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">status with the General Assembly, relevant entities of the United Nations system and</src>
+  <tgt xml:lang="FR">statut d’observateur à l’Assemblée générale, les organismes concernés des Nations</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">non-governmental organizations in consultative status with the Economic and Social</src>
+  <tgt xml:lang="FR">Unies et les organisations non gouvernementales dotées du statut consultatif auprès</tgt>
+</seg>
+<seg  match="2-1" id="30">
+  <src xml:lang="EN">Council to be represented at the commemorative event;<br/>_______________<br/></src>
+  <tgt xml:lang="FR">_______________<br/></tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">1 Resolution 217 A (III).</src>
+  <tgt xml:lang="FR">1 Résolution 217 A (III).</tgt>
+</seg>
+<seg  match="3-5" id="32">
+  <src xml:lang="EN">08-47229<br/>A/RES/63/25<br/>6. Requests the President of the General Assembly, in consultation with<br/></src>
+  <tgt xml:lang="FR">08-47230<br/>A/RES/63/25<br/>du Conseil économique et social à se faire représenter à la manifestation<br/>commémorative ;<br/>6. Prie le Président de l’Assemblée générale d’établir, en consultation avec<br/></tgt>
+</seg>
+<seg  match="1-1" id="33">
+  <src xml:lang="EN">Member States and with the technical support of the Office of the United Nations</src>
+  <tgt xml:lang="FR">les États Membres et avec l’assistance technique du Haut-Commissariat des Nations</tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">High Commissioner for Human Rights, to draw up, no later than 30 November</src>
+  <tgt xml:lang="FR">Unies aux droits de l’homme, le 30 novembre 2008 au plus tard, une liste de deux</tgt>
+</seg>
+<seg  match="1-1" id="35">
+  <src xml:lang="EN">2008, a list of two representatives of pertinent non-governmental organizations for</src>
+  <tgt xml:lang="FR">représentants des organisations non gouvernementales concernées pour chacune des</tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">each of the informal interactive panel discussions who will speak on behalf of civil</src>
+  <tgt xml:lang="FR">réunions-débats interactives informelles, qui prendront la parole au nom de la</tgt>
+</seg>
+<seg  match="1-1" id="37">
+  <src xml:lang="EN">society, and to circulate the list to Member States to be considered on a no-objection</src>
+  <tgt xml:lang="FR">société civile, et de soumettre cette liste à l’examen des États Membres selon le</tgt>
+</seg>
+<seg  match="8-9" id="38">
+  <src xml:lang="EN">basis;<br/>7. Also requests the President of the General Assembly, in consultation with<br/>Member States and with the technical support of the Office of the United Nations<br/>High Commissioner for Human Rights, to finalize the organizational arrangements<br/>for the commemorative event, including the identification of themes and the<br/>assignment of panellists for the informal interactive panel discussions;<br/>8. Further requests the President of the General Assembly to hold open<br/>consultations with Member States and observers in order to prepare a brief<br/></src>
+  <tgt xml:lang="FR">principe de l’approbation tacite ;<br/>7. Prie également le Président de l’Assemblée générale, agissant en<br/>consultation avec les États Membres et avec l’assistance technique du Haut-<br/>Commissariat des Nations Unies aux droits de l’homme, d’arrêter les dispositions<br/>concernant l’organisation de la manifestation commémorative, dont le choix des<br/>thèmes et la désignation des experts qui participeront aux réunions-débats<br/>interactives informelles ;<br/>8. Prie en outre le Président de l’Assemblée générale de tenir des<br/>consultations avec les États Membres et les observateurs afin d’élaborer une brève<br/></tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">declaration reaffirming the Universal Declaration of Human Rights and the</src>
+  <tgt xml:lang="FR">déclaration réaffirmant la Déclaration universelle des droits de l’homme et</tgt>
+</seg>
+<seg  match="1-1" id="40">
+  <src xml:lang="EN">commitment for its full implementation, to be adopted by consensus at the</src>
+  <tgt xml:lang="FR">l’attachement à sa mise en œuvre intégrale, afin qu’elle soit adoptée par consensus à</tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">commemorative plenary meeting.</src>
+  <tgt xml:lang="FR">la séance plénière commémorative.</tgt>
+</seg>
+<seg  match="1-1" id="42">
+  <src xml:lang="EN">57th plenary meeting</src>
+  <tgt xml:lang="FR">57e séance plénière</tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">24 November 2008</src>
+  <tgt xml:lang="FR">24 novembre 2008</tgt>
+</seg>
+<seg  match="1-1" id="44">
+  <src xml:lang="EN">2</src>
+  <tgt xml:lang="FR">2</tgt>
+</seg>
+</segments>
+</bitext>

@@ -1,0 +1,354 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿The Universal Declaration of Human Rights</src>
+  <tgt xml:lang="AR">﻿الإعلان العالمي لحقوق الإنسان</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">PREAMBLE</src>
+  <tgt xml:lang="AR">الديباجة</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,</src>
+  <tgt xml:lang="AR">لما كان الاعتراف بالكرامة المتأصلة في جميع أعضاء الأسرة البشرية وبحقوقهم المتساوية الثابتة هو أساس الحرية والعدل والسلام في العالم.</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,</src>
+  <tgt xml:lang="AR">ولما كان تناسي حقوق الإنسان وازدراؤها قد أفضيا إلى أعمال همجية آذت الضمير الإنساني، وكان غاية ما يرنو إليه عامة البشر انبثاق عالم يتمتع فيه الفرد بحرية القول والعقيدة ويتحرر من الفزع والفاقة.</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law,</src>
+  <tgt xml:lang="AR">ولما كان من الضروري أن يتولى القانون حماية حقوق الإنسان لكيلا يضطر المرء آخر الأمر إلى التمرد على الاستبداد والظلم.</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">Whereas it is essential to promote the development of friendly relations between nations,</src>
+  <tgt xml:lang="AR">ولما كان من الجوهري تعزيز تنمية العلاقات الودية بين الدول،</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom,</src>
+  <tgt xml:lang="AR">ولما كانت شعوب الأمم المتحدة قد أكدت في الميثاق من جديد إيمانها بحقوق الإنسان الأساسية وبكرامة الفرد وقدره وبما للرجال والنساء من حقوق متساوية وحزمت أمرها على أن تدفع بالرقي الاجتماعي قدماً وأن ترفع مستوى الحياة في جو من الحرية أفسح.</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">Whereas Member States have pledged themselves to achieve, in co-operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms,</src>
+  <tgt xml:lang="AR">ولما كانت الدول الأعضاء قد تعهدت بالتعاون مع الأمم المتحدة على ضمان اطراد مراعاة حقوق الإنسان والحريات الأساسية واحترامها.</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge,</src>
+  <tgt xml:lang="AR">ولما كان للإدراك العام لهذه الحقوق والحريات الأهمية الكبرى للوفاء التام بهذا التعهد.</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Now, Therefore THE GENERAL ASSEMBLY proclaims THIS UNIVERSAL DECLARATION OF HUMAN RIGHTS as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.</src>
+  <tgt xml:lang="AR">فإن الجمعية العامة تنادي بهذا الإعلان العالمي لحقوق الإنسان على أنه المستوى المشترك الذي ينبغي أن تستهدفه كافة الشعوب والأمم حتى يسعى كل فرد وهيئة في المجتمع، واضعين على الدوام هذا الإعلان نصب أعينهم، إلى توطيد احترام هذه الحقوق والحريات عن طريق التعليم والتربية واتخاذ إجراءات مطردة، قومية وعالمية، لضمان الاعتراف بها ومراعاتها بصورة عالمية فعالة بين الدول الأعضاء ذاتها وشعوب البقاع الخاضعة لسلطانها.</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Article 1.</src>
+  <tgt xml:lang="AR">المادة 1.</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">All human beings are born free and equal in dignity and rights.</src>
+  <tgt xml:lang="AR">يولد جميع الناس أحراراً متساوين في الكرامة والحقوق، وقد وهبوا عقلاً وضميراً وعليهم أن يعامل بعضهم بعضاً بروح الإخاء.</tgt>
+</seg>
+<seg  match="2-1" id="13">
+  <src xml:lang="EN">They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.<br/>Article 2.<br/></src>
+  <tgt xml:lang="AR">المادة 2.<br/></tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.</src>
+  <tgt xml:lang="AR">لكل إنسان حق التمتع بكافة الحقوق والحريات الواردة في هذا الإعلان، دون أي تمييز، كالتمييز بسبب العنصر أو اللون أو الجنس أو اللغة أو الدين أو الرأي السياسي أو أي رأي آخر، أو الأصل الوطني أو الاجتماعي أو الثروة أو الميلاد أو أي وضع آخر، دون أية تفرقة بين الرجال والنساء.</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.</src>
+  <tgt xml:lang="AR">وفضلا عما تقدم فلن يكون هناك أي تمييز أساسه الوضع السياسي أو القانوني أو الدولي لبلد أو البقعة التي ينتمي إليها الفرد سواء كان هذا البلد أو تلك البقعة مستقلا أو تحت الوصاية أو غير متمتع بالحكم الذاتي أو كانت سيادته خاضعة لأي قيد من القيود.</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">Article 3.</src>
+  <tgt xml:lang="AR">المادة 3.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">Everyone has the right to life, liberty and security of person.</src>
+  <tgt xml:lang="AR">لكل فرد الحق في الحياة والحرية وسلامة شخصه.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">Article 4.</src>
+  <tgt xml:lang="AR">المادة 4.</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.</src>
+  <tgt xml:lang="AR">لايجوز استرقاق أو استعباد أي شخص، ويحظر الاسترقاق وتجارة الرقيق بكافة أوضاعهما.</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">Article 5.</src>
+  <tgt xml:lang="AR">المادة 5.</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.</src>
+  <tgt xml:lang="AR">لايعرض أي إنسان للتعذيب ولا للعقوبات أو المعاملات القاسية أو الوحشية أو الحاطة بالكرامة.</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">Article 6.</src>
+  <tgt xml:lang="AR">المادة 6.</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">Everyone has the right to recognition everywhere as a person before the law.</src>
+  <tgt xml:lang="AR">لكل إنسان أينما وجد الحق في أن يعترف بشخصيته القانونية.</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">Article 7.</src>
+  <tgt xml:lang="AR">المادة 7.</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">All are equal before the law and are entitled without any discrimination to equal protection of the law.</src>
+  <tgt xml:lang="AR">كل الناس سواسية أمام القانون ولهم الحق في التمتع بحماية متكافئة عنه دون أية تفرقة، كما أن لهم جميعا الحق في حماية متساوية ضد أي تميز يخل بهذا الإعلان وضد أي تحريض على تمييز كهذا.</tgt>
+</seg>
+<seg  match="2-1" id="26">
+  <src xml:lang="EN">All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.<br/>Article 8.<br/></src>
+  <tgt xml:lang="AR">المادة 8.<br/></tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.</src>
+  <tgt xml:lang="AR">لكل شخص الحق في أن يلجأ إلى المحاكم الوطنية لإنصافه عن أعمال فيها اعتداء على الحقوق الأساسية التي يمنحها له القانون.</tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">Article 9.</src>
+  <tgt xml:lang="AR">المادة 9.</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">No one shall be subjected to arbitrary arrest, detention or exile.</src>
+  <tgt xml:lang="AR">لا يجوز القبض على أي إنسان أو حجزه أو نفيه تعسفاً.</tgt>
+</seg>
+<seg  match="1-1" id="30">
+  <src xml:lang="EN">Article 10.</src>
+  <tgt xml:lang="AR">المادة 10.</tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.</src>
+  <tgt xml:lang="AR">لكل إنسان الحق، على قدم المساواة التامة مع الآخرين، في أن تنظر قضيته أمام محكمة مستقلة نزيهة نظراً عادلاً علنياً للفصل في حقوقه والتزاماته وأية تهمة جنائية توجه إليه.</tgt>
+</seg>
+<seg  match="1-1" id="32">
+  <src xml:lang="EN">Article 11.</src>
+  <tgt xml:lang="AR">المادة 11.</tgt>
+</seg>
+<seg  match="1-1" id="33">
+  <src xml:lang="EN">(1) Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.</src>
+  <tgt xml:lang="AR">( 1 ) كل شخص متهم بجريمة يعتبر بريئاً إلى أن تثبت إدانته قانوناً بمحاكمة علنية تؤمن له فيها الضمانات الضرورية للدفاع عنه.</tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">(2) No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed.</src>
+  <tgt xml:lang="AR">( 2 ) لا يدان أي شخص من جراء أداة عمل أو الامتناع عن أداة عمل إلا إذا كان ذلك يعتبر جرماً وفقاً للقانون الوطني أو الدولي وقت الارتكاب، كذلك لا توقع عليه عقوبة أشد من تلك التي كان يجوز توقيعها وقت ارتكاب الجريمة.</tgt>
+</seg>
+<seg  match="4-2" id="35">
+  <src xml:lang="EN">Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.<br/>Article 12.<br/>No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation.<br/>Everyone has the right to the protection of the law against such interference or attacks.<br/></src>
+  <tgt xml:lang="AR">المادة 12.<br/>لا يعرض أحد لتدخل تعسفي في حياته الخاصة أو أسرته أو مسكنه أو مراسلاته أو لحملات على شرفه وسمعته، ولكل شخص الحق في حماية القانون من مثل هذا التدخل أو تلك الحملات.<br/></tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">Article 13.</src>
+  <tgt xml:lang="AR">المادة 13.</tgt>
+</seg>
+<seg  match="1-1" id="37">
+  <src xml:lang="EN">(1) Everyone has the right to freedom of movement and residence within the borders of each state.</src>
+  <tgt xml:lang="AR">( 1 ) لكل فرد حرية التنقل واختيار محل إقامته داخل حدود كل دولة.</tgt>
+</seg>
+<seg  match="1-1" id="38">
+  <src xml:lang="EN">(2) Everyone has the right to leave any country, including his own, and to return to his country.</src>
+  <tgt xml:lang="AR">( 2 ) يحق لكل فرد أن يغادر أية بلاد بما في ذلك بلده كما يحق له العودة إليه.</tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">Article 14.</src>
+  <tgt xml:lang="AR">المادة 14.</tgt>
+</seg>
+<seg  match="1-1" id="40">
+  <src xml:lang="EN">(1) Everyone has the right to seek and to enjoy in other countries asylum from persecution.</src>
+  <tgt xml:lang="AR">( 1 ) لكل فرد الحق في أن يلجأ إلى بلاد أخرى أو يحاول الالتجاء إليها هرباً من الاضطهاد.</tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">(2) This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.</src>
+  <tgt xml:lang="AR">( 2 ) لا ينتفع بهذا الحق من قدم للمحاكمة في جرائم غير سياسية أو لأعمال تناقض أغراض الأمم المتحدة ومبادئها.</tgt>
+</seg>
+<seg  match="1-1" id="42">
+  <src xml:lang="EN">Article 15.</src>
+  <tgt xml:lang="AR">المادة 15.</tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">(1) Everyone has the right to a nationality.</src>
+  <tgt xml:lang="AR">( 1 ) لكل فرد حق التمتع بجنسية ما.</tgt>
+</seg>
+<seg  match="1-1" id="44">
+  <src xml:lang="EN">(2) No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.</src>
+  <tgt xml:lang="AR">( 2 ) لا يجوز حرمان شخص من جنسيته تعسفاً أو إنكار حقه في تغييرها.</tgt>
+</seg>
+<seg  match="1-1" id="45">
+  <src xml:lang="EN">Article 16.</src>
+  <tgt xml:lang="AR">المادة 16.</tgt>
+</seg>
+<seg  match="2-1" id="46">
+  <src xml:lang="EN">(1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family.<br/>They are entitled to equal rights as to marriage, during marriage and at its dissolution.<br/></src>
+  <tgt xml:lang="AR">( 1 ) للرجل والمرأة متى بلغا سن الزواج حق التزوج وتأسيس أسرة دون أي قيد بسبب الجنس أو الدين، ولهما حقوق متساوية عند الزواج وأثناء قيامه وعند انحلاله.<br/></tgt>
+</seg>
+<seg  match="1-1" id="47">
+  <src xml:lang="EN">(2) Marriage shall be entered into only with the free and full consent of the intending spouses.</src>
+  <tgt xml:lang="AR">( 2 ) لا يبرم عقد الزواج إلا برضى الطرفين الراغبين في الزواج رضى كاملاً لا إكراه فيه.</tgt>
+</seg>
+<seg  match="1-1" id="48">
+  <src xml:lang="EN">(3) The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.</src>
+  <tgt xml:lang="AR">( 3 ) الأسرة هي الوحدة الطبيعية الأساسية للمجتمع ولها حق التمتع بحماية المجتمع والدولة.</tgt>
+</seg>
+<seg  match="1-1" id="49">
+  <src xml:lang="EN">Article 17.</src>
+  <tgt xml:lang="AR">المادة 17.</tgt>
+</seg>
+<seg  match="1-1" id="50">
+  <src xml:lang="EN">(1) Everyone has the right to own property alone as well as in association with others.</src>
+  <tgt xml:lang="AR">( 1 ) لكل شخص حق التملك بمفرده أو بالاشتراك مع غيره.</tgt>
+</seg>
+<seg  match="1-1" id="51">
+  <src xml:lang="EN">(2) No one shall be arbitrarily deprived of his property.</src>
+  <tgt xml:lang="AR">( 2 ) لا يجوز تجريد أحد من ملكه تعسفاً.</tgt>
+</seg>
+<seg  match="1-1" id="52">
+  <src xml:lang="EN">Article 18.</src>
+  <tgt xml:lang="AR">المادة 18.</tgt>
+</seg>
+<seg  match="1-1" id="53">
+  <src xml:lang="EN">Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.</src>
+  <tgt xml:lang="AR">لكل شخص الحق في حرية التفكير والضمير والدين، ويشمل هذا الحق حرية تغيير ديانته أو عقيدته، وحرية الإعراب عنهما بالتعليم والممارسة وإقامة الشعائر ومراعاتها سواء أكان ذلك سراً أم مع الجماعة.</tgt>
+</seg>
+<seg  match="1-1" id="54">
+  <src xml:lang="EN">Article 19.</src>
+  <tgt xml:lang="AR">المادة 19.</tgt>
+</seg>
+<seg  match="1-1" id="55">
+  <src xml:lang="EN">Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.</src>
+  <tgt xml:lang="AR">لكل شخص الحق في حرية الرأي والتعبير، ويشمل هذا الحق حرية اعتناق الآراء دون أي تدخل، واستقاء الأنباء والأفكار وتلقيها وإذاعتها بأية وسيلة كانت دون تقيد بالحدود الجغرافية.</tgt>
+</seg>
+<seg  match="1-1" id="56">
+  <src xml:lang="EN">Article 20.</src>
+  <tgt xml:lang="AR">المادة 20.</tgt>
+</seg>
+<seg  match="1-1" id="57">
+  <src xml:lang="EN">(1) Everyone has the right to freedom of peaceful assembly and association.</src>
+  <tgt xml:lang="AR">( 1 ) لكل شخص الحق في حرية الاشتراك في الجمعيات والجماعات السلمية.</tgt>
+</seg>
+<seg  match="1-1" id="58">
+  <src xml:lang="EN">(2) No one may be compelled to belong to an association.</src>
+  <tgt xml:lang="AR">( 2 ) لا يجوز إرغام أحد على الانضمام إلى جمعية ما.</tgt>
+</seg>
+<seg  match="1-1" id="59">
+  <src xml:lang="EN">Article 21.</src>
+  <tgt xml:lang="AR">المادة 21.</tgt>
+</seg>
+<seg  match="1-1" id="60">
+  <src xml:lang="EN">(1) Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.</src>
+  <tgt xml:lang="AR">( 1 ) لكل فرد الحق في الاشتراك في إدارة الشؤون العامة لبلاده إما مباشرة وإما بواسطة ممثلين يختارون اختياراً حراً.</tgt>
+</seg>
+<seg  match="1-1" id="61">
+  <src xml:lang="EN">(2) Everyone has the right of equal access to public service in his country.</src>
+  <tgt xml:lang="AR">( 2 ) لكل شخص نفس الحق الذي لغيره في تقلد الوظائف العامة في البلاد.</tgt>
+</seg>
+<seg  match="1-1" id="62">
+  <src xml:lang="EN">(3) The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.</src>
+  <tgt xml:lang="AR">( 3 ) إن إرادة الشعب هي مصدر سلطة الحكومة، ويعبر عن هذه الإرادة بانتخابات نزيهة دورية تجري على أساس الاقتراع السري وعلى قدم المساواة بين الجميع أو حسب أي إجراء مماثل يضمن حرية التصويت.</tgt>
+</seg>
+<seg  match="1-1" id="63">
+  <src xml:lang="EN">Article 22.</src>
+  <tgt xml:lang="AR">المادة 22.</tgt>
+</seg>
+<seg  match="1-1" id="64">
+  <src xml:lang="EN">Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality.</src>
+  <tgt xml:lang="AR">لكل شخص بصفته عضواً في المجتمع الحق في الضمانة الاجتماعية وفي أن تحقق بوساطة المجهود القومي والتعاون الدولي وبما يتفق ونظم كل دولة ومواردها الحقوق الاقتصادية والاجتماعية والتربوية التي لاغنى عنها لكرامته وللنمو الحر لشخصيته.</tgt>
+</seg>
+<seg  match="1-1" id="65">
+  <src xml:lang="EN">Article 23.</src>
+  <tgt xml:lang="AR">المادة 23.</tgt>
+</seg>
+<seg  match="1-1" id="66">
+  <src xml:lang="EN">(1) Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.</src>
+  <tgt xml:lang="AR">( 1 ) لكل شخص الحق في العمل، وله حرية اختياره بشروط عادلة مرضية كما أن له حق الحماية من البطالة.</tgt>
+</seg>
+<seg  match="1-1" id="67">
+  <src xml:lang="EN">(2) Everyone, without any discrimination, has the right to equal pay for equal work.</src>
+  <tgt xml:lang="AR">( 2 ) لكل فرد دون أي تمييز الحق في أجر متساو للعمل.</tgt>
+</seg>
+<seg  match="1-1" id="68">
+  <src xml:lang="EN">(3) Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.</src>
+  <tgt xml:lang="AR">( 3 ) لكل فرد يقوم بعمل الحق في أجر عادل مرض يكفل له ولأسرته عيشة لائقة بكرامة الإنسان تضاف إليه، عند اللزوم، وسائل أخرى للحماية الاجتماعية.</tgt>
+</seg>
+<seg  match="1-1" id="69">
+  <src xml:lang="EN">(4) Everyone has the right to form and to join trade unions for the protection of his interests.</src>
+  <tgt xml:lang="AR">( 4 ) لكل شخص الحق في أن ينشئ وينضم إلى نقابات حماية لمصلحته</tgt>
+</seg>
+<seg  match="1-1" id="70">
+  <src xml:lang="EN">Article 24.</src>
+  <tgt xml:lang="AR">المادة 24.</tgt>
+</seg>
+<seg  match="1-1" id="71">
+  <src xml:lang="EN">Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.</src>
+  <tgt xml:lang="AR">لكل شخص الحق في الراحة، وفي أوقات الفراغ، ولاسيما في تحديد معقول لساعات العمل وفي عطلات دورية بأجر.</tgt>
+</seg>
+<seg  match="1-1" id="72">
+  <src xml:lang="EN">Article 25.</src>
+  <tgt xml:lang="AR">المادة 25.</tgt>
+</seg>
+<seg  match="1-1" id="73">
+  <src xml:lang="EN">(1) Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.</src>
+  <tgt xml:lang="AR">( 1 ) لكل شخص الحق في مستوى من المعيشة كاف للمحافظة على الصحة والرفاهية له ولأسرته، ويتضمن ذلك التغذية والملبس والمسكن والعناية الطبية وكذلك الخدمات الاجتماعية اللازمة، وله الحق في تأمين معيشته في حالات البطالة والمرض والعجز والترمل والشيخوخة وغير ذلك من فقدان وسائل العيش نتيجة لظروف خارجة عن إرادته.</tgt>
+</seg>
+<seg  match="2-1" id="74">
+  <src xml:lang="EN">(2) Motherhood and childhood are entitled to special care and assistance.<br/>All children, whether born in or out of wedlock, shall enjoy the same social protection.<br/></src>
+  <tgt xml:lang="AR">( 2 ) للأمومة والطفولة الحق في مساعدة ورعاية خاصتين، وينعم كل الأطفال بنفس الحماية الاجتماعية سواء أكانت ولادتهم ناتجة عن رباط شرعي أو بطريقة غير شرعية.<br/></tgt>
+</seg>
+<seg  match="1-1" id="75">
+  <src xml:lang="EN">Article 26.</src>
+  <tgt xml:lang="AR">المادة 26.</tgt>
+</seg>
+<seg  match="7-3" id="76">
+  <src xml:lang="EN">(1) Everyone has the right to education.<br/>Education shall be free, at least in the elementary and fundamental stages.<br/>Elementary education shall be compulsory.<br/>Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.<br/>(2) Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms.<br/>It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.<br/>(3) Parents have a prior right to choose the kind of education that shall be given to their children.<br/></src>
+  <tgt xml:lang="AR">( 1 ) لكل شخص الحق في التعلم، ويجب أن يكون التعليم في مراحله الأولى والأساسية على الأقل بالمجان، وأن يكون التعليم الأولي إلزامياً وينبغي أن يعمم التعليم الفني والمهني، وأن ييسر القبول للتعليم العالي على قدم المساواة التامة للجميع وعلى أساس الكفاءة.<br/>( 2 ) يجب أن تهدف التربية إلى إنماء شخصية الإنسان إنماء كاملاً، وإلى تعزيز احترام الإنسان والحريات الأساسية وتنمية التفاهم والتسامح والصداقة بين جميع الشعوب والجماعات العنصرية أو الدينية، وإلى زيادة مجهود الأمم المتحدة لحفظ السلام.<br/>( 3 ) للآباء الحق الأول في اختيار نوع تربية أولادهم.<br/></tgt>
+</seg>
+<seg  match="1-1" id="77">
+  <src xml:lang="EN">Article 27.</src>
+  <tgt xml:lang="AR">المادة 27.</tgt>
+</seg>
+<seg  match="1-1" id="78">
+  <src xml:lang="EN">(1) Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.</src>
+  <tgt xml:lang="AR">( 1 ) لكل فرد الحق في أن يشترك اشتراكاً حراً في حياة المجتمع الثقافي وفي الاستمتاع بالفنون والمساهمة في التقدم العلمي والاستفادة من نتائجه.</tgt>
+</seg>
+<seg  match="1-1" id="79">
+  <src xml:lang="EN">(2) Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.</src>
+  <tgt xml:lang="AR">( 2 ) لكل فرد الحق في حماية المصالح الأدبية والمادية المترتبة على إنتاجه العلمي أو الأدبي أو الفني.</tgt>
+</seg>
+<seg  match="1-1" id="80">
+  <src xml:lang="EN">Article 28.</src>
+  <tgt xml:lang="AR">المادة 28.</tgt>
+</seg>
+<seg  match="1-1" id="81">
+  <src xml:lang="EN">Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.</src>
+  <tgt xml:lang="AR">لكل فرد الحق في التمتع بنظام اجتماعي دولي تتحقق بمقتضاه الحقوق والحريات المنصوص عليها في هذا الإعلان تحققاً تاما.</tgt>
+</seg>
+<seg  match="1-1" id="82">
+  <src xml:lang="EN">Article 29.</src>
+  <tgt xml:lang="AR">المادة 29.</tgt>
+</seg>
+<seg  match="1-1" id="83">
+  <src xml:lang="EN">(1) Everyone has duties to the community in which alone the free and full development of his personality is possible.</src>
+  <tgt xml:lang="AR">( 1 ) على كل فرد واجبات نحو المجتمع الذي يتاح فيه وحده لشخصيته أن تنمو نمواً حراُ كاملاً.</tgt>
+</seg>
+<seg  match="1-1" id="84">
+  <src xml:lang="EN">(2) In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.</src>
+  <tgt xml:lang="AR">( 2 ) يخضع الفرد في ممارسة حقوقه وحرياته لتلك القيود التي يقررها القانون فقط، لضمان الاعتراف بحقوق الغير وحرياته واحترامها ولتحقيق المقتضيات العادلة للنظام العام والمصلحة العامة والأخلاق في مجتمع ديمقراطي.</tgt>
+</seg>
+<seg  match="1-1" id="85">
+  <src xml:lang="EN">(3) These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.</src>
+  <tgt xml:lang="AR">( 3 ) لا يصح بحال من الأحوال أن تمارس هذه الحقوق ممارسة تتناقض مع أغراض الأمم المتحدة ومبادئها.</tgt>
+</seg>
+<seg  match="1-1" id="86">
+  <src xml:lang="EN">Article 30.</src>
+  <tgt xml:lang="AR">المادة 30.</tgt>
+</seg>
+<seg  match="1-1" id="87">
+  <src xml:lang="EN">Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.</src>
+  <tgt xml:lang="AR">ليس في هذا الإعلان نص يجوز تأويله على أنه يخول لدولة أو جماعة أو فرد أي حق في القيام بنشاط أو تأدية عمل يهدف إلى هدم الحقوق والحريات الواردة فيه.</tgt>
+</seg>
+</segments>
+</bitext>

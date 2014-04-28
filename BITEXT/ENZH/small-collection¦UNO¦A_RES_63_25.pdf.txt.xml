@@ -1,0 +1,50 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">United Nations A/RES/63/25</src>
+  <tgt xml:lang="ZH">联  合  国  A/RES/63/25</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">General Assembly Distr.: General 3 December 2008</src>
+  <tgt xml:lang="ZH">大  会  Distr.: General 3 December 2008</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Sixty-third session</src>
+  <tgt xml:lang="ZH">第 六 十 三 届 会 议 </tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Agenda item 64</src>
+  <tgt xml:lang="ZH">议 程 项 目  64</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Resolution adopted by the General Assembly</src>
+  <tgt xml:lang="ZH">大 会 决 议 </tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">[without reference to a Main Committee (A/63/L.31)]</src>
+  <tgt xml:lang="ZH">[未 经 发 交 主 要 委 员 会 而 通 过 (A/63/L.31)]</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">63/25. Commemoration of the sixtieth anniversary of</src>
+  <tgt xml:lang="ZH">63/25. 纪 念 《 世 界 人 权 宣 言 》 六 十 周 年 </tgt>
+</seg>
+<seg  match="1-2" id="8">
+  <src xml:lang="EN">the Universal Declaration of Human Rights<br/></src>
+  <tgt xml:lang="ZH">大 会 ， <br/>依 循 《 联 合 国 宪 章 》 的 宗 旨 、 原 则 和 规 定 ， 其 中 包 括 促 进 和 尊 重 所 有 人 的 人 <br/></tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">The General Assembly,</src>
+  <tgt xml:lang="ZH">权 和 基 本 自 由 ， </tgt>
+</seg>
+<seg  match="47-27" id="10">
+  <src xml:lang="EN">Guided by the purposes, principles and provisions of the Charter of the United<br/>Nations, which include the promotion of, and respect for, human rights and<br/>fundamental freedoms for all,<br/>Recalling its resolution 62/171 of 18 December 2007 entitled "International<br/>Year of Human Rights Learning”, in which it decided to commemorate the sixtieth<br/>anniversary of the Universal Declaration of Human Rights1 at a plenary meeting to<br/>be held on 10 December 2008,<br/>Recalling also its resolution 2217 A (XXI) of 19 December 1966, in which it<br/>decided to award at five-year intervals the United Nations award for outstanding<br/>achievements in the field of human rights,<br/>1. Reaffirms its decision to commemorate the sixtieth anniversary of the<br/>Universal Declaration of Human Rights1 on 10 December 2008;<br/>2. Decides that the commemorative event will comprise a plenary meeting,<br/>including the award ceremony for the United Nations prize in the field of human<br/>rights, and two consecutive informal interactive panel discussions;<br/>3. Encourages all Member States and observers to participate at the highest<br/>level possible;<br/>4. Decides that the President of the General Assembly, the President of the<br/>Human Rights Council, the Secretary-General and the United Nations High<br/>Commissioner for Human Rights will address the commemorative plenary meeting;<br/>5. Invites intergovernmental organizations and entities that have observer<br/>status with the General Assembly, relevant entities of the United Nations system and<br/>non-governmental organizations in consultative status with the Economic and Social<br/>Council to be represented at the commemorative event;<br/>_______________<br/>1 Resolution 217 A (III).<br/>08-47229<br/>A/RES/63/25<br/>6. Requests the President of the General Assembly, in consultation with<br/>Member States and with the technical support of the Office of the United Nations<br/>High Commissioner for Human Rights, to draw up, no later than 30 November<br/>2008, a list of two representatives of pertinent non-governmental organizations for<br/>each of the informal interactive panel discussions who will speak on behalf of civil<br/>society, and to circulate the list to Member States to be considered on a no-objection<br/>basis;<br/>7. Also requests the President of the General Assembly, in consultation with<br/>Member States and with the technical support of the Office of the United Nations<br/>High Commissioner for Human Rights, to finalize the organizational arrangements<br/>for the commemorative event, including the identification of themes and the<br/>assignment of panellists for the informal interactive panel discussions;<br/>8. Further requests the President of the General Assembly to hold open<br/>consultations with Member States and observers in order to prepare a brief<br/>declaration reaffirming the Universal Declaration of Human Rights and the<br/>commitment for its full implementation, to be adopted by consensus at the<br/>commemorative plenary meeting.<br/>57th plenary meeting<br/>24 November 2008<br/></src>
+  <tgt xml:lang="ZH">回 顾 其  2007 年  12 月  18 日 题 为 "国 际 人 权 学 习 年 ” 的 第  62/171 号 决 议 决 定 <br/>在  2008 年  12 月  10 日 举 行 的 全 体 会 议 上 纪 念 《 世 界 人 权 宣 言 》 1 六 十 周 年 ， <br/>又 回 顾 其  1966年  12月  19日 第  2217 A(XXI)号 决 议 决 定 联 合 国 每 隔 五 年 为 人 <br/>权 领 域 的 卓 越 成 绩 颁 奖 一 次 ， <br/>1. 重 申 它 决 定 在  2008 年  12 月  10 日 纪 念 《 世 界 人 权 宣 言 》  六 十 周 年 ； <br/>2. 决 定 纪 念 活 动 包 括 召 开 一 次 全 体 会 议 ， 举 行 联 合 国 人 权 奖 颁 奖 仪 式 ， <br/>并 进 行 两 次 头 尾 相 接 的 非 正 式 互 动 小 组 讨 论 ； <br/>3. 鼓 励 所 有 会 员 国 和 观 察 员 尽 可 能 派 最 高 级 别 代 表 参 加 ； <br/>4. 决 定 大 会 主 席 、 人 权 理 事 会 主 席 、 秘 书 长 和 联 合 国 人 权 事 务 高 级 专 员 在 <br/>纪 念 性 全 体 会 议 上 讲 话 ； <br/>5. 邀 请 享 有 大 会 观 察 员 地 位 的 政 府 间 组 织 及 实 体 、 联 合 国 系 统 相 关 实 体 和 <br/>享 有 经 济 及 社 会 理 事 会 咨 商 地 位 的 非 政 府 组 织 派 代 表 参 加 这 次 纪 念 活 动 ； <br/>6. 请 大 会 主 席 与 会 员 国 协 商 后 ， 在 联 合 国 人 权 事 务 高 级 专 员 办 事 处 的 技 术 <br/>协 助 下 ， 最 迟 于  2008 年  11 月  30 日 拟 订 一 份 名 单 ， 列 出 在 各 次 非 正 式 互 动 小 组 <br/>1 第  217 A(III)号 决 议 。 <br/>08-47228<br/>A/RES/63/25<br/>讨 论 过 程 中 代 表 民 间 社 会 发 言 的 有 关 非 政 府 组 织 的 两 名 代 表 ， 并 将 名 单 分 发 <br/>给 会 员 国 ， 以 便 在 无 异 议 的 基 础 上 进 行 审 议 ； <br/>7. 又 请 大 会 主 席 与 会 员 国 协 商 后 ， 在 联 合 国 人 权 事 务 高 级 专 员 办 事 处 的 技 <br/>术 协 助 下 ， 最 后 确 定 纪 念 活 动 的 安 排 ， 包 括 确 定 主 题 及 指 派 参 加 非 正 式 互 动 性 小 <br/>组 讨 论 的 人 ； <br/>8. 还 请 大 会 主 席 同 会 员 国 及 观 察 员 进 行 公 开 磋 商 ， 以 起 草 一 份 简 要 声 <br/>明 ， 重 申 《 世 界 人 权 宣 言 》 和 充 分 实 施 《 宣 言 》 的 决 心 ， 供 纪 念 性 全 体 会 议 <br/>以 协 商 一 致 方 式 通 过 。 <br/>2008 年  11 月  24 日 <br/>第  57 次 全 体 会 议 <br/></tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">2</src>
+  <tgt xml:lang="ZH">2</tgt>
+</seg>
+</segments>
+</bitext>

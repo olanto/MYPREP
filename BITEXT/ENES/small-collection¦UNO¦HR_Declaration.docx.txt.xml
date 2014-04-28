@@ -1,0 +1,390 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿The Universal Declaration of Human Rights</src>
+  <tgt xml:lang="ES">﻿Declaración Universal de Derechos Humanos</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">PREAMBLE</src>
+  <tgt xml:lang="ES">Preámbulo</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,</src>
+  <tgt xml:lang="ES">Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana;</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,</src>
+  <tgt xml:lang="ES">Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado actos de barbarie ultrajantes para la conciencia de la humanidad, y que se ha proclamado, como la aspiración más elevada del hombre, el advenimiento de un mundo en que los seres humanos, liberados del temor y de la miseria, disfruten de la libertad de palabra y de la libertad de creencias;</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law,</src>
+  <tgt xml:lang="ES">Considerando esencial que los derechos humanos sean protegidos por un régimen de Derecho, a fin de que el hombre no se vea compelido al supremo recurso de la rebelión contra la tiranía y la opresión;</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">Whereas it is essential to promote the development of friendly relations between nations,</src>
+  <tgt xml:lang="ES">Considerando también esencial promover el desarrollo de relaciones amistosas entre las naciones;</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom,</src>
+  <tgt xml:lang="ES">Considerando que los pueblos de las Naciones Unidas han reafirmado en la Carta su fe en los derechos fundamentales del hombre, en la dignidad y el valor de la persona humana y en la igualdad de derechos de hombres y mujeres, y se han declarado resueltos a promover el progreso social y a elevar el nivel de vida dentro de un concepto más amplio de la libertad;</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">Whereas Member States have pledged themselves to achieve, in co-operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms,</src>
+  <tgt xml:lang="ES">Considerando que los Estados Miembros se han comprometido a asegurar, en cooperación con la Organización de las Naciones Unidas, el respeto universal y efectivo a los derechos y libertades fundamentales del hombre, y</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge,</src>
+  <tgt xml:lang="ES">Considerando que una concepción común de estos derechos y libertades es de la mayor importancia para el pleno cumplimiento de dicho compromiso;</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Now, Therefore THE GENERAL ASSEMBLY proclaims THIS UNIVERSAL DECLARATION OF HUMAN RIGHTS as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.</src>
+  <tgt xml:lang="ES">LA ASAMBLEA GENERAL proclama la presente DECLARACIÓN UNIVERSAL DE DERECHOS HUMANOS como ideal común por el que todos los pueblos y naciones deben esforzarse, a fin de que tanto los individuos como las instituciones, inspirándose constantemente en ella, promuevan, mediante la enseñanza y la educación, el respeto a estos derechos y libertades, y aseguren, por medidas progresivas de carácter nacional e internacional, su reconocimiento y aplicación universales y efectivos, tanto entre los pueblos de los Estados Miembros como entre los de los territorios colocados bajo su jurisdicción.</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Article 1.</src>
+  <tgt xml:lang="ES">Artículo 1</tgt>
+</seg>
+<seg  match="2-1" id="12">
+  <src xml:lang="EN">All human beings are born free and equal in dignity and rights.<br/>They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.<br/></src>
+  <tgt xml:lang="ES">Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.<br/></tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">Article 2.</src>
+  <tgt xml:lang="ES">Artículo 2</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.</src>
+  <tgt xml:lang="ES">Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición.</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.</src>
+  <tgt xml:lang="ES">Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional del país o territorio de cuya jurisdicción dependa una persona, tanto si se trata de un país independiente, como de un territorio bajo administración fiduciaria, no autónomo o sometido a cualquier otra limitación de soberanía.</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">Article 3.</src>
+  <tgt xml:lang="ES">Artículo 3</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">Everyone has the right to life, liberty and security of person.</src>
+  <tgt xml:lang="ES">Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">Article 4.</src>
+  <tgt xml:lang="ES">Artículo 4</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.</src>
+  <tgt xml:lang="ES">Nadie estará sometido a esclavitud ni a servidumbre, la esclavitud y la trata de esclavos están prohibidas en todas sus formas.</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">Article 5.</src>
+  <tgt xml:lang="ES">Artículo 5</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.</src>
+  <tgt xml:lang="ES">Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">Article 6.</src>
+  <tgt xml:lang="ES">Artículo 6</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">Everyone has the right to recognition everywhere as a person before the law.</src>
+  <tgt xml:lang="ES">Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica.</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">Article 7.</src>
+  <tgt xml:lang="ES">Artículo 7</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">All are equal before the law and are entitled without any discrimination to equal protection of the law.</src>
+  <tgt xml:lang="ES">Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley.</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.</src>
+  <tgt xml:lang="ES">Todos tienen derecho a igual protección contra toda discriminación que infrinja esta Declaración y contra toda provocación a tal discriminación.</tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">Article 8.</src>
+  <tgt xml:lang="ES">Artículo 8</tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.</src>
+  <tgt xml:lang="ES">Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes, que la ampare contra actos que violen sus derechos fundamentales reconocidos por la constitución o por la ley.</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">Article 9.</src>
+  <tgt xml:lang="ES">Artículo 9</tgt>
+</seg>
+<seg  match="1-1" id="30">
+  <src xml:lang="EN">No one shall be subjected to arbitrary arrest, detention or exile.</src>
+  <tgt xml:lang="ES">Nadie podrá ser arbitrariamente detenido, preso ni desterrado.</tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">Article 10.</src>
+  <tgt xml:lang="ES">Artículo 10</tgt>
+</seg>
+<seg  match="1-1" id="32">
+  <src xml:lang="EN">Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.</src>
+  <tgt xml:lang="ES">Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus derechos y obligaciones o para el examen de cualquier acusación contra ella en materia penal.</tgt>
+</seg>
+<seg  match="1-1" id="33">
+  <src xml:lang="EN">Article 11.</src>
+  <tgt xml:lang="ES">Artículo 11</tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">(1) Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.</src>
+  <tgt xml:lang="ES">1. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad, conforme a la ley y en juicio público en el que se le hayan asegurado todas las garantías necesarias para su defensa.</tgt>
+</seg>
+<seg  match="1-1" id="35">
+  <src xml:lang="EN">(2) No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed.</src>
+  <tgt xml:lang="ES">2. Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron delictivos según el Derecho nacional o internacional.</tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.</src>
+  <tgt xml:lang="ES">Tampoco se impondrá pena más grave que la aplicable en el momento de la comisión del delito.</tgt>
+</seg>
+<seg  match="1-1" id="37">
+  <src xml:lang="EN">Article 12.</src>
+  <tgt xml:lang="ES">Artículo 12</tgt>
+</seg>
+<seg  match="1-1" id="38">
+  <src xml:lang="EN">No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation.</src>
+  <tgt xml:lang="ES">Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación.</tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">Everyone has the right to the protection of the law against such interference or attacks.</src>
+  <tgt xml:lang="ES">Toda persona tiene derecho a la protección de la ley contra tales injerencias o ataques.</tgt>
+</seg>
+<seg  match="1-1" id="40">
+  <src xml:lang="EN">Article 13.</src>
+  <tgt xml:lang="ES">Artículo 13</tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">(1) Everyone has the right to freedom of movement and residence within the borders of each state.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado.</tgt>
+</seg>
+<seg  match="1-1" id="42">
+  <src xml:lang="EN">(2) Everyone has the right to leave any country, including his own, and to return to his country.</src>
+  <tgt xml:lang="ES">2. Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.</tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">Article 14.</src>
+  <tgt xml:lang="ES">Artículo 14</tgt>
+</seg>
+<seg  match="1-1" id="44">
+  <src xml:lang="EN">(1) Everyone has the right to seek and to enjoy in other countries asylum from persecution.</src>
+  <tgt xml:lang="ES">1. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en cualquier país.</tgt>
+</seg>
+<seg  match="1-1" id="45">
+  <src xml:lang="EN">(2) This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.</src>
+  <tgt xml:lang="ES">2. Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas.</tgt>
+</seg>
+<seg  match="1-1" id="46">
+  <src xml:lang="EN">Article 15.</src>
+  <tgt xml:lang="ES">Artículo 15</tgt>
+</seg>
+<seg  match="1-1" id="47">
+  <src xml:lang="EN">(1) Everyone has the right to a nationality.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho a una nacionalidad.</tgt>
+</seg>
+<seg  match="1-1" id="48">
+  <src xml:lang="EN">(2) No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.</src>
+  <tgt xml:lang="ES">2. A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.</tgt>
+</seg>
+<seg  match="1-1" id="49">
+  <src xml:lang="EN">Article 16.</src>
+  <tgt xml:lang="ES">Artículo 16</tgt>
+</seg>
+<seg  match="1-1" id="50">
+  <src xml:lang="EN">(1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family.</src>
+  <tgt xml:lang="ES">1. Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por motivos de raza, nacionalidad o religión, a casarse y fundar una familia, y disfrutarán de iguales derechos en cuanto al matrimonio, durante el matrimonio y en caso de disolución del matrimonio.</tgt>
+</seg>
+<seg  match="2-1" id="51">
+  <src xml:lang="EN">They are entitled to equal rights as to marriage, during marriage and at its dissolution.<br/>(2) Marriage shall be entered into only with the free and full consent of the intending spouses.<br/></src>
+  <tgt xml:lang="ES">2. Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.<br/></tgt>
+</seg>
+<seg  match="1-1" id="52">
+  <src xml:lang="EN">(3) The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.</src>
+  <tgt xml:lang="ES">3. La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.</tgt>
+</seg>
+<seg  match="1-1" id="53">
+  <src xml:lang="EN">Article 17.</src>
+  <tgt xml:lang="ES">Artículo 17</tgt>
+</seg>
+<seg  match="1-1" id="54">
+  <src xml:lang="EN">(1) Everyone has the right to own property alone as well as in association with others.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho a la propiedad, individual y colectivamente.</tgt>
+</seg>
+<seg  match="1-1" id="55">
+  <src xml:lang="EN">(2) No one shall be arbitrarily deprived of his property.</src>
+  <tgt xml:lang="ES">2. Nadie será privado arbitrariamente de su propiedad.</tgt>
+</seg>
+<seg  match="1-1" id="56">
+  <src xml:lang="EN">Article 18.</src>
+  <tgt xml:lang="ES">Artículo 18</tgt>
+</seg>
+<seg  match="1-1" id="57">
+  <src xml:lang="EN">Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.</src>
+  <tgt xml:lang="ES">Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de religión; este derecho incluye la libertad de cambiar de religión o de creencia, así como la libertad de manifestar su religión o su creencia, individual y colectivamente, tanto en público como en privado, por la enseñanza, la práctica, el culto y la observancia.</tgt>
+</seg>
+<seg  match="1-1" id="58">
+  <src xml:lang="EN">Article 19.</src>
+  <tgt xml:lang="ES">Artículo 19</tgt>
+</seg>
+<seg  match="1-1" id="59">
+  <src xml:lang="EN">Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.</src>
+  <tgt xml:lang="ES">Todo individuo tiene derecho a la libertad de opinión y de expresión; este derecho incluye el de no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión.</tgt>
+</seg>
+<seg  match="1-1" id="60">
+  <src xml:lang="EN">Article 20.</src>
+  <tgt xml:lang="ES">Artículo 20</tgt>
+</seg>
+<seg  match="1-1" id="61">
+  <src xml:lang="EN">(1) Everyone has the right to freedom of peaceful assembly and association.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.</tgt>
+</seg>
+<seg  match="1-1" id="62">
+  <src xml:lang="EN">(2) No one may be compelled to belong to an association.</src>
+  <tgt xml:lang="ES">2. Nadie podrá ser obligado a pertenecer a una asociación.</tgt>
+</seg>
+<seg  match="1-1" id="63">
+  <src xml:lang="EN">Article 21.</src>
+  <tgt xml:lang="ES">Artículo 21</tgt>
+</seg>
+<seg  match="1-1" id="64">
+  <src xml:lang="EN">(1) Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio de representantes libremente escogidos.</tgt>
+</seg>
+<seg  match="1-1" id="65">
+  <src xml:lang="EN">(2) Everyone has the right of equal access to public service in his country.</src>
+  <tgt xml:lang="ES">2. Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas de su país.</tgt>
+</seg>
+<seg  match="1-1" id="66">
+  <src xml:lang="EN">(3) The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.</src>
+  <tgt xml:lang="ES">3. La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal e igual y por voto secreto u otro procedimiento equivalente que garantice la libertad del voto.</tgt>
+</seg>
+<seg  match="1-1" id="67">
+  <src xml:lang="EN">Article 22.</src>
+  <tgt xml:lang="ES">Artículo 22</tgt>
+</seg>
+<seg  match="1-1" id="68">
+  <src xml:lang="EN">Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality.</src>
+  <tgt xml:lang="ES">Toda persona, como miembro de la sociedad, tiene derecho a la seguridad social, y a obtener, mediante el esfuerzo nacional y la cooperación internacional, habida cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.</tgt>
+</seg>
+<seg  match="1-1" id="69">
+  <src xml:lang="EN">Article 23.</src>
+  <tgt xml:lang="ES">Artículo 23</tgt>
+</seg>
+<seg  match="1-1" id="70">
+  <src xml:lang="EN">(1) Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.</tgt>
+</seg>
+<seg  match="1-1" id="71">
+  <src xml:lang="EN">(2) Everyone, without any discrimination, has the right to equal pay for equal work.</src>
+  <tgt xml:lang="ES">2. Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.</tgt>
+</seg>
+<seg  match="1-1" id="72">
+  <src xml:lang="EN">(3) Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.</src>
+  <tgt xml:lang="ES">3. Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le asegure, así como a su familia, una existencia conforme a la dignidad humana y que será completada, en caso necesario, por cualesquiera otros medios de protección social.</tgt>
+</seg>
+<seg  match="1-1" id="73">
+  <src xml:lang="EN">(4) Everyone has the right to form and to join trade unions for the protection of his interests.</src>
+  <tgt xml:lang="ES">4. Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.</tgt>
+</seg>
+<seg  match="1-1" id="74">
+  <src xml:lang="EN">Article 24.</src>
+  <tgt xml:lang="ES">Artículo 24</tgt>
+</seg>
+<seg  match="1-1" id="75">
+  <src xml:lang="EN">Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.</src>
+  <tgt xml:lang="ES">Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas.</tgt>
+</seg>
+<seg  match="1-1" id="76">
+  <src xml:lang="EN">Article 25.</src>
+  <tgt xml:lang="ES">Artículo 25</tgt>
+</seg>
+<seg  match="1-1" id="77">
+  <src xml:lang="EN">(1) Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, enfermedad, invalidez, viudez, vejez u otros casos de pérdida de sus medios de subsistencia por circunstancias independientes de su voluntad.</tgt>
+</seg>
+<seg  match="1-1" id="78">
+  <src xml:lang="EN">(2) Motherhood and childhood are entitled to special care and assistance.</src>
+  <tgt xml:lang="ES">2. La maternidad y la infancia tienen derecho a cuidados y asistencia especiales.</tgt>
+</seg>
+<seg  match="1-1" id="79">
+  <src xml:lang="EN">All children, whether born in or out of wedlock, shall enjoy the same social protection.</src>
+  <tgt xml:lang="ES">Todos los niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.</tgt>
+</seg>
+<seg  match="1-1" id="80">
+  <src xml:lang="EN">Article 26.</src>
+  <tgt xml:lang="ES">Artículo 26</tgt>
+</seg>
+<seg  match="1-1" id="81">
+  <src xml:lang="EN">(1) Everyone has the right to education.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho a la educación.</tgt>
+</seg>
+<seg  match="1-1" id="82">
+  <src xml:lang="EN">Education shall be free, at least in the elementary and fundamental stages.</src>
+  <tgt xml:lang="ES">La educación debe ser gratuita, al menos en lo concerniente a la instrucción elemental y fundamental.</tgt>
+</seg>
+<seg  match="1-1" id="83">
+  <src xml:lang="EN">Elementary education shall be compulsory.</src>
+  <tgt xml:lang="ES">La instrucción elemental será obligatoria.</tgt>
+</seg>
+<seg  match="1-1" id="84">
+  <src xml:lang="EN">Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.</src>
+  <tgt xml:lang="ES">La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.</tgt>
+</seg>
+<seg  match="1-1" id="85">
+  <src xml:lang="EN">(2) Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms.</src>
+  <tgt xml:lang="ES">2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.</tgt>
+</seg>
+<seg  match="2-1" id="86">
+  <src xml:lang="EN">It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.<br/>(3) Parents have a prior right to choose the kind of education that shall be given to their children.<br/></src>
+  <tgt xml:lang="ES">3. Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos.<br/></tgt>
+</seg>
+<seg  match="1-1" id="87">
+  <src xml:lang="EN">Article 27.</src>
+  <tgt xml:lang="ES">Artículo 27</tgt>
+</seg>
+<seg  match="1-1" id="88">
+  <src xml:lang="EN">(1) Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.</tgt>
+</seg>
+<seg  match="1-1" id="89">
+  <src xml:lang="EN">(2) Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.</src>
+  <tgt xml:lang="ES">2. Toda persona tiene derecho a la protección de los intereses morales y materiales que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora.</tgt>
+</seg>
+<seg  match="1-1" id="90">
+  <src xml:lang="EN">Article 28.</src>
+  <tgt xml:lang="ES">Artículo 28</tgt>
+</seg>
+<seg  match="1-1" id="91">
+  <src xml:lang="EN">Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.</src>
+  <tgt xml:lang="ES">Toda persona tiene derecho a que se establezca un orden social e internacional en el que los derechos y libertades proclamados en esta Declaración se hagan plenamente efectivos.</tgt>
+</seg>
+<seg  match="1-1" id="92">
+  <src xml:lang="EN">Article 29.</src>
+  <tgt xml:lang="ES">Artículo 29</tgt>
+</seg>
+<seg  match="1-1" id="93">
+  <src xml:lang="EN">(1) Everyone has duties to the community in which alone the free and full development of his personality is possible.</src>
+  <tgt xml:lang="ES">1. Toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad.</tgt>
+</seg>
+<seg  match="1-1" id="94">
+  <src xml:lang="EN">(2) In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.</src>
+  <tgt xml:lang="ES">2. En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.</tgt>
+</seg>
+<seg  match="2-1" id="95">
+  <src xml:lang="EN">(3) These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.<br/>Article 30.<br/></src>
+  <tgt xml:lang="ES">Artículo 30<br/></tgt>
+</seg>
+<seg  match="1-1" id="96">
+  <src xml:lang="EN">Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.</src>
+  <tgt xml:lang="ES">Nada en esta Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades o realizar actos tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta Declaración.</tgt>
+</seg>
+</segments>
+</bitext>

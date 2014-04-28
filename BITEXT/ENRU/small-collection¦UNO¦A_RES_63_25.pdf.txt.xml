@@ -1,0 +1,130 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">United Nations A/RES/63/25</src>
+  <tgt xml:lang="RU">Организация Объединенных Наций A/RES/63/25</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">General Assembly Distr.: General 3 December 2008</src>
+  <tgt xml:lang="RU">Генеральная Ассамблея Distr.: General 3 December 2008</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">Sixty-third session</src>
+  <tgt xml:lang="RU">Шестьдесят третья сессия</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Agenda item 64</src>
+  <tgt xml:lang="RU">Пункт 64 повестки дня</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Resolution adopted by the General Assembly</src>
+  <tgt xml:lang="RU">Резолюция, принятая Генеральной Ассамблеей</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">[without reference to a Main Committee (A/63/L.31)]</src>
+  <tgt xml:lang="RU">[без передачи в главные комитеты (A/63/L.31)]</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">63/25. Commemoration of the sixtieth anniversary of</src>
+  <tgt xml:lang="RU">63/25. Празднование шестидесятой годовщины Всеобщей</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">the Universal Declaration of Human Rights</src>
+  <tgt xml:lang="RU">декларации прав человека</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">The General Assembly,</src>
+  <tgt xml:lang="RU">Генеральная Ассамблея,</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Guided by the purposes, principles and provisions of the Charter of the United</src>
+  <tgt xml:lang="RU">руководствуясь целями, принципами и положениями Устава Организации</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Nations, which include the promotion of, and respect for, human rights and</src>
+  <tgt xml:lang="RU">Объединенных Наций, которые включают поощрение и уважение прав</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">fundamental freedoms for all,</src>
+  <tgt xml:lang="RU">человека и основных свобод для всех,</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">Recalling its resolution 62/171 of 18 December 2007 entitled "International</src>
+  <tgt xml:lang="RU">ссылаясь на свою резолюцию 62/171 от 18 декабря 2007 года,</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">Year of Human Rights Learning”, in which it decided to commemorate the sixtieth</src>
+  <tgt xml:lang="RU">озаглавленную 'Международный год обучения в области прав человека', в</tgt>
+</seg>
+<seg  match="1-2" id="15">
+  <src xml:lang="EN">anniversary of the Universal Declaration of Human Rights1 at a plenary meeting to<br/></src>
+  <tgt xml:lang="RU">которой она постановила отметить шестидесятую годовщину Всеобщей<br/>декларации прав человека1 на пленарном заседании, которое будет проведено<br/></tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">be held on 10 December 2008,</src>
+  <tgt xml:lang="RU">10 декабря 2008 года,</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">Recalling also its resolution 2217 A (XXI) of 19 December 1966, in which it</src>
+  <tgt xml:lang="RU">ссылаясь также на свою резолюцию 2217 A (XXI) от 19 декабря</tgt>
+</seg>
+<seg  match="3-4" id="18">
+  <src xml:lang="EN">decided to award at five-year intervals the United Nations award for outstanding<br/>achievements in the field of human rights,<br/>1. Reaffirms its decision to commemorate the sixtieth anniversary of the<br/></src>
+  <tgt xml:lang="RU">1966 года, в которой она постановила присуждать раз в пять лет премию<br/>Организации Объединенных Наций за выдающиеся заслуги в области прав<br/>человека,<br/>1. подтверждает свое решение отметить шестидесятую годовщину<br/></tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">Universal Declaration of Human Rights1 on 10 December 2008;</src>
+  <tgt xml:lang="RU">Всеобщей декларации прав человека1 10 декабря 2008 года;</tgt>
+</seg>
+<seg  match="2-3" id="20">
+  <src xml:lang="EN">2. Decides that the commemorative event will comprise a plenary meeting,<br/>including the award ceremony for the United Nations prize in the field of human<br/></src>
+  <tgt xml:lang="RU">2. постановляет, что в ходе этого торжественного мероприятия будут<br/>проведены одно пленарное заседание, в том числе церемония присуждения<br/>премии Организации Объединенных Наций в области прав человека, и два<br/></tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">rights, and two consecutive informal interactive panel discussions;</src>
+  <tgt xml:lang="RU">следующих друг за другом неофициальных интерактивных дискуссионных</tgt>
+</seg>
+<seg  match="21-27" id="22">
+  <src xml:lang="EN">3. Encourages all Member States and observers to participate at the highest<br/>level possible;<br/>4. Decides that the President of the General Assembly, the President of the<br/>Human Rights Council, the Secretary-General and the United Nations High<br/>Commissioner for Human Rights will address the commemorative plenary meeting;<br/>5. Invites intergovernmental organizations and entities that have observer<br/>status with the General Assembly, relevant entities of the United Nations system and<br/>non-governmental organizations in consultative status with the Economic and Social<br/>Council to be represented at the commemorative event;<br/>_______________<br/>1 Resolution 217 A (III).<br/>08-47229<br/>A/RES/63/25<br/>6. Requests the President of the General Assembly, in consultation with<br/>Member States and with the technical support of the Office of the United Nations<br/>High Commissioner for Human Rights, to draw up, no later than 30 November<br/>2008, a list of two representatives of pertinent non-governmental organizations for<br/>each of the informal interactive panel discussions who will speak on behalf of civil<br/>society, and to circulate the list to Member States to be considered on a no-objection<br/>basis;<br/>7. Also requests the President of the General Assembly, in consultation with<br/></src>
+  <tgt xml:lang="RU">форума;<br/>3. рекомендует всем государствам-членам и наблюдателям принять<br/>участие на как можно более высоком уровне;<br/>4. постановляет, что Председатель Генеральной Ассамблеи,<br/>Председатель Совета по правам человека, Генеральный секретарь и Верховный<br/>комиссар Организации Объединенных Наций по правам человека выступят на<br/>торжественном пленарном заседании;<br/>_______________<br/>1 Резолюция 217 А (III).<br/>08-47231<br/>A/RES/63/25<br/>5. предлагает международным организациям и учреждениям, которые<br/>имеют статус наблюдателя в Генеральной Ассамблее, соответствующим<br/>органам системы Организации Объединенных Наций и неправительственным<br/>организациям, имеющим консультативный статус при Экономическом и<br/>Социальном Совете, направить своих представителей для участия в этом<br/>торжественном мероприятии;<br/>6. просит Председателя Генеральной Ассамблеи в консультации с<br/>государствами-членами и при технической поддержке Управления Верховного<br/>комиссара Организации Объединенных Наций по правам человека не позднее<br/>чем к 30 ноября 2008 года составить список, содержащий имена двух<br/>представителей соответствующих неправительственных организаций для<br/>каждого неофициального интерактивного дискуссионного форума, которые<br/>будут выступать от имени гражданского общества, и распространить среди<br/>государств-членов этот список, который должен быть рассмотрен по принципу<br/>отсутствия возражений;<br/>7. просит также Председателя Генеральной Ассамблеи в<br/></tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">Member States and with the technical support of the Office of the United Nations</src>
+  <tgt xml:lang="RU">консультации с государствами-членами и при технической поддержке</tgt>
+</seg>
+<seg  match="1-2" id="24">
+  <src xml:lang="EN">High Commissioner for Human Rights, to finalize the organizational arrangements<br/></src>
+  <tgt xml:lang="RU">Управления Верховного комиссара Организации Объединенных Наций по<br/>правам человека окончательно решить все организационные вопросы,<br/></tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">for the commemorative event, including the identification of themes and the</src>
+  <tgt xml:lang="RU">связанные с этим торжественным мероприятием, включая определение тем и</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">assignment of panellists for the informal interactive panel discussions;</src>
+  <tgt xml:lang="RU">назначение членов групп для проведения неофициальных интерактивных</tgt>
+</seg>
+<seg  match="1-2" id="27">
+  <src xml:lang="EN">8. Further requests the President of the General Assembly to hold open<br/></src>
+  <tgt xml:lang="RU">дискуссионных форумов;<br/>8. просит далее Председателя Генеральной Ассамблеи провести<br/></tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">consultations with Member States and observers in order to prepare a brief</src>
+  <tgt xml:lang="RU">открытые консультации с государствами-членами и наблюдателями, с тем</tgt>
+</seg>
+<seg  match="4-5" id="29">
+  <src xml:lang="EN">declaration reaffirming the Universal Declaration of Human Rights and the<br/>commitment for its full implementation, to be adopted by consensus at the<br/>commemorative plenary meeting.<br/>57th plenary meeting<br/></src>
+  <tgt xml:lang="RU">чтобы подготовить краткое заявление, подтверждающее Всеобщую<br/>декларацию прав человека и приверженность ее полному осуществлению,<br/>которое должно быть принято консенсусом на торжественном пленарном<br/>заседании.<br/>57-e пленарное заседание,<br/></tgt>
+</seg>
+<seg  match="1-1" id="30">
+  <src xml:lang="EN">24 November 2008</src>
+  <tgt xml:lang="RU">24 ноября 2008 года</tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">2</src>
+  <tgt xml:lang="RU">2</tgt>
+</seg>
+</segments>
+</bitext>

@@ -1,0 +1,1110 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿</src>
+  <tgt xml:lang="ES">﻿399 (S) Rev. </tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">399 (E) Rev.  3.</src>
+  <tgt xml:lang="ES">3.</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">WORLD INTELLECTUAL PROPERTY ORGANIZATION (WIPO)</src>
+  <tgt xml:lang="ES">ORGANIZACIÓN MUNDIAL DE LA PROPIEDAD INTELECTUAL</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">GENERAL RULES OF PROCEDURE</src>
+  <tgt xml:lang="ES">REGLAMENTO GENERAL</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">General Rules of Procedure</src>
+  <tgt xml:lang="ES">Reglamento general</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">As adopted on September 28, 1970,</src>
+  <tgt xml:lang="ES">Aprobado el 28 de septiembre de 1970</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">and amended on November 27, 1973,</src>
+  <tgt xml:lang="ES">y modificado el 27 de noviembre de 1973,</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">October 5, 1976, and October 2, 1979</src>
+  <tgt xml:lang="ES">el 5 de octubre de 1976 y el 2 de octubre de 1979</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">CONTENTS</src>
+  <tgt xml:lang="ES">ÍNDICE</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Page</src>
+  <tgt xml:lang="ES">Página</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">GENERAL RULES OF PROCEDURE OF THE WORLD INTELLECTUAL PROPERTY ORGANIZATION</src>
+  <tgt xml:lang="ES">REGLAMENTO GENERAL DE LA ORGANIZACIÓN MUNDIAL DE LA PROPIEDAD INTELECTUAL</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">PART I: GENERAL</src>
+  <tgt xml:lang="ES">PARTE I: GENERALIDADES</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">Rule 1: Application</src>
+  <tgt xml:lang="ES">Artículo 1: Aplicación</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">(1) These General Rules of Procedure shall apply to the bodies of the World Intellectual Property Organization (WIPO), to the bodies of the various international Unions whose administrative tasks it performs, to the bodies established under international agreements whose administration it assumes, to the subsidiary bodies of any of the said bodies, and to the ad hoc committees of experts convened by the Director General of WIPO, to the extent that the said General Rules of Procedure are not in conflict with the international treaties having created such bodies or the special rules of procedure of such bodies, subsidiary bodies or committees.</src>
+  <tgt xml:lang="ES">1) El presente Reglamento general se aplicará a los órganos de la Organización Mundial de la Propiedad Intelectual (OMPI), a los órganos de las distintas Uniones internacionales administradas por la OMPI, a los órganos establecidos en virtud de los acuerdos internacionales y cuya administración desempeña, a los órganos subsidiarios de cualquiera de dichos órganos y a los comités de expertos ad hoc convocados por el Director General de la OMPI, en la medida en que este Reglamento general sea compatible con los tratados internacionales que han creado tales órganos o con los reglamentos particulares de los mismos, de los órganos subsidiarios o de los comités.</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">(2) These General Rules of Procedure shall not apply to diplomatic conferences.</src>
+  <tgt xml:lang="ES">2) El presente Reglamento general no se aplicará a las conferencias diplomáticas.</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">Rule 2: Definitions</src>
+  <tgt xml:lang="ES">Artículo 2: Definiciones</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">For the purposes of these General Rules of Procedure and the rules of procedure of the bodies and committees referred to in Rule 1 (1):</src>
+  <tgt xml:lang="ES">A los efectos de aplicación del presente Reglamento general y de los reglamentos de los órganos y comités señalados en el párrafo 1 del artículo 1, se entenderá por:</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">"assembly” shall mean the participants having the right to vote in any meeting of a body, subsidiary body and ad hoc committee of experts to which the General Rules of Procedure apply;</src>
+  <tgt xml:lang="ES">"asamblea”, los participantes con derecho a voto en cualquier reunión de un órgano, de un órgano subsidiario o de un comité de expertos ad hoc que se rija por el presente Reglamento general;</tgt>
+</seg>
+<seg  match="2-1" id="19">
+  <src xml:lang="EN">"body” shall mean the General Assembly, the Conference and the Coordination Committee of WIPO, as well as the Assemblies, the Conferences of Representatives and the Executive Committees of the Unions, the Council of the Lisbon Union for the Protection of Appellations of Origin and their International Registration, the Committee of Directors of National Industrial Property Offices of the Madrid Union for the International Registration of Marks, the Committee of Experts of the Locarno Union for the International Classification of Industrial Designs, the Committee of Experts of the Nice Union for the International Classification of Goods and Services for the Purposes of the Registration of Marks, the Committee of Experts of the Special Union for the International Patent Classification, the WIPO Permanent Committee for Development Cooperation Related to Industrial Property, the WIPO Permanent Committee for Development Cooperation Related to Copyright and Neighboring Rights and the WIPO Permanent Committee on Patent Information.<br/>"Director General” shall mean the Director General of WIPO; in all cases where Acts earlier than the Stockholm Acts are still applicable, "Director General” shall mean the Director of BIRPI;<br/></src>
+  <tgt xml:lang="ES">"Director General”, el Director General de la OMPI; en todos aquellos casos en que aún estén vigentes las Actas anteriores a las Actas de Estocolmo, se entenderá por "Director General” el Director de las BIRPI;<br/></tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">"International Bureau” shall mean the International Bureau of Intellectual Property established by Article 9 (1) of the WIPO Convention; in all cases where Acts earlier than the Stockholm Acts are still applicable, "International Bureau” shall also mean the United International Bureaux for the Protection of Intellectual Property (BIRPI);</src>
+  <tgt xml:lang="ES">"Oficina Internacional”, la Oficina Internacional de la Propiedad Intelectual establecida por el párrafo 1 del artículo 9 del Convenio de la OMPI; en todos aquellos casos en que aún estén vigentes las Actas anteriores a las Actas de Estocolmo, se entenderá también por "Oficina Internacional” las Oficinas Internacionales reunidas para la protección de la propiedad intelectual (BIRPI);</tgt>
+</seg>
+<seg  match="4-5" id="21">
+  <src xml:lang="EN">"Organization” shall mean the World Intellectual Property Organization;<br/>"Union” shall mean any international agreement designed to promote the protection of intellectual property whose administrative tasks are performed or whose administration is assumed by the Organization;<br/>"WIPO” shall mean the World Intellectual Property Organization.<br/>PART II: BODIES OF WIPO AND OF THE UNIONS<br/></src>
+  <tgt xml:lang="ES">"OMPI”, la Organización Mundial de la Propiedad Intelectual;<br/>"Organización”, la Organización Mundial de la Propiedad Intelectual;<br/>"órgano”, la Asamblea General de la Conferencia y el Comité de Coordinación de la OMPI, así como las Asambleas, las Conferencias de representantes y los Comités Ejecutivos de las Uniones, el Consejo de la Unión de Lisboa para la Protección de las Denominaciones de Origen y su Registro Internacional, el Comité de Directores de las Oficinas nacionales de la propiedad industrial de la Unión de Madrid para el Registro Internacional de Marcas, el Comité de Expertos de la Unión de Locarno para el establecimiento de una Clasificación Internacional para los Dibujos y Modelos Industriales, el Comité de Expertos de la Unión de Niza para la Clasificación Internacional de Productos y Servicios para el Registro de las Marcas, el Comité de Expertos de la Unión especial para la Clasificación Internacional de Patentes, el Comité Permanente de la OMPI de Cooperación para el Desarrollo en materia de Propiedad Industrial, el Comité Permanente de la OMPI de Cooperación para el Desarrollo en materia de Derechos de Autor y Derechos Conexos y el Comité Permanente de la OMPI de Información en materia de Patentes;<br/>"Unión”, todo acuerdo internacional destinado a promover la protección de la propiedad intelectual y cuyos servicios administrativos o su administración son de responsabilidad de la Organización.<br/>PARTE II: ÓRGANOS DE LA OMPI Y DE LAS UNIONES<br/></tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">Chapter I: Preparation of Sessions.</src>
+  <tgt xml:lang="ES">Capítulo I: Preparación de las reuniones – Programa</tgt>
+</seg>
+<seg  match="2-1" id="23">
+  <src xml:lang="EN">Agenda<br/>Rule 3: Dates and Place of Sessions<br/></src>
+  <tgt xml:lang="ES">Artículo 3: Fechas y lugar de las reuniones<br/></tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">(1) The opening date of each session, its duration and place shall be fixed by the Director General.</src>
+  <tgt xml:lang="ES">1) El Director General fijará la fecha inaugural de cada reunión, su duración y su sede.</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">(2) The opening date fixed for an extraordinary session must not be more than four months after the day on which the Director General has received the request to convene that session, except where the author or authors of the said request express their willingness to accept a later date.</src>
+  <tgt xml:lang="ES">2) La fecha inaugural fijada para una reunión extraordinaria no deberá exceder en más de cuatro meses al día en que el Director General haya recibido la solicitud para convocar esa reunión, a menos que el autor o los autores de esa petición estén dispuestos a aceptar una fecha posterior.</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">Rule 4: Convocations</src>
+  <tgt xml:lang="ES">Artículo 4: Convocatorias</tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">The Director General shall send out letters of convocation not less than two months prior to the opening of the session.</src>
+  <tgt xml:lang="ES">El Director General enviará las convocatorias no menos de dos meses antes de la apertura de la reunión.</tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">Rule 5: Agenda</src>
+  <tgt xml:lang="ES">Artículo 5: Programa</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">(1) The Director General shall prepare the draft agenda for ordinary sessions.</src>
+  <tgt xml:lang="ES">1) El Director General preparará el proyecto de programa para las reuniones ordinarias.</tgt>
+</seg>
+<seg  match="1-1" id="30">
+  <src xml:lang="EN">(2) The draft agenda for extraordinary sessions shall be established by the person or persons requesting convocation of such sessions.</src>
+  <tgt xml:lang="ES">2) La persona o personas que hayan solicitado la convocatoria a reuniones extraordinarias establecerán el proyecto de programa de dichas reuniones.</tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">(3) The Director General shall send out the draft agenda at the same time as the letter of convocation</src>
+  <tgt xml:lang="ES">3) El Director General enviará el proyecto de programa simultáneamente con la convocatoria.</tgt>
+</seg>
+<seg  match="1-1" id="32">
+  <src xml:lang="EN">(4) Any State member of a body may request the inclusion of supplementary items on the draft agenda.</src>
+  <tgt xml:lang="ES">4) Todo Estado miembro de un órgano podrá solicitar la inclusión de puntos suplementarios en el proyecto de programa.</tgt>
+</seg>
+<seg  match="1-1" id="33">
+  <src xml:lang="EN">Such requests shall reach the Director General not later than one month before the date fixed for the opening of the session.</src>
+  <tgt xml:lang="ES">Estas peticiones deberán hacerse llegar al Director General a más tardar un mes antes del día fijado para la apertura de la reunión.</tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">The Director General shall immediately notify the other States members of that body accordingly.</src>
+  <tgt xml:lang="ES">El Director General informará inmediatamente a los demás Estados miembros de ese órgano.</tgt>
+</seg>
+<seg  match="1-1" id="35">
+  <src xml:lang="EN">(5) The assembly shall adopt its agenda at the first meeting of the session.</src>
+  <tgt xml:lang="ES">5) La asamblea aprobará su programa en la primera reunión del período de sesiones.</tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">(6) During the session, the assembly may change the order of the items on its agenda, amend some of those items, or delete them from the agenda.</src>
+  <tgt xml:lang="ES">6) Durante el transcurso del período de sesiones, la asamblea podrá modificar el orden de los puntos de su programa, modificar algunos de esos puntos o suprimirlos del programa.</tgt>
+</seg>
+<seg  match="1-1" id="37">
+  <src xml:lang="EN">(7) During the session, the assembly may, by a majority of two thirds of the votes cast, decide to add new items to the agenda, provided they are of an urgent character.</src>
+  <tgt xml:lang="ES">7) Durante el transcurso del período de sesiones, la asamblea podrá, por mayoría de los dos tercios de los votos emitidos, decidir la inclusión de nuevos puntos en el programa, siempre que tengan un carácter urgente.</tgt>
+</seg>
+<seg  match="1-1" id="38">
+  <src xml:lang="EN">The discussion of any such items shall be deferred for forty eight hours if any delegation so requests.</src>
+  <tgt xml:lang="ES">El debate sobre cualquiera de estos puntos se diferirá por cuarenta y ocho horas si una delegación lo solicita.</tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">Rule 6: Working Documents</src>
+  <tgt xml:lang="ES">Artículo 6: Documentos de trabajo</tgt>
+</seg>
+<seg  match="1-1" id="40">
+  <src xml:lang="EN">(1) Each item on the agenda of an ordinary session shall, as a rule, be the subject of a report by the Director General.</src>
+  <tgt xml:lang="ES">1) En principio, cada punto del programa de una reunión ordinaria será materia de un informe del Director General.</tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">(2) Reports and other working documents must be sent out at the same time as the letter of convocation, or as soon thereafter as possible.</src>
+  <tgt xml:lang="ES">2) Los informes y los demás documentos de trabajo deberán enviarse simultáneamente con la convocatoria o a la mayor brevedad posible.</tgt>
+</seg>
+<seg  match="1-1" id="42">
+  <src xml:lang="EN">Chapter II: Participation in Sessions</src>
+  <tgt xml:lang="ES">Capítulo II: Participación en las reuniones</tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">Rule 7: Delegations</src>
+  <tgt xml:lang="ES">Artículo 7: Delegaciones</tgt>
+</seg>
+<seg  match="1-1" id="44">
+  <src xml:lang="EN">(1) Each State member of a body shall be represented by one or more delegates, who may be assisted by alternates, advisors, and experts.</src>
+  <tgt xml:lang="ES">1) Cada Estado miembro de un órgano estará representado por uno o más delegados, que podrán ser asistidos por suplentes, consejeros y expertos.</tgt>
+</seg>
+<seg  match="1-1" id="45">
+  <src xml:lang="EN">(2) Each delegation shall have a head of delegation.</src>
+  <tgt xml:lang="ES">2) Cada delegación será presidida por un jefe de delegación.</tgt>
+</seg>
+<seg  match="1-1" id="46">
+  <src xml:lang="EN">(3) Any alternate, advisor or expert may act as delegate by order of the head of his delegation.</src>
+  <tgt xml:lang="ES">3) Cualquier suplente, consejero o experto podrá actuar como delegado si así lo dispone el jefe de la delegación.</tgt>
+</seg>
+<seg  match="1-1" id="47">
+  <src xml:lang="EN">(4) Each delegate or alternate shall be accredited by the competent authority of the State which he represents.</src>
+  <tgt xml:lang="ES">4) Cada delegado o suplente deberá ser acreditado por la autoridad competente del Estado que representa.</tgt>
+</seg>
+<seg  match="1-1" id="48">
+  <src xml:lang="EN">The Director General shall be notified of the appointment of delegates and alternates in a letter, note or telegram, issuing preferably from the Ministry of Foreign Affairs.</src>
+  <tgt xml:lang="ES">La designación se notificará al Director General por carta, nota o telegrama enviados preferentemente por el Ministerio de Relaciones Exteriores.</tgt>
+</seg>
+<seg  match="1-1" id="49">
+  <src xml:lang="EN">Rule 8: Observers</src>
+  <tgt xml:lang="ES">Artículo 8: Observadores</tgt>
+</seg>
+<seg  match="1-1" id="50">
+  <src xml:lang="EN">(1) The Director General shall invite such States and intergovernmental organizations to be represented by observers as are entitled to observer status under a treaty or agreement.</src>
+  <tgt xml:lang="ES">1) El Director General invitará a los Estados y organizaciones intergubernamentales, que en virtud de un tratado o un acuerdo gocen de la condición jurídica de observadores, a hacerse representar por observadores.</tgt>
+</seg>
+<seg  match="1-1" id="51">
+  <src xml:lang="EN">(2) In addition, each body shall decide, in a general way or for any particular session or meeting, which other States and organizations shall be invited to be represented by observers.</src>
+  <tgt xml:lang="ES">2) Asimismo, cada órgano decidirá, en general o respecto de cualquier período de sesiones o reunión, que otros Estados y organizaciones serán invitados a hacerse representar por observadores.</tgt>
+</seg>
+<seg  match="1-1" id="52">
+  <src xml:lang="EN">(3) Observers shall be accredited by the competent authority of their State or the competent representative of their organization, in a letter, note or telegram addressed to the Director General; if the represent a State, such communication shall preferably be effected by the Ministry of Foreign Affairs.</src>
+  <tgt xml:lang="ES">3) La autoridad competente del Estado respectivo o el representante competente de la organización respectiva acreditarán a sus observadores mediante una carta, nota o telegrama dirigidos al Director General; si los observadores representan a un Estado, dicha comunicación la efectuará preferentemente el Ministerio de Relaciones Exteriores.</tgt>
+</seg>
+<seg  match="1-1" id="53">
+  <src xml:lang="EN">Chapter III: Officers and Secretariat</src>
+  <tgt xml:lang="ES">Capítulo III: Mesa Directiva y Secretaría</tgt>
+</seg>
+<seg  match="1-1" id="54">
+  <src xml:lang="EN">Rule 9: Officers</src>
+  <tgt xml:lang="ES">Artículo 9: Mesa Directiva</tgt>
+</seg>
+<seg  match="1-1" id="55">
+  <src xml:lang="EN">(1) In the first meeting of each ordinary session, each body shall elect a Chairman and two Vice Chairmen.</src>
+  <tgt xml:lang="ES">1) En la primera reunión de cada período ordinario de sesiones, cada órgano elegirá un Presidente y dos Vicepresidentes.</tgt>
+</seg>
+<seg  match="1-1" id="56">
+  <src xml:lang="EN">(2) Officers shall remain in office until the election of new officers.</src>
+  <tgt xml:lang="ES">2) La mesa directiva continuará en sus funciones hasta la elección de una nueva mesa.</tgt>
+</seg>
+<seg  match="1-1" id="57">
+  <src xml:lang="EN">(3) The outgoing Chairman and Vice Chairmen shall not be immediately eligible for re election to the office which they have held.</src>
+  <tgt xml:lang="ES">3) El Presidente y los Vicepresidentes salientes no podrán ser reelegidos para el período inmediatamente posterior a aquel en que desempeñaron sus funciones.</tgt>
+</seg>
+<seg  match="1-1" id="58">
+  <src xml:lang="EN">Rule 10: Acting Chairmen</src>
+  <tgt xml:lang="ES">Artículo 10: Presidentes interinos</tgt>
+</seg>
+<seg  match="1-1" id="59">
+  <src xml:lang="EN">(1) If the Chairman dies, if he finds it necessary to be absent, or if the State he represents ceases to be a member of the body concerned, the older of the two Vice Chairmen shall act in his place.</src>
+  <tgt xml:lang="ES">1) Si el Presidente fallece, si debe ausentarse o si el Estado que representa deja de ser miembro del respectivo órgano, será reemplazado por el Vicepresidente de mayor edad.</tgt>
+</seg>
+<seg  match="1-1" id="60">
+  <src xml:lang="EN">(2) If, for any of the reasons mentioned in the preceding paragraph, none of the Vice Chairmen is able to act as Chairman, the body concerned shall elect an Acting Chairman.</src>
+  <tgt xml:lang="ES">2) Si ninguno de los Vicepresidentes puede asumir la presidencia por cualquiera de los motivos indicados en el párrafo anterior, el órgano respectivo elegirá un presidente interino.</tgt>
+</seg>
+<seg  match="1-1" id="61">
+  <src xml:lang="EN">Rule 11: Secretariat</src>
+  <tgt xml:lang="ES">Artículo 11: Secretaría</tgt>
+</seg>
+<seg  match="1-1" id="62">
+  <src xml:lang="EN">(1) The Director General, or a staff member of the International Bureau designated by him, shall act as Secretary for all meetings, including those of subsidiary bodies.</src>
+  <tgt xml:lang="ES">1) El Director General, o un funcionario de la Oficina Internacional designado por él, actuará como secretario en todas las reuniones, con inclusión de las reuniones de los órganos subsidiarios.</tgt>
+</seg>
+<seg  match="1-1" id="63">
+  <src xml:lang="EN">(2) The International Bureau shall receive, translate and distribute documents, provide for the interpretation of oral interventions, prepare the draft reports of the sessions, be responsible for the safekeeping of documents in its archives, and, generally, perform all the tasks which the meetings of the body concerned may require and for which it has the necessary means at its disposal.</src>
+  <tgt xml:lang="ES">2) La Oficina Internacional recibirá, traducirá y distribuirá los documentos, facilitará la interpretación de las intervenciones orales, preparará los proyectos de informes de las reuniones, conservará los documentos en sus archivos y, en general, realizará todas aquellas labores que puedan requerir las reuniones del órgano respectivo y para las cuales dispondrá de todos los recursos necesarios.</tgt>
+</seg>
+<seg  match="1-1" id="64">
+  <src xml:lang="EN">Chapter IV: Subsidiary Bodies</src>
+  <tgt xml:lang="ES">Capítulo IV: Órganos subsidiarios</tgt>
+</seg>
+<seg  match="1-1" id="65">
+  <src xml:lang="EN">Rule 12: Subsidiary Bodies</src>
+  <tgt xml:lang="ES">Artículo 12: Órganos subsidiarios</tgt>
+</seg>
+<seg  match="1-1" id="66">
+  <src xml:lang="EN">(1) Any body may establish committees, working groups or other subsidiary bodies.</src>
+  <tgt xml:lang="ES">1) Cualquier órgano podrá establecer comités, grupos de trabajo u otros órganos subsidiarios.</tgt>
+</seg>
+<seg  match="1-1" id="67">
+  <src xml:lang="EN">(2) Each subsidiary body shall report to the body which established it.</src>
+  <tgt xml:lang="ES">2) Cada órgano subsidiario deberá informar al órgano que lo creó.</tgt>
+</seg>
+<seg  match="1-1" id="68">
+  <src xml:lang="EN">(3) The provisions of these General Rules of Procedure shall, as far as possible, apply also to subsidiary bodies.</src>
+  <tgt xml:lang="ES">3) En la medida de lo posible, también se aplicarán las disposiciones del presente Reglamento general a los órganos subsidiarios.</tgt>
+</seg>
+<seg  match="1-1" id="69">
+  <src xml:lang="EN">Chapter V: Conduct of Business</src>
+  <tgt xml:lang="ES">Capítulo V: Dirección del debate</tgt>
+</seg>
+<seg  match="1-1" id="70">
+  <src xml:lang="EN">Rule 13: General Powers of the Chairman</src>
+  <tgt xml:lang="ES">Artículo 13: Facultades generales del Presidente</tgt>
+</seg>
+<seg  match="1-1" id="71">
+  <src xml:lang="EN">(1) The Chairman shall declare the opening and closing of the meetings, direct the discussions, accord the right to speak, put questions to the vote, and announce decisions.</src>
+  <tgt xml:lang="ES">1) El Presidente inaugurará y clausurará las reuniones, dirigirá los debates, otorgará el uso de la palabra, someterá los asuntos a votación y proclamará las decisiones.</tgt>
+</seg>
+<seg  match="1-1" id="72">
+  <src xml:lang="EN">(2) He shall rule on points of order and shall have complete control of the proceedings and over the maintenance of order thereat.</src>
+  <tgt xml:lang="ES">2) Se pronunciará sobre las mociones de orden y controlará el curso de los debates y el mantenimiento del orden de los mismos.</tgt>
+</seg>
+<seg  match="1-1" id="73">
+  <src xml:lang="EN">(3) He may propose limiting the time to be allowed to each speaker, limiting the number of times each delegation may speak on any question, closing the list of speakers, and closing the debate.</src>
+  <tgt xml:lang="ES">3) Podrá proponer la limitación del tiempo acordado a cada orador, la limitación del número de veces que cada delegación podrá intervenir sobre determinada cuestión, la clausura de la lista de oradores y del debate.</tgt>
+</seg>
+<seg  match="1-1" id="74">
+  <src xml:lang="EN">(4) He may propose the suspension or adjournment of the debate on the question under discussion, or the suspension or adjournment of the meeting.</src>
+  <tgt xml:lang="ES">4) Podrá proponer la suspensión o la postergación del debate sobre la materia que se examine, o la suspensión o postergación de la reunión.</tgt>
+</seg>
+<seg  match="1-1" id="75">
+  <src xml:lang="EN">Rule 14: Points of Order</src>
+  <tgt xml:lang="ES">Artículo 14: Mociones de orden</tgt>
+</seg>
+<seg  match="1-1" id="76">
+  <src xml:lang="EN">(1) In the course of a debate, any delegation may raise a point of order.</src>
+  <tgt xml:lang="ES">1) En el curso de un debate, cualquier delegación podrá plantear una moción de orden, pero no podrá referirse simultáneamente al fondo de la cuestión debatida.</tgt>
+</seg>
+<seg  match="2-1" id="77">
+  <src xml:lang="EN">It may not speak at the same time on the substance of the matter under discussion.<br/>(2) Such points of order shall be immediately decided by the Chairman.<br/></src>
+  <tgt xml:lang="ES">2) El Presidente decidirá inmediatamente dichas mociones de orden.<br/></tgt>
+</seg>
+<seg  match="1-1" id="78">
+  <src xml:lang="EN">(3) Any delegation may appeal against the ruling of the Chairman.</src>
+  <tgt xml:lang="ES">3) Cualquier delegación podrá apelar contra la decisión del Presidente.</tgt>
+</seg>
+<seg  match="1-1" id="79">
+  <src xml:lang="EN">The appeal shall be immediately put to the vote and the Chairman’s ruling shall stand unless overruled by a majority of the delegations.</src>
+  <tgt xml:lang="ES">Dicha apelación se someterá de inmediato a votación y se mantendrá la decisión del Presidente a menos de que sea rechazada por la mayoría de las delegaciones.</tgt>
+</seg>
+<seg  match="1-1" id="80">
+  <src xml:lang="EN">Rule 15: Right to Speak</src>
+  <tgt xml:lang="ES">Artículo 15: Derecho de hacer uso de la palabra</tgt>
+</seg>
+<seg  match="1-1" id="81">
+  <src xml:lang="EN">(1) No person may speak without having previously obtained the permission of the Chairman.</src>
+  <tgt xml:lang="ES">1) Nadie podrá hacer uso de la palabra sin la autorización previa del Presidente.</tgt>
+</seg>
+<seg  match="1-1" id="82">
+  <src xml:lang="EN">(2) The Chairman shall call upon speakers in the order in which they signify their desire to speak.</src>
+  <tgt xml:lang="ES">2) El Presidente concederá el uso de la palabra en el orden en que los oradores lo soliciten.</tgt>
+</seg>
+<seg  match="1-1" id="83">
+  <src xml:lang="EN">The Secretariat shall be responsible for drawing up a list of such speakers.</src>
+  <tgt xml:lang="ES">La Secretaría será responsable de establecer la lista de los oradores.</tgt>
+</seg>
+<seg  match="1-1" id="84">
+  <src xml:lang="EN">(3) The Chairman of a subsidiary body may be accorded precedence for the purpose of explaining the conclusions arrived at by that subsidiary body.</src>
+  <tgt xml:lang="ES">3) Al Presidente de un órgano subsidiario se le podrá conceder prioridad para exponer o defender las conclusiones adoptadas por dicho órgano.</tgt>
+</seg>
+<seg  match="1-1" id="85">
+  <src xml:lang="EN">(4) The Director General, or a staff member of the International Bureau designated by him, may at any time, with the approval of the Chairman, make statements on any subject under discussion.</src>
+  <tgt xml:lang="ES">4) El Director General, o un funcionario de la Oficina Internacional designado por éste, podrá, en cualquier momento, con la aprobación del Presidente, formular declaraciones sobre cualquier asunto que se examine.</tgt>
+</seg>
+<seg  match="1-1" id="86">
+  <src xml:lang="EN">(5) The Chairman may call a speaker to order if his remarks are not relevant to the subject under discussion.</src>
+  <tgt xml:lang="ES">5) El Presidente podrá llamar al orden a un orador si sus observaciones no se relacionan con la materia debatida.</tgt>
+</seg>
+<seg  match="1-1" id="87">
+  <src xml:lang="EN">Rule 16: Limitation of the Number and Length of Speeches</src>
+  <tgt xml:lang="ES">Artículo 16: Limitación del número y de la duración de las intervenciones</tgt>
+</seg>
+<seg  match="1-1" id="88">
+  <src xml:lang="EN">(1) Any assembly may limit the number of times each delegation may speak on any question and the time to be allowed to each delegation.</src>
+  <tgt xml:lang="ES">1) Cualquier asamblea podrá limitar el número de veces que cada delegación podrá hacer uso de la palabra sobre determinado asunto y el tiempo que se le concederá a cada delegación.</tgt>
+</seg>
+<seg  match="1-1" id="89">
+  <src xml:lang="EN">(2) The Chairman may limit the time to be allowed to any person speaking on the adjournment or closure of a debate, proposing the suspension or adjournment of the meeting, speaking on the reconsideration of proposals already adopted or rejected, or explaining the vote of his delegation.</src>
+  <tgt xml:lang="ES">2) El Presidente podrá limitar el tiempo que se le ha de conceder a cualquier orador para referirse a la postergación o clausura del debate, para proponer la suspensión o la postergación de la reunión, para intervenir sobre la reconsideración de las propuestas ya adoptadas o rechazadas, o para explicar el voto de su delegación.</tgt>
+</seg>
+<seg  match="1-1" id="90">
+  <src xml:lang="EN">(3) When a speaker exceeds the time allotted to him, the Chairman shall call him to order without delay.</src>
+  <tgt xml:lang="ES">3) El Presidente llamará de inmediato al orden a un orador cuando sobrepase el tiempo que se le ha asignado para intervenir.</tgt>
+</seg>
+<seg  match="1-1" id="91">
+  <src xml:lang="EN">Rule 17: Closing of List of Speakers</src>
+  <tgt xml:lang="ES">Artículo 17: Cierre de la lista de oradores</tgt>
+</seg>
+<seg  match="1-1" id="92">
+  <src xml:lang="EN">(1) During the discussion of any matter, the Chairman may announce the list of speakers and, with the consent of the meeting, declare the list closed.</src>
+  <tgt xml:lang="ES">1) En el transcurso de cualquier debate, el Presidente podrá dar lectura a la lista de oradores inscritos y, con el consentimiento de la asamblea, declarará cerrada la lista de oradores.</tgt>
+</seg>
+<seg  match="1-1" id="93">
+  <src xml:lang="EN">(2) He may, however, accord the right of reply if a speech delivered after he has declared the list closed makes it desirable.</src>
+  <tgt xml:lang="ES">2) En todo caso, podrá conceder el derecho de réplica si una intervención efectuada después del cierre de la lista de oradores determinase su conveniencia.</tgt>
+</seg>
+<seg  match="1-1" id="94">
+  <src xml:lang="EN">Rule 18: Adjournment or Closure of Debate</src>
+  <tgt xml:lang="ES">Artículo 18: Postergación o clausura del debate</tgt>
+</seg>
+<seg  match="1-1" id="95">
+  <src xml:lang="EN">(1) During the course of a meeting, any delegation may move the adjournment or closure of the debate on the question under discussion, whether or not any other participant has signified his wish to speak.</src>
+  <tgt xml:lang="ES">1) En el curso de una reunión, cualquier delegación podrá proponer la postergación o la clausura del debate sobre el asunto que se examina, haya o no oradores inscritos.</tgt>
+</seg>
+<seg  match="1-1" id="96">
+  <src xml:lang="EN">(2) Such motion shall be immediately debated.</src>
+  <tgt xml:lang="ES">2) Dicha moción será sometida de inmediato a discusión.</tgt>
+</seg>
+<seg  match="1-1" id="97">
+  <src xml:lang="EN">In addition to the delegation proposing the motion, one other delegation may speak in favor of the motion, and two against it, after which the motion shall immediately be put to the vote.</src>
+  <tgt xml:lang="ES">Además de la delegación que propuso la moción, otra delegación podrá intervenir para apoyarla y dos para impugnarla, después de lo cual la moción se someterá inmediatamente a votación.</tgt>
+</seg>
+<seg  match="1-1" id="98">
+  <src xml:lang="EN">(3) If the assembly is in favor of the adjournment or closure, the Chairman shall immediately declare the debate adjourned or closed.</src>
+  <tgt xml:lang="ES">3) Si la asamblea aprobara la moción, el Presidente declarará inmediatamente postergado o clausurado el debate.</tgt>
+</seg>
+<seg  match="1-1" id="99">
+  <src xml:lang="EN">Rule 19: Suspension or Adjournment of the Meeting</src>
+  <tgt xml:lang="ES">Artículo 19: Suspensión o postergación de la reunión</tgt>
+</seg>
+<seg  match="1-1" id="100">
+  <src xml:lang="EN">(1) During the course of a meeting, any delegation may move its suspension or adjournment.</src>
+  <tgt xml:lang="ES">1) Durante el transcurso de una reunión, cualquier delegación podrá solicitar su suspensión o postergación.</tgt>
+</seg>
+<seg  match="1-1" id="101">
+  <src xml:lang="EN">(2) Such motions shall not be debated, but shall immediately be put to the vote.</src>
+  <tgt xml:lang="ES">2) Esta moción no se someterá a debate y se votará de inmediato.</tgt>
+</seg>
+<seg  match="1-1" id="102">
+  <src xml:lang="EN">Rule 20: Order of Procedural Motions</src>
+  <tgt xml:lang="ES">Artículo 20: Orden de las mociones de procedimiento</tgt>
+</seg>
+<seg  match="1-1" id="103">
+  <src xml:lang="EN">Subject to the provisions on points of order, the following motions shall have precedence, in the order indicated below, over all other proposals or motions before the meeting:</src>
+  <tgt xml:lang="ES">A reserva de las disposiciones sobre mociones de orden, las siguientes mociones tendrán prioridad, en el orden indicado a continuación, sobre todas las demás propuestas o mociones:</tgt>
+</seg>
+<seg  match="1-1" id="104">
+  <src xml:lang="EN">(a) to suspend the meeting,</src>
+  <tgt xml:lang="ES">a) suspensión de la reunión,</tgt>
+</seg>
+<seg  match="1-1" id="105">
+  <src xml:lang="EN">(b) to adjourn the meeting,</src>
+  <tgt xml:lang="ES">b) postergación de la reunión,</tgt>
+</seg>
+<seg  match="1-1" id="106">
+  <src xml:lang="EN">(c) to adjourn the debate on the question under discussion,</src>
+  <tgt xml:lang="ES">c) postergación del debate sobre el asunto que se examina,</tgt>
+</seg>
+<seg  match="1-1" id="107">
+  <src xml:lang="EN">(d) to close the debate on the question under discussion.</src>
+  <tgt xml:lang="ES">d) clausura del debate sobre el asunto que se examina.</tgt>
+</seg>
+<seg  match="1-1" id="108">
+  <src xml:lang="EN">Rule 21: Proposals by Delegations</src>
+  <tgt xml:lang="ES">Artículo 21: Propuestas de las delegaciones</tgt>
+</seg>
+<seg  match="1-1" id="109">
+  <src xml:lang="EN">(1) Proposals for the adoption of amendments to the drafts submitted to the assembly, and all other proposals, may be submitted orally or in writing by any delegation.</src>
+  <tgt xml:lang="ES">1) Cualquier delegación podrá presentar oralmente o por escrito propuestas relativas a la adopción de modificaciones de los proyectos presentados a la asamblea, al igual que cualquier otra propuesta.</tgt>
+</seg>
+<seg  match="1-1" id="110">
+  <src xml:lang="EN">(2) The assembly may decide to debate and vote on a proposal only if it is submitted in writing.</src>
+  <tgt xml:lang="ES">2) La asamblea podrá decidir que sólo las propuestas presentadas por escrito se someterán a discusión y votación.</tgt>
+</seg>
+<seg  match="1-1" id="111">
+  <src xml:lang="EN">(3) Unless it decides otherwise, the assembly shall discuss or vote on a written proposal only if it has been translated and distributed in the languages in which the documents of the body concerned must be submitted.</src>
+  <tgt xml:lang="ES">3) A menos que resuelva lo contrario, la asamblea sólo examinará o votará una propuesta escrita si ha sido traducida y distribuida en los idiomas en que los documentos del órgano deben ser presentados.</tgt>
+</seg>
+<seg  match="1-1" id="112">
+  <src xml:lang="EN">Rule 22: Withdrawal of Proposals</src>
+  <tgt xml:lang="ES">Artículo 22: Retiro de las propuestas</tgt>
+</seg>
+<seg  match="1-1" id="113">
+  <src xml:lang="EN">(1) A proposal may be withdrawn by the delegation which has made it at any time before voting on it has commenced, provided that it has not been amended.</src>
+  <tgt xml:lang="ES">1) Toda propuesta podrá ser retirada, por la delegación que la presentó, en cualquier momento antes de que se comience a votar y siempre que no haya sido modificada.</tgt>
+</seg>
+<seg  match="1-1" id="114">
+  <src xml:lang="EN">(2) A proposal thus withdrawn may be immediately reintroduced by any other delegation.</src>
+  <tgt xml:lang="ES">2) Una propuesta retirada de este modo podrá ser renovada inmediatamente por cualquier otra delegación.</tgt>
+</seg>
+<seg  match="1-1" id="115">
+  <src xml:lang="EN">Rule 23: Reconsideration of Proposals Adopted or Rejected</src>
+  <tgt xml:lang="ES">Artículo 23: Reconsideración de las propuestas aprobadas o rechazadas</tgt>
+</seg>
+<seg  match="1-1" id="116">
+  <src xml:lang="EN">(1) When a proposal has been adopted or rejected, it may not be reconsidered unless the assembly so decides by a two thirds majority.</src>
+  <tgt xml:lang="ES">1) No se podrá reconsiderar una propuesta que ha sido aprobada o rechazada, a menos que la asamblea así lo decida por una mayoría de dos tercios.</tgt>
+</seg>
+<seg  match="1-1" id="117">
+  <src xml:lang="EN">(2) In addition to the delegation proposing the motion to reconsider, one other delegation may speak in favor of the motion, and two against it, after which the motion shall immediately be put to the vote.</src>
+  <tgt xml:lang="ES">2) Además de la delegación que solicite la reconsideración, otra delegación podrá hacer uso de la palabra para apoyar esa moción y dos para impugnarla, después de lo cual se votará inmediatamente la moción.</tgt>
+</seg>
+<seg  match="1-1" id="118">
+  <src xml:lang="EN">Rule 24: Observers</src>
+  <tgt xml:lang="ES">Artículo 24: Observadores</tgt>
+</seg>
+<seg  match="1-1" id="119">
+  <src xml:lang="EN">(1) Observers may take part in debates at the invitation of the Chairman.</src>
+  <tgt xml:lang="ES">1) Los observadores podrán participar en los debates a invitación del Presidente.</tgt>
+</seg>
+<seg  match="1-1" id="120">
+  <src xml:lang="EN">(2) They may not submit proposals, amendments or motions.</src>
+  <tgt xml:lang="ES">2) Los observadores no tendrán derecho a presentar propuestas, enmiendas o mociones.</tgt>
+</seg>
+<seg  match="1-1" id="121">
+  <src xml:lang="EN">Chapter VI: Voting</src>
+  <tgt xml:lang="ES">Capítulo VI: Votación</tgt>
+</seg>
+<seg  match="1-1" id="122">
+  <src xml:lang="EN">Rule 25: Voting</src>
+  <tgt xml:lang="ES">Artículo 25: Votación</tgt>
+</seg>
+<seg  match="1-1" id="123">
+  <src xml:lang="EN">Proposals and amendments submitted by a delegation shall be put to the vote only if they are supported by at least one other delegation.</src>
+  <tgt xml:lang="ES">Las propuestas y enmiendas presentadas por una delegación sólo se someterán a votación si cuentan al menos con el apoyo de otra delegación.</tgt>
+</seg>
+<seg  match="1-1" id="124">
+  <src xml:lang="EN">Rule 26: Method of Voting in General</src>
+  <tgt xml:lang="ES">Artículo 26: Forma general de votación</tgt>
+</seg>
+<seg  match="1-1" id="125">
+  <src xml:lang="EN">Voting shall normally be by a show of hands.</src>
+  <tgt xml:lang="ES">Se votará normalmente a mano alzada.</tgt>
+</seg>
+<seg  match="1-1" id="126">
+  <src xml:lang="EN">Rule 27: Voting by Roll Call</src>
+  <tgt xml:lang="ES">Artículo 27: Votación nominal</tgt>
+</seg>
+<seg  match="1-1" id="127">
+  <src xml:lang="EN">(1) Voting shall be by roll call:</src>
+  <tgt xml:lang="ES">1) La votación será nominal:</tgt>
+</seg>
+<seg  match="1-1" id="128">
+  <src xml:lang="EN">(a) if, when the result of a vote by show of hands is in doubt, the Chairman so decides;</src>
+  <tgt xml:lang="ES">a) Si el Presidente así lo decidiese en caso de duda sobre el resultado de una votación a mano alzada;</tgt>
+</seg>
+<seg  match="1-1" id="129">
+  <src xml:lang="EN">(b) if at least two delegations so request, either before voting takes place or immediately after a vote by show of hands.</src>
+  <tgt xml:lang="ES">b) si al menos dos delegaciones lo solicitasen, ya sea antes de la votación o inmediatamente después de una votación a mano alzada.</tgt>
+</seg>
+<seg  match="1-1" id="130">
+  <src xml:lang="EN">(2) The roll shall be called in the alphabetical order of the names in French of the States represented, beginning with the delegation whose name is drawn by lot by the Chairman.</src>
+  <tgt xml:lang="ES">2) La votación nominal se efectuará en el orden alfabético francés de los nombres de los Estados representados, comenzando por la delegación cuyo nombre haya sido sorteado por el Presidente.</tgt>
+</seg>
+<seg  match="1-1" id="131">
+  <src xml:lang="EN">(3) When voting is by roll call, the vote of each delegation shall be recorded in the report on the session.</src>
+  <tgt xml:lang="ES">3) Cuando la votación sea nominal, se hará constar el voto de cada delegación en el informe de la reunión.</tgt>
+</seg>
+<seg  match="1-1" id="132">
+  <src xml:lang="EN">Rule 28: Voting by Secret Ballot</src>
+  <tgt xml:lang="ES">Artículo 28: Votación secreta</tgt>
+</seg>
+<seg  match="1-1" id="133">
+  <src xml:lang="EN">(1) All elections and decisions concerning States or individuals shall be voted on by secret ballot if at least two delegations so request.</src>
+  <tgt xml:lang="ES">1) Si al menos dos delegaciones lo solicitasen, todas las elecciones y decisiones relativas a Estados o a personas determinadas se efectuarán mediante votación secreta.</tgt>
+</seg>
+<seg  match="1-1" id="134">
+  <src xml:lang="EN">(2) Voting by secret ballot is governed by special regulations, which form the annex to the present Director General Rules of Procedure and are an integral part thereof.</src>
+  <tgt xml:lang="ES">2) La votación secreta se rige por un reglamento especial, que constituye el anexo del presente Reglamento general y que forma parte integrante del mismo.</tgt>
+</seg>
+<seg  match="1-1" id="135">
+  <src xml:lang="EN">Rule 29: Conduct During Voting</src>
+  <tgt xml:lang="ES">Artículo 29: El procedimiento durante la votación</tgt>
+</seg>
+<seg  match="1-1" id="136">
+  <src xml:lang="EN">After the Chairman has announced the beginning of voting, no one shall interrupt the voting except on a point of order in connection with the actual conduct of such voting.</src>
+  <tgt xml:lang="ES">Después que el Presidente haya anunciado el comienzo de la votación, nadie podrá interrumpirla, excepto mediante una moción de orden sobre el procedimiento de la votación.</tgt>
+</seg>
+<seg  match="1-1" id="137">
+  <src xml:lang="EN">Rule 30: Division of Proposals and Amendments</src>
+  <tgt xml:lang="ES">Artículo 30: División de las propuestas y enmiendas</tgt>
+</seg>
+<seg  match="1-1" id="138">
+  <src xml:lang="EN">(1) Any delegation may move that parts of a proposal or of an amendment be voted upon separately.</src>
+  <tgt xml:lang="ES">1) Cualquier delegación podrá proponer que las partes de una propuesta o de una enmienda se voten separadamente.</tgt>
+</seg>
+<seg  match="1-1" id="139">
+  <src xml:lang="EN">(2) If a delegation opposes such motion, permission to speak on the subject shall be given only to one delegation in favor and two delegations against, after which the motion shall be put to the vote.</src>
+  <tgt xml:lang="ES">2) Si una delegación se opusiese a dicha moción, sólo se otorgará autorización para hacer uso de la palabra sobre este asunto a una delegación que apoye la moción y a dos que la impugnen, después de lo cual se someterá la moción a votación.</tgt>
+</seg>
+<seg  match="1-1" id="140">
+  <src xml:lang="EN">(3) If the motion for division is carried, all parts of the proposal or of the amendment, separately approved, shall again be put to the vote together as a whole.</src>
+  <tgt xml:lang="ES">3) Si se aceptase la moción en favor de la división, todas las partes de la propuesta de la enmienda que hubiesen sido aprobadas por separado se someterán conjuntamente a una nueva votación, como formando parte de un todo.</tgt>
+</seg>
+<seg  match="1-1" id="141">
+  <src xml:lang="EN">(4) If all the operative parts of the proposal or of the amendment have been rejected, the proposal or the amendment shall be considered to have been rejected as a whole.</src>
+  <tgt xml:lang="ES">4) Si todas las partes esenciales de la propuesta o de la enmienda fuesen rechazadas, se entenderá rechazada la propuesta o la enmienda en su conjunto.</tgt>
+</seg>
+<seg  match="1-1" id="142">
+  <src xml:lang="EN">Rule 31: Voting on Proposals</src>
+  <tgt xml:lang="ES">Artículo 31: Votación de las propuestas</tgt>
+</seg>
+<seg  match="1-1" id="143">
+  <src xml:lang="EN">If two or more proposals relate to the same question, the assembly shall, unless it decides otherwise, vote on the proposals in the order in which they have been submitted.</src>
+  <tgt xml:lang="ES">Cuando dos o más propuestas se refieran al mismo asunto, la asamblea, a menos de adoptar otra decisión, votará las propuestas en el orden en que fueron presentadas.</tgt>
+</seg>
+<seg  match="1-1" id="144">
+  <src xml:lang="EN">Rule 32: Voting on Amendments</src>
+  <tgt xml:lang="ES">Artículo 32: Votación de las enmiendas</tgt>
+</seg>
+<seg  match="1-1" id="145">
+  <src xml:lang="EN">(1) When an amendment to a proposal is moved, the amendment shall be voted on first.</src>
+  <tgt xml:lang="ES">1) Cuando se presente una enmienda a una propuesta, la enmienda se votará en primer lugar.</tgt>
+</seg>
+<seg  match="1-1" id="146">
+  <src xml:lang="EN">A motion is considered an amendment to a proposal if it adds to, deletes from, or revises part of, that proposal.</src>
+  <tgt xml:lang="ES">Una moción será considerada como una enmienda a una propuesta si implica un complemento, una supresión o una modificación a dicha propuesta.</tgt>
+</seg>
+<seg  match="1-1" id="147">
+  <src xml:lang="EN">(2) When two or more amendments to a proposal are moved, they shall be put to the vote in the order in which their substance is more removed from the proposal.</src>
+  <tgt xml:lang="ES">2) Si se presentasen dos o más enmiendas a una propuesta, se votarán en el orden en que su contenido se aparte más de la propuesta.</tgt>
+</seg>
+<seg  match="1-1" id="148">
+  <src xml:lang="EN">If, however, the adoption of any amendment necessarily implies the rejection of any other amendment or of the original proposal, such amendment or proposal shall not be put to the vote.</src>
+  <tgt xml:lang="ES">No obstante, si la aprobación de una enmienda implicase necesariamente el rechazo de cualquier otra enmienda o de la propuesta original, esta última enmienda o la propuesta no se someterán a votación.</tgt>
+</seg>
+<seg  match="1-1" id="149">
+  <src xml:lang="EN">(3) If one or more amendments are adopted, the proposal as amended shall be put to the vote.</src>
+  <tgt xml:lang="ES">3) Si se aprobasen una o más enmiendas, la propuesta se someterá a votación en la forma en que haya sido modificada.</tgt>
+</seg>
+<seg  match="1-1" id="150">
+  <src xml:lang="EN">Rule 33: Election for a Single Post</src>
+  <tgt xml:lang="ES">Artículo 33: Elección para llenar un solo cargo</tgt>
+</seg>
+<seg  match="1-1" id="151">
+  <src xml:lang="EN">When a single elective place is to be filled and none of the candidates obtains the required majority in the first ballot, additional ballots shall be taken which shall be restricted to the two candidates having obtained the greatest number of votes.</src>
+  <tgt xml:lang="ES">Cuando se someta a elección un solo cargo y ninguno de los candidatos obtenga la mayoría necesaria en la primera votación, se realizarán nuevas elecciones limitadas a los dos candidatos que hayan logrado el mayor número de sufragios.</tgt>
+</seg>
+<seg  match="1-1" id="152">
+  <src xml:lang="EN">Rule 34: Election for Several Posts</src>
+  <tgt xml:lang="ES">Artículo 34: Elección para llenar varios cargos</tgt>
+</seg>
+<seg  match="1-1" id="153">
+  <src xml:lang="EN">(1) When several elective places are to be filled at one time and in the same conditions, the officers or a nominations committee set up for the purpose may submit to the competent assembly a list containing a number of candidates equal to that of the places to be filled.</src>
+  <tgt xml:lang="ES">1) Cuando varios cargos se sometan a elección en forma simultánea y en las mismas condiciones, la mesa directiva o un comité de nombramientos constituido para estos efectos, podrán proponer a la asamblea respectiva una lista en la que figure un número de candidatos igual al de los cargos que haya que llenar.</tgt>
+</seg>
+<seg  match="1-1" id="154">
+  <src xml:lang="EN">The procedure provided for in paragraph (2) shall be applied if the assembly does not unanimously accept the list thus proposed.</src>
+  <tgt xml:lang="ES">Si la asamblea no aprobase por unanimidad la lista así propuesta se deberá aplicar el procedimiento previsto en el párrafo 2).</tgt>
+</seg>
+<seg  match="1-1" id="155">
+  <src xml:lang="EN">(2) When several elective places are to be filled at one time and in the same conditions, those candidates obtaining the required majority in the first ballot shall be elected.</src>
+  <tgt xml:lang="ES">2) Cuando varios cargos se sometan a elección en forma simultánea y en las mismas condiciones, resultarán elegidos los candidatos que obtengan en la primera votación la mayoría necesaria.</tgt>
+</seg>
+<seg  match="1-1" id="156">
+  <src xml:lang="EN">If the number of candidates obtaining such majority is less than the number of places to be filled, there shall be additional ballots to fill the remaining places.</src>
+  <tgt xml:lang="ES">Si el número de candidatos que haya obtenido dicha mayoría es inferior al número de cargos por llenar, se procederá a nuevas votaciones para proveer los otros cargos.</tgt>
+</seg>
+<seg  match="1-1" id="157">
+  <src xml:lang="EN">The voting shall then be restricted to the candidates obtaining the greatest number of votes in the previous ballot, up to a number which shall not, however, be more than twice the number of places remaining to be filled.</src>
+  <tgt xml:lang="ES">La elección se limitará entonces a los candidatos que hayan obtenido la mayor cantidad de votos en la votación anterior, y su número no podrá exceder en todo caso al doble del número de cargos que queden por llenar.</tgt>
+</seg>
+<seg  match="1-1" id="158">
+  <src xml:lang="EN">Rule 35: Required Majority</src>
+  <tgt xml:lang="ES">Artículo 35: Mayoría necesaria</tgt>
+</seg>
+<seg  match="1-1" id="159">
+  <src xml:lang="EN">Unless expressly provided otherwise in the applicable treaties or in the present General Rules of Procedure, all decisions shall be made by a simple majority.</src>
+  <tgt xml:lang="ES">Salvo disposición expresa en contrario de los tratados aplicables o del presente Reglamento general, toda decisión se adoptará por mayoría simple.</tgt>
+</seg>
+<seg  match="1-1" id="160">
+  <src xml:lang="EN">Rule 36: Majority and Unanimity.</src>
+  <tgt xml:lang="ES">Artículo 36: Mayoría y unanimidad – Empate de votos</tgt>
+</seg>
+<seg  match="6-5" id="161">
+  <src xml:lang="EN">Equally Divided Votes<br/>(1) In determining whether the required majority or unanimity is attained, only votes actually cast shall be taken into consideration.<br/>Abstentions shall not be considered votes.<br/>(2) When, on matters other than elections which require a simple majority, a vote is equally divided, the proposal or amendment shall be considered rejected.<br/>Rule 37: Explanations of Votes Cast<br/>(1) The Chairman may allow delegations to explain their votes, either before or after the voting takes place, unless the vote is taken by secret ballot.<br/></src>
+  <tgt xml:lang="ES">1) Para determinar si se ha logrado reunir la mayoría o la unanimidad requeridas, sólo se tomarán en consideración los sufragios emitidos.<br/>La abstención no se considerará como voto.<br/>2) Cuando se produjese un empate en asuntos cuya decisión no se efectúe por mayoría simple de votos, la propuesta o enmienda se considerará rechazada.<br/>Artículo 37: Fundamentación del voto<br/>1) El Presidente podrá autorizar a las delegaciones para que fundamenten sus votos, ya sea antes o después de la votación, excepto cuando ésta sea secreta.<br/></tgt>
+</seg>
+<seg  match="1-1" id="162">
+  <src xml:lang="EN">(2) Explanations of votes cast shall be recorded in the report on the session.</src>
+  <tgt xml:lang="ES">2) En el informe de la reunión se hará constar la fundamentación de los votos.</tgt>
+</seg>
+<seg  match="1-1" id="163">
+  <src xml:lang="EN">Rule 38: Chairmen Not entitled to Vote</src>
+  <tgt xml:lang="ES">Artículo 38: Los presidentes no tendrán derecho a votar</tgt>
+</seg>
+<seg  match="1-1" id="164">
+  <src xml:lang="EN">(1) No Chairman or Acting Chairman shall vote.</src>
+  <tgt xml:lang="ES">1) Ni el Presidente ni el Presidente interino podrán votar.</tgt>
+</seg>
+<seg  match="1-1" id="165">
+  <src xml:lang="EN">(2) Another member of his delegation may vote for the State he represents.</src>
+  <tgt xml:lang="ES">2) Otro miembro de su delegación podrá votar por el Estado que el Presidente represente.</tgt>
+</seg>
+<seg  match="1-1" id="166">
+  <src xml:lang="EN">Rule 39: Observers</src>
+  <tgt xml:lang="ES">Artículo 39: Observadores</tgt>
+</seg>
+<seg  match="1-1" id="167">
+  <src xml:lang="EN">Observers shall not have the right to vote.</src>
+  <tgt xml:lang="ES">Los observadores no tendrán derecho a votar.</tgt>
+</seg>
+<seg  match="1-1" id="168">
+  <src xml:lang="EN">Chapter VII: Miscellaneous Provisions</src>
+  <tgt xml:lang="ES">Capítulo VII: Disposiciones varias</tgt>
+</seg>
+<seg  match="1-1" id="169">
+  <src xml:lang="EN">Rule 40: Languages of Documents</src>
+  <tgt xml:lang="ES">Artículo 40: Idiomas de los documentos</tgt>
+</seg>
+<seg  match="1-1" id="170">
+  <src xml:lang="EN">(1) Documents intended for the various bodies shall be drawn up in English and French.</src>
+  <tgt xml:lang="ES">1) Los documentos destinados a los distintos órganos se redactarán en francés e inglés.</tgt>
+</seg>
+<seg  match="1-1" id="171">
+  <src xml:lang="EN">The Director General may, in so far as he considers it advisable and practicable, decide that certain documents shall be drawn up also in Spanish or Russian, or in both of those languages.</src>
+  <tgt xml:lang="ES">El Director General podrá decidir, en los casos en que lo estime útil y posible, que determinados documentos se redacten también en español o ruso, o en ambos idiomas.</tgt>
+</seg>
+<seg  match="1-1" id="172">
+  <src xml:lang="EN">(2) The Director General shall decide on the language or languages in which documents intended for subsidiary bodies shall be drawn up.</src>
+  <tgt xml:lang="ES">2) El Director General decidirá el idioma o idiomas en que se redactarán los documentos destinados a los órganos subsidiarios.</tgt>
+</seg>
+<seg  match="1-1" id="173">
+  <src xml:lang="EN">Rule 41: Languages of Oral Interventions.</src>
+  <tgt xml:lang="ES">Artículo 41: Idiomas de las intervenciones orales.</tgt>
+</seg>
+<seg  match="1-1" id="174">
+  <src xml:lang="EN">Interpretation</src>
+  <tgt xml:lang="ES">Interpretación</tgt>
+</seg>
+<seg  match="1-1" id="175">
+  <src xml:lang="EN">(1) Oral interventions during meetings of the various bodies shall be in English or French, and interpretation shall be provided for in the other language.</src>
+  <tgt xml:lang="ES">1) En las reuniones de los distintos órganos las intervenciones orales se harán en francés o en inglés, y se asegurará la interpretación en el otro idioma.</tgt>
+</seg>
+<seg  match="1-1" id="176">
+  <src xml:lang="EN">The Director General may, however, decide that oral interventions may also be made in Spanish or Russian, or in both of those languages; in such cases, interpretation shall be provided for in all the accepted languages.</src>
+  <tgt xml:lang="ES">Sin embargo, el Director General podrá decidir que las intervenciones orales también se puedan hacer en español o en ruso, o en ambos idiomas; en tales casos se asegurará la interpretación en todos los idiomas admitidos.</tgt>
+</seg>
+<seg  match="1-1" id="177">
+  <src xml:lang="EN">(2) With regard to the subsidiary bodies, the Director General shall decide on the language or languages in which oral interventions shall be made and for which interpretation shall be provided.</src>
+  <tgt xml:lang="ES">2) En cuanto a los órganos subsidiarios, el Director General decidirá el o los idiomas en que se harán las intervenciones orales y respecto de cuáles idiomas se asegurará la interpretación.</tgt>
+</seg>
+<seg  match="1-1" id="178">
+  <src xml:lang="EN">(3) In any meeting in which simultaneous interpretation is provided by the Secretariat in at least two languages, any participant may make oral interventions in another language in so far as he provides for simultaneous interpretation in one of the languages for which interpretation is provided by the Secretariat.</src>
+  <tgt xml:lang="ES">3) En toda reunión en la que la Secretaría asegure al menos la interpretación simultánea en dos idiomas, cualquier participante podrá hacer intervenciones orales en otro idioma siempre que asegure su interpretación simultánea en uno de los idiomas cuya interpretación facilite la Secretaría.</tgt>
+</seg>
+<seg  match="1-1" id="179">
+  <src xml:lang="EN">Rule 42: Joint Meetings</src>
+  <tgt xml:lang="ES">Artículo 42: Reuniones conjuntas</tgt>
+</seg>
+<seg  match="1-1" id="180">
+  <src xml:lang="EN">(1) When two or more bodies of the Organization or of the Unions must examine questions of common interest to them, they shall hold joint meetings.</src>
+  <tgt xml:lang="ES">1) Cuando dos o más órganos de la Organización o de las Uniones deban examinar asuntos de interés común, celebrarán reuniones conjuntas.</tgt>
+</seg>
+<seg  match="1-1" id="181">
+  <src xml:lang="EN">(2) Every joint meeting shall be presided over by the Chairman of the body which has precedence over the others, such precedence being determined as follows:</src>
+  <tgt xml:lang="ES">2) Cualquier reunión conjunta será presidida por el Presidente del órgano que tenga prioridad sobre los otros, prioridad que se determina en la forma siguiente:</tgt>
+</seg>
+<seg  match="1-1" id="182">
+  <src xml:lang="EN">(i) among bodies of WIPO: 1. </src>
+  <tgt xml:lang="ES">i) entre órganos de la OMPI: 1. </tgt>
+</seg>
+<seg  match="1-1" id="183">
+  <src xml:lang="EN">General Assembly, 2. </src>
+  <tgt xml:lang="ES">Asamblea General, 2. </tgt>
+</seg>
+<seg  match="1-1" id="184">
+  <src xml:lang="EN">Conference, 3. </src>
+  <tgt xml:lang="ES">Conferencia, 3. </tgt>
+</seg>
+<seg  match="1-1" id="185">
+  <src xml:lang="EN">Coordination Committee;</src>
+  <tgt xml:lang="ES">Comité de Coordinación;</tgt>
+</seg>
+<seg  match="1-1" id="186">
+  <src xml:lang="EN">(ii) among bodies of the same Union: 1. </src>
+  <tgt xml:lang="ES">ii) entre órganos de la misma Unión: 1. </tgt>
+</seg>
+<seg  match="1-1" id="187">
+  <src xml:lang="EN">Assembly, 2.  Conference of Representatives, 3. </src>
+  <tgt xml:lang="ES">Asamblea, 2.  Conferencia de representantes, 3. </tgt>
+</seg>
+<seg  match="1-1" id="188">
+  <src xml:lang="EN">Executive Committee;</src>
+  <tgt xml:lang="ES">Comité Ejecutivo;</tgt>
+</seg>
+<seg  match="1-1" id="189">
+  <src xml:lang="EN">(iii) among bodies of WIPO and one or more Unions: the WIPO body;</src>
+  <tgt xml:lang="ES">iii) entre órganos de la OMPI y de una o más Uniones: el órgano de la OMPI;</tgt>
+</seg>
+<seg  match="1-1" id="190">
+  <src xml:lang="EN">(iv) among bodies of several Unions: the body of the oldest Union.</src>
+  <tgt xml:lang="ES">iv) entre órganos de varias Uniones: el órgano de la Unión más antigua.</tgt>
+</seg>
+<seg  match="1-1" id="191">
+  <src xml:lang="EN">Rule 43: Publicity of Meetings</src>
+  <tgt xml:lang="ES">Artículo 43: Publicidad de las reuniones</tgt>
+</seg>
+<seg  match="1-1" id="192">
+  <src xml:lang="EN">(1) Meetings of the WIPO Conference and the WIPO General Assembly and those of the Assemblies of the Unions shall be open, whereas those of the other bodies and of the subsidiary bodies shall be closed.</src>
+  <tgt xml:lang="ES">1) Las reuniones de la Conferencia de la OMPI, de la Asamblea General de la OMPI y de las asambleas de las Uniones serán públicas, mientras que las reuniones de los otros órganos y de los órganos subsidiarios serán privadas.</tgt>
+</seg>
+<seg  match="1-1" id="193">
+  <src xml:lang="EN">(2) Any body and any subsidiary body may, for its own purposes, waive the provision of the preceding paragraph in special cases and to the extent desired.</src>
+  <tgt xml:lang="ES">2) En casos especiales y en la medida que sea conveniente, cualquier órgano y cualquier órgano subsidiario podrán, de acuerdo a sus propias finalidades, suspender las disposiciones del párrafo anterior.</tgt>
+</seg>
+<seg  match="1-1" id="194">
+  <src xml:lang="EN">Rule 44: Report</src>
+  <tgt xml:lang="ES">Artículo 44: Informe</tgt>
+</seg>
+<seg  match="1-1" id="195">
+  <src xml:lang="EN">(1) At the end of every session the Secretariat shall submit to the assembly a draft report on the work accomplished.</src>
+  <tgt xml:lang="ES">1) Al finalizar cada reunión, la Secretaría presentará a la Asamblea un proyecto de informe sobre la labor realizada.</tgt>
+</seg>
+<seg  match="1-1" id="196">
+  <src xml:lang="EN">(2) After the session, the report adopted by the assembly shall be transmitted by the Director General to the States and organizations invited to the session.</src>
+  <tgt xml:lang="ES">2) Después de la reunión, el Director General comunicará a los Estados y organizaciones invitados a la reunión el informe aprobado por la asamblea.</tgt>
+</seg>
+<seg  match="1-1" id="197">
+  <src xml:lang="EN">Rule 45: Entry into Force and Amendment of Special Rules of Procedure</src>
+  <tgt xml:lang="ES">Artículo 45: Vigencia y modificación de los reglamentos especiales</tgt>
+</seg>
+<seg  match="1-1" id="198">
+  <src xml:lang="EN">(1) The special rules of procedure of each body shall enter into force on being adopted by that body.</src>
+  <tgt xml:lang="ES">1) Los reglamentos especiales de cada órgano entrarán en vigor tan pronto como sean aprobados por el órgano.</tgt>
+</seg>
+<seg  match="1-1" id="199">
+  <src xml:lang="EN">(2) Each body may amend its own rules of procedure.</src>
+  <tgt xml:lang="ES">2) Cada órgano podrá modificar su propio reglamento.</tgt>
+</seg>
+<seg  match="1-1" id="200">
+  <src xml:lang="EN">PART III: AD HOC COMMITTEES OF EXPERTS</src>
+  <tgt xml:lang="ES">PARTE III: COMITÉS DE EXPERTOS AD HOC</tgt>
+</seg>
+<seg  match="1-1" id="201">
+  <src xml:lang="EN">Rule 46: Functions</src>
+  <tgt xml:lang="ES">Artículo 46: Atribuciones</tgt>
+</seg>
+<seg  match="1-1" id="202">
+  <src xml:lang="EN">(1) The Director General shall, in implementation of the program of the Organization or of any Union, convene ad hoc committees of experts (committees, working groups) whose task shall be to make suggestions or give advice on any subject within the competence of the Organization or of such Union.</src>
+  <tgt xml:lang="ES">1) El Director General, en cumplimiento del programa de la Organización o de una Unión, convocará a los comités de expertos ad hoc (comités, comisiones, grupos de trabajo) encargados de presentar propuestas o de dar asesoramiento en todos los asuntos que sean de la competencia de la Organización o de una Unión.</tgt>
+</seg>
+<seg  match="1-1" id="203">
+  <src xml:lang="EN">(2) The terms of reference of ad hoc committees of experts shall be defined in the program of the Organization or of the Union concerned, or, failing this, by the Director General.</src>
+  <tgt xml:lang="ES">2) El programa de la Organización o de la respectiva Unión, o, en su defecto, el Director General, definirán el mandato de los comités de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="204">
+  <src xml:lang="EN">Rule 47: Dates and Place of Meetings</src>
+  <tgt xml:lang="ES">Artículo 47: Fechas y lugar de las reuniones</tgt>
+</seg>
+<seg  match="1-1" id="205">
+  <src xml:lang="EN">The Director General shall fix the place and dates of meetings of ad hoc committees of experts.</src>
+  <tgt xml:lang="ES">El Director General fijará la sede y las fechas de las reuniones de los comités de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="206">
+  <src xml:lang="EN">Rule 48: Participants</src>
+  <tgt xml:lang="ES">Artículo 48: Participantes</tgt>
+</seg>
+<seg  match="1-1" id="207">
+  <src xml:lang="EN">(1) Experts shall serve in a personal capacity.</src>
+  <tgt xml:lang="ES">1) Los expertos actuarán a título personal.</tgt>
+</seg>
+<seg  match="1-1" id="208">
+  <src xml:lang="EN">(2) They shall be designated individually, either by the Director General or by Governments or international organizations on the invitation of the Director General.</src>
+  <tgt xml:lang="ES">2) Los expertos se designarán individualmente por el Director General, o por los gobiernos o las organizaciones internacionales por invitación del Director General.</tgt>
+</seg>
+<seg  match="1-1" id="209">
+  <src xml:lang="EN">(3) Unless decided otherwise by the Director General, experts may be accompanied by advisors, who may participate in the debates.</src>
+  <tgt xml:lang="ES">3) Salvo decisión en contrario del Director General, los expertos podrán venir acompañados de asesores, facultados para participar en los debates.</tgt>
+</seg>
+<seg  match="1-1" id="210">
+  <src xml:lang="EN">(4) The Director General may at any time invite States or organizations to send observers to follow the work of an ad hoc committee of experts.</src>
+  <tgt xml:lang="ES">4) El Director General podrá invitar en cualquier momento a los Estados o a las organizaciones a que envíen observadores para seguir los trabajos de un comité de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="211">
+  <src xml:lang="EN">Rule 49: Expenses of Participants</src>
+  <tgt xml:lang="ES">Artículo 49: Gastos de los participantes</tgt>
+</seg>
+<seg  match="1-1" id="212">
+  <src xml:lang="EN">(1) At the time of the convocation, the Director General shall indicate whether and to what extent the travel and subsistence expenses of participants shall be borne by the Organization.</src>
+  <tgt xml:lang="ES">1) En el momento de la convocatoria, el Director General indicará si la organización se hará cargo y en qué medida de los gastos de viaje y de sustentación de los participantes.</tgt>
+</seg>
+<seg  match="1-1" id="213">
+  <src xml:lang="EN">(2) The expenses of observers shall be borne by the States or organizations which have sent them.</src>
+  <tgt xml:lang="ES">2) Los gastos de los observadores serán costeados por los Estados u organizaciones que los envíen.</tgt>
+</seg>
+<seg  match="1-1" id="214">
+  <src xml:lang="EN">Rule 50: Agenda and Rules of Procedure</src>
+  <tgt xml:lang="ES">Artículo 50: Programa y reglamento</tgt>
+</seg>
+<seg  match="1-1" id="215">
+  <src xml:lang="EN">(1) The Director General shall draw up the agenda of each ad hoc committee of experts.</src>
+  <tgt xml:lang="ES">1) El Director General elaborará el programa de cada comité de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="216">
+  <src xml:lang="EN">He may modify it on his own initiative or at the request of the ad hoc committee of experts.</src>
+  <tgt xml:lang="ES">Podrá modificarlo de propia iniciativa o a petición del comité de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="217">
+  <src xml:lang="EN">(2) The provisions of Part II of the General Rules of Procedure shall, as far as possible, serve as rules of procedure for ad hoc committees of experts.</src>
+  <tgt xml:lang="ES">2) Las disposiciones de la Parte II del presente Reglamento general servirán, en la medida de lo posible, de reglamento para los comités de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="218">
+  <src xml:lang="EN">To the extent that they apply to such committees, the Director General may modify them in each individual case, either on his own initiative or at the request of the ad hoc committee of experts concerned.</src>
+  <tgt xml:lang="ES">En la medida en que se apliquen a dichos comités, el Director General podrá modificarlas en cada caso particular, por iniciativa propia o a petición del respectivo comité de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="219">
+  <src xml:lang="EN">Rule 51: Languages</src>
+  <tgt xml:lang="ES">Artículo 51: Idiomas</tgt>
+</seg>
+<seg  match="1-1" id="220">
+  <src xml:lang="EN">(1) The Director General shall decide on the language or languages in which documents intended for ad hoc committees of experts are drawn up.</src>
+  <tgt xml:lang="ES">1) El Director General decidirá en qué idioma o idiomas se redactarán los documentos destinados a los comités de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="221">
+  <src xml:lang="EN">(2) The Director General shall decide on the language or languages in which oral interventions must be made and for which interpretation will be provided, in an ad hoc committee of experts.</src>
+  <tgt xml:lang="ES">2) El Director General decidirá en qué idioma o idiomas se deberán hacer las intervenciones orales en un comité de expertos ad hoc y qué interpretaciones se asegurarán.</tgt>
+</seg>
+<seg  match="1-1" id="222">
+  <src xml:lang="EN">Rule 52: Officers of ad hoc Committees of Experts</src>
+  <tgt xml:lang="ES">Artículo 52: Mesa directiva del comité de expertos ad hoc</tgt>
+</seg>
+<seg  match="1-1" id="223">
+  <src xml:lang="EN">(1) During its first meeting, the ad hoc committee of experts shall elect from among its members a Chairman and two Vice Chairmen.</src>
+  <tgt xml:lang="ES">1) En su primera reunión, el comité de expertos ad hoc elegirá entre sus miembros a un Presidente y dos Vicepresidentes.</tgt>
+</seg>
+<seg  match="1-1" id="224">
+  <src xml:lang="EN">(2) With the consent of the Director General, the ad hoc committee of experts may elect the Director General himself or another official of the International Bureau as Chairman.</src>
+  <tgt xml:lang="ES">2) Con el consentimiento del Director General, el comité de expertos ad hoc podrá elegir como presidente al propio Director General o a otro funcionario de la Oficina Internacional.</tgt>
+</seg>
+<seg  match="1-1" id="225">
+  <src xml:lang="EN">Rule 53: Voting</src>
+  <tgt xml:lang="ES">Artículo 53: Votación</tgt>
+</seg>
+<seg  match="1-1" id="226">
+  <src xml:lang="EN">Each member of the ad hoc committee of experts shall have one vote.</src>
+  <tgt xml:lang="ES">Cada miembro del comité de expertos ad hoc tendrá un voto.</tgt>
+</seg>
+<seg  match="1-1" id="227">
+  <src xml:lang="EN">Rule 54: Publicity of Meetings</src>
+  <tgt xml:lang="ES">Artículo 54: Publicidad de las reuniones</tgt>
+</seg>
+<seg  match="1-1" id="228">
+  <src xml:lang="EN">(1) Meetings of ad hoc committees of experts shall be closed.</src>
+  <tgt xml:lang="ES">1) Los comités de expertos ad hoc se reunirán en sesiones privadas.</tgt>
+</seg>
+<seg  match="1-1" id="229">
+  <src xml:lang="EN">(2) The Director General may waive this rule on his own initiative or at the request of the ad hoc committee of experts.</src>
+  <tgt xml:lang="ES">2) El Director General podrá suspender esta norma por iniciativa propia o a petición del comité de expertos ad hoc.</tgt>
+</seg>
+<seg  match="1-1" id="230">
+  <src xml:lang="EN">Rule 55: Report</src>
+  <tgt xml:lang="ES">Artículo 55: Informe</tgt>
+</seg>
+<seg  match="1-1" id="231">
+  <src xml:lang="EN">Ad hoc committees of experts shall submit their reports to the Director General, who shall distribute and publicize these documents as he sees fit.</src>
+  <tgt xml:lang="ES">Los comités de expertos ad hoc presentarán sus informes al Director General, quien los distribuirá y publicará en la forma que estime conveniente.</tgt>
+</seg>
+<seg  match="1-1" id="232">
+  <src xml:lang="EN">PART IV: FINAL PROVISIONS</src>
+  <tgt xml:lang="ES">PARTE IV: DISPOSICIONES FINALES</tgt>
+</seg>
+<seg  match="1-1" id="233">
+  <src xml:lang="EN">Rule 56: Amendment of General Rules of Procedure</src>
+  <tgt xml:lang="ES">Artículo 56: Reforma del Reglamento general</tgt>
+</seg>
+<seg  match="1-1" id="234">
+  <src xml:lang="EN">(1) These General Rules of Procedure may be amended, as far as each body which has adopted them is concerned, by a decision of that body, provided that the said decision is taken as far as possible in joint meeting and that the said body accepts the amendment according to the procedure laid down for amendment of its own rules of procedure.</src>
+  <tgt xml:lang="ES">1) El presente Reglamento general podrá ser modificado, por lo que respecta a cada uno de los órganos que lo han aprobado, mediante una decisión del órgano correspondiente, siempre que dicha decisión se adopte en lo posible en reunión conjunta y que dicho órgano acepte la modificación de conformidad con el procedimiento establecido para la reforma de su propio reglamento.</tgt>
+</seg>
+<seg  match="1-1" id="235">
+  <src xml:lang="EN">(2) Any amendment to these General Rules of Procedure shall enter into force for each body which has adopted these General Rules of Procedure when that body has accepted the amendment.</src>
+  <tgt xml:lang="ES">2) Cualquier modificación del presente Reglamento general entrará en vigor, respecto de cada órgano que lo haya adoptado, desde el momento en que ese órgano acepte dicha modificación.</tgt>
+</seg>
+<seg  match="1-1" id="236">
+  <src xml:lang="EN">Rule 57: Entry into Force</src>
+  <tgt xml:lang="ES">Artículo 57: Vigencia</tgt>
+</seg>
+<seg  match="1-1" id="237">
+  <src xml:lang="EN">These General Rules of Procedure shall enter into force for each body at the time when it adopts its own rules of procedure referring thereto.</src>
+  <tgt xml:lang="ES">El presente Reglamento general entrará en vigor respecto de cada órgano desde el momento en que éste apruebe su propio reglamento y se remita al Reglamento general.</tgt>
+</seg>
+<seg  match="1-1" id="238">
+  <src xml:lang="EN">____________________</src>
+  <tgt xml:lang="ES">_________________</tgt>
+</seg>
+<seg  match="1-1" id="239">
+  <src xml:lang="EN">ANNEX</src>
+  <tgt xml:lang="ES">ANEXO</tgt>
+</seg>
+<seg  match="1-1" id="240">
+  <src xml:lang="EN">to the General Rules of Procedure of WIPO</src>
+  <tgt xml:lang="ES">al Reglamento General de la OMPI</tgt>
+</seg>
+<seg  match="1-1" id="241">
+  <src xml:lang="EN">Rules for Voting by Secret Ballot</src>
+  <tgt xml:lang="ES">Reglamento de la votación secreta</tgt>
+</seg>
+<seg  match="1-1" id="242">
+  <src xml:lang="EN">Rule 1. – In order to vote, delegations must be properly accredited.</src>
+  <tgt xml:lang="ES">Artículo 1. – Para poder votar, las delegaciones deberán estar debidamente acreditadas.</tgt>
+</seg>
+<seg  match="2-1" id="243">
+  <src xml:lang="EN">Rule 2. – Before the ballot begins, the Chairman shall appoint two tellers from among the delegates present.<br/>He shall hand them the list of delegations entitled to vote and, where applicable, the list of candidates.<br/></src>
+  <tgt xml:lang="ES">Artículo 2. – Antes de iniciarse la votación, el Presidente designará entre los delegados presentes a dos escrutadores y les remitirá la lista de las delegaciones que tengan derecho a voto y, llegado el caso, la lista de los candidatos.<br/></tgt>
+</seg>
+<seg  match="1-1" id="244">
+  <src xml:lang="EN">Rule 3. – The Secretariat shall distribute ballot papers and envelopes to the delegations.</src>
+  <tgt xml:lang="ES">Artículo 3. – La Secretaría distribuirá a las delegaciones boletines de voto y sobres.</tgt>
+</seg>
+<seg  match="1-1" id="245">
+  <src xml:lang="EN">Ballot papers and envelopes shall be of white paper without distinguishing marks.</src>
+  <tgt xml:lang="ES">Los boletines de voto y los sobres deberán ser de papel blanco y sin marcas distintivas.</tgt>
+</seg>
+<seg  match="1-1" id="246">
+  <src xml:lang="EN">Rule 4. – The tellers shall satisfy themselves that the ballot box is empty, and, having locked it, shall hand the key to the Chairman.</src>
+  <tgt xml:lang="ES">Artículo 4. – Los escrutadores deberán cerciorarse de que la urna esté vacía y, después de proceder al cierre de ella, le remitirán la llave al Presidente.</tgt>
+</seg>
+<seg  match="1-1" id="247">
+  <src xml:lang="EN">Rule 5. – Delegations shall be called in turn by the Secretary of the meeting, in the alphabetical order of the names of the member States in French, beginning with the member State whose name shall have been drawn by lot.</src>
+  <tgt xml:lang="ES">Artículo 5. – Las delegaciones serán llamadas en forma sucesiva por el Secretario de la reunión en el orden alfabético francés de los nombres de los Estados miembros, comenzando por el Estado miembro cuyo nombre haya sido sorteado.</tgt>
+</seg>
+<seg  match="1-1" id="248">
+  <src xml:lang="EN">Rule 6. – When their names are called, delegations shall hand their ballot papers, in the envelopes, to a teller, who shall place them in the ballot box.</src>
+  <tgt xml:lang="ES">Artículo 6. – Al llamado de sus nombres, las delegaciones entregarán sus boletines de voto, en los sobres, al escrutador, quien los depositará en la urna.</tgt>
+</seg>
+<seg  match="1-1" id="249">
+  <src xml:lang="EN">Rule 7. – To indicate the recording of each member State’s vote, the Secretary of the meeting and one of the tellers shall sign or initial the list in the margin opposite the name of the member State in question.</src>
+  <tgt xml:lang="ES">Artículo 7. –El voto de cada Estado miembro se verifica mediante la firma o inicial del Secretario de la reunión y de un escrutador en el margen opuesto al nombre del respectivo Estado miembro.</tgt>
+</seg>
+<seg  match="1-1" id="250">
+  <src xml:lang="EN">Rule 8. – At the conclusion of the calling, the Chairman shall declare the ballot closed and announce that the votes are to be counted.</src>
+  <tgt xml:lang="ES">Artículo 8. – Al finalizar el llamado, el Presidente declarará cerrada la votación y anunciará que se va a proceder al escrutinio.</tgt>
+</seg>
+<seg  match="1-1" id="251">
+  <src xml:lang="EN">Rule 9. – When the Chairman has opened the ballot box, the tellers shall check the number of envelopes.</src>
+  <tgt xml:lang="ES">Artículo 9. – Después de la apertura de la urna por el Presidente, los escrutadores verificarán el número de sobres.</tgt>
+</seg>
+<seg  match="1-1" id="252">
+  <src xml:lang="EN">If the number is greater or less than that of the voters, the Chairman shall be informed, and shall then declare the vote invalid and announce that it is necessary to re open the ballot.</src>
+  <tgt xml:lang="ES">Si su número es mayor o menor que el de los votantes, se deberá informar al Presidente, quien declarará nula la votación y anunciará la necesidad de repetirla.</tgt>
+</seg>
+<seg  match="1-1" id="253">
+  <src xml:lang="EN">Rule 10. – One of the tellers shall open the envelopes, one by one, read aloud what is written on the ballot paper, and pass it to the other teller.</src>
+  <tgt xml:lang="ES">Artículo 10. – Uno de los escrutadores abrirá cada sobre, leerá en voz alta el contenido del boletín de voto y se lo pasará al otro escrutador.</tgt>
+</seg>
+<seg  match="1-1" id="254">
+  <src xml:lang="EN">The votes inscribed on the ballot papers shall be entered on lists prepared for that purpose.</src>
+  <tgt xml:lang="ES">Los votos inscritos en los boletines se anotarán en las listas preparadas para tales efectos.</tgt>
+</seg>
+<seg  match="1-1" id="255">
+  <src xml:lang="EN">Rule 11. – Blank ballot papers shall be considered to be abstentions.</src>
+  <tgt xml:lang="ES">Artículo 11. – Los boletines en blanco se considerarán como abstenciones.</tgt>
+</seg>
+<seg  match="1-1" id="256">
+  <src xml:lang="EN">Rule 12. – The following shall be considered invalid:</src>
+  <tgt xml:lang="ES">Artículo 12. – Se considerarán nulos:</tgt>
+</seg>
+<seg  match="1-1" id="257">
+  <src xml:lang="EN">(a) ballot papers on which there are more names than there are States or persons to be elected;</src>
+  <tgt xml:lang="ES">a) los boletines de voto que contengan un número mayor de nombres que el de los Estados o personas que haya que elegir;</tgt>
+</seg>
+<seg  match="1-1" id="258">
+  <src xml:lang="EN">(b) ballot papers in which the voters have revealed their identity, in particular, by apposing their signature or mentioning the name of the member State they represent;</src>
+  <tgt xml:lang="ES">b) los boletines de voto en que los votantes hayan revelado su identidad, sobre todo mediante su firma o la mención del nombre del Estado miembro que representen;</tgt>
+</seg>
+<seg  match="1-1" id="259">
+  <src xml:lang="EN">(c) ballot papers which do not give a clear reply to the question asked.</src>
+  <tgt xml:lang="ES">c) los boletines de voto que no den una respuesta clara a la cuestión planteada.</tgt>
+</seg>
+<seg  match="1-1" id="260">
+  <src xml:lang="EN">Rule 13. – A candidate is entitled to only one vote per ballot paper, even if his name appears more than once thereon.</src>
+  <tgt xml:lang="ES">Artículo 13. – Un candidato sólo podrá obtener un voto por boletín, aunque su nombre figure muchas veces en él.</tgt>
+</seg>
+<seg  match="1-1" id="261">
+  <src xml:lang="EN">Rule 14. – When the counting of the votes is completed, the Chairman shall announce the results of the ballot in the following order:</src>
+  <tgt xml:lang="ES">Artículo 14. – Una vez realizado el escrutinio, el Presidente proclamará los resultados de la votación en el orden siguiente:</tgt>
+</seg>
+<seg  match="1-1" id="262">
+  <src xml:lang="EN">number of member States entitled to vote at the session;</src>
+  <tgt xml:lang="ES">número de Estados miembros que hayan tenido derecho a voto en la reunión;</tgt>
+</seg>
+<seg  match="1-1" id="263">
+  <src xml:lang="EN">number absent;</src>
+  <tgt xml:lang="ES">número de ausentes:</tgt>
+</seg>
+<seg  match="1-1" id="264">
+  <src xml:lang="EN">number of abstentions;</src>
+  <tgt xml:lang="ES">número de abstenciones;</tgt>
+</seg>
+<seg  match="1-1" id="265">
+  <src xml:lang="EN">number of invalid ballot papers;</src>
+  <tgt xml:lang="ES">número de boletines de voto nulos;</tgt>
+</seg>
+<seg  match="1-1" id="266">
+  <src xml:lang="EN">number of votes recorded;</src>
+  <tgt xml:lang="ES">número de sufragios emitidos;</tgt>
+</seg>
+<seg  match="1-1" id="267">
+  <src xml:lang="EN">number of votes constituting the required majority;</src>
+  <tgt xml:lang="ES">número de votos que constituyen la mayoría requerida;</tgt>
+</seg>
+<seg  match="1-1" id="268">
+  <src xml:lang="EN">number of votes for or against the proposal or names of the candidates and number of votes secured by each of them, in descending order of the number of votes.</src>
+  <tgt xml:lang="ES">número de votos en favor o en contra de la propuesta, o nombres de los candidatos y número de votos obtenidos por cada uno de ellos en orden decreciente de sufragios.</tgt>
+</seg>
+<seg  match="1-1" id="269">
+  <src xml:lang="EN">Rule 15. – The Chairman shall announce the decision resulting from the vote.</src>
+  <tgt xml:lang="ES">Artículo 15. – El Presidente anunciará la decisión que resulte de la votación.</tgt>
+</seg>
+<seg  match="1-1" id="270">
+  <src xml:lang="EN">In particular, he shall declare elected those candidates who have obtained the required majority.</src>
+  <tgt xml:lang="ES">En especial, proclamará elegidos a los candidatos que hayan obtenido la mayoría necesaria.</tgt>
+</seg>
+<seg  match="1-1" id="271">
+  <src xml:lang="EN">Rule 16. – Immediately after the announcement of the results of the ballot, the ballot papers shall be burnt in the presence of the tellers.</src>
+  <tgt xml:lang="ES">Artículo 16. – Inmediatamente después de la proclamación de los resultados de la votación, los boletines de voto serán quemados en presencia de los escrutadores.</tgt>
+</seg>
+<seg  match="1-1" id="272">
+  <src xml:lang="EN">Rule 17. – The lists on which the tellers have recorded the results of the vote shall, after signature by the Chairman and by the tellers, constitute the official record of the ballot, and shall be deposited in the archives of the Organization.</src>
+  <tgt xml:lang="ES">Artículo 17. – Las listas en las que los escrutadores hayan consignado los resultados de la votación constituirán, después de haber sido firmadas por el Presidente y los escrutadores, el acta oficial de la votación y se depositará en los archivos de la Organización.</tgt>
+</seg>
+<seg  match="1-1" id="273">
+  <src xml:lang="EN">Rule 18. – The Chairman of the meeting shall draw the attention of delegations to these Rules whenever a vote is taken by secret ballot.</src>
+  <tgt xml:lang="ES">Artículo 18. – El Presidente de la reunión deberá señalar a la atención de las delegaciones el texto del presente Reglamento cada vez que se efectúe una votación secreta.</tgt>
+</seg>
+<seg  match="1-1" id="274">
+  <src xml:lang="EN">Rule 19. – (1) These Rules shall in no way affect the provisions according to which a quorum may, in certain conditions, be attained after the session.</src>
+  <tgt xml:lang="ES">Artículo 19. – 1) El presente Reglamento no afectará en absoluto a las disposiciones en virtud de las cuales el quórum podrá, en determinadas condiciones, obtenerse después de la reunión.</tgt>
+</seg>
+<seg  match="1-1" id="275">
+  <src xml:lang="EN">(2) Votes expressed by correspondence shall not be secret.</src>
+  <tgt xml:lang="ES">2) Los votos emitidos por correspondencia no serán secretos.</tgt>
+</seg>
+<seg  match="1-1" id="276">
+  <src xml:lang="EN">____________________</src>
+  <tgt xml:lang="ES">_________________</tgt>
+</seg>
+</segments>
+</bitext>

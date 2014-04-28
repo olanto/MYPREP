@@ -1,0 +1,782 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">UNITED A</src>
+  <tgt xml:lang="FR">NATIONS A</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">NATIONS</src>
+  <tgt xml:lang="FR">UNIES</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">General Assembly</src>
+  <tgt xml:lang="FR">Assemblée générale</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Distr.</src>
+  <tgt xml:lang="FR">Distr.</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">GENERAL</src>
+  <tgt xml:lang="FR">GÉNÉRALE</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">A/RES/53/144</src>
+  <tgt xml:lang="FR">A/RES/53/144</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">8 March 1999</src>
+  <tgt xml:lang="FR">8 mars 1999</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">Fifty-third session</src>
+  <tgt xml:lang="FR">Cinquante-troisième session</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Agenda item 110 (b)</src>
+  <tgt xml:lang="FR">Point 110, b, de l’ordre du jour</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">RESOLUTION ADOPTED BY THE GENERAL ASSEMBLY</src>
+  <tgt xml:lang="FR">RÉSOLUTION ADOPTÉE PAR L’ASSEMBLÉE GÉNÉRALE</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">[on the report of the Third Committee (A/53/625/Add.2)]</src>
+  <tgt xml:lang="FR">[sur le rapport de la Troisième Commission (A/53/625/Add.2)]</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">53/144. Declaration on the Right and Responsibility of Individuals, Groups and</src>
+  <tgt xml:lang="FR">53/144. Déclaration sur le droit et la responsabilité des individus, groupes et</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">Organs of Society to Promote and Protect Universally Recognized Human</src>
+  <tgt xml:lang="FR">organes de la société de promouvoir et protéger les droits de l’homme</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">Rights and Fundamental Freedoms</src>
+  <tgt xml:lang="FR">et les libertés fondamentales universellement reconnus</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">The General Assembly,</src>
+  <tgt xml:lang="FR">L’Assemblée générale,</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">Reaffirming the importance of the observance of the purposes and principles of the Charter of the</src>
+  <tgt xml:lang="FR">Réaffirmant l’importance que revêt la réalisation des buts et principes énoncés dans la Charte des</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">United Nations for the promotion and protection of all human rights and fundamental freedoms for all</src>
+  <tgt xml:lang="FR">Nations Unies pour la promotion et la protection de tous les droits de l’homme et de toutes les libertés</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">persons in all countries of the world,</src>
+  <tgt xml:lang="FR">fondamentales pour tous, dans tous les pays du monde,</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">Taking note of Commission on Human Rights resolution 1998/7 of 3 April 1998,1 in which the</src>
+  <tgt xml:lang="FR">Prenant note de la résolution 1998/7 de la Commission des droits de l’homme, en date du 3 avril</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">Commission approved the text of the draft declaration on the right and responsibility of individuals, groups</src>
+  <tgt xml:lang="FR">19981, dans laquelle la Commission a approuvé le texte du projet de déclaration sur le droit et la</tgt>
+</seg>
+<seg  match="1-2" id="21">
+  <src xml:lang="EN">and organs of society to promote and protect universally recognized human rights and fundamental freedoms,<br/></src>
+  <tgt xml:lang="FR">responsabilité des individus, groupes et organes de la société de promouvoir et protéger les droits de<br/>l’homme et les libertés fondamentales universellement reconnus,<br/></tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">Taking note also of Economic and Social Council resolution 1998/33 of 30 July 1998, in which the</src>
+  <tgt xml:lang="FR">Prenant note également de la résolution 1998/33 du Conseil économique et social, en date du</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">Council recommended the draft declaration to the General Assembly for adoption,</src>
+  <tgt xml:lang="FR">30 juillet 1998, dans laquelle le Conseil a recommandé à l’Assemblée générale d’adopter le projet de</tgt>
+</seg>
+<seg  match="14-13" id="24">
+  <src xml:lang="EN">Conscious of the importance of the adoption of the draft declaration in the context of the fiftieth<br/>anniversary of the Universal Declaration of Human Rights 2,<br/>1 See Official Records of the Economic and Social Council, 1998, Supplement No.<br/>3 (E/1998/23), chap.<br/>II, sect.<br/>A.<br/>2 Resolution 217 A (III).<br/>/...<br/>A/RES/53/144<br/>Page 2<br/>1. Adopts the Declaration on the Right and Responsibility of Individuals, Groups and Organs of<br/>Society to Promote and Protect Universally Recognized Human Rights and Fundamental Freedoms, annexed<br/>to the present resolution;<br/>2. Invites Governments, agencies and organizations of the United Nations system and<br/></src>
+  <tgt xml:lang="FR">déclaration,<br/>1 Voir Documents officiels du Conseil économique et social, 1998, Supplément no 3 (E/1998/23), chap.<br/>II,<br/>sect. A.<br/>99-77090 /...<br/>A/RES/53/144<br/>Page 2<br/>Consciente de l’importance que revêt l’adoption du projet de déclaration dans le contexte du<br/>cinquantenaire de la Déclaration universelle des droits de l’homme2,<br/>1. Adopte la Déclaration sur le droit et la responsabilité des individus, groupes et organes de la<br/>société de promouvoir et protéger les droits de l’homme et les libertés fondamentales universellement<br/>reconnus qui figure en annexe à la présente résolution;<br/>2. Invite les gouvernements, les organes et organismes des Nations Unies et les organisations<br/></tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">intergovernmental and non-governmental organizations to intensify their efforts to disseminate the</src>
+  <tgt xml:lang="FR">intergouvernementales et non gouvernementales à intensifier leurs efforts en vue de diffuser la Déclaration</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">Declaration and to promote universal respect and understanding thereof, and requests the Secretary-General</src>
+  <tgt xml:lang="FR">et d’en promouvoir le respect et la compréhension sur une base universelle, et prie le Secrétaire général</tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">to include the text of the Declaration in the next edition of Human Rights: A Compilation of International</src>
+  <tgt xml:lang="FR">de faire figurer le texte de la Déclaration dans la prochaine édition de la publication Droits de l’homme:</tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">Instruments.</src>
+  <tgt xml:lang="FR">Recueil d’instruments internationaux.</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">85th plenary meeting</src>
+  <tgt xml:lang="FR">85e séance plénière</tgt>
+</seg>
+<seg  match="1-1" id="30">
+  <src xml:lang="EN">9 December 1998</src>
+  <tgt xml:lang="FR">9 décembre 1998</tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">ANNEX</src>
+  <tgt xml:lang="FR">ANNEXE</tgt>
+</seg>
+<seg  match="1-1" id="32">
+  <src xml:lang="EN">Declaration on the Right and Responsibility of Individuals, Groups and Organs of Society to Promote</src>
+  <tgt xml:lang="FR">Déclaration sur le droit et la responsabilité des individus, groupes</tgt>
+</seg>
+<seg  match="1-2" id="33">
+  <src xml:lang="EN">and Protect Universally Recognized Human Rights and Fundamental Freedoms<br/></src>
+  <tgt xml:lang="FR">et organes de la société de promouvoir et protéger les droits de<br/>l’homme et les libertés fondamentales universellement reconnus<br/></tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">The General Assembly,</src>
+  <tgt xml:lang="FR">L’Assemblée générale,</tgt>
+</seg>
+<seg  match="1-1" id="35">
+  <src xml:lang="EN">Reaffirming the importance of the observance of the purposes and principles of the Charter of the</src>
+  <tgt xml:lang="FR">Réaffirmant l’importance que revêt la réalisation des buts et principes énoncés dans la Charte des</tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">United Nations for the promotion and protection of all human rights and fundamental freedoms for all</src>
+  <tgt xml:lang="FR">Nations Unies pour la promotion et la protection de tous les droits de l’homme et de toutes les libertés</tgt>
+</seg>
+<seg  match="1-1" id="37">
+  <src xml:lang="EN">persons in all countries of the world,</src>
+  <tgt xml:lang="FR">fondamentales pour tous, dans tous les pays du monde,</tgt>
+</seg>
+<seg  match="1-1" id="38">
+  <src xml:lang="EN">Reaffirming also the importance of the Universal Declaration of Human Rights2 and the International</src>
+  <tgt xml:lang="FR">Réaffirmant également l’importance de la Déclaration universelle des droits de l’homme2 et des Pactes</tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">Covenants on Human Rights3 as basic elements of international efforts to promote universal respect for and</src>
+  <tgt xml:lang="FR">internationaux relatifs aux droits de l’homme3 en tant qu’éléments fondamentaux des efforts</tgt>
+</seg>
+<seg  match="1-2" id="40">
+  <src xml:lang="EN">observance of human rights and fundamental freedoms and the importance of other human rights instruments<br/></src>
+  <tgt xml:lang="FR">internationaux visant à promouvoir le respect universel et effectif des droits de l’homme et des libertés<br/>fondamentales, ainsi que l’importance des autres instruments relatifs aux droits de l’homme adoptés par<br/></tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">adopted within the United Nations system, as well as those at the regional level,</src>
+  <tgt xml:lang="FR">les organes et organismes des Nations Unies, et de ceux adoptés au niveau régional,</tgt>
+</seg>
+<seg  match="1-1" id="42">
+  <src xml:lang="EN">Stressing that all members of the international community shall fulfil, jointly and separately, their</src>
+  <tgt xml:lang="FR">Soulignant que tous les membres de la communauté internationale doivent remplir, conjointement et</tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">solemn obligation to promote and encourage respect for human rights and fundamental freedoms for all</src>
+  <tgt xml:lang="FR">séparément, leur obligation solennelle de promouvoir et encourager le respect des droits de l’homme et</tgt>
+</seg>
+<seg  match="3-4" id="44">
+  <src xml:lang="EN">without distinction of any kind, including distinctions based on race, colour, sex, language, religion, political<br/>or other opinion, national or social origin, property, birth or other status, and reaffirming the particular<br/>importance of achieving international cooperation to fulfil this obligation according to the Charter,<br/></src>
+  <tgt xml:lang="FR">des libertés fondamentales pour tous, sans distinction aucune, notamment sans distinction fondée sur la<br/>race, la couleur, le sexe, la langue, la religion, l’opinion, politique ou autre, l’origine nationale ou sociale,<br/>la fortune, la naissance ou toute autre situation, et réaffirmant qu’il importe en particulier de coopérer à<br/>l’échelle internationale pour remplir cette obligation conformément à la Charte,<br/></tgt>
+</seg>
+<seg  match="1-1" id="45">
+  <src xml:lang="EN">Acknowledging the important role of international cooperation for, and the valuable work of individuals,</src>
+  <tgt xml:lang="FR">Reconnaissant le rôle important que joue la coopération internationale et la précieuse contribution</tgt>
+</seg>
+<seg  match="1-1" id="46">
+  <src xml:lang="EN">groups and associations in contributing to, the effective elimination of all violations of human rights and</src>
+  <tgt xml:lang="FR">qu’apportent les individus, groupes et associations à l’élimination effective de toutes les violations des</tgt>
+</seg>
+<seg  match="3-9" id="47">
+  <src xml:lang="EN">fundamental freedoms of peoples and individuals, including in relation to mass, flagrant or systematic<br/>violations such as those resulting from apartheid, all forms of racial discrimination, colonialism, foreign<br/>domination or occupation, aggression or threats to national sovereignty, national unity or territorial integrity<br/></src>
+  <tgt xml:lang="FR">2 Résolution 217 A (III).<br/>3 Résolution 2200 A (XXI), annexe.<br/>/...<br/>A/RES/53/144<br/>Page 3<br/>droits de l’homme et des libertés fondamentales des peuples et des personnes, notamment des violations<br/>massives, flagrantes ou systématiques telles que celles qui résultent de l’apartheid, de toutes les formes<br/>de discrimination raciale, du colonialisme, de la domination ou de l’occupation étrangère, de l’agression<br/>ou des menaces contre la souveraineté nationale, l’unité nationale ou l’intégrité territoriale, ainsi que du<br/></tgt>
+</seg>
+<seg  match="1-1" id="48">
+  <src xml:lang="EN">and from the refusal to recognize the right of peoples to self-determination and the right of every people to</src>
+  <tgt xml:lang="FR">refus de reconnaître le droit des peuples à l’autodétermination et le droit de chaque peuple d’exercer sa</tgt>
+</seg>
+<seg  match="1-1" id="49">
+  <src xml:lang="EN">exercise full sovereignty over its wealth and natural resources,</src>
+  <tgt xml:lang="FR">souveraineté pleine et entière sur ses richesses et ses ressources naturelles,</tgt>
+</seg>
+<seg  match="3--8" id="50">
+  <src xml:lang="EN">3<br/>Resolution 2200 A (XXI), annex.<br/>/...<br/></src>
+  <tgt xml:lang="FR"></tgt>
+</seg>
+<seg  match="1-1" id="51">
+  <src xml:lang="EN">A/RES/53/144</src>
+  <tgt xml:lang="FR">A/RES/53/144</tgt>
+</seg>
+<seg  match="1-1" id="52">
+  <src xml:lang="EN">Page 3</src>
+  <tgt xml:lang="FR">Page 3</tgt>
+</seg>
+<seg  match="11-18" id="53">
+  <src xml:lang="EN">Recognizing the relationship between international peace and security and the enjoyment of human<br/>rights and fundamental freedoms, and mindful that the absence of international peace and security does not<br/>excuse non-compliance,<br/>Reiterating that all human rights and fundamental freedoms are universal, indivisible, interdependent<br/>and interrelated and should be promoted and implemented in a fair and equitable manner, without prejudice to<br/>the implementation of each of those rights and freedoms,<br/>Stressing that the prime responsibility and duty to promote and protect human rights and fundamental<br/>freedoms lie with the State,<br/>Recognizing the right and the responsibility of individuals, groups and associations to promote respect<br/>for and foster knowledge of human rights and fundamental freedoms at the national and international levels,<br/>Declares:<br/></src>
+  <tgt xml:lang="FR">droits de l’homme et des libertés fondamentales des peuples et des personnes, notamment des violations<br/>massives, flagrantes ou systématiques telles que celles qui résultent de l’apartheid, de toutes les formes<br/>de discrimination raciale, du colonialisme, de la domination ou de l’occupation étrangère, de l’agression<br/>ou des menaces contre la souveraineté nationale, l’unité nationale ou l’intégrité territoriale, ainsi que du<br/>refus de reconnaître le droit des peuples à l’autodétermination et le droit de chaque peuple d’exercer sa<br/>souveraineté pleine et entière sur ses richesses et ses ressources naturelles,<br/>Considérant les liens qui existent entre la paix et la sécurité internationales, d’une part, et la<br/>jouissance des droits de l’homme et des libertés fondamentales, d’autre part, et consciente du fait que<br/>l’absence de paix et de sécurité internationales n’excuse pas le non-respect de ces droits et libertés,<br/>Réaffirmant que tous les droits de l’homme et toutes les libertés fondamentales sont universels,<br/>indivisibles, interdépendants et indissociables, et qu’il faut les promouvoir et les rendre effectifs en toute<br/>équité, sans préjudice de leur mise en œuvre individuelle,<br/>Soulignant que c’est à l’État qu’incombent la responsabilité première et le devoir de promouvoir et<br/>protéger les droits de l’homme et les libertés fondamentales,<br/>Reconnaissant que les individus, groupes et associations ont le droit et la responsabilité de<br/>promouvoir le respect des droits de l’homme et des libertés fondamentales et de les faire connaître aux<br/>niveaux national et international,<br/>Déclare:<br/></tgt>
+</seg>
+<seg  match="1-1" id="54">
+  <src xml:lang="EN">Article 1</src>
+  <tgt xml:lang="FR">Article premier</tgt>
+</seg>
+<seg  match="1-1" id="55">
+  <src xml:lang="EN">Everyone has the right, individually and in association with others, to promote and to strive for the</src>
+  <tgt xml:lang="FR">Chacun a le droit, individuellement ou en association avec d’autres, de promouvoir la protection et</tgt>
+</seg>
+<seg  match="1-1" id="56">
+  <src xml:lang="EN">protection and realization of human rights and fundamental freedoms at the national and international levels.</src>
+  <tgt xml:lang="FR">la réalisation des droits de l’homme et des libertés fondamentales aux niveaux national et international.</tgt>
+</seg>
+<seg  match="1-1" id="57">
+  <src xml:lang="EN">Article 2</src>
+  <tgt xml:lang="FR">Article 2</tgt>
+</seg>
+<seg  match="1-1" id="58">
+  <src xml:lang="EN">1. Each State has a prime responsibility and duty to protect, promote and implement all human rights and</src>
+  <tgt xml:lang="FR">1. Chaque État a, au premier chef, la responsabilité et le devoir de protéger, promouvoir et rendre</tgt>
+</seg>
+<seg  match="1-1" id="59">
+  <src xml:lang="EN">fundamental freedoms, inter alia, by adopting such steps as may be necessary to create all conditions</src>
+  <tgt xml:lang="FR">effectifs tous les droits de l’homme et toutes les libertés fondamentales, notamment en adoptant les</tgt>
+</seg>
+<seg  match="1-1" id="60">
+  <src xml:lang="EN">necessary in the social, economic, political and other fields, as well as the legal guarantees required to ensure</src>
+  <tgt xml:lang="FR">mesures nécessaires pour instaurer les conditions sociales, économiques, politiques et autres ainsi que les</tgt>
+</seg>
+<seg  match="1-1" id="61">
+  <src xml:lang="EN">that all persons under its jurisdiction, individually and in association with others, are able to enjoy all those</src>
+  <tgt xml:lang="FR">garanties juridiques voulues pour que toutes les personnes relevant de sa juridiction puissent, indivi-</tgt>
+</seg>
+<seg  match="1-1" id="62">
+  <src xml:lang="EN">rights and freedoms in practice.</src>
+  <tgt xml:lang="FR">duellement ou en association avec d’autres, jouir en pratique de tous ces droits et de toutes ces libertés.</tgt>
+</seg>
+<seg  match="1-1" id="63">
+  <src xml:lang="EN">2. Each State shall adopt such legislative, administrative and other steps as may be necessary to ensure that</src>
+  <tgt xml:lang="FR">2. Chaque État adopte les mesures législatives, administratives et autres nécessaires pour assurer la</tgt>
+</seg>
+<seg  match="1-1" id="64">
+  <src xml:lang="EN">the rights and freedoms referred to in the present Declaration are effectively guaranteed.</src>
+  <tgt xml:lang="FR">garantie effective des droits et libertés visés par la présente Déclaration.</tgt>
+</seg>
+<seg  match="1-1" id="65">
+  <src xml:lang="EN">Article 3</src>
+  <tgt xml:lang="FR">Article 3</tgt>
+</seg>
+<seg  match="1-1" id="66">
+  <src xml:lang="EN">Domestic law consistent with the Charter of the United Nations and other international obligations of the</src>
+  <tgt xml:lang="FR">Les dispositions du droit interne qui sont conformes à la Charte des Nations Unies et aux autres</tgt>
+</seg>
+<seg  match="9-6" id="67">
+  <src xml:lang="EN">State in the field of human rights and fundamental freedoms is the juridical framework within which human<br/>rights and fundamental freedoms should be implemented and enjoyed and within which all activities referred<br/>to in the present Declaration for the promotion, protection and effective realization of those rights and<br/>freedoms should be conducted.<br/>Article 4<br/>Nothing in the present Declaration shall be construed as impairing or contradicting the purposes and<br/>principles of the Charter of the United Nations or as restricting or derogating from the provisions of the<br/>/...<br/>A/RES/53/144<br/></src>
+  <tgt xml:lang="FR">obligations internationales de l’État dans le domaine des droits de l’homme et des libertés fondamentales<br/>servent de cadre juridique pour la mise en œuvre et l’exercice des droits de l’homme et des libertés<br/>fondamentales ainsi que pour toutes les activités visées dans la présente Déclaration qui ont pour objet la<br/>promotion, la protection et la réalisation effective de ces droits et libertés.<br/>/...<br/>A/RES/53/144<br/></tgt>
+</seg>
+<seg  match="1-1" id="68">
+  <src xml:lang="EN">Page 4</src>
+  <tgt xml:lang="FR">Page 4</tgt>
+</seg>
+<seg  match="3-7" id="69">
+  <src xml:lang="EN">Universal Declaration of Human Rights 2 3, the International Covenants on Human Rights and other<br/>international instruments and commitments applicable in this field.<br/>Article 5<br/></src>
+  <tgt xml:lang="FR">Article 4<br/>Aucune disposition de la présente Déclaration ne peut être interprétée comme portant atteinte aux buts<br/>et principes énoncés dans la Charte des Nations Unies ou allant à leur encontre, ni comme apportant des<br/>restrictions aux dispositions de la Déclaration universelle des droits de l’homme2, des Pactes internationaux<br/>relatifs aux droits de l’homme3 et des autres instruments et engagements internationaux applicables dans<br/>ce domaine, ou y dérogeant.<br/>Article 5<br/></tgt>
+</seg>
+<seg  match="1-1" id="70">
+  <src xml:lang="EN">For the purpose of promoting and protecting human rights and fundamental freedoms, everyone has the</src>
+  <tgt xml:lang="FR">Afin de promouvoir et protéger les droits de l’homme et les libertés fondamentales, chacun a le droit,</tgt>
+</seg>
+<seg  match="1-1" id="71">
+  <src xml:lang="EN">right, individually and in association with others, at the national and international levels:</src>
+  <tgt xml:lang="FR">individuellement ou en association avec d’autres, aux niveaux national et international:</tgt>
+</seg>
+<seg  match="1-1" id="72">
+  <src xml:lang="EN">(a) To meet or assemble peacefully;</src>
+  <tgt xml:lang="FR">a) De se réunir et de se rassembler pacifiquement;</tgt>
+</seg>
+<seg  match="1-1" id="73">
+  <src xml:lang="EN">(b) To form, join and participate in non-governmental organizations, associations or groups;</src>
+  <tgt xml:lang="FR">b) De former des organisations, associations ou groupes non gouvernementaux, de s’y affilier et</tgt>
+</seg>
+<seg  match="1-2" id="74">
+  <src xml:lang="EN">(c) To communicate with non-governmental or intergovernmental organizations.<br/></src>
+  <tgt xml:lang="FR">d’y participer;<br/>c) De communiquer avec des organisations non gouvernementales ou intergouvernementales.<br/></tgt>
+</seg>
+<seg  match="1-1" id="75">
+  <src xml:lang="EN">Article 6</src>
+  <tgt xml:lang="FR">Article 6</tgt>
+</seg>
+<seg  match="1-1" id="76">
+  <src xml:lang="EN">Everyone has the right, individually and in association with others:</src>
+  <tgt xml:lang="FR">Chacun a le droit, individuellement ou en association avec d’autres:</tgt>
+</seg>
+<seg  match="1-1" id="77">
+  <src xml:lang="EN">(a) To know, seek, obtain, receive and hold information about all human rights and fundamental</src>
+  <tgt xml:lang="FR">a) De détenir, rechercher, obtenir, recevoir et conserver des informations sur tous les droits de</tgt>
+</seg>
+<seg  match="1-1" id="78">
+  <src xml:lang="EN">freedoms, including having access to information as to how those rights and freedoms are given effect in</src>
+  <tgt xml:lang="FR">l’homme et toutes les libertés fondamentales en ayant notamment accès à l’information quant à la manière</tgt>
+</seg>
+<seg  match="1-1" id="79">
+  <src xml:lang="EN">domestic legislative, judicial or administrative systems;</src>
+  <tgt xml:lang="FR">dont il est donné effet à ces droits et libertés dans le système législatif, judiciaire ou administratif national;</tgt>
+</seg>
+<seg  match="1-2" id="80">
+  <src xml:lang="EN">(b) As provided for in human rights and other applicable international instruments, freely to publish,<br/></src>
+  <tgt xml:lang="FR">b) Conformément aux instruments internationaux relatifs aux droits de l’homme et autres<br/>instruments internationaux applicables, de publier, communiquer à autrui ou diffuser librement des idées,<br/></tgt>
+</seg>
+<seg  match="1-1" id="81">
+  <src xml:lang="EN">impart or disseminate to others views, information and knowledge on all human rights and fundamental</src>
+  <tgt xml:lang="FR">informations et connaissances sur tous les droits de l’homme et toutes les libertés fondamentales;</tgt>
+</seg>
+<seg  match="2-1" id="82">
+  <src xml:lang="EN">freedoms;<br/>(c) To study, discuss, form and hold opinions on the observance, both in law and in practice, of all<br/></src>
+  <tgt xml:lang="FR">c) D’étudier, discuter, apprécier et évaluer le respect, tant en droit qu’en pratique, de tous les droits<br/></tgt>
+</seg>
+<seg  match="1-1" id="83">
+  <src xml:lang="EN">human rights and fundamental freedoms and, through these and other appropriate means, to draw public</src>
+  <tgt xml:lang="FR">de l’homme et de toutes les libertés fondamentales et, par ces moyens et autres moyens appropriés,</tgt>
+</seg>
+<seg  match="1-1" id="84">
+  <src xml:lang="EN">attention to those matters.</src>
+  <tgt xml:lang="FR">d’appeler l’attention du public sur la question.</tgt>
+</seg>
+<seg  match="1-1" id="85">
+  <src xml:lang="EN">Article 7</src>
+  <tgt xml:lang="FR">Article 7</tgt>
+</seg>
+<seg  match="1-1" id="86">
+  <src xml:lang="EN">Everyone has the right, individually and in association with others, to develop and discuss new human</src>
+  <tgt xml:lang="FR">Chacun a le droit, individuellement ou en association avec d’autres, d’élaborer de nouveaux principes</tgt>
+</seg>
+<seg  match="1-1" id="87">
+  <src xml:lang="EN">rights ideas and principles and to advocate their acceptance.</src>
+  <tgt xml:lang="FR">et idées dans le domaine des droits de l’homme, d’en discuter et d’en promouvoir la reconnaissance.</tgt>
+</seg>
+<seg  match="1-1" id="88">
+  <src xml:lang="EN">Article 8</src>
+  <tgt xml:lang="FR">Article 8</tgt>
+</seg>
+<seg  match="1-1" id="89">
+  <src xml:lang="EN">1. Everyone has the right, individually and in association with others, to have effective access, on a non-</src>
+  <tgt xml:lang="FR">1. Chacun a le droit, individuellement ou en association avec d’autres, de participer effectivement, sur</tgt>
+</seg>
+<seg  match="1-1" id="90">
+  <src xml:lang="EN">discriminatory basis, to participation in the government of his or her country and in the conduct of public</src>
+  <tgt xml:lang="FR">une base non discriminatoire, au gouvernement de son pays et à la direction des affaires publiques.</tgt>
+</seg>
+<seg  match="1-1" id="91">
+  <src xml:lang="EN">affairs.</src>
+  <tgt xml:lang="FR">/...</tgt>
+</seg>
+<seg  match="4-1" id="92">
+  <src xml:lang="EN">2. This includes, inter alia, the right, individually and in association with others, to submit to governmental<br/>bodies and agencies and organizations concerned with public affairs criticism and proposals for improving<br/>/...<br/>A/RES/53/144<br/></src>
+  <tgt xml:lang="FR">A/RES/53/144<br/></tgt>
+</seg>
+<seg  match="1-1" id="93">
+  <src xml:lang="EN">Page 5</src>
+  <tgt xml:lang="FR">Page 5</tgt>
+</seg>
+<seg  match="2-5" id="94">
+  <src xml:lang="EN">their functioning and to draw attention to any aspect of their work that may hinder or impede the promotion,<br/>protection and realization of human rights and fundamental freedoms.<br/></src>
+  <tgt xml:lang="FR">2. Ce droit comporte notamment le droit, individuellement ou en association avec d’autres, de soumettre<br/>aux organes et institutions de l’État, ainsi qu’aux organismes s’occupant des affaires publiques, des<br/>critiques et propositions touchant l’amélioration de leur fonctionnement, et de signaler tout aspect de leur<br/>travail qui risque d’entraver ou empêcher la promotion, la protection et la réalisation des droits de<br/>l’homme et des libertés fondamentales.<br/></tgt>
+</seg>
+<seg  match="1-1" id="95">
+  <src xml:lang="EN">Article 9</src>
+  <tgt xml:lang="FR">Article 9</tgt>
+</seg>
+<seg  match="1-1" id="96">
+  <src xml:lang="EN">1. In the exercise of human rights and fundamental freedoms, including the promotion and protection of</src>
+  <tgt xml:lang="FR">1. Dans l’exercice des droits de l’homme et des libertés fondamentales, y compris le droit de promouvoir</tgt>
+</seg>
+<seg  match="1-1" id="97">
+  <src xml:lang="EN">human rights as referred to in the present Declaration, everyone has the right, individually and in association</src>
+  <tgt xml:lang="FR">et protéger les droits de l’homme visés dans la présente Déclaration, chacun a le droit, individuellement</tgt>
+</seg>
+<seg  match="1-1" id="98">
+  <src xml:lang="EN">with others, to benefit from an effective remedy and to be protected in the event of the violation of those</src>
+  <tgt xml:lang="FR">ou en association avec d’autres, de disposer d’un recours effectif et de bénéficier d’une protection en cas</tgt>
+</seg>
+<seg  match="1-1" id="99">
+  <src xml:lang="EN">rights.</src>
+  <tgt xml:lang="FR">de violation de ces droits.</tgt>
+</seg>
+<seg  match="1-1" id="100">
+  <src xml:lang="EN">2. To this end, everyone whose rights or freedoms are allegedly violated has the right, either in person or</src>
+  <tgt xml:lang="FR">2. À cette fin, toute personne dont les droits ou libertés auraient été violés a le droit, en personne ou</tgt>
+</seg>
+<seg  match="1-1" id="101">
+  <src xml:lang="EN">through legally authorized representation, to complain to and have that complaint promptly reviewed in a</src>
+  <tgt xml:lang="FR">par l’entremise d’un représentant autorisé par la loi, de porter plainte et de faire examiner rapidement sa</tgt>
+</seg>
+<seg  match="1-1" id="102">
+  <src xml:lang="EN">public hearing before an independent, impartial and competent judicial or other authority established by law</src>
+  <tgt xml:lang="FR">plainte en audience publique par une autorité judiciaire ou toute autre autorité instituée par la loi qui soit</tgt>
+</seg>
+<seg  match="1-1" id="103">
+  <src xml:lang="EN">and to obtain from such an authority a decision, in accordance with law, providing redress, including any</src>
+  <tgt xml:lang="FR">indépendante, impartiale et compétente, et d’obtenir de cette autorité une décision, prise conformément</tgt>
+</seg>
+<seg  match="1-1" id="104">
+  <src xml:lang="EN">compensation due, where there has been a violation of that person’s rights or freedoms, as well as</src>
+  <tgt xml:lang="FR">à la loi, lui accordant réparation, y compris une indemnisation, lorsque ses droits ou libertés ont été violés,</tgt>
+</seg>
+<seg  match="1-1" id="105">
+  <src xml:lang="EN">enforcement of the eventual decision and award, all without undue delay.</src>
+  <tgt xml:lang="FR">ainsi que l’application de la décision et du jugement éventuel, le tout sans retard excessif.</tgt>
+</seg>
+<seg  match="1-1" id="106">
+  <src xml:lang="EN">3. To the same end, everyone has the right, individually and in association with others, inter alia:</src>
+  <tgt xml:lang="FR">3. À cette même fin, chacun a le droit, individuellement ou en association avec d’autres, notamment:</tgt>
+</seg>
+<seg  match="1-1" id="107">
+  <src xml:lang="EN">(a) To complain about the policies and actions of individual officials and governmental bodies with</src>
+  <tgt xml:lang="FR">a) De se plaindre de la politique et de l’action de fonctionnaires et d’organes de l’État qui auraient</tgt>
+</seg>
+<seg  match="1-1" id="108">
+  <src xml:lang="EN">regard to violations of human rights and fundamental freedoms, by petition or other appropriate means, to</src>
+  <tgt xml:lang="FR">commis des violations des droits de l’homme et des libertés fondamentales, au moyen de pétitions ou</tgt>
+</seg>
+<seg  match="1-1" id="109">
+  <src xml:lang="EN">competent domestic judicial, administrative or legislative authorities or any other competent authority</src>
+  <tgt xml:lang="FR">autres moyens appropriés, auprès des autorités judiciaires, administratives ou législatives nationales</tgt>
+</seg>
+<seg  match="1-1" id="110">
+  <src xml:lang="EN">provided for by the legal system of the State, which should render their decision on the complaint without</src>
+  <tgt xml:lang="FR">compétentes ou de toute autre autorité compétente instituée conformément au système juridique de l’État,</tgt>
+</seg>
+<seg  match="1-1" id="111">
+  <src xml:lang="EN">undue delay;</src>
+  <tgt xml:lang="FR">qui doit rendre sa décision sans retard excessif;</tgt>
+</seg>
+<seg  match="1-1" id="112">
+  <src xml:lang="EN">(b) To attend public hearings, proceedings and trials so as to form an opinion on their compliance with</src>
+  <tgt xml:lang="FR">b) D’assister aux audiences, procédures et procès publics afin de se faire une opinion sur leur</tgt>
+</seg>
+<seg  match="1-1" id="113">
+  <src xml:lang="EN">national law and applicable international obligations and commitments;</src>
+  <tgt xml:lang="FR">conformité avec la législation nationale et les obligations et engagements internationaux applicables;</tgt>
+</seg>
+<seg  match="1-1" id="114">
+  <src xml:lang="EN">(c) To offer and provide professionally qualified legal assistance or other relevant advice and</src>
+  <tgt xml:lang="FR">c) D’offrir et prêter une assistance juridique professionnelle qualifiée ou tout autre conseil et appui</tgt>
+</seg>
+<seg  match="1-1" id="115">
+  <src xml:lang="EN">assistance in defending human rights and fundamental freedoms.</src>
+  <tgt xml:lang="FR">pertinents pour la défense des droits de l’homme et des libertés fondamentales.</tgt>
+</seg>
+<seg  match="1-1" id="116">
+  <src xml:lang="EN">4. To the same end, and in accordance with applicable international instruments and procedures, everyone</src>
+  <tgt xml:lang="FR">4. À cette même fin et conformément aux procédures et instruments internationaux applicables, chacun</tgt>
+</seg>
+<seg  match="1-1" id="117">
+  <src xml:lang="EN">has the right, individually and in association with others, to unhindered access to and communication with</src>
+  <tgt xml:lang="FR">a le droit, individuellement ou en association avec d’autres, de s’adresser sans restriction aux organes</tgt>
+</seg>
+<seg  match="1-1" id="118">
+  <src xml:lang="EN">international bodies with general or special competence to receive and consider communications on matters of</src>
+  <tgt xml:lang="FR">internationaux compétents de manière générale ou spéciale pour recevoir et examiner des communications</tgt>
+</seg>
+<seg  match="1-1" id="119">
+  <src xml:lang="EN">human rights and fundamental freedoms.</src>
+  <tgt xml:lang="FR">relatives aux droits de l’homme, et de communiquer librement avec ces organes.</tgt>
+</seg>
+<seg  match="1-1" id="120">
+  <src xml:lang="EN">5. The State shall conduct a prompt and impartial investigation or ensure that an inquiry takes place</src>
+  <tgt xml:lang="FR">5. L’État doit mener une enquête rapide et impartiale ou veiller à ce qu’une procédure d’instruction soit</tgt>
+</seg>
+<seg  match="1-1" id="121">
+  <src xml:lang="EN">whenever there is reasonable ground to believe that a violation of human rights and fundamental freedoms</src>
+  <tgt xml:lang="FR">engagée lorsqu’il existe des raisons de croire qu’une violation des droits de l’homme et des libertés</tgt>
+</seg>
+<seg  match="1-1" id="122">
+  <src xml:lang="EN">has occurred in any territory under its jurisdiction.</src>
+  <tgt xml:lang="FR">fondamentales s’est produite dans un territoire relevant de sa juridiction.</tgt>
+</seg>
+<seg  match="1-1" id="123">
+  <src xml:lang="EN">Article 10</src>
+  <tgt xml:lang="FR">Article 10</tgt>
+</seg>
+<seg  match="5-4" id="124">
+  <src xml:lang="EN">No one shall participate, by act or by failure to act where required, in violating human rights and<br/>fundamental freedoms and no one shall be subjected to punishment or adverse action of any kind for refusing<br/>to do so.<br/>Article 11<br/>/...<br/></src>
+  <tgt xml:lang="FR">Nul ne doit participer à la violation des droits de l’homme et des libertés fondamentales en agissant<br/>ou en s’abstenant d’agir quand les circonstances l’exigent, et nul ne peut être châtié ou inquiété pour avoir<br/>refusé de porter atteinte à ces droits et libertés.<br/>/...<br/></tgt>
+</seg>
+<seg  match="1-1" id="125">
+  <src xml:lang="EN">A/RES/53/144</src>
+  <tgt xml:lang="FR">A/RES/53/144</tgt>
+</seg>
+<seg  match="1-1" id="126">
+  <src xml:lang="EN">Page 6</src>
+  <tgt xml:lang="FR">Page 6</tgt>
+</seg>
+<seg  match="1-2" id="127">
+  <src xml:lang="EN">Everyone has the right, individually and in association with others, to the lawful exercise of his or her<br/></src>
+  <tgt xml:lang="FR">Article 11<br/>Chacun a le droit, individuellement ou en association avec d’autres, d’exercer son occupation ou sa<br/></tgt>
+</seg>
+<seg  match="1-1" id="128">
+  <src xml:lang="EN">occupation or profession.</src>
+  <tgt xml:lang="FR">profession conformément à la loi.</tgt>
+</seg>
+<seg  match="4-5" id="129">
+  <src xml:lang="EN">Everyone who, as a result of his or her profession, can affect the human dignity,<br/>human rights and fundamental freedoms of others should respect those rights and freedoms and comply with<br/>relevant national and international standards of occupational and professional conduct or ethics.<br/>Article 12<br/></src>
+  <tgt xml:lang="FR">Quiconque risque, de par sa profession ou son occupation, de porter<br/>atteinte à la dignité de la personne humaine, aux droits de l’homme et aux libertés fondamentales d’autrui<br/>doit respecter ces droits et libertés et se conformer aux normes nationales ou internationales pertinentes<br/>de conduite ou d’éthique professionnelle.<br/>Article 12<br/></tgt>
+</seg>
+<seg  match="1-1" id="130">
+  <src xml:lang="EN">1. Everyone has the right, individually and in association with others, to participate in peaceful activities</src>
+  <tgt xml:lang="FR">1. Chacun a le droit, individuellement ou en association avec d’autres, de participer à des activités</tgt>
+</seg>
+<seg  match="1-1" id="131">
+  <src xml:lang="EN">against violations of human rights and fundamental freedoms.</src>
+  <tgt xml:lang="FR">pacifiques pour lutter contre les violations des droits de l’homme et des libertés fondamentales.</tgt>
+</seg>
+<seg  match="1-1" id="132">
+  <src xml:lang="EN">2. The State shall take all necessary measures to ensure the protection by the competent authorities of</src>
+  <tgt xml:lang="FR">2. L’État prend toutes les mesures nécessaires pour assurer que les autorités compétentes protègent toute</tgt>
+</seg>
+<seg  match="1-1" id="133">
+  <src xml:lang="EN">everyone, individually and in association with others, against any violence, threats, retaliation, de facto or de</src>
+  <tgt xml:lang="FR">personne, individuellement ou en association avec d’autres, de toute violence, menace, représailles,</tgt>
+</seg>
+<seg  match="1-1" id="134">
+  <src xml:lang="EN">jure adverse discrimination, pressure or any other arbitrary action as a consequence of his or her legitimate</src>
+  <tgt xml:lang="FR">discrimination de facto ou de jure, pression ou autre action arbitraire dans le cadre de l’exercice légitime</tgt>
+</seg>
+<seg  match="1-1" id="135">
+  <src xml:lang="EN">exercise of the rights referred to in the present Declaration.</src>
+  <tgt xml:lang="FR">des droits visés dans la présente Déclaration.</tgt>
+</seg>
+<seg  match="1-1" id="136">
+  <src xml:lang="EN">3. In this connection, everyone is entitled, individually and in association with others, to be protected</src>
+  <tgt xml:lang="FR">3. À cet égard, chacun a le droit, individuellement ou en association avec d’autres, d’être efficacement</tgt>
+</seg>
+<seg  match="1-1" id="137">
+  <src xml:lang="EN">effectively under national law in reacting against or opposing, through peaceful means, activities and acts,</src>
+  <tgt xml:lang="FR">protégé par la législation nationale quand il réagit par des moyens pacifiques contre des activités et actes,</tgt>
+</seg>
+<seg  match="1-1" id="138">
+  <src xml:lang="EN">including those by omission, attributable to States that result in violations of human rights and fundamental</src>
+  <tgt xml:lang="FR">y compris ceux résultant d’omissions, imputables à l’État et ayant entraîné des violations des droits de</tgt>
+</seg>
+<seg  match="1-1" id="139">
+  <src xml:lang="EN">freedoms, as well as acts of violence perpetrated by groups or individuals that affect the enjoyment of human</src>
+  <tgt xml:lang="FR">l’homme et des libertés fondamentales, ainsi que contre des actes de violence perpétrés par des groupes</tgt>
+</seg>
+<seg  match="1-1" id="140">
+  <src xml:lang="EN">rights and fundamental freedoms.</src>
+  <tgt xml:lang="FR">ou individus qui entravent l’exercice des droits de l’homme et des libertés fondamentales.</tgt>
+</seg>
+<seg  match="1-1" id="141">
+  <src xml:lang="EN">Article 13</src>
+  <tgt xml:lang="FR">Article 13</tgt>
+</seg>
+<seg  match="1-1" id="142">
+  <src xml:lang="EN">Everyone has the right, individually and in association with others, to solicit, receive and utilize</src>
+  <tgt xml:lang="FR">Chacun a le droit, individuellement ou en association avec d’autres, de solliciter, recevoir et utiliser</tgt>
+</seg>
+<seg  match="1-1" id="143">
+  <src xml:lang="EN">resources for the express purpose of promoting and protecting human rights and fundamental freedoms</src>
+  <tgt xml:lang="FR">des ressources dans le but exprès de promouvoir et protéger les droits de l’homme et les libertés</tgt>
+</seg>
+<seg  match="1-1" id="144">
+  <src xml:lang="EN">through peaceful means, in accordance with article 3 of the present Declaration.</src>
+  <tgt xml:lang="FR">fondamentales par des moyens pacifiques, conformément à l’article 3 de la présente Déclaration.</tgt>
+</seg>
+<seg  match="1-1" id="145">
+  <src xml:lang="EN">Article 14</src>
+  <tgt xml:lang="FR">Article 14</tgt>
+</seg>
+<seg  match="1-1" id="146">
+  <src xml:lang="EN">1. The State has the responsibility to take legislative, judicial, administrative or other appropriate measures</src>
+  <tgt xml:lang="FR">1. Il incombe à l’État de prendre les mesures appropriées sur les plans législatif, judiciaire, administratif</tgt>
+</seg>
+<seg  match="1-1" id="147">
+  <src xml:lang="EN">to promote the understanding by all persons under its jurisdiction of their civil, political, economic, social and</src>
+  <tgt xml:lang="FR">ou autre en vue de mieux faire prendre conscience à toutes les personnes relevant de sa juridiction de leurs</tgt>
+</seg>
+<seg  match="1-1" id="148">
+  <src xml:lang="EN">cultural rights.</src>
+  <tgt xml:lang="FR">droits civils, politiques, économiques, sociaux et culturels.</tgt>
+</seg>
+<seg  match="1-1" id="149">
+  <src xml:lang="EN">2. Such measures shall include, inter alia:</src>
+  <tgt xml:lang="FR">2. Ces mesures doivent comprendre, notamment:</tgt>
+</seg>
+<seg  match="1-1" id="150">
+  <src xml:lang="EN">(a) The publication and widespread availability of national laws and regulations and of applicable</src>
+  <tgt xml:lang="FR">a) La publication et la large disponibilité des textes de lois et règlements nationaux et des</tgt>
+</seg>
+<seg  match="1-1" id="151">
+  <src xml:lang="EN">basic international human rights instruments;</src>
+  <tgt xml:lang="FR">instruments internationaux fondamentaux relatifs aux droits de l’homme;</tgt>
+</seg>
+<seg  match="1-1" id="152">
+  <src xml:lang="EN">(b) Full and equal access to international documents in the field of human rights, including the periodic</src>
+  <tgt xml:lang="FR">b) Le plein accès dans des conditions d’égalité aux documents internationaux dans le domaine des</tgt>
+</seg>
+<seg  match="1-1" id="153">
+  <src xml:lang="EN">reports by the State to the bodies established by the international human rights treaties to which it is a party,</src>
+  <tgt xml:lang="FR">droits de l’homme, y compris les rapports périodiques présentés par l’État aux organes créés en vertu</tgt>
+</seg>
+<seg  match="1-2" id="154">
+  <src xml:lang="EN">as well as the summary records of discussions and the official reports of these bodies.<br/></src>
+  <tgt xml:lang="FR">d’instruments internationaux relatifs aux droits de l’homme auxquels il est partie, ainsi que les comptes<br/>rendus analytiques de l’examen des rapports et les rapports officiels de ces organes.<br/></tgt>
+</seg>
+<seg  match="1-1" id="155">
+  <src xml:lang="EN">3. The State shall ensure and support, where appropriate, the creation and development of further</src>
+  <tgt xml:lang="FR">3. L’État encourage et appuie, lorsqu’il convient, la création et le développement d’autres institutions</tgt>
+</seg>
+<seg  match="1-1" id="156">
+  <src xml:lang="EN">independent national institutions for the promotion and protection of human rights and fundamental freedoms</src>
+  <tgt xml:lang="FR">nationales indépendantes pour la promotion et la protection des droits de l’homme et des libertés</tgt>
+</seg>
+<seg  match="1-1" id="157">
+  <src xml:lang="EN">/...</src>
+  <tgt xml:lang="FR">/...</tgt>
+</seg>
+<seg  match="1-1" id="158">
+  <src xml:lang="EN">A/RES/53/144</src>
+  <tgt xml:lang="FR">A/RES/53/144</tgt>
+</seg>
+<seg  match="1-1" id="159">
+  <src xml:lang="EN">Page 7</src>
+  <tgt xml:lang="FR">Page 7</tgt>
+</seg>
+<seg  match="1-1" id="160">
+  <src xml:lang="EN">in all territory under its jurisdiction, whether they be ombudsmen, human rights commissions or any other</src>
+  <tgt xml:lang="FR">fondamentales dans tout territoire relevant de sa juridiction, qu’il s’agisse d’un médiateur, d’une</tgt>
+</seg>
+<seg  match="1-1" id="161">
+  <src xml:lang="EN">form of national institution.</src>
+  <tgt xml:lang="FR">commission des droits de l’homme ou de tout autre type d’institution nationale.</tgt>
+</seg>
+<seg  match="1-1" id="162">
+  <src xml:lang="EN">Article 15</src>
+  <tgt xml:lang="FR">Article 15</tgt>
+</seg>
+<seg  match="1-1" id="163">
+  <src xml:lang="EN">The State has the responsibility to promote and facilitate the teaching of human rights and fundamental</src>
+  <tgt xml:lang="FR">Il incombe à l’État de promouvoir et faciliter l’enseignement des droits de l’homme et des libertés</tgt>
+</seg>
+<seg  match="1-1" id="164">
+  <src xml:lang="EN">freedoms at all levels of education and to ensure that all those responsible for training lawyers, law</src>
+  <tgt xml:lang="FR">fondamentales à tous les niveaux de l’enseignement et de s’assurer que tous ceux qui sont chargés de la</tgt>
+</seg>
+<seg  match="1-1" id="165">
+  <src xml:lang="EN">enforcement officers, the personnel of the armed forces and public officials include appropriate elements of</src>
+  <tgt xml:lang="FR">formation des avocats, des responsables de l’application des lois, du personnel des forces armées et des</tgt>
+</seg>
+<seg  match="1-2" id="166">
+  <src xml:lang="EN">human rights teaching in their training programme.<br/></src>
+  <tgt xml:lang="FR">agents de la fonction publique incluent dans leurs programmes de formation des éléments appropriés de<br/>l’enseignement des droits de l’homme.<br/></tgt>
+</seg>
+<seg  match="1-1" id="167">
+  <src xml:lang="EN">Article 16</src>
+  <tgt xml:lang="FR">Article 16</tgt>
+</seg>
+<seg  match="1-1" id="168">
+  <src xml:lang="EN">Individuals, non-governmental organizations and relevant institutions have an important role to play in</src>
+  <tgt xml:lang="FR">Les individus, organisations non gouvernementales et institutions compétentes ont un rôle important</tgt>
+</seg>
+<seg  match="1-1" id="169">
+  <src xml:lang="EN">contributing to making the public more aware of questions relating to all human rights and fundamental</src>
+  <tgt xml:lang="FR">à jouer pour ce qui est de sensibiliser davantage le public aux questions relatives à tous les droits de</tgt>
+</seg>
+<seg  match="1-2" id="170">
+  <src xml:lang="EN">freedoms through activities such as education, training and research in these areas to strengthen further, inter<br/></src>
+  <tgt xml:lang="FR">l’homme et à toutes les libertés fondamentales, en particulier dans le cadre d’activités d’éducation, de<br/>formation et de recherche dans ces domaines en vue de renforcer encore, notamment, la compréhension,<br/></tgt>
+</seg>
+<seg  match="1-1" id="171">
+  <src xml:lang="EN">alia, understanding, tolerance, peace and friendly relations among nations and among all racial and religious</src>
+  <tgt xml:lang="FR">la tolérance, la paix et les relations amicales entre les nations ainsi qu’entre tous les groupes raciaux et</tgt>
+</seg>
+<seg  match="1-1" id="172">
+  <src xml:lang="EN">groups, bearing in mind the various backgrounds of the societies and communities in which they carry out</src>
+  <tgt xml:lang="FR">religieux, en tenant compte de la diversité des sociétés et des communautés dans lesquelles ils mènent</tgt>
+</seg>
+<seg  match="1-1" id="173">
+  <src xml:lang="EN">their activities.</src>
+  <tgt xml:lang="FR">leurs activités.</tgt>
+</seg>
+<seg  match="1-1" id="174">
+  <src xml:lang="EN">Article 17</src>
+  <tgt xml:lang="FR">Article 17</tgt>
+</seg>
+<seg  match="1-1" id="175">
+  <src xml:lang="EN">In the exercise of the rights and freedoms referred to in the present Declaration, everyone, acting</src>
+  <tgt xml:lang="FR">Dans l’exercice des droits et libertés visés dans la présente Déclaration, chacun, agissant indivi-</tgt>
+</seg>
+<seg  match="1-1" id="176">
+  <src xml:lang="EN">individually and in association with others, shall be subject only to such limitations as are in accordance with</src>
+  <tgt xml:lang="FR">duellement ou en association avec d’autres, n’est soumis qu’aux limitations fixées conformément aux</tgt>
+</seg>
+<seg  match="1-1" id="177">
+  <src xml:lang="EN">applicable international obligations and are determined by law solely for the purpose of securing due</src>
+  <tgt xml:lang="FR">obligations internationales existantes et établies par la loi exclusivement en vue d’assurer la reconnaissance</tgt>
+</seg>
+<seg  match="1-1" id="178">
+  <src xml:lang="EN">recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality,</src>
+  <tgt xml:lang="FR">et le respect des droits et libertés d’autrui et afin de satisfaire aux justes exigences de la morale, de l’ordre</tgt>
+</seg>
+<seg  match="1-1" id="179">
+  <src xml:lang="EN">public order and the general welfare in a democratic society.</src>
+  <tgt xml:lang="FR">public et du bien-être général dans une société démocratique.</tgt>
+</seg>
+<seg  match="1-1" id="180">
+  <src xml:lang="EN">Article 18</src>
+  <tgt xml:lang="FR">Article 18</tgt>
+</seg>
+<seg  match="1-1" id="181">
+  <src xml:lang="EN">1. Everyone has duties towards and within the community, in which alone the free and full development of</src>
+  <tgt xml:lang="FR">1. Chacun a des devoirs envers la communauté et au sein de celle-ci, seul cadre permettant le libre et</tgt>
+</seg>
+<seg  match="1-1" id="182">
+  <src xml:lang="EN">his or her personality is possible.</src>
+  <tgt xml:lang="FR">plein épanouissement de sa personnalité.</tgt>
+</seg>
+<seg  match="1-1" id="183">
+  <src xml:lang="EN">2. Individuals, groups, institutions and non-governmental organizations have an important role to play and</src>
+  <tgt xml:lang="FR">2. Les individus, groupes, institutions et organisations non gouvernementales ont un rôle important à</tgt>
+</seg>
+<seg  match="1-2" id="184">
+  <src xml:lang="EN">a responsibility in safeguarding democracy, promoting human rights and fundamental freedoms and<br/></src>
+  <tgt xml:lang="FR">jouer et une responsabilité à assumer en ce qui concerne la sauvegarde de la démocratie, la promotion des<br/>droits de l’homme et des libertés fondamentales ainsi que la promotion et le progrès de sociétés,<br/></tgt>
+</seg>
+<seg  match="1-1" id="185">
+  <src xml:lang="EN">contributing to the promotion and advancement of democratic societies, institutions and processes.</src>
+  <tgt xml:lang="FR">institutions et processus démocratiques.</tgt>
+</seg>
+<seg  match="1-1" id="186">
+  <src xml:lang="EN">3. Individuals, groups, institutions and non-governmental organizations also have an important role and a</src>
+  <tgt xml:lang="FR">3. Les individus, groupes, institutions et organisations non gouvernementales ont également un rôle</tgt>
+</seg>
+<seg  match="4-5" id="187">
+  <src xml:lang="EN">responsibility in contributing, as appropriate, to the promotion of the right of everyone to a social and<br/>international order in which the rights and freedoms set forth in the Universal Declaration of Human Rights<br/>and other human rights instruments can be fully realized.<br/>Article 19<br/></src>
+  <tgt xml:lang="FR">important à jouer et une responsabilité à assumer pour ce qui est de contribuer, selon qu’il convient, à la<br/>promotion du droit de chacun à un ordre social et international grâce auquel les droits et libertés énoncés<br/>dans la Déclaration universelle des droits de l’homme et les autres instruments relatifs aux droits de<br/>l’homme peuvent être réalisés dans leur intégralité.<br/>/...<br/></tgt>
+</seg>
+<seg  match="1-1" id="188">
+  <src xml:lang="EN">A/RES/53/144</src>
+  <tgt xml:lang="FR">A/RES/53/144</tgt>
+</seg>
+<seg  match="1-1" id="189">
+  <src xml:lang="EN">Page 8</src>
+  <tgt xml:lang="FR">Page 8</tgt>
+</seg>
+<seg  match="3-4" id="190">
+  <src xml:lang="EN">Nothing in the present Declaration shall be interpreted as implying for any individual, group or organ of<br/>society or any State the right to engage in any activity or to perform any act aimed at the destruction of the<br/>rights and freedoms referred to in the present Declaration.<br/></src>
+  <tgt xml:lang="FR">Article 19<br/>Aucune disposition de la présente Déclaration ne peut être interprétée comme impliquant pour un<br/>individu, groupe ou organe de la société, ou pour un État, le droit de se livrer à une activité ou<br/>d’accomplir un acte visant à détruire des droits et libertés visés dans la présente Déclaration.<br/></tgt>
+</seg>
+<seg  match="1-1" id="191">
+  <src xml:lang="EN">Article 20</src>
+  <tgt xml:lang="FR">Article 20</tgt>
+</seg>
+<seg  match="1-1" id="192">
+  <src xml:lang="EN">Nothing in the present Declaration shall be interpreted as permitting States to support and promote</src>
+  <tgt xml:lang="FR">Aucune disposition de la présente Déclaration ne peut être interprétée comme autorisant les États à</tgt>
+</seg>
+<seg  match="1-1" id="193">
+  <src xml:lang="EN">activities of individuals, groups of individuals, institutions or non-governmental organizations contrary to the</src>
+  <tgt xml:lang="FR">soutenir ou encourager les activités d’individus, groupes, institutions ou organisations non gouver-</tgt>
+</seg>
+<seg  match="1-1" id="194">
+  <src xml:lang="EN">provisions of the Charter of the United Nations.</src>
+  <tgt xml:lang="FR">nementales allant à l’encontre des dispositions de la Charte des Nations Unies.</tgt>
+</seg>
+</segments>
+</bitext>

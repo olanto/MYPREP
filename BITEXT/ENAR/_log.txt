@@ -1,0 +1,5 @@
+12	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_53_144.pdf.txt	#line:	250	To:	C:/MYCAT/corpus/txt/AR/small-collection¦UNO¦A_RES_53_144.pdf.txt	#line:	451	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_63_116.pdf.txt	#line:	62	To:	C:/MYCAT/corpus/txt/AR/small-collection¦UNO¦A_RES_63_116.pdf.txt	#line:	58	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_63_25.pdf.txt	#line:	57	To:	C:/MYCAT/corpus/txt/AR/small-collection¦UNO¦A_RES_63_25.pdf.txt	#line:	50	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦HR_Declaration.docx.txt	#line:	100	To:	C:/MYCAT/corpus/txt/AR/small-collection¦UNO¦HR_Declaration.docx.txt	#line:	90	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦WO_GA¦wo_ga_31_4.doc.txt	#line:	27	To:	C:/MYCAT/corpus/txt/AR/small-collection¦WIPO¦WO_GA¦wo_ga_31_4.doc.txt	#line:	27	One-one:	0	-	0	%

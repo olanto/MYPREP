@@ -1,0 +1,11 @@
+14	C:/MYCAT/corpus/txt/EN/bug221¦general_rules_of_procedure_pub399.docx.txt	#line:	288	To:	C:/MYCAT/corpus/txt/ES/bug221¦general_rules_of_procedure_pub399.docx.txt	#line:	284	One-one:	0	-	0	%
+12	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_53_144.pdf.txt	#line:	250	To:	C:/MYCAT/corpus/txt/ES/small-collection¦UNO¦A_RES_53_144.pdf.txt	#line:	267	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_63_116.pdf.txt	#line:	62	To:	C:/MYCAT/corpus/txt/ES/small-collection¦UNO¦A_RES_63_116.pdf.txt	#line:	70	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_63_25.pdf.txt	#line:	57	To:	C:/MYCAT/corpus/txt/ES/small-collection¦UNO¦A_RES_63_25.pdf.txt	#line:	60	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦HR_Declaration.docx.txt	#line:	100	To:	C:/MYCAT/corpus/txt/ES/small-collection¦UNO¦HR_Declaration.docx.txt	#line:	96	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦PLT¦plt_ce_v_5.doc.txt	#line:	972	To:	C:/MYCAT/corpus/txt/ES/small-collection¦WIPO¦PLT¦plt_ce_v_5.doc.txt	#line:	980	One-one:	0	-	0	%
+144	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦SCT¦sct_24_4.pdf.txt	#line:	2889	To:	C:/MYCAT/corpus/txt/ES/small-collection¦WIPO¦SCT¦sct_24_4.pdf.txt	#line:	3313	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦WO_GA¦wo_ga_31_1.doc.txt	#line:	24	To:	C:/MYCAT/corpus/txt/ES/small-collection¦WIPO¦WO_GA¦wo_ga_31_1.doc.txt	#line:	21	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦WO_GA¦wo_ga_31_4.doc.txt	#line:	27	To:	C:/MYCAT/corpus/txt/ES/small-collection¦WIPO¦WO_GA¦wo_ga_31_4.doc.txt	#line:	27	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WTO¦Final_Act.doc.txt	#line:	214	To:	C:/MYCAT/corpus/txt/ES/small-collection¦WTO¦Final_Act.doc.txt	#line:	15	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WTO¦WTO_Agreement.doc.txt	#line:	214	To:	C:/MYCAT/corpus/txt/ES/small-collection¦WTO¦WTO_Agreement.doc.txt	#line:	183	One-one:	0	-	0	%

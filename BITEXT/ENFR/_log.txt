@@ -1,0 +1,15 @@
+77	C:/MYCAT/corpus/txt/EN/book¦le-petit-prince1.txt.txt	#line:	1554	To:	C:/MYCAT/corpus/txt/FR/book¦le-petit-prince1.txt.txt	#line:	1470	One-one:	0	-	0	%
+183	C:/MYCAT/corpus/txt/EN/book¦letourdumonde1.txt.txt	#line:	3671	To:	C:/MYCAT/corpus/txt/FR/book¦letourdumonde1.txt.txt	#line:	4622	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/refrantome.txt.txt	#line:	4	To:	C:/MYCAT/corpus/txt/FR/refrantome.txt.txt	#line:	4	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/refrantome2.txt.txt	#line:	15	To:	C:/MYCAT/corpus/txt/FR/refrantome2.txt.txt	#line:	15	One-one:	0	-	0	%
+32	C:/MYCAT/corpus/txt/EN/S181-04.doc.txt.txt	#line:	658	To:	C:/MYCAT/corpus/txt/FR/S181-04.doc.txt.txt	#line:	660	One-one:	0	-	0	%
+12	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_53_144.pdf.txt	#line:	250	To:	C:/MYCAT/corpus/txt/FR/small-collection¦UNO¦A_RES_53_144.pdf.txt	#line:	264	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_63_116.pdf.txt	#line:	62	To:	C:/MYCAT/corpus/txt/FR/small-collection¦UNO¦A_RES_63_116.pdf.txt	#line:	69	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦A_RES_63_25.pdf.txt	#line:	57	To:	C:/MYCAT/corpus/txt/FR/small-collection¦UNO¦A_RES_63_25.pdf.txt	#line:	61	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦UNO¦HR_Declaration.docx.txt	#line:	100	To:	C:/MYCAT/corpus/txt/FR/small-collection¦UNO¦HR_Declaration.docx.txt	#line:	100	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦PLT¦plt_ce_v_5.doc.txt	#line:	972	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WIPO¦PLT¦plt_ce_v_5.doc.txt	#line:	975	One-one:	0	-	0	%
+144	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦SCT¦sct_24_4.pdf.txt	#line:	2889	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WIPO¦SCT¦sct_24_4.pdf.txt	#line:	3265	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦WO_GA¦wo_ga_31_1.doc.txt	#line:	24	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WIPO¦WO_GA¦wo_ga_31_1.doc.txt	#line:	244	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦WO_GA¦wo_ga_31_4.doc.txt	#line:	27	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WIPO¦WO_GA¦wo_ga_31_4.doc.txt	#line:	28	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WTO¦Final_Act.doc.txt	#line:	214	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WTO¦Final_Act.doc.txt	#line:	15	One-one:	0	-	0	%
+10	C:/MYCAT/corpus/txt/EN/small-collection¦WTO¦WTO_Agreement.doc.txt	#line:	214	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WTO¦WTO_Agreement.doc.txt	#line:	214	One-one:	0	-	0	%

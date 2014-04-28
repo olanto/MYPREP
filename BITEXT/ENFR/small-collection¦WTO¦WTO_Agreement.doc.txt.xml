@@ -1,0 +1,862 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿AGREEMENT ESTABLISHING THE</src>
+  <tgt xml:lang="FR">﻿ACCORD INSTITUANT L'ORGANISATION</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">WORLD TRADE ORGANIZATION</src>
+  <tgt xml:lang="FR">MONDIALE DU COMMERCE</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">The Parties to this Agreement,</src>
+  <tgt xml:lang="FR">Les Parties au présent accord,</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">Recognizing that their relations in the field of trade and economic endeavour should be conducted with a view to raising standards of living, ensuring full employment and a large and steadily growing volume of real income and effective demand, and expanding the production of and trade in goods and services, while allowing for the optimal use of the world's resources in accordance with the objective of sustainable development, seeking both to protect and preserve the environment and to enhance the means for doing so in a manner consistent with their respective needs and concerns at different levels of economic development,</src>
+  <tgt xml:lang="FR">Reconnaissant que leurs rapports dans le domaine commercial et économique devraient être orientés vers le relèvement des niveaux de vie, la réalisation du plein emploi et d'un niveau élevé et toujours croissant du revenu réel et de la demande effective, et l'accroissement de la production et du commerce de marchandises et de services, tout en permettant l'utilisation optimale des ressources mondiales conformément à l'objectif de développement durable, en vue à la fois de protéger et préserver l'environnement et de renforcer les moyens d'y parvenir d'une manière qui soit compatible avec leurs besoins et soucis respectifs à différents niveaux de développement économique,</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">Recognizing further that there is need for positive efforts designed to ensure that developing countries, and especially the least developed among them, secure a share in the growth in international trade commensurate with the needs of their economic development,</src>
+  <tgt xml:lang="FR">Reconnaissant en outre qu'il est nécessaire de faire des efforts positifs pour que les pays en développement, et en particulier les moins avancés d'entre eux, s'assurent une part de la croissance du commerce international qui corresponde aux nécessités de leur développement économique,</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">Being desirous of contributing to these objectives by entering into reciprocal and mutually advantageous arrangements directed to the substantial reduction of tariffs and other barriers to trade and to the elimination of discriminatory treatment in international trade relations,</src>
+  <tgt xml:lang="FR">Désireuses de contribuer à la réalisation de ces objectifs par la conclusion d'accords visant, sur une base de réciprocité et d'avantages mutuels, à la réduction substantielle des tarifs douaniers et des autres obstacles au commerce et à l'élimination des discriminations dans les relations commerciales internationales,</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">Resolved, therefore, to develop an integrated, more viable and durable multilateral trading system encompassing the General Agreement on Tariffs and Trade, the results of past trade liberalization efforts, and all of the results of the Uruguay Round of Multilateral Trade Negotiations,</src>
+  <tgt xml:lang="FR">Résolues, par conséquent, à mettre en place un système commercial multilatéral intégré, plus viable et durable, englobant l'Accord général sur les tarifs douaniers et le commerce, les résultats des efforts de libéralisation du commerce entrepris dans le passé, et tous les résultats des Négociations commerciales multilatérales du Cycle d'Uruguay,</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">Determined to preserve the basic principles and to further the objectives underlying this multilateral trading system,</src>
+  <tgt xml:lang="FR">Déterminées à préserver les principes fondamentaux et à favoriser la réalisation des objectifs qui sous-tendent ce système commercial multilatéral,</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Agree as follows:</src>
+  <tgt xml:lang="FR">Conviennent de ce qui suit:</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Article I</src>
+  <tgt xml:lang="FR">Article premier</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Establishment of the Organization</src>
+  <tgt xml:lang="FR">Institution de l'Organisation</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">The World Trade Organization (hereinafter referred to as "the WTO") is hereby established.</src>
+  <tgt xml:lang="FR">L'Organisation mondiale du commerce (ci-après dénommée l'"OMC”) est instituée par le présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">Article II</src>
+  <tgt xml:lang="FR">Article II</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">Scope of the WTO</src>
+  <tgt xml:lang="FR">Champ d'action de l'OMC</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">1. The WTO shall provide the common institutional framework for the conduct of trade relations among its Members in matters related to the agreements and associated legal instruments included in the Annexes to this Agreement.</src>
+  <tgt xml:lang="FR">1. L'OMC servira de cadre institutionnel commun pour la conduite des relations commerciales entre ses Membres en ce qui concerne les questions liées aux accords et instruments juridiques connexes repris dans les Annexes du présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">2. The agreements and associated legal instruments included in Annexes 1, 2 and 3 (hereinafter referred to as "Multilateral Trade Agreements") are integral parts of this Agreement, binding on all Members.</src>
+  <tgt xml:lang="FR">2. Les accords et instruments juridiques connexes repris dans les Annexes 1, 2 et 3 (ci-après dénommés les "Accords commerciaux multilatéraux”) font partie intégrante du présent accord et sont contraignants pour tous les Membres.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">3. The agreements and associated legal instruments included in Annex 4 (hereinafter referred to as "Plurilateral Trade Agreements") are also part of this Agreement for those Members that have accepted them, and are binding on those Members.</src>
+  <tgt xml:lang="FR">3. Les accords et instruments juridiques connexes repris dans l'Annexe 4 (ci-après dénommés les "Accords commerciaux plurilatéraux”) font également partie du présent accord pour les Membres qui les ont acceptés et sont contraignants pour ces Membres.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">The Plurilateral Trade Agreements do not create either obligations or rights for Members that have not accepted them.</src>
+  <tgt xml:lang="FR">Les Accords commerciaux plurilatéraux ne créent ni obligations ni droits pour les Membres qui ne les ont pas acceptés.</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">4. The General Agreement on Tariffs and Trade 1994 as specified in Annex 1A (hereinafter referred to as "GATT 1994") is legally distinct from the General Agreement on Tariffs and Trade, dated 30 October 1947, annexed to the Final Act Adopted at the Conclusion of the Second Session of the Preparatory Committee of the United Nations Conference on Trade and Employment, as subsequently rectified, amended or modified (hereinafter referred to as "GATT 1947").</src>
+  <tgt xml:lang="FR">4. L'Accord général sur les tarifs douaniers et le commerce de 1994 tel qu'il est spécifié à l'Annexe 1A (ci-après dénommé le "GATT de 1994”) est juridiquement distinct de l'Accord général sur les tarifs douaniers et le commerce, en date du 30 octobre 1947, annexé à l'Acte final adopté à la clôture de la deuxième session de la Commission préparatoire de la Conférence des Nations Unies sur le commerce et l'emploi, tel qu'il a été rectifié, amendé ou modifié par la suite (ci-après dénommé le "GATT de 1947”).</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">Article III</src>
+  <tgt xml:lang="FR">Article III</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">Functions of the WTO</src>
+  <tgt xml:lang="FR">Fonctions de l'OMC</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">1. The WTO shall facilitate the implementation, administration and operation, and further the objectives, of this Agreement and of the Multilateral Trade Agreements, and shall also provide the framework for the implementation, administration and operation of the Plurilateral Trade Agreements.</src>
+  <tgt xml:lang="FR">1. L'OMC facilitera la mise en oeuvre, l'administration et le fonctionnement du présent accord et des Accords commerciaux multilatéraux et favorisera la réalisation de leurs objectifs, et servira aussi de cadre pour la mise en oeuvre, l'administration et le fonctionnement des Accords commerciaux plurilatéraux.</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">2. The WTO shall provide the forum for negotiations among its Members concerning their multilateral trade relations in matters dealt with under the agreements in the Annexes to this Agreement.</src>
+  <tgt xml:lang="FR">2. L'OMC sera l'enceinte pour les négociations entre ses Membres au sujet de leurs relations commerciales multilatérales concernant des questions visées par les accords figurant dans les Annexes du présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">The WTO may also provide a forum for further negotiations among its Members concerning their multilateral trade relations, and a framework for the implementation of the results of such negotiations, as may be decided by the Ministerial Conference.</src>
+  <tgt xml:lang="FR">L'OMC pourra aussi servir d'enceinte pour d'autres négociations entre ses Membres au sujet de leurs relations commerciales multilatérales, et de cadre pour la mise en oeuvre des résultats de ces négociations, selon ce que la Conférence ministérielle pourra décider.</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">3. The WTO shall administer the Understanding on Rules and Procedures Governing the Settlement of Disputes (hereinafter referred to as the "Dispute Settlement Understanding" or "DSU") in Annex 2 to this Agreement.</src>
+  <tgt xml:lang="FR">3. L'OMC administrera le Mémorandum d'accord sur les règles et procédures régissant le règlement des différends (ci-après dénommé le "Mémorandum d'accord sur le règlement des différends”) qui figure à l'Annexe 2 du présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">4. The WTO shall administer the Trade Policy Review Mechanism (hereinafter referred to as the "TPRM") provided for in Annex 3 to this Agreement.</src>
+  <tgt xml:lang="FR">4. L'OMC administrera le Mécanisme d'examen des politiques commerciales (ci-après dénommé le "MEPC”) prévu à l'Annexe 3 du présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">5. With a view to achieving greater coherence in global economic policy-making, the WTO shall cooperate, as appropriate, with the International Monetary Fund and with the International Bank for Reconstruction and Development and its affiliated agencies.</src>
+  <tgt xml:lang="FR">5. En vue de rendre plus cohérente l'élaboration des politiques économiques au niveau mondial, l'OMC coopérera, selon qu'il sera approprié , avec le Fonds monétaire international et avec la Banque internationale pour la reconstruction et le développement et ses institutions affiliées.</tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">Article IV</src>
+  <tgt xml:lang="FR">Article IV</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">Structure of the WTO</src>
+  <tgt xml:lang="FR">Structure de l'OMC</tgt>
+</seg>
+<seg  match="1-1" id="30">
+  <src xml:lang="EN">1. There shall be a Ministerial Conference composed of representatives of all the Members, which shall meet at least once every two years.</src>
+  <tgt xml:lang="FR">1. Il sera établi une Conférence ministérielle composée de représentants de tous les Membres, qui se ré unira au moins une fois tous les deux ans.</tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">The Ministerial Conference shall carry out the functions of the WTO and take actions necessary to this effect.</src>
+  <tgt xml:lang="FR">La Conférence ministérielle exercera les fonctions de l'OMC, et prendra les mesures nécessaires à cet effet.</tgt>
+</seg>
+<seg  match="1-1" id="32">
+  <src xml:lang="EN">The Ministerial Conference shall have the authority to take decisions on all matters under any of the Multilateral Trade Agreements, if so requested by a Member, in accordance with the specific requirements for decision-making in this Agreement and in the relevant Multilateral Trade Agreement.</src>
+  <tgt xml:lang="FR">La Conférence ministérielle sera habilitée à prendre des décisions sur toutes les questions relevant de tout Accord commercial multilatéral, si un Membre en fait la demande, conformément aux prescriptions spécifiques concernant la prise de décisions qui sont énoncées dans le pré sent accord et dans l'Accord commercial multilatéral correspondant.</tgt>
+</seg>
+<seg  match="1-1" id="33">
+  <src xml:lang="EN">2. There shall be a General Council composed of representatives of all the Members, which shall meet as appropriate.</src>
+  <tgt xml:lang="FR">2. Il sera établi un Conseil général composé de représentants de tous les Membres, qui se réunira selon qu'il sera appropri é.</tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">In the intervals between meetings of the Ministerial Conference, its functions shall be conducted by the General Council.</src>
+  <tgt xml:lang="FR">Dans l'intervalle entre les réunions de la Conférence ministérielle, les fonctions de celle-ci seront exercées par le Conseil général.</tgt>
+</seg>
+<seg  match="1-1" id="35">
+  <src xml:lang="EN">The General Council shall also carry out the functions assigned to it by this Agreement.</src>
+  <tgt xml:lang="FR">Le Conseil général exercera aussi les fonctions qui lui sont assignées par le présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">The General Council shall establish its rules of procedure and approve the rules of procedure for the Committees provided for in paragraph 7.</src>
+  <tgt xml:lang="FR">Il établira son règlement intérieur et approuvera le règlement intérieur des Comités prévus au paragraphe 7.</tgt>
+</seg>
+<seg  match="1-1" id="37">
+  <src xml:lang="EN">3. The General Council shall convene as appropriate to discharge the responsibilities of the Dispute Settlement Body provided for in the Dispute Settlement Understanding.</src>
+  <tgt xml:lang="FR">3. Le Conseil général se réunira, selon qu'il sera approprié, pour s'acquitter des fonctions de l'Organe de règlement des différends prévu dans le Mémorandum d'accord sur le règlement des différends.</tgt>
+</seg>
+<seg  match="1-1" id="38">
+  <src xml:lang="EN">The Dispute Settlement Body may have its own chairman and shall establish such rules of procedure as it deems necessary for the fulfilment of those responsibilities.</src>
+  <tgt xml:lang="FR">L'Organe de règlement des différends pourra avoir son propre président et établira le règlement intérieur qu'il jugera nécessaire pour s'acquitter de ces fonctions.</tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">4. The General Council shall convene as appropriate to discharge the responsibilities of the Trade Policy Review Body provided for in the TPRM.</src>
+  <tgt xml:lang="FR">4. Le Conseil général se réunira, selon qu'il sera approprié, pour s'acquitter des fonctions de l'Organe d'examen des politiques commerciales prévu dans le MEPC.</tgt>
+</seg>
+<seg  match="1-1" id="40">
+  <src xml:lang="EN">The Trade Policy Review Body may have its own chairman and shall establish such rules of procedure as it deems necessary for the fulfilment of those responsibilities.</src>
+  <tgt xml:lang="FR">L'Organe d'examen des politiques commerciales pourra avoir son propre président et établira le règlement intérieur qu'il jugera nécessaire pour s'acquitter de ces fonctions.</tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">5. There shall be a Council for Trade in Goods, a Council for Trade in Services and a Council for Trade-Related Aspects of Intellectual Property Rights (hereinafter referred to as the "Council for TRIPS"), which shall operate under the general guidance of the General Council.</src>
+  <tgt xml:lang="FR">5. Il sera établi un Conseil du commerce des marchandises, un Conseil du commerce des services et un Conseil des aspects des droits de propriété intellectuelle qui touchent au commerce (ci-après dénommé le "Conseil des ADPIC”), qui agiront sous la conduite générale du Conseil général.</tgt>
+</seg>
+<seg  match="1-1" id="42">
+  <src xml:lang="EN">The Council for Trade in Goods shall oversee the functioning of the Multilateral Trade Agreements in Annex 1A.</src>
+  <tgt xml:lang="FR">Le Conseil du commerce des marchandises supervisera le fonctionnement des Accords commerciaux multilatéraux figurant à l'Annexe 1A.</tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">The Council for Trade in Services shall oversee the functioning of the General Agreement on Trade in Services (hereinafter referred to as "GATS").</src>
+  <tgt xml:lang="FR">Le Conseil du commerce des services supervisera le fonctionnement de l'Accord général sur le commerce des services (ci-après dénommé l'"AGCS”).</tgt>
+</seg>
+<seg  match="1-1" id="44">
+  <src xml:lang="EN">The Council for TRIPS shall oversee the functioning of the Agreement on Trade-Related Aspects of Intellectual Property Rights (hereinafter referred to as the "Agreement on TRIPS").</src>
+  <tgt xml:lang="FR">Le Conseil des ADPIC supervisera le fonctionnement de l'Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce (ci-après dénommé l'"Accord sur les ADPIC”).</tgt>
+</seg>
+<seg  match="1-1" id="45">
+  <src xml:lang="EN">These Councils shall carry out the functions assigned to them by their respective agreements and by the General Council.</src>
+  <tgt xml:lang="FR">Ces Conseils exerceront les fonctions qui leur sont assignées par les accords respectifs et par le Conseil général.</tgt>
+</seg>
+<seg  match="1-1" id="46">
+  <src xml:lang="EN">They shall establish their respective rules of procedure subject to the approval of the General Council.</src>
+  <tgt xml:lang="FR">Ils établiront leurs règlements intérieurs respectifs sous réserve de l'approbation du Conseil général.</tgt>
+</seg>
+<seg  match="1-1" id="47">
+  <src xml:lang="EN">Membership in these Councils shall be open to representatives of all Members.</src>
+  <tgt xml:lang="FR">Les représentants de tous les Membres pourront participer à ces Conseils.</tgt>
+</seg>
+<seg  match="1-1" id="48">
+  <src xml:lang="EN">These Councils shall meet as necessary to carry out their functions.</src>
+  <tgt xml:lang="FR">Ces Conseils se réuniront selon qu'il sera nécessaire pour s'acquitter de leurs fonctions.</tgt>
+</seg>
+<seg  match="1-1" id="49">
+  <src xml:lang="EN">6. The Council for Trade in Goods, the Council for Trade in Services and the Council for TRIPS shall establish subsidiary bodies as required.</src>
+  <tgt xml:lang="FR">6. Le Conseil du commerce des marchandises, le Conseil du commerce des services et le Conseil des ADPIC établiront des organes subsidiaires selon les besoins.</tgt>
+</seg>
+<seg  match="1-1" id="50">
+  <src xml:lang="EN">These subsidiary bodies shall establish their respective rules of procedure subject to the approval of their respective Councils.</src>
+  <tgt xml:lang="FR">Ces organes subsidiaires établiront leurs règlements intérieurs respectifs sous réserve de l'approbation des Conseils respectifs.</tgt>
+</seg>
+<seg  match="1-1" id="51">
+  <src xml:lang="EN">7. The Ministerial Conference shall establish a Committee on Trade and Development, a Committee on Balance-of-Payments Restrictions and a Committee on Budget, Finance and Administration, which shall carry out the functions assigned to them by this Agreement and by the Multilateral Trade Agreements, and any additional functions assigned to them by the General Council, and may establish such additional Committees with such functions as it may deem appropriate.</src>
+  <tgt xml:lang="FR">7. La Conférence ministérielle établira un Comité du commerce et du développement, un Comité des restrictions appliquées à des fins de balance des paiements et un Comité du budget, des finances et de l'administration, qui exerceront les fonctions qui leur sont assignées par le pr ésent accord ainsi que par les Accords commerciaux multilatéraux, et toutes fonctions additionnelles qui leur seront assignées par le Conseil général, et pourra établir des comités additionnels auxquels elle confiera les fonctions qu'elle pourra juger appropriées.</tgt>
+</seg>
+<seg  match="1-1" id="52">
+  <src xml:lang="EN">As part of its functions, the Committee on Trade and Development shall periodically review the special provisions in the Multilateral Trade Agreements in favour of the least-developed country Members and report to the General Council for appropriate action.</src>
+  <tgt xml:lang="FR">Dans le cadre de ses fonctions, le Comité du commerce et du développement examinera périodiquement les dispositions spéciales des Accords commerciaux multilatéraux en faveur des pays les moins avancés Membres et fera rapport au Conseil général pour que celui‑ci prenne les mesures appropriées.</tgt>
+</seg>
+<seg  match="1-1" id="53">
+  <src xml:lang="EN">Membership in these Committees shall be open to representatives of all Members.</src>
+  <tgt xml:lang="FR">Les représentants de tous les Membres pourront participer à ces Comités.</tgt>
+</seg>
+<seg  match="1-1" id="54">
+  <src xml:lang="EN">8. The bodies provided for under the Plurilateral Trade Agreements shall carry out the functions assigned to them under those Agreements and shall operate within the institutional framework of the WTO.</src>
+  <tgt xml:lang="FR">8. Les organes prévus dans les Accords commerciaux plurilatéraux exerceront les fonctions qui leur sont assignées en vertu de ces accords et agiront dans le cadre institutionnel de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="55">
+  <src xml:lang="EN">These bodies shall keep the General Council informed of their activities on a regular basis.</src>
+  <tgt xml:lang="FR">Ils tiendront le Conseil général régulièrement informé de leurs activités.</tgt>
+</seg>
+<seg  match="1-1" id="56">
+  <src xml:lang="EN">Article V</src>
+  <tgt xml:lang="FR">Article V</tgt>
+</seg>
+<seg  match="1-1" id="57">
+  <src xml:lang="EN">Relations with Other Organizations</src>
+  <tgt xml:lang="FR">Relations avec d'autres organisations</tgt>
+</seg>
+<seg  match="1-1" id="58">
+  <src xml:lang="EN">1. The General Council shall make appropriate arrangements for effective cooperation with other intergovernmental organizations that have responsibilities related to those of the WTO.</src>
+  <tgt xml:lang="FR">1. Le Conseil général conclura des arrangements appropriés pour assurer une coopération efficace avec les autres organisations intergouvernementales qui ont des fonctions en rapport avec celles de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="59">
+  <src xml:lang="EN">2. The General Council may make appropriate arrangements for consultation and cooperation with non-governmental organizations concerned with matters related to those of the WTO.</src>
+  <tgt xml:lang="FR">2. Le Conseil général pourra conclure des arrangements appropriés aux fins de consultation et de coopération avec les organisations non gouvernementales s'occupant de questions en rapport avec celles dont l'OMC traite.</tgt>
+</seg>
+<seg  match="1-1" id="60">
+  <src xml:lang="EN">Article VI</src>
+  <tgt xml:lang="FR">Article VI</tgt>
+</seg>
+<seg  match="1-1" id="61">
+  <src xml:lang="EN">The Secretariat</src>
+  <tgt xml:lang="FR">Secrétariat</tgt>
+</seg>
+<seg  match="1-1" id="62">
+  <src xml:lang="EN">1. There shall be a Secretariat of the WTO (hereinafter referred to as "the Secretariat”) headed by a Director-General.</src>
+  <tgt xml:lang="FR">1. Il sera établi un Secrétariat de l'OMC (ci-après dénommé le "Secrétariat”) dirigé par un Directeur général.</tgt>
+</seg>
+<seg  match="1-1" id="63">
+  <src xml:lang="EN">2. The Ministerial Conference shall appoint the Director-General and adopt regulations setting out the powers, duties, conditions of service and term of office of the Director-General.</src>
+  <tgt xml:lang="FR">2. La Conférence ministérielle nommera le Directeur général et adoptera des règles énonçant les pouvoirs, les attributions, les conditions d'emploi et la durée du mandat du Directeur général.</tgt>
+</seg>
+<seg  match="1-1" id="64">
+  <src xml:lang="EN">3. The Director-General shall appoint the members of the staff of the Secretariat and determine their duties and conditions of service in accordance with regulations adopted by the Ministerial Conference.</src>
+  <tgt xml:lang="FR">3. Le Directeur général nommera les membres du personnel du Secrétariat et déterminera leurs attributions et leurs conditions d'emploi conformément aux règles adoptées par la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="65">
+  <src xml:lang="EN">4. The responsibilities of the Director-General and of the staff of the Secretariat shall be exclusively international in character.</src>
+  <tgt xml:lang="FR">4. Les fonctions du Directeur général et du personnel du Secrétariat auront un caractère exclusivement international.</tgt>
+</seg>
+<seg  match="1-1" id="66">
+  <src xml:lang="EN">In the discharge of their duties, the Director-General and the staff of the Secretariat shall not seek or accept instructions from any government or any other authority external to the WTO.</src>
+  <tgt xml:lang="FR">Dans l'accomplissement de leurs tâches, le Directeur général et le personnel du Secrétariat ne solliciteront ni n'accepteront d'instructions d'aucun gouvernement ni d'aucune autorité extérieure à l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="67">
+  <src xml:lang="EN">They shall refrain from any action which might adversely reflect on their position as international officials.</src>
+  <tgt xml:lang="FR">Ils s'abstiendront de tout acte incompatible avec leur situation de fonctionnaires internationaux.</tgt>
+</seg>
+<seg  match="1-1" id="68">
+  <src xml:lang="EN">The Members of the WTO shall respect the international character of the responsibilities of the Director-General and of the staff of the Secretariat and shall not seek to influence them in the discharge of their duties.</src>
+  <tgt xml:lang="FR">Les Membres de l'OMC respecteront le caractè re international des fonctions du Directeur général et du personnel du Secrétariat et ne chercheront pas à influencer ceux-ci dans l'accomplissement de leurs tâches.</tgt>
+</seg>
+<seg  match="1-1" id="69">
+  <src xml:lang="EN">Article VII</src>
+  <tgt xml:lang="FR">Article VII</tgt>
+</seg>
+<seg  match="1-1" id="70">
+  <src xml:lang="EN">Budget and Contributions</src>
+  <tgt xml:lang="FR">Budget et contributions</tgt>
+</seg>
+<seg  match="1-1" id="71">
+  <src xml:lang="EN">1. The Director-General shall present to the Committee on Budget, Finance and Administration the annual budget estimate and financial statement of the WTO.</src>
+  <tgt xml:lang="FR">1. Le Directeur général présentera au Comité du budget, des finances et de l'administration le projet de budget et le rapport financier annuels de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="72">
+  <src xml:lang="EN">The Committee on Budget, Finance and Administration shall review the annual budget estimate and the financial statement presented by the Director-General and make recommendations thereon to the General Council.</src>
+  <tgt xml:lang="FR">Le Comité du budget, des finances et de l'administration examinera le projet de budget et le rapport financier annuels présentés par le Directeur général et fera des recommandations à leur sujet au Conseil général.</tgt>
+</seg>
+<seg  match="1-1" id="73">
+  <src xml:lang="EN">The annual budget estimate shall be subject to approval by the General Council.</src>
+  <tgt xml:lang="FR">Le projet de budget annuel sera soumis à l'approbation du Conseil général.</tgt>
+</seg>
+<seg  match="1-1" id="74">
+  <src xml:lang="EN">2. The Committee on Budget, Finance and Administration shall propose to the General Council financial regulations which shall include provisions setting out:</src>
+  <tgt xml:lang="FR">2. Le Comité du budget, des finances et de l'administration proposera au Conseil général un règlement financier qui inclura des dispositions indiquant:</tgt>
+</seg>
+<seg  match="1-1" id="75">
+  <src xml:lang="EN">(a) the scale of contributions apportioning the expenses of the WTO among its Members; and</src>
+  <tgt xml:lang="FR">a) le barème des contributions répartissant les dépenses de l'OMC entre ses Membres; et</tgt>
+</seg>
+<seg  match="1-1" id="76">
+  <src xml:lang="EN">(b) the measures to be taken in respect of Members in arrears.</src>
+  <tgt xml:lang="FR">b) les mesures à prendre en ce qui concerne les Membres ayant des arriérés de contributions.</tgt>
+</seg>
+<seg  match="1-1" id="77">
+  <src xml:lang="EN">The financial regulations shall be based, as far as practicable, on the regulations and practices of GATT 1947.</src>
+  <tgt xml:lang="FR">Le règlement financier sera fondé, pour autant que cela sera réalisable, sur les règles et pratiques du GATT de 1947.</tgt>
+</seg>
+<seg  match="1-1" id="78">
+  <src xml:lang="EN">3. The General Council shall adopt the financial regulations and the annual budget estimate by a two-thirds majority comprising more than half of the Members of the WTO.</src>
+  <tgt xml:lang="FR">3. Le Conseil général adoptera le règlement financier et le projet de budget annuel à une majorité des deux tiers comprenant plus de la moitié des Membres de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="79">
+  <src xml:lang="EN">4. Each Member shall promptly contribute to the WTO its share in the expenses of the WTO in accordance with the financial regulations adopted by the General Council.</src>
+  <tgt xml:lang="FR">4. Chaque Membre versera à l'OMC, dans les moindres délais, la contribution correspondant à sa part des dépenses de l'OMC conformément au règlement financier adopté par le Conseil général.</tgt>
+</seg>
+<seg  match="1-1" id="80">
+  <src xml:lang="EN">Article VIII</src>
+  <tgt xml:lang="FR">Article VIII</tgt>
+</seg>
+<seg  match="1-1" id="81">
+  <src xml:lang="EN">Status of the WTO</src>
+  <tgt xml:lang="FR">Statut de l'OMC</tgt>
+</seg>
+<seg  match="1-1" id="82">
+  <src xml:lang="EN">1. The WTO shall have legal personality, and shall be accorded by each of its Members such legal capacity as may be necessary for the exercise of its functions.</src>
+  <tgt xml:lang="FR">1. L'OMC aura la personnalité juridique et se verra accorder, par chacun de ses Membres, la capacité juridique qui pourra être nécessaire à l'exercice de ses fonctions.</tgt>
+</seg>
+<seg  match="1-1" id="83">
+  <src xml:lang="EN">2. The WTO shall be accorded by each of its Members such privileges and immunities as are necessary for the exercise of its functions.</src>
+  <tgt xml:lang="FR">2. L'OMC se verra accorder, par chacun de ses Membres, les privilèges et immunités qui seront nécessaires à l'exercice de ses fonctions.</tgt>
+</seg>
+<seg  match="1-1" id="84">
+  <src xml:lang="EN">3. The officials of the WTO and the representatives of the Members shall similarly be accorded by each of its Members such privileges and immunities as are necessary for the independent exercise of their functions in connection with the WTO.</src>
+  <tgt xml:lang="FR">3. Les fonctionnaires de l'OMC et les représentants des Membres se verront semblablement accorder par chacun des Membres les privilèges et immunités qui leur seront nécessaires pour exercer en toute indépendance leurs fonctions en relation avec l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="85">
+  <src xml:lang="EN">4. The privileges and immunities to be accorded by a Member to the WTO, its officials, and the representatives of its Members shall be similar to the privileges and immunities stipulated in the Convention on the Privileges and Immunities of the Specialized Agencies, approved by the General Assembly of the United Nations on 21 November 1947.</src>
+  <tgt xml:lang="FR">4. Les privilèges et immunités qui seront accordés par un Membre à l'OMC, à ses fonctionnaires et aux représentants de ses Membres seront analogues aux privilèges et immunités qui figurent dans la Convention sur les privilèges et immunités des institutions spécialisées, approuvée par l'Assemblée générale des Nations Unies le 21 novembre 1947.</tgt>
+</seg>
+<seg  match="1-1" id="86">
+  <src xml:lang="EN">5. The WTO may conclude a headquarters agreement.</src>
+  <tgt xml:lang="FR">5. L'OMC pourra conclure un accord de siège.</tgt>
+</seg>
+<seg  match="1-1" id="87">
+  <src xml:lang="EN">Article IX</src>
+  <tgt xml:lang="FR">Article IX</tgt>
+</seg>
+<seg  match="1-1" id="88">
+  <src xml:lang="EN">Decision-Making</src>
+  <tgt xml:lang="FR">Prise de décisions</tgt>
+</seg>
+<seg  match="1-1" id="89">
+  <src xml:lang="EN">1. The WTO shall continue the practice of decision-making by consensus followed under GATT 1947.1 Except as otherwise provided, where a decision cannot be arrived at by consensus, the matter at issue shall be decided by voting.</src>
+  <tgt xml:lang="FR">1. L'OMC conservera la pratique de prise de décisions par consensus suivie en vertu du GATT de 1947.1 Sauf disposition contraire, dans les cas où il ne sera pas possible d'arriver à une décision par consensus, la décision sur la question à l'examen sera prise aux voix.</tgt>
+</seg>
+<seg  match="1-1" id="90">
+  <src xml:lang="EN">At meetings of the Ministerial Conference and the General Council, each Member of the WTO shall have one vote.</src>
+  <tgt xml:lang="FR">Aux réunions de la Conférence ministérielle et du Conseil général, chaque Membre de l'OMC disposera d'une voix.</tgt>
+</seg>
+<seg  match="1-1" id="91">
+  <src xml:lang="EN">Where the European Communities exercise their right to vote, they shall have a number of votes equal to the number of their member States2 which are Members of the WTO.</src>
+  <tgt xml:lang="FR">Dans les cas où les Communautés européennes exerceront leur droit de vote, elles disposeront d'un nombre de voix égal au nombre de leurs Etats membres2 qui sont Membres de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="92">
+  <src xml:lang="EN">Decisions of the Ministerial Conference and the General Council shall be taken by a majority of the votes cast, unless otherwise provided in this Agreement or in the relevant Multilateral Trade Agreement.3</src>
+  <tgt xml:lang="FR">Les décisions de la Conférence ministérielle et du Conseil général seront prises à la majorité des votes émis, à moins que le présent accord ou l'Accord commercial multilatéral correspondant n'en dispose autrement.3</tgt>
+</seg>
+<seg  match="1-1" id="93">
+  <src xml:lang="EN">2. The Ministerial Conference and the General Council shall have the exclusive authority to adopt interpretations of this Agreement and of the Multilateral Trade Agreements.</src>
+  <tgt xml:lang="FR">2. La Conférence ministérielle et le Conseil général auront le pouvoir exclusif d'adopter des interprétations du présent accord et des Accords commerciaux multilatéraux.</tgt>
+</seg>
+<seg  match="1-1" id="94">
+  <src xml:lang="EN">In the case of an interpretation of a Multilateral Trade Agreement in Annex 1, they shall exercise their authority on the basis of a recommendation by the Council overseeing the functioning of that Agreement.</src>
+  <tgt xml:lang="FR">S'agissant d'une interprétation d'un Accord commercial multilatéral figurant à l'Annexe 1, ils exerceront leur pouvoir en se fondant sur une recommandation du Conseil qui supervise le fonctionnement dudit accord.</tgt>
+</seg>
+<seg  match="1-1" id="95">
+  <src xml:lang="EN">The decision to adopt an interpretation shall be taken by a three-fourths majority of the Members.</src>
+  <tgt xml:lang="FR">La décision d'adopter une interprétation sera prise à une majorité des trois quarts des Membres.</tgt>
+</seg>
+<seg  match="1-1" id="96">
+  <src xml:lang="EN">This paragraph shall not be used in a manner that would undermine the amendment provisions in Article X.</src>
+  <tgt xml:lang="FR">Le présent paragraphe ne sera pas utilisé d'une manière susceptible d'éroder les dispositions relatives aux amendements de l'article X.</tgt>
+</seg>
+<seg  match="1-1" id="97">
+  <src xml:lang="EN">3. In exceptional circumstances, the Ministerial Conference may decide to waive an obligation imposed on a Member by this Agreement or any of the Multilateral Trade Agreements, provided that any such decision shall be taken by three fourths4 of the Members unless otherwise provided for in this paragraph.</src>
+  <tgt xml:lang="FR">3. Dans des circonstances exceptionnelles, la Conférence ministérielle pourra décider d'accorder à un Membre une dérogation à une des obligations qui lui sont imposées par le présent accord ou par l'un des Accords commerciaux multilatéraux, à la condition qu'une telle dé cision soit prise par les trois quarts4 des Membres, exception faite de ce qui est prévu dans le présent paragraphe.</tgt>
+</seg>
+<seg  match="1-1" id="98">
+  <src xml:lang="EN">(a) A request for a waiver concerning this Agreement shall be submitted to the Ministerial Conference for consideration pursuant to the practice of decision-making by consensus.</src>
+  <tgt xml:lang="FR">a) Une demande de dérogation concernant le présent accord sera présentée à la Conférence ministérielle pour examen conformément à la pratique de prise de décisions par consensus.</tgt>
+</seg>
+<seg  match="1-1" id="99">
+  <src xml:lang="EN">The Ministerial Conference shall establish a time-period, which shall not exceed 90 days, to consider the request.</src>
+  <tgt xml:lang="FR">La Conférence ministérielle établira un délai, qui ne dépassera pas 90 jours, pour examiner la demande.</tgt>
+</seg>
+<seg  match="1-1" id="100">
+  <src xml:lang="EN">If consensus is not reached during the time-period, any decision to grant a waiver shall be taken by three fourths4 of the Members.</src>
+  <tgt xml:lang="FR">S'il n'y a pas de consensus dans ce délai, toute décision d'accorder une dérogation sera prise par les trois quarts4 des Membres.</tgt>
+</seg>
+<seg  match="1-1" id="101">
+  <src xml:lang="EN">(b) A request for a waiver concerning the Multilateral Trade Agreements in Annexes 1A or 1B or 1C and their annexes shall be submitted initially to the Council for Trade in Goods, the Council for Trade in Services or the Council for TRIPS, respectively, for consideration during a time-period which shall not exceed 90 days.</src>
+  <tgt xml:lang="FR">b) Une demande de dérogation concernant les Accords commerciaux multilatéraux figurant aux Annexes 1A, 1B ou 1C et leurs annexes sera présentée initialement au Conseil du commerce des marchandises, au Conseil du commerce des services ou au Conseil des ADPIC, respectivement, pour examen dans un délai qui ne d épassera pas 90 jours.</tgt>
+</seg>
+<seg  match="1-1" id="102">
+  <src xml:lang="EN">At the end of the time-period, the relevant Council shall submit a report to the Ministerial Conference.</src>
+  <tgt xml:lang="FR">A la fin de ce délai, le Conseil saisi présentera un rapport à la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="103">
+  <src xml:lang="EN">4. A decision by the Ministerial Conference granting a waiver shall state the exceptional circumstances justifying the decision, the terms and conditions governing the application of the waiver, and the date on which the waiver shall terminate.</src>
+  <tgt xml:lang="FR">4. Une décision prise par la Conférence ministérielle à l'effet d'accorder une dérogation indiquera les circonstances exceptionnelles qui justifient la décision, les modalités et conditions régissant l'application de la dérogation et la date à laquelle celle-ci prendra fin.</tgt>
+</seg>
+<seg  match="1-1" id="104">
+  <src xml:lang="EN">Any waiver granted for a period of more than one year shall be reviewed by the Ministerial Conference not later than one year after it is granted, and thereafter annually until the waiver terminates.</src>
+  <tgt xml:lang="FR">Toute dérogation accordée pour une période de plus d'une année sera réexaminée par la Conférence ministérielle une année au plus apr ès qu'elle aura été accordée, puis chaque année jusqu'à ce qu'elle prenne fin.</tgt>
+</seg>
+<seg  match="1-1" id="105">
+  <src xml:lang="EN">In each review, the Ministerial Conference shall examine whether the exceptional circumstances justifying the waiver still exist and whether the terms and conditions attached to the waiver have been met.</src>
+  <tgt xml:lang="FR">A chaque réexamen, la Conférence ministérielle déterminera si les circonstances exceptionnelles qui avaient justifié la dérogation existent encore et si les modalités et conditions attachées à la dérogation ont été respectées.</tgt>
+</seg>
+<seg  match="1-1" id="106">
+  <src xml:lang="EN">The Ministerial Conference, on the basis of the annual review, may extend, modify or terminate the waiver.</src>
+  <tgt xml:lang="FR">Sur la base du réexamen annuel, la Conférence ministérielle pourra proroger, modifier ou abroger la dérogation.</tgt>
+</seg>
+<seg  match="1-1" id="107">
+  <src xml:lang="EN">5. Decisions under a Plurilateral Trade Agreement, including any decisions on interpretations and waivers, shall be governed by the provisions of that Agreement.</src>
+  <tgt xml:lang="FR">5. Les décisions au titre d'un Accord commercial plurilatéral, y compris toutes décisions concernant des interprétations et des dérogations, seront régies par les dispositions dudit accord.</tgt>
+</seg>
+<seg  match="1-1" id="108">
+  <src xml:lang="EN">Article X</src>
+  <tgt xml:lang="FR">Article X</tgt>
+</seg>
+<seg  match="1-1" id="109">
+  <src xml:lang="EN">Amendments</src>
+  <tgt xml:lang="FR">Amendements</tgt>
+</seg>
+<seg  match="1-1" id="110">
+  <src xml:lang="EN">1. Any Member of the WTO may initiate a proposal to amend the provisions of this Agreement or the Multilateral Trade Agreements in Annex 1 by submitting such proposal to the Ministerial Conference.</src>
+  <tgt xml:lang="FR">1. Tout Membre de l'OMC pourra prendre l'initiative d'une proposition d'amendement des dispositions du présent accord ou des Accords commerciaux multilatéraux figurant à l'Annexe 1 en présentant ladite proposition à la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="111">
+  <src xml:lang="EN">The Councils listed in paragraph 5 of Article IV may also submit to the Ministerial Conference proposals to amend the provisions of the corresponding Multilateral Trade Agreements in Annex 1 the functioning of which they oversee.</src>
+  <tgt xml:lang="FR">Les Conseils énumérés au paragraphe 5 de l'article IV pourront également présenter à la Conférence ministérielle des propositions d'amendement des dispositions des Accords commerciaux multilatéraux correspondants figurant à l'Annexe 1 dont ils supervisent le fonctionnement.</tgt>
+</seg>
+<seg  match="1-1" id="112">
+  <src xml:lang="EN">Unless the Ministerial Conference decides on a longer period, for a period of 90 days after the proposal has been tabled formally at the Ministerial Conference any decision by the Ministerial Conference to submit the proposed amendment to the Members for acceptance shall be taken by consensus.</src>
+  <tgt xml:lang="FR">A moins que la Conférence ministérielle ne décide d'une p ériode plus longue, pendant une période de 90 jours après que la proposition aura été présentée formellement à la Conférence ministérielle, toute décision de la Conférence ministérielle de présenter aux Membres, pour acceptation, l'amendement propos é sera prise par consensus.</tgt>
+</seg>
+<seg  match="1-1" id="113">
+  <src xml:lang="EN">Unless the provisions of paragraphs 2, 5 or 6 apply, that decision shall specify whether the provisions of paragraphs 3 or 4 shall apply.</src>
+  <tgt xml:lang="FR">A moins que les dispositions des paragraphes 2, 5 ou 6 ne soient applicables, cette décision précisera si les dispositions des paragraphes 3 ou 4 seront d'application.</tgt>
+</seg>
+<seg  match="1-1" id="114">
+  <src xml:lang="EN">If consensus is reached, the Ministerial Conference shall forthwith submit the proposed amendment to the Members for acceptance.</src>
+  <tgt xml:lang="FR">S'il y a consensus, la Conférence ministérielle présentera immédiatement aux Membres, pour acceptation, l'amendement propos é.</tgt>
+</seg>
+<seg  match="1-1" id="115">
+  <src xml:lang="EN">If consensus is not reached at a meeting of the Ministerial Conference within the established period, the Ministerial Conference shall decide by a two-thirds majority of the Members whether to submit the proposed amendment to the Members for acceptance.</src>
+  <tgt xml:lang="FR">S'il n'y a pas consensus à une réunion de la Conférence ministérielle pendant la période établie, la Conférence ministérielle décidera, à une majorité des deux tiers des Membres, de présenter ou non aux Membres, pour acceptation, l'amendement proposé.</tgt>
+</seg>
+<seg  match="1-1" id="116">
+  <src xml:lang="EN">Except as provided in paragraphs 2, 5 and 6, the provisions of paragraph 3 shall apply to the proposed amendment, unless the Ministerial Conference decides by a three-fourths majority of the Members that the provisions of paragraph 4 shall apply.</src>
+  <tgt xml:lang="FR">Sous réserve des dispositions des paragraphes 2, 5 et 6, les dispositions du paragraphe 3 seront applicables à l'amendement proposé, à moins que la Conférence ministérielle ne décide, à une majorité des trois quarts des Membres, que les dispositions du paragraphe 4 seront d'application.</tgt>
+</seg>
+<seg  match="1-1" id="117">
+  <src xml:lang="EN">2. Amendments to the provisions of this Article and to the provisions of the following Articles shall take effect only upon acceptance by all Members:</src>
+  <tgt xml:lang="FR">2. Les amendements aux dispositions du présent article et aux dispositions des articles ci‑après ne prendront effet que lorsqu'ils auront été acceptés par tous les Membres:</tgt>
+</seg>
+<seg  match="1-1" id="118">
+  <src xml:lang="EN">Article IX of this Agreement;</src>
+  <tgt xml:lang="FR">Article IX du présent accord;</tgt>
+</seg>
+<seg  match="1-1" id="119">
+  <src xml:lang="EN">Articles I and II of GATT 1994;</src>
+  <tgt xml:lang="FR">Articles premier et II du GATT de 1994;</tgt>
+</seg>
+<seg  match="1-1" id="120">
+  <src xml:lang="EN">Article II:1 of GATS;</src>
+  <tgt xml:lang="FR">Article II:1 de l'AGCS;</tgt>
+</seg>
+<seg  match="1-1" id="121">
+  <src xml:lang="EN">Article 4 of the Agreement on TRIPS.</src>
+  <tgt xml:lang="FR">Article 4 de l'Accord sur les ADPIC.</tgt>
+</seg>
+<seg  match="1-1" id="122">
+  <src xml:lang="EN">3. Amendments to provisions of this Agreement, or of the Multilateral Trade Agreements in Annexes 1A and 1C, other than those listed in paragraphs 2 and 6, of a nature that would alter the rights and obligations of the Members, shall take effect for the Members that have accepted them upon acceptance by two thirds of the Members and thereafter for each other Member upon acceptance by it.</src>
+  <tgt xml:lang="FR">3. Les amendements aux dispositions du présent accord, ou des Accords commerciaux multilatéraux figurant aux Annexes 1A et 1C, autres que celles qui sont énumérées aux paragraphes 2 et 6, de nature à modifier les droits et obligations des Membres, prendront effet à l'égard des Membres qui les auront acceptés dès qu'ils auront été acceptés par les deux tiers des Membres et, ensuite, à l'égard de tout autre Membre, dès que celui‑ci les aura acceptés.</tgt>
+</seg>
+<seg  match="1-1" id="123">
+  <src xml:lang="EN">The Ministerial Conference may decide by a three-fourths majority of the Members that any amendment made effective under this paragraph is of such a nature that any Member which has not accepted it within a period specified by the Ministerial Conference in each case shall be free to withdraw from the WTO or to remain a Member with the consent of the Ministerial Conference.</src>
+  <tgt xml:lang="FR">La Conférence ministérielle pourra décider, à une majorité des trois quarts des Membres, qu'un amendement ayant pris effet en vertu du présent paragraphe est d'une nature telle que tout Membre qui ne l'aura pas accepté dans un délai fixé par la Conférence ministérielle dans chaque cas pourra se retirer de l'OMC ou continuer à en être Membre avec le consentement de la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="124">
+  <src xml:lang="EN">4. Amendments to provisions of this Agreement or of the Multilateral Trade Agreements in Annexes 1A and 1C, other than those listed in paragraphs 2 and 6, of a nature that would not alter the rights and obligations of the Members, shall take effect for all Members upon acceptance by two thirds of the Members.</src>
+  <tgt xml:lang="FR">4. Les amendements aux dispositions du présent accord ou des Accords commerciaux multilatéraux figurant aux Annexes 1A et 1C, autres que celles qui sont énumérées aux paragraphes 2 et 6, d'une nature qui ne modifierait pas les droits et obligations des Membres, prendront effet à l'égard de tous les Membres d ès qu'ils auront été acceptés par les deux tiers des Membres.</tgt>
+</seg>
+<seg  match="1-1" id="125">
+  <src xml:lang="EN">5. Except as provided in paragraph 2 above, amendments to Parts I, II and III of GATS and the respective annexes shall take effect for the Members that have accepted them upon acceptance by two thirds of the Members and thereafter for each Member upon acceptance by it.</src>
+  <tgt xml:lang="FR">5. Sous réserve des dispositions du paragraphe 2 ci‑dessus, les amendements aux Parties I, II et III de l'AGCS et aux annexes respectives prendront effet à l'égard des Membres qui les auront acceptés dès qu'ils auront été acceptés par les deux tiers des Membres et, ensuite, à l'égard de chaque Membre, dès que celui‑ci les aura acceptés.</tgt>
+</seg>
+<seg  match="1-1" id="126">
+  <src xml:lang="EN">The Ministerial Conference may decide by a three-fourths majority of the Members that any amendment made effective under the preceding provision is of such a nature that any Member which has not accepted it within a period specified by the Ministerial Conference in each case shall be free to withdraw from the WTO or to remain a Member with the consent of the Ministerial Conference.</src>
+  <tgt xml:lang="FR">La Conférence ministérielle pourra décider, à une majorité des trois quarts des Membres, qu'un amendement ayant pris effet en vertu de la disposition précédente est d'une nature telle que tout Membre qui ne l'aura pas accepté dans un délai fixé par la Conférence ministérielle dans chaque cas pourra se retirer de l'OMC ou continuer à en être Membre avec le consentement de la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="127">
+  <src xml:lang="EN">Amendments to Parts IV, V and VI of GATS and the respective annexes shall take effect for all Members upon acceptance by two thirds of the Members.</src>
+  <tgt xml:lang="FR">Les amendements aux Parties IV, V et VI de l'AGCS et aux annexes respectives prendront effet à l'égard de tous les Membres dès qu'ils auront été acceptés par les deux tiers des Membres.</tgt>
+</seg>
+<seg  match="1-1" id="128">
+  <src xml:lang="EN">6. Notwithstanding the other provisions of this Article, amendments to the Agreement on TRIPS meeting the requirements of paragraph 2 of Article 71 thereof may be adopted by the Ministerial Conference without further formal acceptance process.</src>
+  <tgt xml:lang="FR">6. Nonobstant les autres dispositions du présent article, les amendements à l'Accord sur les ADPIC qui répondent aux prescriptions du paragraphe 2 de l'article 71 dudit accord pourront être adoptés par la Conférence ministérielle sans autre processus d'acceptation formel.</tgt>
+</seg>
+<seg  match="1-1" id="129">
+  <src xml:lang="EN">7. Any Member accepting an amendment to this Agreement or to a Multilateral Trade Agreement in Annex 1 shall deposit an instrument of acceptance with the Director-General of the WTO within the period of acceptance specified by the Ministerial Conference.</src>
+  <tgt xml:lang="FR">7. Tout Membre qui acceptera un amendement au présent accord ou à un Accord commercial multilatéral figurant à l'Annexe 1 déposera un instrument d'acceptation auprès du Directeur général de l'OMC dans le délai fixé par la Conférence ministérielle pour l'acceptation.</tgt>
+</seg>
+<seg  match="1-1" id="130">
+  <src xml:lang="EN">8. Any Member of the WTO may initiate a proposal to amend the provisions of the Multilateral Trade Agreements in Annexes 2 and 3 by submitting such proposal to the Ministerial Conference.</src>
+  <tgt xml:lang="FR">8. Tout Membre de l'OMC pourra prendre l'initiative d'une proposition d'amendement des dispositions des Accords commerciaux multilatéraux figurant aux Annexes 2 et 3 en présentant ladite proposition à la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="131">
+  <src xml:lang="EN">The decision to approve amendments to the Multilateral Trade Agreement in Annex 2 shall be made by consensus and these amendments shall take effect for all Members upon approval by the Ministerial Conference.</src>
+  <tgt xml:lang="FR">La décision d'approuver des amendements à l'Accord commercial multilatéral figurant à l'Annexe 2 sera prise uniquement par consensus et lesdits amendements prendront effet à l'égard de tous les Membres dès qu'ils auront été approuvés par la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="132">
+  <src xml:lang="EN">Decisions to approve amendments to the Multilateral Trade Agreement in Annex 3 shall take effect for all Members upon approval by the Ministerial Conference.</src>
+  <tgt xml:lang="FR">Les décisions d'approuver des amendements à l'Accord commercial multilatéral figurant à l'Annexe 3 prendront effet à l'égard de tous les Membres dès qu'ils auront été approuvés par la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="133">
+  <src xml:lang="EN">9. The Ministerial Conference, upon the request of the Members parties to a trade agreement, may decide exclusively by consensus to add that agreement to Annex 4.</src>
+  <tgt xml:lang="FR">9. La Conférence ministérielle, à la demande des Membres parties à un accord commercial, pourra décider exclusivement par consensus d'ajouter cet accord à l'Annexe 4.</tgt>
+</seg>
+<seg  match="1-1" id="134">
+  <src xml:lang="EN">The Ministerial Conference, upon the request of the Members parties to a Plurilateral Trade Agreement, may decide to delete that Agreement from Annex 4.</src>
+  <tgt xml:lang="FR">La Conférence ministérielle, à la demande des Membres parties à un Accord commercial plurilatéral, pourra décider de supprimer ledit accord de l'Annexe 4.</tgt>
+</seg>
+<seg  match="1-1" id="135">
+  <src xml:lang="EN">10. Amendments to a Plurilateral Trade Agreement shall be governed by the provisions of that Agreement.</src>
+  <tgt xml:lang="FR">10. Les amendements à un Accord commercial plurilatéral seront régis par les dispositions dudit accord.</tgt>
+</seg>
+<seg  match="1-1" id="136">
+  <src xml:lang="EN">Article XI</src>
+  <tgt xml:lang="FR">Article XI</tgt>
+</seg>
+<seg  match="1-1" id="137">
+  <src xml:lang="EN">Original Membership</src>
+  <tgt xml:lang="FR">Membres originels</tgt>
+</seg>
+<seg  match="1-1" id="138">
+  <src xml:lang="EN">1. The contracting parties to GATT 1947 as of the date of entry into force of this Agreement, and the European Communities, which accept this Agreement and the Multilateral Trade Agreements and for which Schedules of Concessions and Commitments are annexed to GATT 1994 and for which Schedules of Specific Commitments are annexed to GATS shall become original Members of the WTO.</src>
+  <tgt xml:lang="FR">1. Les parties contractantes au GATT de 1947 à la date d'entrée en vigueur du présent accord, et les Communautés européennes, qui acceptent le présent accord et les Accords commerciaux multilatéraux et pour lesquelles des Listes de concessions et d'engagements sont annexées au GATT de 1994 et pour lesquelles des Listes d'engagements spécifiques sont annexées à l'AGCS, deviendront Membres originels de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="139">
+  <src xml:lang="EN">2. The least-developed countries recognized as such by the United Nations will only be required to undertake commitments and concessions to the extent consistent with their individual development, financial and trade needs or their administrative and institutional capabilities.</src>
+  <tgt xml:lang="FR">2. Les pays les moins avancés reconnus comme tels par les Nations Unies ne seront tenus de contracter des engagements et de faire des concessions que dans la mesure compatible avec les besoins du développement, des finances et du commerce de chacun d'entre eux ou avec leurs capacités administratives et institutionnelles.</tgt>
+</seg>
+<seg  match="1-1" id="140">
+  <src xml:lang="EN">Article XII</src>
+  <tgt xml:lang="FR">Article XII</tgt>
+</seg>
+<seg  match="1-1" id="141">
+  <src xml:lang="EN">Accession</src>
+  <tgt xml:lang="FR">Accession</tgt>
+</seg>
+<seg  match="1-1" id="142">
+  <src xml:lang="EN">1. Any State or separate customs territory possessing full autonomy in the conduct of its external commercial relations and of the other matters provided for in this Agreement and the Multilateral Trade Agreements may accede to this Agreement, on terms to be agreed between it and the WTO.</src>
+  <tgt xml:lang="FR">1. Tout Etat ou territoire douanier distinct jouissant d'une entière autonomie dans la conduite de ses relations commerciales extérieures et pour les autres questions traitées dans le présent accord et dans les Accords commerciaux multilatéraux pourra accéder au présent accord à des conditions à convenir entre lui et l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="143">
+  <src xml:lang="EN">Such accession shall apply to this Agreement and the Multilateral Trade Agreements annexed thereto.</src>
+  <tgt xml:lang="FR">Cette accession vaudra pour le présent accord et pour les Accords commerciaux multilatéraux qui y sont annexés.</tgt>
+</seg>
+<seg  match="1-1" id="144">
+  <src xml:lang="EN">2. Decisions on accession shall be taken by the Ministerial Conference.</src>
+  <tgt xml:lang="FR">2. Les décisions relatives à l'accession seront prises par la Conférence ministérielle.</tgt>
+</seg>
+<seg  match="1-1" id="145">
+  <src xml:lang="EN">The Ministerial Conference shall approve the agreement on the terms of accession by a two-thirds majority of the Members of the WTO.</src>
+  <tgt xml:lang="FR">La Conférence ministérielle approuvera l'accord concernant les modalités d'accession à une majorité des deux tiers des Membres de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="146">
+  <src xml:lang="EN">3. Accession to a Plurilateral Trade Agreement shall be governed by the provisions of that Agreement.</src>
+  <tgt xml:lang="FR">3. L'accession à un Accord commercial plurilatéral sera régie par les dispositions dudit accord.</tgt>
+</seg>
+<seg  match="1-1" id="147">
+  <src xml:lang="EN">Article XIII</src>
+  <tgt xml:lang="FR">Article XIII</tgt>
+</seg>
+<seg  match="1-1" id="148">
+  <src xml:lang="EN">Non-Application of Multilateral Trade Agreements</src>
+  <tgt xml:lang="FR">Non-application des Accords commerciaux</tgt>
+</seg>
+<seg  match="1-1" id="149">
+  <src xml:lang="EN">between Particular Members</src>
+  <tgt xml:lang="FR">multilatéraux entre des Membres</tgt>
+</seg>
+<seg  match="1-1" id="150">
+  <src xml:lang="EN">1. This Agreement and the Multilateral Trade Agreements in Annexes 1 and 2 shall not apply as between any Member and any other Member if either of the Members, at the time either becomes a Member, does not consent to such application.</src>
+  <tgt xml:lang="FR">1. Le présent accord et les Accords commerciaux multilatéraux figurant aux Annexes 1 et 2 ne s'appliqueront pas entre un Membre et tout autre Membre si l'un des deux, au moment où il devient Membre, ne consent pas à cette application.</tgt>
+</seg>
+<seg  match="1-1" id="151">
+  <src xml:lang="EN">2. Paragraph 1 may be invoked between original Members of the WTO which were contracting parties to GATT 1947 only where Article XXXV of that Agreement had been invoked earlier and was effective as between those contracting parties at the time of entry into force for them of this Agreement.</src>
+  <tgt xml:lang="FR">2. Le paragraphe 1 ne pourra être invoqué entre des Membres originels de l'OMC qui étaient parties contractantes au GATT de 1947 que dans les cas où l'article XXXV dudit accord avait été invoqué précédemment et était en vigueur entre ces parties contractantes au moment de l'entr ée en vigueur pour elles du présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="152">
+  <src xml:lang="EN">3. Paragraph 1 shall apply between a Member and another Member which has acceded under Article XII only if the Member not consenting to the application has so notified the Ministerial Conference before the approval of the agreement on the terms of accession by the Ministerial Conference.</src>
+  <tgt xml:lang="FR">3. Le paragraphe 1 ne s'appliquera entre un Membre et un autre Membre qui a accédé au titre de l'article XII que si le Membre ne consentant pas à l'application l'a notifié à la Conférence ministérielle avant que celle-ci n'ait approuvé l'accord concernant les modalités d'accession.</tgt>
+</seg>
+<seg  match="1-1" id="153">
+  <src xml:lang="EN">4. The Ministerial Conference may review the operation of this Article in particular cases at the request of any Member and make appropriate recommendations.</src>
+  <tgt xml:lang="FR">4. A la demande d'un Membre, la Conférence ministérielle pourra examiner le fonctionnement du présent article dans des cas particuliers et faire des recommandations appropriées.</tgt>
+</seg>
+<seg  match="1-1" id="154">
+  <src xml:lang="EN">5. Non-application of a Plurilateral Trade Agreement between parties to that Agreement shall be governed by the provisions of that Agreement.</src>
+  <tgt xml:lang="FR">5. La non-application d'un Accord commercial plurilatéral entre parties audit accord sera régie par les dispositions dudit accord.</tgt>
+</seg>
+<seg  match="1-1" id="155">
+  <src xml:lang="EN">Article XIV</src>
+  <tgt xml:lang="FR">Article XIV</tgt>
+</seg>
+<seg  match="1-1" id="156">
+  <src xml:lang="EN">Acceptance, Entry into Force and Deposit</src>
+  <tgt xml:lang="FR">Acceptation, entrée en vigueur et dépôt</tgt>
+</seg>
+<seg  match="1-1" id="157">
+  <src xml:lang="EN">1. This Agreement shall be open for acceptance, by signature or otherwise, by contracting parties to GATT 1947, and the European Communities, which are eligible to become original Members of the WTO in accordance with Article XI of this Agreement.</src>
+  <tgt xml:lang="FR">1. Le présent accord sera ouvert à l'acceptation, par voie de signature ou autrement, des parties contractantes au GATT de 1947, et des Communautés européennes, qui sont admises à devenir Membres originels de l'OMC conformément à l'article XI du présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="158">
+  <src xml:lang="EN">Such acceptance shall apply to this Agreement and the Multilateral Trade Agreements annexed hereto.</src>
+  <tgt xml:lang="FR">Cette acceptation vaudra pour le présent accord et pour les Accords commerciaux multilatéraux qui y sont annexés.</tgt>
+</seg>
+<seg  match="1-1" id="159">
+  <src xml:lang="EN">This Agreement and the Multilateral Trade Agreements annexed hereto shall enter into force on the date determined by Ministers in accordance with paragraph 3 of the Final Act Embodying the Results of the Uruguay Round of Multilateral Trade Negotiations and shall remain open for acceptance for a period of two years following that date unless the Ministers decide otherwise.</src>
+  <tgt xml:lang="FR">Le présent accord et les Accords commerciaux multilatéraux qui y sont annexés entreront en vigueur à la date fixée par les Ministres conformément au paragraphe 3 de l'Acte final reprenant les résultats des Négociations commerciales multilatérales du Cycle d'Uruguay et resteront ouverts à l'acceptation pendant une période de deux ans suivant cette date à moins que les Ministres n'en décident autrement.</tgt>
+</seg>
+<seg  match="1-1" id="160">
+  <src xml:lang="EN">An acceptance following the entry into force of this Agreement shall enter into force on the 30th day following the date of such acceptance.</src>
+  <tgt xml:lang="FR">Une acceptation intervenant après l'entrée en vigueur du présent accord entrera en vigueur le 30e jour qui suivra la date de ladite acceptation.</tgt>
+</seg>
+<seg  match="1-1" id="161">
+  <src xml:lang="EN">2. A Member which accepts this Agreement after its entry into force shall implement those concessions and obligations in the Multilateral Trade Agreements that are to be implemented over a period of time starting with the entry into force of this Agreement as if it had accepted this Agreement on the date of its entry into force.</src>
+  <tgt xml:lang="FR">2. Un Membre qui acceptera le présent accord après son entrée en vigueur mettra en oeuvre les concessions et obligations prévues dans les Accords commerciaux multilatéraux qui doivent être mises en oeuvre sur une période commençant à l'entrée en vigueur du présent accord comme s'il avait accepté le présent accord à la date de son entrée en vigueur.</tgt>
+</seg>
+<seg  match="1-1" id="162">
+  <src xml:lang="EN">3. Until the entry into force of this Agreement, the text of this Agreement and the Multilateral Trade Agreements shall be deposited with the Director-General to the CONTRACTING PARTIES to GATT 1947.</src>
+  <tgt xml:lang="FR">3. Jusqu'à l'entrée en vigueur du présent accord, le texte du présent accord et des Accords commerciaux multilatéraux sera dé posé auprès du Directeur général des PARTIES CONTRACTANTES du GATT de 1947.</tgt>
+</seg>
+<seg  match="1-1" id="163">
+  <src xml:lang="EN">The Director-General shall promptly furnish a certified true copy of this Agreement and the Multilateral Trade Agreements, and a notification of each acceptance thereof, to each government and the European Communities having accepted this Agreement.</src>
+  <tgt xml:lang="FR">Le Directeur général remettra dans les moindres délais une copie certifiée conforme du présent accord et des Accords commerciaux multilatéraux et une notification de chaque acceptation à chaque gouvernement et aux Communautés européennes ayant accepté le présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="164">
+  <src xml:lang="EN">This Agreement and the Multilateral Trade Agreements, and any amendments thereto, shall, upon the entry into force of this Agreement, be deposited with the Director-General of the WTO.</src>
+  <tgt xml:lang="FR">Le présent accord et les Accords commerciaux multilatéraux, ainsi que tous amendements qui y auront été apportés, seront, à l'entrée en vigueur du présent accord, déposés auprès du Directeur général de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="165">
+  <src xml:lang="EN">4. The acceptance and entry into force of a Plurilateral Trade Agreement shall be governed by the provisions of that Agreement.</src>
+  <tgt xml:lang="FR">4. L'acceptation et l'entrée en vigueur d'un Accord commercial plurilatéral seront régies par les dispositions dudit accord.</tgt>
+</seg>
+<seg  match="1-1" id="166">
+  <src xml:lang="EN">Such Agreements shall be deposited with the Director-General to the CONTRACTING PARTIES to GATT 1947.</src>
+  <tgt xml:lang="FR">Les Accords de ce type seront déposés auprès du Directeur général des PARTIES CONTRACTANTES du GATT de 1947.</tgt>
+</seg>
+<seg  match="1-1" id="167">
+  <src xml:lang="EN">Upon the entry into force of this Agreement, such Agreements shall be deposited with the Director-General of the WTO.</src>
+  <tgt xml:lang="FR">A l'entrée en vigueur du présent accord, ces accords seront déposés auprès du Directeur général de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="168">
+  <src xml:lang="EN">Article XV</src>
+  <tgt xml:lang="FR">Article XV</tgt>
+</seg>
+<seg  match="1-1" id="169">
+  <src xml:lang="EN">Withdrawal</src>
+  <tgt xml:lang="FR">Retrait</tgt>
+</seg>
+<seg  match="1-1" id="170">
+  <src xml:lang="EN">1. Any Member may withdraw from this Agreement.</src>
+  <tgt xml:lang="FR">1. Tout Membre pourra se retirer du présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="171">
+  <src xml:lang="EN">Such withdrawal shall apply both to this Agreement and the Multilateral Trade Agreements and shall take effect upon the expiration of six months from the date on which written notice of withdrawal is received by the Director-General of the WTO.</src>
+  <tgt xml:lang="FR">Ce retrait vaudra à la fois pour le présent accord et pour les Accords commerciaux multilatéraux et prendra effet à l'expiration d'un délai de six mois à compter de la date à laquelle le Directeur général de l'OMC en aura reçu notification par écrit.</tgt>
+</seg>
+<seg  match="1-1" id="172">
+  <src xml:lang="EN">2. Withdrawal from a Plurilateral Trade Agreement shall be governed by the provisions of that Agreement.</src>
+  <tgt xml:lang="FR">2. Le retrait d'un Accord commercial plurilatéral sera régi par les dispositions dudit accord.</tgt>
+</seg>
+<seg  match="1-1" id="173">
+  <src xml:lang="EN">Article XVI</src>
+  <tgt xml:lang="FR">Article XVI</tgt>
+</seg>
+<seg  match="1-1" id="174">
+  <src xml:lang="EN">Miscellaneous Provisions</src>
+  <tgt xml:lang="FR">Dispositions diverses</tgt>
+</seg>
+<seg  match="1-1" id="175">
+  <src xml:lang="EN">1. Except as otherwise provided under this Agreement or the Multilateral Trade Agreements, the WTO shall be guided by the decisions, procedures and customary practices followed by the CONTRACTING PARTIES to GATT 1947 and the bodies established in the framework of GATT 1947.</src>
+  <tgt xml:lang="FR">1. Sauf disposition contraire du présent accord ou des Accords commerciaux multilatéraux, l'OMC sera guidée par les décisions, les procédures et les pratiques habituelles des PARTIES CONTRACTANTES du GATT de 1947 et des organes établis dans le cadre du GATT de 1947.</tgt>
+</seg>
+<seg  match="1-1" id="176">
+  <src xml:lang="EN">2. To the extent practicable, the Secretariat of GATT 1947 shall become the Secretariat of the WTO, and the Director-General to the CONTRACTING PARTIES to GATT 1947, until such time as the Ministerial Conference has appointed a Director-General in accordance with paragraph 2 of Article VI of this Agreement, shall serve as Director-General of the WTO.</src>
+  <tgt xml:lang="FR">2. Dans la mesure où cela sera réalisable, le Secrétariat du GATT de 1947 deviendra le Secrétariat de l'OMC et, jusqu'à ce que la Conférence ministérielle ait nommé un Directeur général conformément au paragraphe 2 de l'article VI du présent accord, le Directeur général des PARTIES CONTRACTANTES du GATT de 1947 exercera les fonctions de Directeur général de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="177">
+  <src xml:lang="EN">3. In the event of a conflict between a provision of this Agreement and a provision of any of the Multilateral Trade Agreements, the provision of this Agreement shall prevail to the extent of the conflict.</src>
+  <tgt xml:lang="FR">3. En cas de conflit entre une disposition du présent accord et une disposition de l'un des Accords commerciaux multilatéraux, la disposition du présent accord prévaudra dans la limite du conflit.</tgt>
+</seg>
+<seg  match="1-1" id="178">
+  <src xml:lang="EN">4. Each Member shall ensure the conformity of its laws, regulations and administrative procedures with its obligations as provided in the annexed Agreements.</src>
+  <tgt xml:lang="FR">4. Chaque Membre assurera la conformité de ses lois, réglementations et procédures administratives avec ses obligations telles qu'elles sont énoncées dans les Accords figurant en annexe.</tgt>
+</seg>
+<seg  match="1-1" id="179">
+  <src xml:lang="EN">5. No reservations may be made in respect of any provision of this Agreement.</src>
+  <tgt xml:lang="FR">5. Il ne pourra pas être formulé de réserves en ce qui concerne une disposition du présent accord.</tgt>
+</seg>
+<seg  match="1-1" id="180">
+  <src xml:lang="EN">Reservations in respect of any of the provisions of the Multilateral Trade Agreements may only be made to the extent provided for in those Agreements.</src>
+  <tgt xml:lang="FR">Il ne pourra être formulé de réserves en ce qui concerne des dispositions des Accords commerciaux multilatéraux que dans la mesure prévue dans lesdits accords.</tgt>
+</seg>
+<seg  match="1-1" id="181">
+  <src xml:lang="EN">Reservations in respect of a provision of a Plurilateral Trade Agreement shall be governed by the provisions of that Agreement.</src>
+  <tgt xml:lang="FR">Les réserves concernant une disposition d'un Accord commercial plurilatéral seront régies par les dispositions dudit accord.</tgt>
+</seg>
+<seg  match="1-1" id="182">
+  <src xml:lang="EN">6. This Agreement shall be registered in accordance with the provisions of Article 102 of the Charter of the United Nations.</src>
+  <tgt xml:lang="FR">6. Le présent accord sera enregistré conformément aux dispositions de l'article 102 de la Charte des Nations Unies.</tgt>
+</seg>
+<seg  match="1-1" id="183">
+  <src xml:lang="EN">DONE at Marrakesh this fifteenth day of April one thousand nine hundred and ninety-four, in a single copy, in the English, French and Spanish languages, each text being authentic.</src>
+  <tgt xml:lang="FR">FAIT à Marrakech le quinze avril mil neuf cent quatre-vingt-quatorze, en un seul exemplaire, en langues française, anglaise et espagnole, les trois textes faisant foi.</tgt>
+</seg>
+<seg  match="1-1" id="184">
+  <src xml:lang="EN">Explanatory Notes:</src>
+  <tgt xml:lang="FR">Notes explicatives:</tgt>
+</seg>
+<seg  match="1-1" id="185">
+  <src xml:lang="EN">The terms "country" or "countries" as used in this Agreement and the Multilateral Trade Agreements are to be understood to include any separate customs territory Member of the WTO.</src>
+  <tgt xml:lang="FR">Le terme "pays” tel qu'il est utilisé dans le présent accord et dans les Accords commerciaux multilatéraux doit être interprét é comme incluant tout territoire douanier distinct Membre de l'OMC.</tgt>
+</seg>
+<seg  match="1-1" id="186">
+  <src xml:lang="EN">In the case of a separate customs territory Member of the WTO, where an expression in this Agreement and the Multilateral Trade Agreements is qualified by the term "national", such expression shall be read as pertaining to that customs territory, unless otherwise specified.</src>
+  <tgt xml:lang="FR">S'agissant d'un territoire douanier distinct Membre de l'OMC, dans les cas où le qualificatif "national” accompagnera une expression utilisée dans le présent accord et dans les Accords commerciaux multilatéraux, cette expression s'interprétera, sauf indication contraire, comme se rapportant à ce territoire douanier.</tgt>
+</seg>
+<seg  match="1-1" id="187">
+  <src xml:lang="EN">LIST OF ANNEXES</src>
+  <tgt xml:lang="FR">LISTE DES ANNEXES</tgt>
+</seg>
+<seg  match="1-1" id="188">
+  <src xml:lang="EN">ANNEX 1</src>
+  <tgt xml:lang="FR">ANNEXE 1</tgt>
+</seg>
+<seg  match="1-1" id="189">
+  <src xml:lang="EN">ANNEX 1A: Multilateral Agreements on Trade in Goods</src>
+  <tgt xml:lang="FR">ANNEXE 1A: Accords multilatéraux sur le commerce des marchandises</tgt>
+</seg>
+<seg  match="1-1" id="190">
+  <src xml:lang="EN">General Agreement on Tariffs and Trade 1994</src>
+  <tgt xml:lang="FR">Accord général sur les tarifs douaniers et le commerce de 1994</tgt>
+</seg>
+<seg  match="1-1" id="191">
+  <src xml:lang="EN">Agreement on Agriculture</src>
+  <tgt xml:lang="FR">Accord sur l'agriculture</tgt>
+</seg>
+<seg  match="1-1" id="192">
+  <src xml:lang="EN">Agreement on the Application of Sanitary and Phytosanitary Measures</src>
+  <tgt xml:lang="FR">Accord sur l'application des mesures sanitaires et phytosanitaires</tgt>
+</seg>
+<seg  match="1-1" id="193">
+  <src xml:lang="EN">Agreement on Textiles and Clothing</src>
+  <tgt xml:lang="FR">Accord sur les textiles et les vêtements</tgt>
+</seg>
+<seg  match="1-1" id="194">
+  <src xml:lang="EN">Agreement on Technical Barriers to Trade</src>
+  <tgt xml:lang="FR">Accord sur les obstacles techniques au commerce</tgt>
+</seg>
+<seg  match="1-1" id="195">
+  <src xml:lang="EN">Agreement on Trade-Related Investment Measures</src>
+  <tgt xml:lang="FR">Accord sur les mesures concernant les investissements et liées au commerce</tgt>
+</seg>
+<seg  match="1-1" id="196">
+  <src xml:lang="EN">Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade 1994</src>
+  <tgt xml:lang="FR">Accord sur la mise en oeuvre de l'article VI de l'Accord général sur les tarifs douaniers et le commerce de 1994</tgt>
+</seg>
+<seg  match="1-1" id="197">
+  <src xml:lang="EN">Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994</src>
+  <tgt xml:lang="FR">Accord sur la mise en oeuvre de l'article VII de l'Accord général sur les tarifs douaniers et le commerce de 1994</tgt>
+</seg>
+<seg  match="1-1" id="198">
+  <src xml:lang="EN">Agreement on Preshipment Inspection</src>
+  <tgt xml:lang="FR">Accord sur l'inspection avant expédition</tgt>
+</seg>
+<seg  match="1-1" id="199">
+  <src xml:lang="EN">Agreement on Rules of Origin</src>
+  <tgt xml:lang="FR">Accord sur les règles d'origine</tgt>
+</seg>
+<seg  match="1-1" id="200">
+  <src xml:lang="EN">Agreement on Import Licensing Procedures</src>
+  <tgt xml:lang="FR">Accord sur les procédures de licences d'importation</tgt>
+</seg>
+<seg  match="1-1" id="201">
+  <src xml:lang="EN">Agreement on Subsidies and Countervailing Measures</src>
+  <tgt xml:lang="FR">Accord sur les subventions et les mesures compensatoires</tgt>
+</seg>
+<seg  match="1-1" id="202">
+  <src xml:lang="EN">Agreement on Safeguards</src>
+  <tgt xml:lang="FR">Accord sur les sauvegardes</tgt>
+</seg>
+<seg  match="1-1" id="203">
+  <src xml:lang="EN">ANNEX 1B: General Agreement on Trade in Services and Annexes</src>
+  <tgt xml:lang="FR">ANNEXE 1B: Accord général sur le commerce des services et Annexes</tgt>
+</seg>
+<seg  match="1-1" id="204">
+  <src xml:lang="EN">ANNEX 1C: Agreement on Trade-Related Aspects of Intellectual Property Rights</src>
+  <tgt xml:lang="FR">ANNEXE 1C: Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce</tgt>
+</seg>
+<seg  match="1-1" id="205">
+  <src xml:lang="EN">ANNEX 2</src>
+  <tgt xml:lang="FR">ANNEXE 2</tgt>
+</seg>
+<seg  match="1-1" id="206">
+  <src xml:lang="EN">Understanding on Rules and Procedures Governing the Settlement of Disputes</src>
+  <tgt xml:lang="FR">Mémorandum d'accord sur les règles et procédures régissant le règlement des différends</tgt>
+</seg>
+<seg  match="1-1" id="207">
+  <src xml:lang="EN">ANNEX 3</src>
+  <tgt xml:lang="FR">ANNEXE 3</tgt>
+</seg>
+<seg  match="1-1" id="208">
+  <src xml:lang="EN">Trade Policy Review Mechanism</src>
+  <tgt xml:lang="FR">Mécanisme d'examen des politiques commerciales</tgt>
+</seg>
+<seg  match="1-1" id="209">
+  <src xml:lang="EN">ANNEX 4</src>
+  <tgt xml:lang="FR">ANNEXE 4</tgt>
+</seg>
+<seg  match="1-1" id="210">
+  <src xml:lang="EN">Plurilateral Trade Agreements</src>
+  <tgt xml:lang="FR">Accords commerciaux plurilatéraux</tgt>
+</seg>
+<seg  match="1-1" id="211">
+  <src xml:lang="EN">Agreement on Trade in Civil Aircraft</src>
+  <tgt xml:lang="FR">Accord sur le commerce des aéronefs civils</tgt>
+</seg>
+<seg  match="1-1" id="212">
+  <src xml:lang="EN">Agreement on Government Procurement</src>
+  <tgt xml:lang="FR">Accord sur les marchés publics</tgt>
+</seg>
+<seg  match="1-1" id="213">
+  <src xml:lang="EN">International Dairy Agreement</src>
+  <tgt xml:lang="FR">Accord international sur le secteur laitier</tgt>
+</seg>
+<seg  match="1-1" id="214">
+  <src xml:lang="EN">International Bovine Meat Agreement</src>
+  <tgt xml:lang="FR">Accord international sur la viande bovine</tgt>
+</seg>
+</segments>
+</bitext>

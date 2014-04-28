@@ -1,0 +1,82 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿WIPO</src>
+  <tgt xml:lang="ES">﻿OMPI</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">E</src>
+  <tgt xml:lang="ES">S</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">WO/GA/31/1</src>
+  <tgt xml:lang="ES">WO/GA/31/1</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">ORIGINAL: English</src>
+  <tgt xml:lang="ES">ORIGINAL: Inglés</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">DATE: June 28, 2004</src>
+  <tgt xml:lang="ES">FECHA: 28 de junio de 2004</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">WORLD INTELLECTUAL PROPERTY ORGANIZATION</src>
+  <tgt xml:lang="ES">ORGANIZACIÓN MUNDIAL DE LA PROPIEDAD INTELECTUAL</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">GENEVA</src>
+  <tgt xml:lang="ES">GINEBRA</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">wipo general assembly</src>
+  <tgt xml:lang="ES">asamblea general de la ompi</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Thirty-First (15th Extraordinary) Session</src>
+  <tgt xml:lang="ES">Trigésimo primer período de sesiones (15o extraordinario)</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Geneva, September 27 to October 5, 2004</src>
+  <tgt xml:lang="ES">Ginebra, 27 de septiembre a 5 de octubre de 2004</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">Report on the Policy Advisory Commission (PAC)</src>
+  <tgt xml:lang="ES">Informe de la Comisión Asesora en materia de Políticas (CAP)</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">Memorandum of the Director General</src>
+  <tgt xml:lang="ES">Memorándum del Director General</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">1 The Assemblies of the Member States of WIPO approved, in their thirty-second series of meetings, from March 25 to 27, 1998, the proposal contained in the 1998-1999 biennial Program and Budget to establish the Policy Advisory Commission (PAC), comprised of eminent individuals from a wide range of policy backgrounds.</src>
+  <tgt xml:lang="ES">1. En su trigésima segunda serie de reuniones, celebradas del 25 al 27 de marzo de 1998, las Asambleas de los Estados miembros aprobaron la propuesta que constaba en el Presupuesto bienal por Programas para 1998‑1999 de establecer una Comisión Asesora en materia de Políticas (CAP) integrada por personalidades con una amplia gama de conocimientos en materia de políticas.</tgt>
+</seg>
+<seg  match="6-3" id="14">
+  <src xml:lang="EN">It was noted that<br/>"the policy-making and medium-term planning processes of WIPO, its responsiveness to international trends and technological developments, and its capacity to anticipate and to meet the needs of the market sector and users of global protection systems, would benefit considerably from the availability of informed and objective advice from eminent international experts from a broad range of fields with bearing on intellectual property cooperation and WIPO’s operations” (see document A/32/2 - WO/BC/18/2,<br/>Sub-program 01.3).<br/>2 The mandate of this independent advisory body was defined in the same document<br/>(see Sub-program 01.3) and reaffirmed in the most recent Program and Budget of the Organization (see document WO/PBC/7/2, Sub-program 02.2), which states that the PAC will "continue to provide objective and informed external expert advice to the Director General, particularly with respect to policy-making, medium-term planning, processes and the needs in the market sector”.<br/>3 It should be noted that the role of the Policy Advisory Commission is strictly advisory and consultative and shall "never replace or diminish the role of the Member States in the initiation and monitoring of the program of the Organization” (see document A/32/2 - WO/BC/18/2, Sub-program 01.3).<br/></src>
+  <tgt xml:lang="ES">Se había señalado que "particularmente en lo que atañe a los procedimientos de la OMPI de toma de decisiones y de planificación a mediano plazo, su capacidad de reacción a las tendencias internacionales y a los avances tecnológicos, así como su capacidad para anticipar y satisfacer las necesidades del sector privado y de los usuarios de los sistemas de protección mundial de la propiedad intelectual, continuará recibiendo la opinión informada y objetiva de eminentes expertos internacionales en la amplia gama de campos con incidencia en la cooperación en materia de propiedad intelectual y en las actividades de la OMPI” (véase el documento A/32/2 – WO/BC/18/2, Subpartida 01.3).<br/>2. El mandato de este órgano consultivo independiente quedó plasmado en ese mismo documento (véase la Subpartida 01.3) y ha sido confirmado nuevamente en el más reciente Presupuesto por Programas de la Organización (véase el documento WO/PBC/7/2, Subprograma 02.2), en el que se afirma que la CAP seguirá "ofreciendo asesoramiento especializado y objetivo al Director General, en particular, sobre la formulación de políticas, la planificación a mediano plazo y los procesos y necesidades en el sector comercial”.<br/>3. Cabe señalar que el papel que desempeña esta comisión es estrictamente asesor y "no sustituye ni menoscaba el papel que desempeñan los Estados miembros en el inicio y la supervisión de los programas de la Organización” (véase el documento A/32/2-WO/BC/18/2, Subpartida 01.3).<br/></tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">4 The fourth meeting of the PAC took place on November 14, 2003, in Sinaia, Romania.</src>
+  <tgt xml:lang="ES">4. La cuarta sesión de la CAP tuvo lugar el 14 de noviembre de 2003 en Sinaia (Rumania).</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">Twenty members attended the meeting, and its report to the Director General of WIPO is contained in Annex I.</src>
+  <tgt xml:lang="ES">Asistieron 20 miembros a dicha reunión, cuyo informe al Director General de la OMPI figura en el Anexo I.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">The list of participants at the meeting is contained in Annex II.</src>
+  <tgt xml:lang="ES">La lista de participantes en la reunión figura en el Anexo II.</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">5 The General Assembly is invited to note and comment on the present document and the report to the Director General of WIPO.</src>
+  <tgt xml:lang="ES">5. Se invita a la Asamblea General a tomar nota y formular comentarios sobre el presente documento y sobre el informe que se presentó al Director General de la OMPI.</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">[Annex I follows]</src>
+  <tgt xml:lang="ES">[Sigue el Anexo I]</tgt>
+</seg>
+</segments>
+</bitext>

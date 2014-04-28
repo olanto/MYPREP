@@ -1,0 +1,486 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<?xml-stylesheet href="bitext.css" type="text/css"?>
+<bitext version="1.2">
+<segments>
+<seg  match="1-1" id="1">
+  <src xml:lang="EN">﻿WIPO</src>
+  <tgt xml:lang="RU">﻿ВОИС</tgt>
+</seg>
+<seg  match="1-1" id="2">
+  <src xml:lang="EN">E</src>
+  <tgt xml:lang="RU">R</tgt>
+</seg>
+<seg  match="1-1" id="3">
+  <src xml:lang="EN">WO/GA/31/5</src>
+  <tgt xml:lang="RU">WO/GA/31/5</tgt>
+</seg>
+<seg  match="1-1" id="4">
+  <src xml:lang="EN">ORIGINAL: English</src>
+  <tgt xml:lang="RU">ОРИГИНАЛ: английский</tgt>
+</seg>
+<seg  match="1-1" id="5">
+  <src xml:lang="EN">DATE: July 23, 2004</src>
+  <tgt xml:lang="RU">ДАТА: 23 июля 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="6">
+  <src xml:lang="EN">WORLD INTELLECTUAL PROPERTY ORGANIZATION</src>
+  <tgt xml:lang="RU">ВСЕМИРНАЯ ОРГАНИЗАЦИЯ ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ</tgt>
+</seg>
+<seg  match="1-1" id="7">
+  <src xml:lang="EN">GENEVA</src>
+  <tgt xml:lang="RU">ЖЕНЕВА</tgt>
+</seg>
+<seg  match="1-1" id="8">
+  <src xml:lang="EN">wipo general assembly</src>
+  <tgt xml:lang="RU">генеральная ассамблея воис</tgt>
+</seg>
+<seg  match="1-1" id="9">
+  <src xml:lang="EN">Thirty-First (15th Extraordinary) Session</src>
+  <tgt xml:lang="RU">Тридцать первая (15-я внеочередная) сессия</tgt>
+</seg>
+<seg  match="1-1" id="10">
+  <src xml:lang="EN">Geneva, September 27 to October 5, 2004</src>
+  <tgt xml:lang="RU">Женева, 27 сентября – 5 октября 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="11">
+  <src xml:lang="EN">MATTERS CONCERNING THE INTERGOVERNMENTAL COMMITTEE ON INTELLECTUAL PROPERTY AND GENETIC RESOURCES, TRADITIONAL KNOWLEDGE AND FOLKLORE: PROGRESS REPORT</src>
+  <tgt xml:lang="RU">ВОПРОСЫ, КАСАЮЩИЕСЯ МЕЖПРАВИТЕЛЬСТВЕННОГО КОМИТЕТА ПО ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ, ГЕНЕТИЧЕСКИМ РЕСУРСАМ, ТРАДИЦИОННЫМ ЗНАНИЯМ И ФОЛЬКЛОРУ: ОТЧЕТ О ПРОДЕЛАННОЙ РАБОТЕ</tgt>
+</seg>
+<seg  match="1-1" id="12">
+  <src xml:lang="EN">Document prepared by the Secretariat</src>
+  <tgt xml:lang="RU">Документ подготовлен Секретариатом</tgt>
+</seg>
+<seg  match="1-1" id="13">
+  <src xml:lang="EN">1 At its Thirtieth Session, held from September 22 to October 1, 2003, the WIPO General Assembly discussed the work of the WIPO Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore, and reached the following decision:</src>
+  <tgt xml:lang="RU">1. На Тридцатой сессии, проходившей в период 22 сентября – 1 октября 2003 г., Генеральная Ассамблея ВОИС обсудила работу Межправительственного комитета ВОИС по интеллектуальной собственности, генетическим ресурсам, традиционным знаниям и фольклору и приняла следующее решение:</tgt>
+</seg>
+<seg  match="1-1" id="14">
+  <src xml:lang="EN">(i) the WIPO Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore (IGC) will continue its work for the next budgetary biennium on questions included in its previous mandate,</src>
+  <tgt xml:lang="RU">(i) Межправительственный комитет ВОИС по интеллектуальной собственности, генетическим ресурсам, традиционным знаниям и фольклору (МКГР) продолжит свою работу в течение следующего двухлетнего периода по вопросам, включенным в его предшествующий мандат,</tgt>
+</seg>
+<seg  match="1-1" id="15">
+  <src xml:lang="EN">(ii) its new work will focus, in particular, on a consideration of the international dimension of those questions, without prejudice to the work pursued in other fora, and</src>
+  <tgt xml:lang="RU">(ii) его новая работа, в частности, будет сфокусирована на рассмотрении международных аспектов этих вопросов без ущерба работе, проведенной в рамках других форумов, и</tgt>
+</seg>
+<seg  match="1-1" id="16">
+  <src xml:lang="EN">(iii) no outcome of its work is excluded, including the possible development of an international instrument or instruments.</src>
+  <tgt xml:lang="RU">(iii) не исключены любые результаты его работы, включая возможную разработку международного документа или документа.</tgt>
+</seg>
+<seg  match="1-1" id="17">
+  <src xml:lang="EN">2 The General Assembly also urged the IGC to accelerate its work and to present a progress report to the session of the General Assembly in September 2004, and requested the International Bureau to continue to assist the IGC by providing Member States with necessary expertise and documentation (WO/GA/30/8, paragraphs 93 and 94).</src>
+  <tgt xml:lang="RU">2. Генеральная Ассамблея также обратилась к МКГР с настоятельной просьбой ускорить работу и представить отчет о проделанной работе к сессии Генеральной Ассамблеи в сентябре 2004 г., и обратилась к Международному бюро с просьбой продолжить оказание помощи МКГР, предоставляя государствам-членам необходимые экспертные знания и документацию (WO/GA/30/8, пункты 93, 94).</tgt>
+</seg>
+<seg  match="1-1" id="18">
+  <src xml:lang="EN">3 The present document constitutes the ‘progress report’ to the General Assembly that is required in paragraph 94 of this decision.</src>
+  <tgt xml:lang="RU">3. Настоящий документ представляет собой отчет Генеральной Ассамблее о проделанной работе, который был упомянут в пункте 94 данного решения.</tgt>
+</seg>
+<seg  match="1-1" id="19">
+  <src xml:lang="EN">4 The IGC has met once since the General Assembly renewed its mandate for the 2004‑2005 biennium, holding its sixth session from March 15 to 19, 2004.</src>
+  <tgt xml:lang="RU">4. После возобновления Генеральной Ассамблеей мандата МКГР на двухлетний период 2004 – 2005 гг., он провел одно заседание в рамках шестой сессии в период 15 – 19 марта 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="20">
+  <src xml:lang="EN">A full report of this session is available as document WIPO/GRTKF/IC/6/14 (April 14, 2004).</src>
+  <tgt xml:lang="RU">Полный отчет об этой сессии распространен в виде документа WIPO/GRTKF/IC/6/14 (14 апреля 2004 г.).</tgt>
+</seg>
+<seg  match="1-1" id="21">
+  <src xml:lang="EN">The seventh session of the IGC has been scheduled for November 1 to 5, 2004.</src>
+  <tgt xml:lang="RU">Седьмая сессия МКГР запланирована на период 1 – 5 ноября 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="22">
+  <src xml:lang="EN">5 At its sixth session, the IGC reached the following conclusion on the question of the report to the General Assembly:</src>
+  <tgt xml:lang="RU">5. На шестой сессии МКГР принял следующее заключение по вопросу о представлении отчета Генеральной Ассамблее:</tgt>
+</seg>
+<seg  match="1-1" id="23">
+  <src xml:lang="EN">232. The Chair stated that, in the case of Committees reporting to the Assembly, normally the Secretariat, on its responsibility, prepared a factual report which was then the subject of discussion in the Assembly and suggested that this procedure to be followed also in this case.</src>
+  <tgt xml:lang="RU">232. Председатель заявил, что в случае представления Комитетом отчета Ассамблее, Секретариат в рамках его обязанностей обычно подготавливает фактический отчет, который впоследствии становится предметом обсуждений на Ассамблее, и предложил последовать этой процедуре в данном случае.</tgt>
+</seg>
+<seg  match="1-1" id="24">
+  <src xml:lang="EN">The Committee decided accordingly (WIPO/GRTKF/IC/6/14).</src>
+  <tgt xml:lang="RU">Комитет принял соответствующее решение (WIPO/GRTKF/IC/6/14).</tgt>
+</seg>
+<seg  match="1-1" id="25">
+  <src xml:lang="EN">The present report has therefore been prepared on this basis.</src>
+  <tgt xml:lang="RU">Таким образом, настоящий отчет подготовлен на этой основе.</tgt>
+</seg>
+<seg  match="1-1" id="26">
+  <src xml:lang="EN">6 Concerning the substantive work at its sixth session, the IGC considered the following documents:</src>
+  <tgt xml:lang="RU">6. Касательно существа проделанной на шестой сессии работы, МКГР рассмотрел следующие документы:</tgt>
+</seg>
+<seg  match="1-1" id="27">
+  <src xml:lang="EN">- "Draft Agenda” (WIPO/GRTKF/IC/6/1 Prov.1),</src>
+  <tgt xml:lang="RU">– 'Проект повестки дня' (WIPO/GRTKF/IC/6/1 Prov.1),</tgt>
+</seg>
+<seg  match="1-1" id="28">
+  <src xml:lang="EN">- "Accreditation of Certain Non‑Governmental Organizations” (WIPO/GRTKF/IC/6/2, WIPO/GRTKF/IC/6/2 Add),</src>
+  <tgt xml:lang="RU">– 'Аккредитация некоторых неправительственных организаций' (WIPO/GRTKF/IC/6/2, WIPO/GRTKF/IC/6/2 Add),</tgt>
+</seg>
+<seg  match="1-1" id="29">
+  <src xml:lang="EN">- "Traditional Cultural Expressions/Expressions of Folklore: Legal and Policy Options” (WIPO/GRTKF/IC/6/3),</src>
+  <tgt xml:lang="RU">– 'Традиционные культурные выражения/выражения фольклора: правовые и политические возможности' (WIPO/GRTKF/IC/6/3),</tgt>
+</seg>
+<seg  match="1-1" id="30">
+  <src xml:lang="EN">- "Traditional Cultural Expressions: Defensive Protection Measures Related to Industrial Property Classification Tools” (WIPO/GRTKF/IC/6/3 Add.),</src>
+  <tgt xml:lang="RU">– 'Традиционные культурные выражения: защитные охранные меры, относящиеся к средствам классификации промышленной собственности' (WIPO/GRTKF/IC/6/3 Add),</tgt>
+</seg>
+<seg  match="1-1" id="31">
+  <src xml:lang="EN">- "Traditional Knowledge: Policy and Legal Options” (WIPO/GRTKF/IC/6/4 Rev.),</src>
+  <tgt xml:lang="RU">– 'Традиционные знания: политические и правовые возможности' (WIPO/GRTKF/IC/6/4 Rev.),</tgt>
+</seg>
+<seg  match="3-2" id="32">
+  <src xml:lang="EN">- "Genetic Resources: Draft Intellectual Property Guidelines for Access and<br/>- Benefit–Sharing Contracts” (WIPO/GRTKF/IC/6/5),<br/>- "Traditional Knowledge and Traditional Cultural Expressions: The International Dimension” (WIPO/GRTKF/IC/6/6),<br/></src>
+  <tgt xml:lang="RU">– 'Генетические ресурсы: проект руководящих принципов по вопросам интеллектуальной собственности для контрактов, касающихся доступа к генетическим ресурсам и распределения выгод от их использования' (WIPO/GRTKF/IC/6/5),<br/>– 'Традиционные знания и традиционные культурные выражения: международные аспекты' (WIPO/GRTKF/IC/6/6),<br/></tgt>
+</seg>
+<seg  match="1-1" id="33">
+  <src xml:lang="EN">- "Update on Legal‑Technical Assistance and Capacity‑Building Activities” (WIPO/GRTKF/IC/6/7),</src>
+  <tgt xml:lang="RU">– 'Обновление информации по вопросам правовой и технической помощи и создание потенциала' (WIPO/GRTKF/IC/6/7),</tgt>
+</seg>
+<seg  match="1-1" id="34">
+  <src xml:lang="EN">- "Defensive Protection Measures relating to Intellectual Property, Genetic Resources and Traditional Knowledge” (WIPO/GRTKF/IC/6/8),</src>
+  <tgt xml:lang="RU">– 'Защитные охранные меры, относящиеся к интеллектуальной собственности, генетическим ресурсам и традиционным знаниям' (WIPO/GRTKF/IC/6/8),</tgt>
+</seg>
+<seg  match="1-1" id="35">
+  <src xml:lang="EN">- "Genetic Resources and Patent Disclosure Requirements: Transmission of Technical Study to the Convention on Biological Diversity” (WIPO/GRTKF/IC/6/9),</src>
+  <tgt xml:lang="RU">– 'Требования в отношении раскрытия информации о генетических ресурсах и патентах: передача технического исследования к Конвенции о биологическом разнообразии' (WIPO/GRTKF/IC/6/9),</tgt>
+</seg>
+<seg  match="1-1" id="36">
+  <src xml:lang="EN">- "Participation of Indigenous and Local Communities” (WIPO/GRTKF/IC/6/10),</src>
+  <tgt xml:lang="RU">– 'Участие коренных и местных общин' (WIPO/GRTKF/IC/6/10),</tgt>
+</seg>
+<seg  match="1-1" id="37">
+  <src xml:lang="EN">- "Certain Decisions of the Seventh Meeting of the Conference of the Parties to the Convention on Biological Diversity” (WIPO/GRTKF/IC/6/11),</src>
+  <tgt xml:lang="RU">– 'Некоторые решения седьмого совещания Конференции сторон-участниц Конвенции о биологическом разнообразии' (WIPO/GRTKF/IC/6/11),</tgt>
+</seg>
+<seg  match="1-1" id="38">
+  <src xml:lang="EN">- "Submission by the African Group: Objectives, principles and elements of an international instrument, or instruments, on intellectual property in relation to genetic resources and on the protection of traditional knowledge and folklore” (WIPO/GRTKF/IC/6/12), and</src>
+  <tgt xml:lang="RU">– 'Представление Африканской группы: цели, принципы и элементы международного документа или документов по интеллектуальной собственности применительно к генетическим ресурсам и охране традиционных знаний и фольклора' (WIPO/GRTKF/IC/6/12), и</tgt>
+</seg>
+<seg  match="1-1" id="39">
+  <src xml:lang="EN">- "Certain Decisions of the Seventh Conference of the Parties to the Convention on Biological Diversity” (WIPO/GRTKF/IC/6/13).</src>
+  <tgt xml:lang="RU">– 'Некоторые решения седьмой Конференции сторон-участниц Конвенции о биологическом разнообразии' (WIPO/GRTKF/IC/6/13).</tgt>
+</seg>
+<seg  match="1-1" id="40">
+  <src xml:lang="EN">7 Taking part in the sixth session were 109 States, 22 intergovernmental organizations, and 61 non-governmental organizations.</src>
+  <tgt xml:lang="RU">7. В шестой сессии приняли участие 109 государств, 22 межправительственные организации и 61 неправительственная организация.</tgt>
+</seg>
+<seg  match="1-1" id="41">
+  <src xml:lang="EN">Ten additional ad hoc observers were accredited at the sixth session, all representing indigenous communities or the interests of holders of folklore/ traditional cultural expressions (TCEs) or traditional knowledge (TK).</src>
+  <tgt xml:lang="RU">На шестой сессии были аккредитованы десять дополнительных специальных наблюдателей, все из которых представляли коренные общины или интересы носителей выражений фольклора/традиционных культурных выражений (ТКВ) или традиционных знаний (ТЗ).</tgt>
+</seg>
+<seg  match="1-1" id="42">
+  <src xml:lang="EN">This brought to 92 the total number of ad hoc observers specifically accredited to the IGC.</src>
+  <tgt xml:lang="RU">Таким образом, общее число специальных наблюдателей, аккредитованных на сессии МКГР, составило 92.</tgt>
+</seg>
+<seg  match="1-1" id="43">
+  <src xml:lang="EN">Folklore/traditional cultural expressions</src>
+  <tgt xml:lang="RU">Фольклор/традиционные культурные выражения</tgt>
+</seg>
+<seg  match="1-1" id="44">
+  <src xml:lang="EN">8 Under Agenda Item 5 (‘Folklore’), the IGC discussed the legal protection of expressions of folklore/TCEs, especially on the basis of document WIPO/GRTKF/IC/6/3.</src>
+  <tgt xml:lang="RU">8. В рамках пункта 5 повестки дня ('Фольклор') МКГР обсудил вопросы правовой охраны выражений фольклора/ТКВ, в частности, на основе документа WIPO/GRTKF/IC/6/3.</tgt>
+</seg>
+<seg  match="1-1" id="45">
+  <src xml:lang="EN">Following an extensive review of the basis and forms of protection (paragraphs 26 to 65 of document WIPO/GRTKF/IC/6/14), the IGC requested the Secretariat to prepare two draft materials:</src>
+  <tgt xml:lang="RU">После продолжительного обсуждения вопроса о базе и форме охраны (пункты 26 – 65 документа WIPO/GRTKF/IC/6/14), МКГР просил Секретариат подготовить два проекта:</tgt>
+</seg>
+<seg  match="1-1" id="46">
+  <src xml:lang="EN">an overview of policy objectives and core principles for protection of TCEs; and</src>
+  <tgt xml:lang="RU">– обзор политических целей и ключевых принципов охраны ТКВ; и</tgt>
+</seg>
+<seg  match="1-1" id="47">
+  <src xml:lang="EN">an outline of the policy options and legal mechanisms for the protection of TCE subject matter, based on the full range of approaches already considered by the Committee, together with a brief analysis of the policy and practical implications of each option.</src>
+  <tgt xml:lang="RU">– изложение политических возможностей и правовых механизмов для охраны объектов ТКВ, основанных на широком круге уже рассмотренных Комитетом подходов, вместе с кратким анализом политических и практических последствий каждого варианта.</tgt>
+</seg>
+<seg  match="1-1" id="48">
+  <src xml:lang="EN">9 The required draft materials have accordingly been prepared on the basis of a wide range of positions stated in the IGC, as well as the extensive national experiences and legislative measures advised to the IGC and discussed in that forum (including a specialized panel on sui generis folklore/TCE protection).</src>
+  <tgt xml:lang="RU">9. Требуемые проекты материалов были соответственно подготовлены на основе широкого спектра высказанных в МКГР позиций, а также обширного национального опыта и рекомендованных МКГР и обсужденных на этом форуме законодательных мер (включая специализированную группу экспертов по специальной охране фольклора/ТКВ).</tgt>
+</seg>
+<seg  match="1-1" id="49">
+  <src xml:lang="EN">These materials are being issued as documents WIPO/GRTKF/IC/7/3 (policy objectives and core principles) and WIPO/GRTKF/IC/7/4 (policy options and legal elements) respectively, for the consideration and review of the IGC at its seventh session.</src>
+  <tgt xml:lang="RU">Эти материалы выпускаются, соответственно, в форме документов WIPO/GRTKF/IC/7/3 (политические цели и ключевые принципы) и WIPO/GRTKF/IC/7/4 (политические возможности и правовые элементы) для обсуждения и пересмотра на седьмой сессии МКГР.</tgt>
+</seg>
+<seg  match="1-1" id="50">
+  <src xml:lang="EN">Based on the discussion at the sixth session of the IGC and the conclusions reached on the agenda item concerning the international dimension (see the report on this agenda item below, paragraphs 19 to 21), these documents could provide materials to facilitate the elaboration of the framework proposed in document WIPO/GRTKF/IC/6/12 and the options discussed in document WIPO/GRTKF/IC/6/6.</src>
+  <tgt xml:lang="RU">С учетом проведенных на шестой сессии МКГР обсуждений и заключений в рамках пункта повестки дня, касающегося международных аспектов (см. отчет по этому пункту повестки дня ниже, пункты 19 – 21), эти документы могут служить в качестве материалов, упрощающих разработку структуры, предложенной в документе WIPO/GRTKF/IC/6/12, и анализ возможностей, обсужденных в документе WIPO/GRTKF/IC/6/6.</tgt>
+</seg>
+<seg  match="1-1" id="51">
+  <src xml:lang="EN">10 The IGC was also briefed on a range of continuing capacity‑building and legislative activities relating to the enhanced protection of folklore/TCEs.</src>
+  <tgt xml:lang="RU">10. МКГР также была предоставлена краткая информация о масштабе продолжающейся деятельности по созданию потенциала и законодательной деятельности в области расширенной охраны фольклора/ТКВ.</tgt>
+</seg>
+<seg  match="1-1" id="52">
+  <src xml:lang="EN">These included sui generis legislation, policy development, training and awareness and the development of new awareness-raising and capacity-building publications.</src>
+  <tgt xml:lang="RU">Она включала специальное законодательство, разработку политики, подготовку кадров и расширение информированности, а также разработку новых публикаций, касающихся повышения осведомленности и создания потенциала.</tgt>
+</seg>
+<seg  match="1-1" id="53">
+  <src xml:lang="EN">Traditional knowledge</src>
+  <tgt xml:lang="RU">Традиционные знания</tgt>
+</seg>
+<seg  match="1-1" id="54">
+  <src xml:lang="EN">11 Under Agenda Item 6 (‘Traditional Knowledge’), the IGC discussed the legal protection of TK, especially on the basis of document WIPO/GRTKF/IC/6/4 Rev.</src>
+  <tgt xml:lang="RU">11. В рамках пункта 6 повестки дня ('Традиционные знания') МКГР обсудил вопросы правовой охраны ТЗ, в частности, на основе документа WIPO/GRTKF/IC/6/4 Rev.</tgt>
+</seg>
+<seg  match="1-1" id="55">
+  <src xml:lang="EN">Following an extensive review of the basis and forms of protection (paragraphs 67 to 108 of document WIPO/GRTKF/IC/6/14), the IGC requested the Secretariat to prepare two draft materials:</src>
+  <tgt xml:lang="RU">После широкого обсуждения вопросов о базе и формах охраны (пункты 67 – 108 документа WIPO/GRTKF/IC/6/14) МКГР просил Секретариат подготовить два проекта:</tgt>
+</seg>
+<seg  match="1-1" id="56">
+  <src xml:lang="EN">an overview of policy objectives and core principles for TK protection; and</src>
+  <tgt xml:lang="RU">– обзор политических целей и ключевых принципов охраны ТЗ; и</tgt>
+</seg>
+<seg  match="1-1" id="57">
+  <src xml:lang="EN">an outline of the policy options and legal elements for the protection of TK subject matter, together with a brief analysis of the policy and practical implications of each option and element.</src>
+  <tgt xml:lang="RU">– изложение политических возможностей и правовых механизмов для охраны объектов ТЗ, основанных на широком круге уже рассмотренных Комитетом подходов, вместе с кратким анализом политических и практических последствий каждого варианта и элемента.</tgt>
+</seg>
+<seg  match="1-1" id="58">
+  <src xml:lang="EN">12 The required draft materials have accordingly been prepared on the basis of a wide range of positions stated in the IGC, as well as the extensive national experiences and legislative measures advised to the IGC and discussed in that forum.</src>
+  <tgt xml:lang="RU">12. Требуемые проекты материалов были соответственно подготовлены на основе широкого спектра изложенных в МКГР позиций, а также на основе обширного национального опыта и рекомендованных МКГР и обсужденных на этом форуме законодательных мер.</tgt>
+</seg>
+<seg  match="1-1" id="59">
+  <src xml:lang="EN">These are being issued as documents WIPO/GRTKF/IC/7/5 (policy objectives and core principles) and WIPO/GRTKF/IC/7/6 (policy options and legal elements) respectively, for the consideration and review of the IGC at its seventh session.</src>
+  <tgt xml:lang="RU">Эти материалы выпускаются, соответственно, в виде документов WIPO/GRTKF/IC/7/5 (политические задачи и ключевые принципы) и WIPO/GRTKF/IC/7/6 (политические возможности и правовые элементы) для обсуждения на седьмой сессии МКГР.</tgt>
+</seg>
+<seg  match="1-1" id="60">
+  <src xml:lang="EN">Based on the discussion at the sixth session of the IGC and the conclusions reached on the agenda item concerning the international dimension (see the report on this agenda item below, paragraphs 19 to 21), these documents could provide materials to facilitate the elaboration of the framework proposed in document WIPO/GRTKF/IC/6/12 and the options discussed in document WIPO/GRTKF/IC/6/6.</src>
+  <tgt xml:lang="RU">С учетом проведенных на шестой сессии МКГР обсуждений и заключений по пункту повестки дня, касающегося международных аспектов (см. отчет по данному пункту повестки дня ниже, пункты 19 – 21), эти документы могут быть использованы в качестве материалов, упрощающих разработку структуры, предложенной в документе WIPO/GRTKF/IC/6/12, и рассмотрение возможностей, обсуждаемых в документе WIPO/GRTKF/IC/6/6.</tgt>
+</seg>
+<seg  match="1-1" id="61">
+  <src xml:lang="EN">13 The IGC also considered specific questions relating to the defensive protection of TK.</src>
+  <tgt xml:lang="RU">13. МКГР также рассмотрел конкретные вопросы, касающиеся защитительной охраны ТЗ.</tgt>
+</seg>
+<seg  match="1-1" id="62">
+  <src xml:lang="EN">This included the continuation of the existing initiatives, notably the development of technical standards on the basis of the structure developed by the Asian Group and adopted by the IGC (WIPO/GRTKF/IC/4/14), and the survey of questionnaire on databases and registries related to TK and genetic resources (WIPO/GRTKF/IC/Q.4).</src>
+  <tgt xml:lang="RU">Это включало продолжение выдвинутых инициатив, в частности, разработку технических стандартов на базе разработанной Азиатской группой и принятой МКГР структуры (WIPO/GRTKF/IC/4/14), и обзор вопросника по базам данных и регистрациям, относящимся к ТЗ и генетическим ресурсам (WIPO/GRTKF/IC/Q.4).</tgt>
+</seg>
+<seg  match="1-1" id="63">
+  <src xml:lang="EN">An additional initiative was approved concerning the legal and practical aspects of recognition of TK as prior art in the search and examination of patent applications.</src>
+  <tgt xml:lang="RU">Была одобрена дополнительная инициатива, касающаяся правовых и практических аспектов признания ТЗ в качестве известного уровня знаний при поиске и экспертизе патентных заявок.</tgt>
+</seg>
+<seg  match="1-1" id="64">
+  <src xml:lang="EN">This resulted from proposals put by various Member States and regional groups, and discussions in the IGC, summarized in document WIPO/GRTKF/IC/6/8.</src>
+  <tgt xml:lang="RU">Это стало результатом выдвинутых различными государствами-членами и региональными группами предложений и обсуждений в МКГР, суммированных в документе WIPO/GRTKF/IC/6/8.</tgt>
+</seg>
+<seg  match="1-1" id="65">
+  <src xml:lang="EN">Following consideration of this document, the IGC approved future work on this issue, in particular the development of:</src>
+  <tgt xml:lang="RU">После рассмотрения этого документа, МКГР одобрил будущую работу по этому вопросу, в частности, разработку:</tgt>
+</seg>
+<seg  match="1-1" id="66">
+  <src xml:lang="EN">a questionnaire on prior art criteria; and</src>
+  <tgt xml:lang="RU">– вопросника по критериям известного уровня знаний; и</tgt>
+</seg>
+<seg  match="1-1" id="67">
+  <src xml:lang="EN">draft recommendations to authorities responsible for patent search and examination to take greater account of traditional knowledge systems.</src>
+  <tgt xml:lang="RU">– проекта рекомендаций органам, отвечающим за проведение патентного поиска и экспертизы, с целью уделения большего внимания системам традиционных знаний.</tgt>
+</seg>
+<seg  match="1-1" id="68">
+  <src xml:lang="EN">14 The IGC was also briefed on a range of continuing capacity‑building and legislative activities relating to the enhanced protection of folklore/TCEs.</src>
+  <tgt xml:lang="RU">14. МКГР также была предоставлена краткая информация о масштабе деятельности в области создания потенциала и законодательной деятельности, касающейся расширенной охраны фольклора/ТКВ.</tgt>
+</seg>
+<seg  match="1-1" id="69">
+  <src xml:lang="EN">These included sui generis legislation, policy development, training and awareness and the development of new awareness-raising and capacity-building publications, as well as continuing work on a toolkit intended to equip TK holders with skills and awareness required to ensure that any documentation of their TK promotes their own interests and does not impair their custodianship responsibilities over the TK.</src>
+  <tgt xml:lang="RU">Она включала специальное законодательство, разработку политики, подготовку кадров и расширение информированности, а также разработку новых публикаций в области повышения осведомленности и создания потенциала и продолжение работы по созданию набора средств, предназначенных для ознакомления носителей ТЗ с навыками и информацией, необходимой для обеспечения того, чтобы любое документирование их традиционных знаний содействовало их собственным интересам, а не причиняло ущерб их ответственности по охране ТЗ.</tgt>
+</seg>
+<seg  match="1-1" id="70">
+  <src xml:lang="EN">Genetic resources</src>
+  <tgt xml:lang="RU">Генетические ресурсы</tgt>
+</seg>
+<seg  match="1-1" id="71">
+  <src xml:lang="EN">15 In view of various linkages between TK and genetic resources, the IGC’s work on TK (discussed above) also had bearing on genetic resources.</src>
+  <tgt xml:lang="RU">15. В связи с существованием разнообразных связей между ТЗ и генетическими ресурсами, работа МКГР в области ТЗ (обсужденная выше) также имела отношение к генетическим ресурсам.</tgt>
+</seg>
+<seg  match="1-1" id="72">
+  <src xml:lang="EN">These linkages included the relation between TK protection and rights and interests related to genetic resources, such as approaches to sui generis protection of TK within the context of laws governing access to and benefit-sharing from genetic resources (paragraphs 34(b), and 96 to 102, WIPO/GRTKF/IC/6/4 Rev).</src>
+  <tgt xml:lang="RU">Эти связи включали взаимоотношение между охраной ТЗ и правами и интересами в области генетических ресурсов, такими как подходы к специальной охране ТЗ в контексте законов, регулирующих доступ и распределение выгоды от использования генетических ресурсов (пункты 34(b) и 96 – 102 документа WIPO/GRTKF/IC/6/4 Rev.).</tgt>
+</seg>
+<seg  match="1-1" id="73">
+  <src xml:lang="EN">Defensive protection measures concerning TK also had bearing on the defensive protection of associated genetic resources (WIPO/GRTKF/IC/6/8).</src>
+  <tgt xml:lang="RU">Средства защитительной охраны ТЗ также имеют отношение к защитительной охране взаимосвязанных генетических ресурсов (WIPO/GRTKF/IC/6/8).</tgt>
+</seg>
+<seg  match="1-1" id="74">
+  <src xml:lang="EN">16 In addition, under agenda item 7 (‘Genetic Resources’), the IGC continued its work on the use of IP clauses in access and benefit-sharing agreements concerning genetic resources, to develop further practical understanding of the relationship between specific choices on IP and the achievement of access and benefit-sharing objectives.</src>
+  <tgt xml:lang="RU">16. Кроме того, в рамках пункта 7 повестки дня ('Генетические ресурсы') МКГР продолжил работу в отношении использования положений об ИС в соглашениях, касающихся доступа и распределения выгод применительно к генетическим ресурсам, для расширения дальнейшего практического понимания взаимосвязи между конкретными видами ИС и достижением целей в вопросе доступа и распределения выгод.</tgt>
+</seg>
+<seg  match="1-1" id="75">
+  <src xml:lang="EN">Building on the database of clauses it had approved and the principles it agreed at its second session, the IGC considered draft guidelines for access and benefit–sharing contracts.</src>
+  <tgt xml:lang="RU">Основываясь на базе данных утвержденных им положений, а также принципах, которые он одобрил на своей второй сессии, МКГР рассмотрел проект руководящих принципов по заключению контрактов о доступе и распределению выгод в области генетических ресурсов.</tgt>
+</seg>
+<seg  match="1-1" id="76">
+  <src xml:lang="EN">These guidelines were discussed in detail, but some participants questioned the priority of this matter and noted that The IGC decided "to invite further comments and input relating to the issue by June 30, 2004,” so that a "revised version of the document would be published for the next session of the Committee.”</src>
+  <tgt xml:lang="RU">Эти руководящие принципы были подробно обсуждены, однако некоторые участники подвергли сомнению приоритетность этого вопроса и отметили, что МКГР принял решение 'предложить высказать дальнейшие замечания и отзывы, касающиеся этого вопроса, к 30 июня 2004 г.' с тем, чтобы 'к следующей сессии Комитета был опубликован пересмотренный вариант этого документа' (WIPO/GRTKF/IC/6/14, пункт 139).</tgt>
+</seg>
+<seg  match="1-1" id="77">
+  <src xml:lang="EN">(WIPO/GRTKF/IC/6/14, paragraph 139) This revised version is now being prepared as document WIPO/GRTKF/IC/7/9 for the consideration of the Committee.</src>
+  <tgt xml:lang="RU">Этот пересмотренный вариант в настоящее время готовится в виде документа WIPO/GRTKF/IC/7/9 для рассмотрения Комитетом.</tgt>
+</seg>
+<seg  match="1-1" id="78">
+  <src xml:lang="EN">17 Also under agenda item 7, the IGC considered further steps on the question of defensive protection of TK and genetic resources through patent disclosure requirements.</src>
+  <tgt xml:lang="RU">17. Также в рамках пункта 7 повестки дня МКГР рассмотрел дальнейшие шаги в вопросе о защитительной охране ТЗ и генетических ресурсов с помощью требований в отношении раскрытия патентов.</tgt>
+</seg>
+<seg  match="1-1" id="79">
+  <src xml:lang="EN">At its fifth session, the IGC had forwarded to the General Assembly the WIPO Technical Study on Patent Disclosure Requirements Related to Genetic Resources and Traditional Knowledge, which had been prepared under the aegis of the IGC and on the basis of Member State input through questionnaire WIPO/GRTKF/IC/Q.4.</src>
+  <tgt xml:lang="RU">На пятой сессии МКГР передал Генеральной Ассамблее Техническое исследование ВОИС относительно требований по раскрытию патентов применительно к генетическим ресурсам и традиционным знаниям, которoе было подготовлено под эгидой МКГР и на основе информации, полученной от государств-членов с помощью вопросника WIPO/GRTKF/IC/Q.4.</tgt>
+</seg>
+<seg  match="1-1" id="80">
+  <src xml:lang="EN">In line with the General Assembly’s authorization (paragraph 97 5 of WO/GA/30/7), this document was transmitted to the seventh Conference of Parties to the Convention on Biological Diversity (CBD).</src>
+  <tgt xml:lang="RU">В соответствии с поручением Генеральной Ассамблеи (пункт 5 документа WO/GA/30/7), этот документ был передан на рассмотрение седьмой Конференции сторон-участниц Конвенции о биологическом разнообразии (КБР).</tgt>
+</seg>
+<seg  match="1-1" id="81">
+  <src xml:lang="EN">Document WIPO/GRTKF/IC/6/9 reported on this process, and made proposals for future work in this area, including the including the "continued exchange of national experience and case studies, and the development of guidelines and recommendations concerning the interaction between access to genetic resources and patent disclosure” ( WIPO/GRTKF/IC/6/9, paragraph 129, referring also to WIPO/GRTKF/IC/5/10, paragraph 12).</src>
+  <tgt xml:lang="RU">В документе WIPO/GRTKF/IC/6/9 содержалась информация об этом процессе и предложения по будущей работе в этой области, включая 'постоянный обмен национальным опытом и конкретными исследованиями, а также разработку руководящих принципов и рекомендаций, касающихся взаимосвязи между доступом к генетическим ресурсам и раскрытием патентов' (WIPO/GRTKF/IC/6/9, пункт 12, а также ссылка на документ WIPO/GRTKF/IC/5/10, пункт 12).</tgt>
+</seg>
+<seg  match="1-1" id="82">
+  <src xml:lang="EN">18 However, immediately before the sixth session of the IGC, WIPO received from the Secretariat of the CBD a communication of a decision of the seventh COP which concerned the WIPO Technical Study and invited further work on this issue (COP Decision VII/19 on ‘Access and benefit-sharing as related to genetic resources,’ foreshadowed to the IGC in WIPO/GRTKF/IC/6/11 and then, once formally communicated, provided to the IGC in WIPO/GRTKF/IC/6/13).</src>
+  <tgt xml:lang="RU">18. Однако, непосредственно перед шестой сессией МКГР, ВОИС получила из Секретариата КБР сообщение о седьмой Конференции сторон-участниц, которое касалось Технического исследования ВОИС и предлагало продолжить работу по этому вопросу (Решение VII/19 Конференции сторон-участниц о 'Доступе и распределении выгод применительно к генетическим ресурсам' было сообщено МКГР в документе WIPO/GRTKF/IC/6/11, а затем после официального сообщения представлено в МКГР в форме документа WIPO/GRTKF/IC/6/13).</tgt>
+</seg>
+<seg  match="1-1" id="83">
+  <src xml:lang="EN">This decision, and the IGC discussion of it, are dealt with in a separate document (WO/GA/31/8).</src>
+  <tgt xml:lang="RU">Это решение и его обсуждение в МКГР рассматривается в отдельном документе (WO/GA/31/8).</tgt>
+</seg>
+<seg  match="1-1" id="84">
+  <src xml:lang="EN">The international dimension</src>
+  <tgt xml:lang="RU">Международные аспекты</tgt>
+</seg>
+<seg  match="1-1" id="85">
+  <src xml:lang="EN">19 Reflecting the explicit reference to the international dimension of its work in its mandate for the biennium 2004‑2005, the IGC considered this issue under agenda item 8 (‘International Dimension’).</src>
+  <tgt xml:lang="RU">19. Учитывая непосредственную ссылку на международные аспекты его работы в мандате на двухлетний период 2004 – 2005 гг., МКГР рассмотрел этот вопрос в рамках пункта 8 повестки дня ('Международные аспекты').</tgt>
+</seg>
+<seg  match="1-1" id="86">
+  <src xml:lang="EN">Discussion focussed in particular on documents WIPO/GRTKF/IC/6/6 and WIPO/GRTKF/IC/6/12 (‘Submission by the African Group: Objectives, principles and elements of an international instrument, or instruments, on intellectual property in relation to genetic resources and on the protection of traditional knowledge and folklore’).</src>
+  <tgt xml:lang="RU">Обсуждение концентрировалось, в частности, на документах WIPO/GRTKF/IC/6/6 и WIPO/GRTKF/IC/6/12 ('Представление Африканской группы: цели, принципы и элементы международного документа или документов по интеллектуальной собственности применительно к генетическим ресурсам и охране традиционных знаний и фольклора').</tgt>
+</seg>
+<seg  match="1-1" id="87">
+  <src xml:lang="EN">20 The Chair concluded the item by stating that "the discussion had shown a positive approach to the issue; that there had been a broad support for the contents of document WIPO/GRTKF/IC/6/6; and there had been a constructive debate on the issue of the international aspects, including the elements included in the African proposal (document WIPO/GRTKF/IC/6/12).”</src>
+  <tgt xml:lang="RU">20. Председатель завершил обсуждение этого пункта, заявив, что 'обсуждение показало позитивный подход к решению этого вопроса; была выявлена широкая поддержка содержания документа WIPO/GRTKF/IC/6/6; было проведено конструктивное обсуждение вопроса о международных аспектах, включая элементы, содержащиеся в африканском предложении (WIPO/GRTKF/IC/6/12)'.</tgt>
+</seg>
+<seg  match="1-1" id="88">
+  <src xml:lang="EN">He indicated that the "some Delegations said that they needed more time to consider it and others said, for instance, that it was a valuable framework that needed to be more elaborated on.”</src>
+  <tgt xml:lang="RU">Он отметил, что 'некоторые делегации заявили, что им требуется больше времени для его рассмотрения, а другие заявили, например, что оно представляет собой полезную основу, нуждающуюся в дальнейшей разработке'.</tgt>
+</seg>
+<seg  match="1-1" id="89">
+  <src xml:lang="EN">On the Chair’s proposal, the Committee took note of document WIPO/GRTKF/IC/6/6 and of the proposal by the African Group in document WIPO/GRTKF/IC/6/12 as well as of the interventions made and, on that basis, approved the contents of the decision paragraph 69 of document WIPO/GRTKF/IC/6/6.</src>
+  <tgt xml:lang="RU">По предложению Председателя Комитет принял к сведению документ WIPO/GRTKF/IC/6/6 и предложение Африканской группы в документе WIPO/GRTKF/IC/6/12, а также заслушанные выступления, и на этой основе утвердил содержание пункта 69 документа WIPO/GRTKF/IC/6/6, содержащего решение.</tgt>
+</seg>
+<seg  match="1-1" id="90">
+  <src xml:lang="EN">21 It was then clarified that the international dimension would be integrated under each of the substantive topics.</src>
+  <tgt xml:lang="RU">21. После этого было дано разъяснение, что международные аспекты будут объединены в рамках каждого существенного вопроса.</tgt>
+</seg>
+<seg  match="1-1" id="91">
+  <src xml:lang="EN">In line with this approach, the international dimension is, for example, dealt with under documents WIPO/GRTKF/IC/7/3 (policy objectives and core principles on TCE protection), WIPO/GRTKF/IC/7/4 (policy options and legal elements for TCE protection), WIPO/GRTKF/IC/7/5 (policy objectives and core principles on TK protection), and WIPO/GRTKF/IC/7/6 (policy options and legal elements for TK protection).</src>
+  <tgt xml:lang="RU">В соответствии с этим подходом, международные аспекты рассматриваются, например, в документах WIPO/GRTKF/IC/7/3 (задачи политики и ключевые принципы охраны ТКВ), WIPO/GRTKF/IC/7/4 (политические возможности и правовые элементы для охраны ТКВ), WIPO/GRTKF/IC/7/5 (политические цели и ключевые принципы охраны ТЗ) и WIPO/GRTKF/IC/7/6 (политические возможности и правовые элементы для охраны ТЗ).</tgt>
+</seg>
+<seg  match="1-1" id="92">
+  <src xml:lang="EN">Participation of Indigenous and local communities</src>
+  <tgt xml:lang="RU">Участие коренных и местных общин</tgt>
+</seg>
+<seg  match="1-1" id="93">
+  <src xml:lang="EN">22 Consistent with the priority that both the General Assembly (A/37/14, paragraphs 245, and 263 to 290) and the IGC itself have in the past given to enhanced participation in the IGC by Indigenous and local communities, the IGC continued its work on proposals to enhance this participation.</src>
+  <tgt xml:lang="RU">22. В соответствии с первоочередным вниманием, которое Генеральная Ассамблея (A/37/14, пункты 245 и 263 – 290) и сам МКГР в прошлом уделяли расширенному участию в МКГР коренных и местных общин, МКГР продолжил работу по рассмотрению предложений о расширении такого участия.</tgt>
+</seg>
+<seg  match="1-1" id="94">
+  <src xml:lang="EN">Discussion was focussed on document WIPO/GRTKF/IC/6/10.</src>
+  <tgt xml:lang="RU">Обсуждения были сконцентрированы на документе WIPO/GRTKF/IC/6/10.</tgt>
+</seg>
+<seg  match="1-1" id="95">
+  <src xml:lang="EN">Building on existing consultation and communication mechanisms, an indigenous forum was convened prior to the sixth session of the IGC, and a website was established that could be used to communicate the views and positions of IGC observers.</src>
+  <tgt xml:lang="RU">Используя существующие механизмы консультаций и связи, до начала шестой сессии МКГР был созван форум коренных народностей и создан веб-сайт, который может быть использован для сообщения мнений и позиций наблюдателей в МКГР.</tgt>
+</seg>
+<seg  match="1-1" id="96">
+  <src xml:lang="EN">The positions on this website (http://www.wipo.int/tk/en/igc/ngo/index.html) now mostly represent the views of various indigenous communities and representatives.</src>
+  <tgt xml:lang="RU">Эти позиции на веб-сайте (http://www.wipo.int/tk/en/igc/ngo/index.html) отражают главным образом мнения различных коренных общин и их представителей.</tgt>
+</seg>
+<seg  match="1-1" id="97">
+  <src xml:lang="EN">Following an extensive discussion, the IGC agreed:</src>
+  <tgt xml:lang="RU">После продолжительного обсуждения МКГР согласился:</tgt>
+</seg>
+<seg  match="1-1" id="98">
+  <src xml:lang="EN">(i) to note the existing informal consultative processes and voluntary funding initiatives that contribute to the enhanced involvement of Indigenous and local communities in its work;</src>
+  <tgt xml:lang="RU">(i) принять к сведению существующие процессы неофициальных консультаций и инициативы по добровольному финансированию, которые способствуют расширенному участию коренных и местных общин в его работе;</tgt>
+</seg>
+<seg  match="1-1" id="99">
+  <src xml:lang="EN">(ii) to welcome the creation of an informal consultative forum for Indigenous and local representatives in advance of sessions of the IGC, based on the proposed elements;</src>
+  <tgt xml:lang="RU">(ii) поддержать создание неофициального консультативного форума для представителей коренных и местных общин до проведения сессии МКГР, в основе которого будут использованы предлагаемые элементы;</tgt>
+</seg>
+<seg  match="1-1" id="100">
+  <src xml:lang="EN">(iii) to encourage voluntary donors to support the immediate participation of representatives of accredited observers in any such consultative forum and in the IGC’s sessions; and</src>
+  <tgt xml:lang="RU">(iii) поощрять добровольных доноров оказывать поддержку непосредственному участию представителей аккредитованных наблюдателей в любом таком консультативном форуме и сессиях МКГР; и</tgt>
+</seg>
+<seg  match="1-1" id="101">
+  <src xml:lang="EN">(iv) on the basis of an updated proposal, to continue its consideration and elaboration of possible establishment of formal structures for a Voluntary Fund, depending upon the overall direction set for the IGC or other bodies within WIPO.</src>
+  <tgt xml:lang="RU">(iv) на основе обновленного предложения продолжать рассмотрение и разработку формальных основ для Добровольного фонда, в зависимости от общего направления, определенного для МКГР или других органов ВОИС.</tgt>
+</seg>
+<seg  match="1-1" id="102">
+  <src xml:lang="EN">The requested ‘updated proposal’ is being prepared as document WIPO/GRTKF/IC/7/12 for the consideration of the IGC at its seventh session.</src>
+  <tgt xml:lang="RU">Вышеупомянутое 'обновленное предложение' готовится в виде документа WIPO/GRTKF/IC/7/12 для рассмотрения МКГР на седьмой сессии.</tgt>
+</seg>
+<seg  match="1-1" id="103">
+  <src xml:lang="EN">Consultation and coordination</src>
+  <tgt xml:lang="RU">Консультации и координация</tgt>
+</seg>
+<seg  match="1-1" id="104">
+  <src xml:lang="EN">23 Both in the IGC and in the General Assembly, many Member States have stressed the need for the work of the IGC to be undertaken in consultation and coordination with a wide range of stakeholders, including respecting and supporting the mandates and processes of other international organizations, and ensuring concrete involvement and engagement with representatives of Indigenous and local communities.</src>
+  <tgt xml:lang="RU">23. Как на заседаниях МКГР, так и Генеральной Ассамблеи многие государства-члены подчеркнули необходимость того, чтобы работа МКГР проводилась на основе консультаций и координации с широким кругом заинтересованных сторон, включая внимательное отношение и поддержку мандатов и процессов других международных организаций, и обеспечения конкретного участия и привлечения представителей коренных и местных общин.</tgt>
+</seg>
+<seg  match="1-1" id="105">
+  <src xml:lang="EN">Beyond the active participation of many Intergovernmental Organizations (IGOs) and observers in the IGC itself, the Secretariat has consulted with many intergovernmental, regional and non‑governmental organizations.</src>
+  <tgt xml:lang="RU">Кроме активного участия многих межправительственных организаций и наблюдателей в самом МКГР, Секретариат провел консультации с многими межправительственными, региональными и неправительственными организациями.</tgt>
+</seg>
+<seg  match="1-1" id="106">
+  <src xml:lang="EN">24 The intergovernmental organizations (including regional organizations) consulted and coordinated with during the current phase of the IGC’s work included (but were not limited to): the African Regional Industrial Property Organization (ARIPO), the Association of South-East Asian Nations (ASEAN), the Asian-African Legal Consultative Organisation, Consultative Group on International Agricultural Research (CGIAR), Food and Agricultural Organization (FAO), International Centre for Genetic Engineering and Biotechnology (ICBEG), International Centre of Insect Physiology and Ecology (ICIPE), International Labour Organization (ILO), the International Plant Genetic Resources Institute (IPGRI), the Office of the High Commissioner for Human Rights (especially the Working Group on Indigenous Populations), l’Organisation Africaine de la Propriété Intellectuelle (OAPI), the Organization of American States, the Pacific Community, the Pacific Islands Forum, the UN Permanent Forum on Indigenous Issues, the Secretariat of the Convention on Biological Diversity, the South Asian Association for Regional Cooperation (SAARC), the Southern African Development Community (SADC), the South Centre, the United Nations Conference on Trade and Development (UNCTAD), the United Nations Development Programme (UNDP), the United Nations Environment Programme (UNEP), the United Nations Educational, Scientific and Cultural Organization (UNESCO), United Nations University Institute of Advanced Studies (UNU‑IAS), the International Union for the Protection of New Varieties of Plants (UPOV), the World Conservation Union (IUCN), the World Food Programme (WFP), the World Health Organization, and the World Trade Organization (WTO).</src>
+  <tgt xml:lang="RU">24. Межправительственные организации (включая региональные организации), с которыми были проведены консультации и осуществлялась координация работы в течение текущего этапа деятельности МКГР включали следующие организации (но не ограничивались ими): Африканская региональная организация промышленной собственности (АРОПС), Ассоциация государств юго-восточной Азии (АСЕАН), Азиатско-Африканская правовая консультативная организация, Консультативная группа по международным сельскохозяйственным исследованиям (КГМСИ), Продовольственная и сельскохозяйственная организация (ФАО), Международный центр генетической инженерии и биотехнологии (МЦГИБ), Международный центр физиологии насекомых и экологии (ИСИПЕ), Международная организация труда (МОТ), Международный институт генетических ресурсов растений (ИПГРИ), Управление Верховного Комиссара по правам человека (в частности Рабочая группа по коренным народам), Африканская организация интеллектуальной собственности (АОИС), Организация американских государств, Тихоокеанское сообщество, Форум Тихоокеанских островов, Постоянный форум ООН по вопросам коренных народов, Секретариат конвенции по биологическому разнообразию, Южно-Азиатская ассоциация регионального сотрудничества (СААРК), Сообщество по развитию южной части Африки (СРЮА), Южный центр, Конференция ООН по торговле и развитию (ЮНКТАД), Программа развития ООН (ПРООН), Программа ООН по окружающей среде (ЮНЕП), Организация Объединенных Наций по вопросам образования, науки и культуры (ЮНЕСКО), Институт углубленных исследований университета Объединенных Наций (ЮНУ-ИАС), Международный союз по охране новых сортов растений (УПОВ), Всемирный союз охраны природы (МСОП), Всемирная продовольственная программа (ВПП), Всемирная организация здравоохранения и Всемирная торговая организация (ВТО).</tgt>
+</seg>
+<seg  match="1-1" id="107">
+  <src xml:lang="EN">25 More than one hundred NGOs were consulted or coordinated with in various formal and informal settings, including many of the accredited IGC observers and many representatives of indigenous and local communities.</src>
+  <tgt xml:lang="RU">25. Более чем со ста НПО проводились консультации или осуществлялась координация деятельности в рамках различных официальных и неофициальных встреч, включая многих аккредитованных наблюдателей в МКГР и многих представителей коренных и местных общин.</tgt>
+</seg>
+<seg  match="1-1" id="108">
+  <src xml:lang="EN">For reasons of space, a full list is not given here.</src>
+  <tgt xml:lang="RU">Их полный список не приводится здесь по причине экономии места.</tgt>
+</seg>
+<seg  match="1-1" id="109">
+  <src xml:lang="EN">The NGOs consulted represent a wide range of sectors, interests and geographical regions, including organizations representing Indigenous and local communities, and organizations variously concerned with environmental and biodiversity issues, agricultural and genetic resources issues, sustainable development, folklore and cultural issues.</src>
+  <tgt xml:lang="RU">НПО, с которыми были проведены консультации, представляют широкий спектр секторов, интересов и географических регионов, включая организации, представляющие коренные и местные общины и организации, занимающиеся вопросами окружающей среды и биологического разнообразия, сельского хозяйства, генетических ресурсов, упорядоченного развития, фольклора и культурными вопросами.</tgt>
+</seg>
+<seg  match="1-1" id="110">
+  <src xml:lang="EN">Intersessional consultations</src>
+  <tgt xml:lang="RU">Консультации в период между сессиями</tgt>
+</seg>
+<seg  match="1-1" id="111">
+  <src xml:lang="EN">26 In addition to a wide range of intersessional consultations on IGC issues, both within Geneva and through various regional and national meetings, it is proposed to hold an open information session concerning the specific issues and documents to be considered by the IGC at its seventh session, tentatively scheduled to be held in Geneva, on October 8, 2004.</src>
+  <tgt xml:lang="RU">26. В дополнение к многочисленным консультациям по вопросам МКГР, проводимым в период между сессиями как в Женеве, так и в рамках различных региональных и национальных совещаний, предлагается провести открытую информационную сессию для рассмотрения конкретных вопросов и документов, которые будут обсуждаться на седьмой сессии МКГР, проведение которой предварительно запланировано на 8 октября 2004 г. в Женеве.</tgt>
+</seg>
+<seg  match="1-1" id="112">
+  <src xml:lang="EN">Publications and background materials</src>
+  <tgt xml:lang="RU">Публикации и справочные материалы</tgt>
+</seg>
+<seg  match="1-1" id="113">
+  <src xml:lang="EN">27 As foreshadowed in document WIPO/GRTKF/IC/6/7, information and background materials developed by the IGC in the first phase of its work are now being adapted as general capacity-building publications to provide an accessible and comprehensive suite of publications, including booklets for a general audience, background papers with more detailed information for a policy and research audience, and practical case studies.</src>
+  <tgt xml:lang="RU">27. Как отмечается в документе WIPO/GRTKF/IC/6/7, разработанные МКГР в течение первого этапа его работы информационные и справочные материалы в настоящее время адаптируются в виде публикаций по вопросам создания потенциала с целью обеспечения доступной и всеобъемлющей подборки публикаций, включая буклеты для широкой публики, информационные документы с более подробной информацией для политических деятелей и исследователей, и практические примеры.</tgt>
+</seg>
+<seg  match="1-1" id="114">
+  <src xml:lang="EN">These are being progressively completed and published in the course of 2004.</src>
+  <tgt xml:lang="RU">Работа над ними постепенно завершается и они будут опубликованы в течение 2004 г.</tgt>
+</seg>
+<seg  match="1-1" id="115">
+  <src xml:lang="EN">Outline of IGC materials</src>
+  <tgt xml:lang="RU">Обзор материалов МКГР</tgt>
+</seg>
+<seg  match="1-1" id="116">
+  <src xml:lang="EN">28 The Annex to this document contains an overview of current IGC materials, including various materials currently under development.</src>
+  <tgt xml:lang="RU">28. В Приложении к настоящему документу содержится обзор материалов для работы МКГР, включая различные материалы, находящиеся в стадии разработки.</tgt>
+</seg>
+<seg  match="1-1" id="117">
+  <src xml:lang="EN">This is not intended as a formal part of the report to the General Assembly, but is annexed merely to provide a supplementary guide to these various documents, publications and other materials for ease of reference.</src>
+  <tgt xml:lang="RU">Приложение не предназначено для представления в качестве официальной части отчета для Генеральной Ассамблеи, а служит только в качестве дополнительного руководства в отношении этих различных документов, публикаций и других материалов и для упрощения ссылки на них.</tgt>
+</seg>
+<seg  match="1-1" id="118">
+  <src xml:lang="EN">It illustrates the overall structure of the work of the IGC, and the linkages between each element of its work, as well as the relationship with various background and capacity-building materials.</src>
+  <tgt xml:lang="RU">В Приложении иллюстрируется общая структура работы МКГР и связи между каждым элементом его работы, а также взаимосвязь между различными справочными материалами и материалами по созданию потенциала.</tgt>
+</seg>
+<seg  match="1-1" id="119">
+  <src xml:lang="EN">29 The General Assembly is invited to take note of the contents of this report.</src>
+  <tgt xml:lang="RU">29. Генеральной Ассамблее предлагается принять</tgt>
+</seg>
+<seg  match="1-1" id="120">
+  <src xml:lang="EN">[Annex follows]</src>
+  <tgt xml:lang="RU">[Приложение следует ]</tgt>
+</seg>
+</segments>
+</bitext>
