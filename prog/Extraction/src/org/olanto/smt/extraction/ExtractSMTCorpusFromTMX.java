@@ -85,7 +85,7 @@ public class ExtractSMTCorpusFromTMX {
             pathOUT = root + "/SMT/" + SOTA;
             EXT = ".tmx";
             outSRC = new OutputStreamWriter(new FileOutputStream(pathOUT + "/corpus." + langSRC), "UTF-8");
-            outTAR = new OutputStreamWriter(new FileOutputStream(pathOUT + "/ corpus." + langTAR), "UTF-8");
+            outTAR = new OutputStreamWriter(new FileOutputStream(pathOUT + "/corpus." + langTAR), "UTF-8");
             tuningSRC = new OutputStreamWriter(new FileOutputStream(pathOUT + "/tuning." + langSRC), "UTF-8");
             tuningTAR = new OutputStreamWriter(new FileOutputStream(pathOUT + "/tuning." + langTAR), "UTF-8");
             evalSRC = new OutputStreamWriter(new FileOutputStream(pathOUT + "/eval." + langSRC), "UTF-8");
