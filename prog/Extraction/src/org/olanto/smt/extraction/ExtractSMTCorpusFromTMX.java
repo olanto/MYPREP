@@ -241,8 +241,8 @@ public class ExtractSMTCorpusFromTMX {
 
             if (ok) {
                 countOK++;
-                src.replace("|", "/");
-                tar.replace("|", "/");
+                src=src.replace("|", "//");
+                tar=tar.replace("|", "//");
                 boolean writeOK = true;
                 if (eval) {
                     eval = false;

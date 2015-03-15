@@ -29,7 +29,7 @@ import java.util.logging.Logger;
  *  remplacement d'une chaine dans tous les fichiers d'un folder
  *  
  */
-public class ReplaceStringInFolder {
+public class FindCharInCorpus {
 
     static String DOCEXT, root, targetRoot;
     static int countHtml = 0;
@@ -39,16 +39,14 @@ public class ReplaceStringInFolder {
     static final String newStr = "/";
 
     public static void main(String[] args) {
-        DOCEXT = ".so";
-        root = "C:/CORPUS/ENFR";
+        DOCEXT = ".txt";
+        root = "C:/CORPUS/ENFR/corpus.so";
         countHtml = 0;
         targetRoot = root;
-        System.out.println("start replacement for " + oldStr);
-        indexdir(root);
-        System.out.println("tot .java for " + oldStr + " :" + countHtml);
-        System.out.println("tot replace " + countReplace);
-        System.out.println("tot Lines  " + countLine);
-
+        file2String(root,"UTF-8");
+        System.out.println("countLine:"+countLine);
+        System.out.println("countReplace:"+countReplace);
+  
     }
 
     public static void indexdir(String path) {
@@ -72,8 +70,8 @@ public class ReplaceStringInFolder {
         //System.out.println("process:" + f);
         String newContent = file2String(f, "UTF-8");
         if (newContent != null) {
-            copy(newContent, f, "UTF-8");
-            countHtml++;
+            //copy(newContent, f, "UTF-8");
+            //countHtml++;
         }
         if (countHtml % 1000 == 0) {
             System.out.println(countHtml);
@@ -87,8 +85,10 @@ public class ReplaceStringInFolder {
             BufferedReader in = new BufferedReader(isr);
             String w = in.readLine();
                 while (w != null) {
-                    txt.append(w.replace(oldStr, newStr));
-                    txt.append("\n");
+                   if (w.contains("|")){
+                       System.out.println(w);
+                       countReplace++;
+                   }                  
                     countLine++;
                     w = in.readLine();
                 }
@@ -108,7 +108,7 @@ public class ReplaceStringInFolder {
             output.close();
             output = null;
         } catch (Exception ex) {
-            Logger.getLogger(ReplaceStringInFolder.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(FindCharInCorpus.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 }

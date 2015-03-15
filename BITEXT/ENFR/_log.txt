@@ -13,3 +13,5 @@
 10	C:/MYCAT/corpus/txt/EN/small-collection¦WIPO¦WO_GA¦wo_ga_31_4.doc.txt	#line:	27	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WIPO¦WO_GA¦wo_ga_31_4.doc.txt	#line:	28	One-one:	0	-	0	%
 10	C:/MYCAT/corpus/txt/EN/small-collection¦WTO¦Final_Act.doc.txt	#line:	214	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WTO¦Final_Act.doc.txt	#line:	15	One-one:	0	-	0	%
 10	C:/MYCAT/corpus/txt/EN/small-collection¦WTO¦WTO_Agreement.doc.txt	#line:	214	To:	C:/MYCAT/corpus/txt/FR/small-collection¦WTO¦WTO_Agreement.doc.txt	#line:	214	One-one:	0	-	0	%
+338	C:/MYCAT/corpus/txt/EN/_References_Miscellaneous_4205.14_wt-acc-spec-syc-6rev1.doc.txt	#line:	6764	To:	C:/MYCAT/corpus/txt/FR/_References_Miscellaneous_4205.14_wt-acc-spec-syc-6rev1.doc.txt	#line:	6765	One-one:	0	-	0	%
+193	C:/MYCAT/corpus/txt/EN/_References_Miscellaneous_4205.14_wt-acc-spec-syc-6rev1.txt.txt	#line:	3862	To:	C:/MYCAT/corpus/txt/FR/_References_Miscellaneous_4205.14_wt-acc-spec-syc-6rev1.txt.txt	#line:	3863	One-one:	0	-	0	%
