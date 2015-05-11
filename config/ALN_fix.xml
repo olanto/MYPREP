@@ -7,13 +7,16 @@
 <properties>   
 <!--
  Les param tres suivants sont les parametres fixes de la configuration
+  <entry key="LIST_OF_BITEXT_LANG">ENFR ENES ENAR ENRU ENZH ENDE</entry>
+ 
 -->    
   
      
   <entry key="FOLDER_SEGMENTED">C:/MYCAT/corpus/txt</entry>
   <entry key="FOLDER_TMX">C:/MYPREP/TMX</entry>
-  <entry key="LIST_OF_BITEXT_LANG">ENFR ENES ENAR</entry>
-  <entry key="IDX_DONTINDEXTHIS">C:/MYCAT/config/dontindexthiswords.txt</entry> 
+  <entry key="LIST_OF_BITEXT_LANG">ENFR ENES ENAR ENRU ENZH ENDE</entry>
+ <entry key="IDX_DONTINDEXTHIS">C:/MYCAT/config/dontindexthiswords.txt</entry> 
+  <entry key="MIN_DICT_LEVEL">0.0000001</entry> 
   
  
 </properties>

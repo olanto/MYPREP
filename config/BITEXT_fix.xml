@@ -12,9 +12,10 @@
      
   <entry key="FOLDER_SEGMENTED">C:/MYCAT/corpus/txt</entry>
   <entry key="FOLDER_BITEXT">C:/MYPREP/BITEXT</entry>
-  <entry key="LIST_OF_BITEXT_LANG">ENFR ENAR ENES ENRU ENZH</entry>
+  <entry key="LIST_OF_BITEXT_LANG">ENFR ENAR ENES ENRU ENZH ENDE</entry>
   <entry key="IDX_DONTINDEXTHIS">C:/MYCAT/config/dontindexthiswords.txt</entry> 
-  
+  <entry key="MIN_DICT_LEVEL">0.0000001</entry> 
+
  
 </properties>
 
