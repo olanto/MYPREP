@@ -1,22 +1,24 @@
-/**********
-Copyright © 2010-2012 Olanto Foundation Geneva
-
-This file is part of myMT.
-
-myCAT is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as
-published by the Free Software Foundation, either version 3 of
-the License, or (at your option) any later version.
-
-myCAT is distributed in the hope that it will be useful, but
-WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with myCAT.  If not, see <http://www.gnu.org/licenses/>.
-
- **********/
+/**
+ * ********
+ * Copyright © 2010-2012 Olanto Foundation Geneva
+ *
+ * This file is part of myMT.
+ *
+ * myCAT is free software: you can redistribute it and/or modify it under the
+ * terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, either version 3 of the License, or (at your option) any
+ * later version.
+ *
+ * myCAT is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with myCAT. If not, see <http://www.gnu.org/licenses/>.
+ *
+ *********
+ */
 package org.olanto.smt.extraction;
 
 import java.io.*;
@@ -29,8 +31,8 @@ import java.util.List;
 import java.util.Iterator;
 
 /**
-- version qui améliore la détection des phrases non-traduites
-- qui limite les phrases trop courtes
+ * - version qui améliore la détection des phrases non-traduites - qui limite
+ * les phrases trop courtes
  */
 public class ExtractSMTCorpusFromTMX {
 
@@ -40,6 +42,7 @@ public class ExtractSMTCorpusFromTMX {
     static int badFiles = 0;
     static int countOK = 0;
     static int totPhrase = 0;
+   static int totnotenoughspace = 0;
     static int totUpper = 0;
     static int totNoTrans = 0;
     static int totNoTransPatialMatch = 0;
@@ -75,6 +78,7 @@ public class ExtractSMTCorpusFromTMX {
             totNoTrans = 0;
             totNoTransPatialMatch = 0;
             totTooSmall = 0;
+            totnotenoughspace=0;
             totPointVirgule = 0;
             maxTuning = _maxTuning;
             maxEval = _maxEval;
@@ -98,6 +102,7 @@ public class ExtractSMTCorpusFromTMX {
             System.out.println("tot No Translation:" + totNoTrans);
             System.out.println("tot No Translation partial match:" + totNoTransPatialMatch);
             System.out.println("tot too small:" + totTooSmall);
+            System.out.println("tot not enough space:" + totnotenoughspace);
             System.out.println("tot contains ';' :" + totPointVirgule);
 
             outSRC.close();
@@ -200,6 +205,19 @@ public class ExtractSMTCorpusFromTMX {
         return val;
     }
 
+    private static boolean enoughSpace(String s) {
+        if (s.length() < 200) {
+            return true;
+        }
+        String[] part = s.split(" ");
+        int ratioSpace = s.length() / part.length;
+        if (ratioSpace > 50) {
+             System.out.println("not enough space in :"+s);
+           return false;
+        }
+        return true;
+    }
+
     static void getInfo(Element e) {
         try {
             boolean localverbose = false;
@@ -210,8 +228,14 @@ public class ExtractSMTCorpusFromTMX {
             String src = getSegText((Element) listNode.get(0), false);
             String tar = getSegText((Element) listNode.get(1), false);
             boolean ok = true;
-            if (src.toUpperCase().equals(src)
-               //     || ((tar.toUpperCase().equals(tar) & langTAR != "ar"))
+
+            if (!enoughSpace(src)||!enoughSpace(tar)
+                    ) {
+                ok = false;
+                totnotenoughspace++;
+            }
+
+            if (src.toUpperCase().equals(src) //     || ((tar.toUpperCase().equals(tar) & langTAR != "ar"))
                     ) {
                 ok = false;
                 totUpper++;
@@ -241,8 +265,8 @@ public class ExtractSMTCorpusFromTMX {
 
             if (ok) {
                 countOK++;
-                src=src.replace("|", "//");
-                tar=tar.replace("|", "//");
+                src = src.replace("|", "//");
+                tar = tar.replace("|", "//");
                 boolean writeOK = true;
                 if (eval) {
                     eval = false;
